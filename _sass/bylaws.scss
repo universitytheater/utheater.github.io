@@ -22,15 +22,15 @@
   }
 }
 
-.bylaws > ul {
-  list-style-type: upper-alpha !important;
+.bylaws > ul.bylaw-main-list {
+  list-style-type: upper-alpha;
   > li {
     &::marker {
-      font-size: 1.25rem;
+      font-size: 1.18rem;
     }
     > h3 {
       margin-top:0;
-      font-size: 1.25rem;
+      font-size: 1.18rem;
       font-style:normal;
       &:after {
         content: "";
@@ -63,7 +63,7 @@
 }
 @each $style_type in lower-alpha, lower-roman, upper-roman, circle {
   .ul-#{$style_type} {
-    list-style-type: $style_type;
+    list-style-type: $style_type !important;
   }
 }
 

@@ -17,6 +17,7 @@ Like any other UT Mainstage show, the costs associated with the production are c
 
 Herein, Off-Off Campus may be referred to as "Off-Off" or "OOC" for brevity's sake.
 
+  {:.bylaw-main-list}
   * ### Membership, Business Meetings, and Voting
     1. #### Membership
         *   ##### Membership Status

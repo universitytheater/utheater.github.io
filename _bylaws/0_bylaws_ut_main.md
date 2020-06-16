@@ -6,7 +6,7 @@ toc_label: "Table of Contents"
 toc_icon: "cog"
 permalink: /bylaws/ut-main
 date: 2020-06-11
-wrap_div: bylaws
+wrap_div: bylaws bylaws-ut-main
 ---
 
 ## University Theater's Mission Statement
@@ -15,9 +15,9 @@ University Theater provides students with the opportunity to have artistic contr
 
 UT has three main goals that guide its decision making.
 
-*    **Opportunity:** To provide opportunities for members of the University of Chicago community to present and to experience theater.
-*   **Education:** To improve the work we do and to learn from successes and mistakes. Peer mentorship and collaboration with TAPS as a co-curricular program are both means through which we strive to learn and teach. Students need not be a TAPS major to participate in UT, or vice versa.
-*   **Artistic Excellence:** To support the artistic achievements in student work.
+  * **Opportunity:** To provide opportunities for members of the University of Chicago community to present and to experience theater.
+  * **Education:** To improve the work we do and to learn from successes and mistakes. Peer mentorship and collaboration with TAPS as a co-curricular program are both means through which we strive to learn and teach. Students need not be a TAPS major to participate in UT, or vice versa.
+  * **Artistic Excellence:** To support the artistic achievements in student work.
 
 ### General Membership Guidelines
 
@@ -26,8 +26,9 @@ Though membership of UT consists almost entirely of students, the organization i
 Membership shall be open to all UChicago Students and must comply with the University of Chicago’s guidelines non-discrimination statement.
 
 To be eligible to be a voting member of UT (i.e., to vote on members of Committee) members must have either
-*    at least 1 credit in the past 4 quarters - credits include participation in any mainstage play or workshop, and a credit is counted if it is in process the quarter that a vote is taken (that is, a first-time member of any show is eligible to vote the quarter that they participate and all quarters following).
-*    Regularly attended one or more production cohorts for a full year
+
+  * at least 1 credit in the past 4 quarters - credits include participation in any mainstage play or workshop, and a credit is counted if it is in process the quarter that a vote is taken (that is, a first-time member of any show is eligible to vote the quarter that they participate and all quarters following).
+  * Regularly attended one or more production cohorts for a full year
 
 ### Hazing
 
@@ -39,6 +40,7 @@ University Theater is governed by the UT Student Committee and advised and suppo
 
 ## I. The University Theater Committee
 
+  {:.bylaw-main-list}
   * ### Duties and Responsibilities
       1. As the governing body of University Theater, the UT Committee represents the UT community’s interests to the UT/TAPS Professional Staff and to the University at large. The students on Committee maintain artistic control of University Theater, scheduling its productions and encouraging the creative development of the community.
       2. Individual Committee members should be committed to the overall improvement of the organization and its ability to provide opportunities to those who participate in theater at the University of Chicago. Although elected members often play important roles in other aspects of UT and its productions, they must remain committed first and foremost to fulfilling their duties as Committee members. These duties and responsibilities include but are not limited to:

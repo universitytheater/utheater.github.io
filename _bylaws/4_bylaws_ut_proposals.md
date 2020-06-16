@@ -10,6 +10,8 @@ wrap_div: bylaws-proposals bylaws
 ---
 
 ## V. The University Theater Proposal Process
+
+  {:.bylaw-main-list}
   * ### Mainstages, Second Stages, Studios and Collaborations
       1. #### Mainstages, Second Stages, and Studios
           * A proposer may email the Committee Chair to request a “preaison” from Committee. The preaison will meet with the proposer to discuss any questions the proposer might have about the proposal process.

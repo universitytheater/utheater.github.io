@@ -13,6 +13,7 @@ wrap_div: bylaws
 
 After a production is passed and scheduled by the University Theater Committee, it enters the Production Process. The following elements are not to be taken as the only necessary steps for producing with University Theater.
 
+  {:.bylaw-main-list}
   * ### Pre-Production Quarter
 
     {:.ul-lower-alpha}

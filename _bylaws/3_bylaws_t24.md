@@ -10,6 +10,8 @@ wrap_div: t24-bylaws bylaws
 ---
 
 ## IV. Theater [24]
+
+  {:.bylaw-main-list}
   * ### Purpose
 
       Since at least 2009, Theater[24] is a quarterly theater festival of new work that is written, directed, rehearsed, and designed by University of Chicago students within 24 hours. It traditionally occurs on the first week of each quarter, although it can occasionally be postponed to second week due to religious holidays or other conflicting events. Theater[24] is a zany and hectic experience for anyone who wants to get involved with theater at the University of Chicago, but doesn’t want to commit more than 24 hours to it!

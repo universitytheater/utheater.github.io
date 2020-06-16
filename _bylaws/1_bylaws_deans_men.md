@@ -11,6 +11,7 @@ wrap_div: bylaws-deans-men bylaws
 
 ## II. The Dean's Men
 
+  {:.bylaw-main-list}
   * ### Purpose
 
       Founded in 2006, The Dean's Men is a student organization at the University of Chicago dedicated to the works of William Shakespeare. Through University Theater productions and other activities, we strive to bring the Bard's writing to the school and create a community of theater makers in the process. We are dedicated to this community, which prospers through social events as well as the rehearsal process. We believe in the importance of its warm, joyous existence. As we continue to cultivate and strengthen our art, so we continue to cultivate and strengthen our community. Once a Dean's Man, always a Dean's Man.
