@@ -31,7 +31,6 @@ theme: minima
 plugins:
   - jekyll-feed
 
-collections_dir: collections
 collections:
   bylaws:
     order:
