@@ -1,0 +1,20 @@
+---
+layout: toc
+title: University Theater Bylaws NEW
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "cog"
+permalink: /bylaws/new
+modified_date: 6/11/2020
+---
+
+
+{% for bylaw in site.bylaws %}
+  {% if bylaw.wrap_div %}
+    <div id="{{ bylaw.wrap_div }}">
+  {% endif %}
+  {{ bylaw.content | markdownify }}
+  {% if bylaw.wrap_div %}
+    </div>
+  {% endif %}
+{% endfor %}

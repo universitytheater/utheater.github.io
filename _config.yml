@@ -31,6 +31,17 @@ theme: minima
 plugins:
   - jekyll-feed
 
+collections_dir: _collections
+collections:
+  bylaws:
+    order:
+      - bylaws_ut_main.md
+      - bylaws_deans_men.md
+      - bylaws_off_off.md
+      - bylaws_t24.md
+      - bylaws_ut_proposals.md
+      - bylaws_ut_process.md
+    output: true
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
