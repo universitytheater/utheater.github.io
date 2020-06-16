@@ -1,20 +1,53 @@
 ---
 layout: toc
-title: University Theater Bylaws NEW
+title: University Theater By-Laws
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
 permalink: /bylaws/new
-modified_date: 6/11/2020
 ---
 
-
+{% assign last_modified_raw = 0 %}
 {% for bylaw in site.bylaws %}
+  {% assign tmp = bylaw.date | date: "%s" | plus: 0 %}
+  {% if tmp > last_modified_raw %}
+    {% assign last_modified_raw = tmp %}
+  {% endif %}
   {% if bylaw.wrap_div %}
-    <div id="{{ bylaw.wrap_div }}">
+    <div class="{{ bylaw.wrap_div }}">
   {% endif %}
   {{ bylaw.content | markdownify }}
   {% if bylaw.wrap_div %}
     </div>
   {% endif %}
 {% endfor %}
+
+{% comment %} Date ordinalizing stolen from https://stackoverflow.com/questions/18892909/ordinalize-date-formatting-in-liquid-jekyll-e-g-1st-3rd-and-4th {% endcomment %}
+{% assign last_modified = last_modified_raw | date: "%s" %}
+{% capture day_num %}
+  {% assign d = last_modified | date: "%-d" %}
+  {% case d %}
+    {% when "1" or "21" or "31" %}{{ d }}st
+    {% when "2" or "22" %}{{ d }}nd
+    {% when "3" or "23" %}{{ d }}rd
+  {% else %}{{ d }}th
+  {% endcase %}
+{% endcapture %}
+
+<p>This document was last edited on the {{ day_num }} of {{ last_modified | date: "-%d" | date: "%B, %Y"}}.</p>
+
+{% comment %}
+================ WARNING ================
+This is a gross hack to pass the last modified date up to the layout. We
+want it to be possible to automatically calculate the last modified date
+of all the bylaws by calculating the last modified dates of all the sections.
+To do that we need to calculate it here and pass it up to the layout. Sadly,
+it is impossible to pass variables up in scope in liquid (the jekyll markup
+language). So, we resort to the awful hack. It... shouldn't break. But if it
+does, please just delete the code below and use `date_modified` in the
+frontmatter of this page. I'm sorry you had to read this.
+================ WARNING ================
+{% endcomment %}
+{% if page.layout == "toc" %}
+VPASSUP_LAST_MODIFIED_{{ last_modified }}
+{% endif %}

@@ -1,0 +1,156 @@
+ol > li > ul {
+  list-style-type: lower-alpha !important;
+}
+ol > li > ul > li > h3 + p + ul,
+ol > li > ul > li > h4 + p + ul {
+  list-style-type: lower-roman !important;
+}
+li > h3, li > h4, li > h5, li > h6 {
+  font-size:initial !important;
+  font-style:italic;
+  margin:0 !important; /* Note: "none" in proposal / process / deans men / off off, not set in t24 */
+  margin-top:15px !important;
+  display:inline-block; /* Note: "inline" in proposal / deans men / off off / t24 / process */
+  + p {
+    display:inline;
+    + p {
+      margin-top: 15px;
+    }
+  }
+  &:after {
+    content: ".";
+  }
+}
+// li > h3 + p, li > h4 + p, li > h5 + p, li > h6 + p {
+//   display:inline;
+// }
+// li > h3 + p + p, li > h4 + p + p, li > h5 + p + p, li > h6 + p + p {
+//   margin-top: 15px;
+// }
+// li > h3:after, li > h4:after, li > h5:after, li > h6:after {
+//   content: ".";
+// }
+
+.default-upper-ul > ul {
+  list-style-type: upper-alpha !important;
+  > li {
+    > h3 {
+      font-style:normal;
+      &:after {
+        content: "";
+      }
+    }
+  }
+}
+.fake-letter-i {
+  // display:none;
+  visibility: hidden;
+  position:absolute;
+}
+.bylaws-off-off > ul > li {
+  > ol > li > ul > li > ul {
+    list-style-type: lower-roman !important;
+    > li > ul {
+      list-style-type: upper-alpha !important;
+      > li > ul {
+        list-style-type: lower-roman !important;
+      }
+    }
+  }
+  > h3 + p {
+    display:block;
+  }
+}
+// .bylaws-off-off > ul > li > ol > li > ul > li > ul {
+//   list-style-type: lower-roman !important;
+// }
+// .bylaws-off-off > ul > li > ol > li > ul > li > ul > li > ul {
+//   list-style-type: upper-alpha !important;
+// }
+// .bylaws-off-off > ul > li > ol > li > ul > li > ul > li > ul > li > ul {
+//   list-style-type: lower-roman !important;
+// }
+// .bylaws-off-off > ul > li > h3 + p {
+//   display:block;
+// }
+.no-dot-list-header > h4:after {
+  content: "";
+}
+.ul-lower-alpha {
+  list-style-type: lower-alpha !important;
+}
+.ul-lower-roman {
+  list-style-type: lower-roman !important;
+}
+.ul-upper-roman {
+  list-style-type: upper-roman !important;
+}
+.ul-circle {
+  list-style-type: circle !important;
+}
+.t24-bylaws > ul > li {
+  > ul {
+    list-style-type: upper-roman;
+    > li > ul {
+      list-style-type: lower-alpha;
+    }
+  }
+  > h3 {
+    font-style:normal;
+    display:block;
+    &:after {
+      content: "";
+    }
+  }
+}
+
+// .t24-bylaws > ul > li > ul {
+//   list-style-type: upper-roman;
+// }
+// .t24-bylaws > ul > li > ul > li > ul {
+//   list-style-type: lower-alpha;
+// }
+// .t24-bylaws > ul > li > h3:after {
+//   content:"";
+// }
+// .t24-bylaws > ul > li > h3 {
+//   font-style:normal;
+// }
+.clean-header > h3:after {
+  content: "";
+}
+.clean-header > h3 {
+  font-style:normal;
+}
+
+.bylaws-deans-men > ul > li {
+  h3 {
+    font-style:normal;
+    display:block;
+    &:after {
+      content: "";
+    }
+  }
+}
+
+
+
+
+.toc.page-content {
+  display: grid;
+  grid-template-columns: 75% 25%;
+  margin-left:1em;
+  margin-right:1em;
+  overflow:visible;
+}
+.toc-right-sidebar {
+  position:sticky;
+  top:0;
+  height:100vh;
+  overflow-y:scroll;
+}
+.toc.post-header {
+  padding:1em;
+  margin-bottom:0;
+  padding-bottom:0;
+}

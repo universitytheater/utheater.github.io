@@ -5,67 +5,9 @@ toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
 permalink: /bylaws/off-off-campus
-modified_date: 6/11/2020
-wrap_div: bylaws-off-off
+date: 2020-06-11
+wrap_div: bylaws-off-off default-upper-ul
 ---
-
-<style>
-ol > li > ul {
-  list-style-type: lower-alpha !important;
-}
-#removal-of-committee-members + p + ul {
-  list-style-type: circle !important;
-}
-#position-descriptions + ul {
-  list-style-type: lower-roman !important;
-}
-ol > li > ul > li > h3 + p + ul,
-ol > li > ul > li > h4 + p + ul {
-  list-style-type: lower-roman !important;
-}
-li > h3, li > h4, li > h5, li > h6 {
-  font-size:initial !important;
-  font-style:italic;
-  margin:none !important;
-  margin-top:15px !important;
-  display:inline;
-}
-li > h3 + p, li > h4 + p, li > h5 + p, li > h6 + p {
-  display:inline;
-}
-li > h3 + p + p, li > h4 + p + p, li > h5 + p + p, li > h6 + p + p {
-  margin-top: 15px;
-}
-li > h3:after, li > h4:after, li > h5:after, li > h6:after {
-  content: ".";
-}
-#deans-men-start {
-  display:none;
-}
-#deans-men-start ~ ul {
-  list-style-type: upper-alpha !important;
-}
-#deans-men-start ~ ul > .fake-letter-i {
-  display:none;
-}
-#bylaws-off-off > ul > li > ol > li > ul > li > ul {
-  list-style-type: lower-roman !important;
-}
-#bylaws-off-off > ul > li > ol > li > ul > li > ul > li > ul {
-  list-style-type: upper-alpha !important;
-}
-#bylaws-off-off > ul > li > ol > li > ul > li > ul > li > ul > li > ul {
-  list-style-type: lower-roman !important;
-}
-#bylaws-off-off > ul > li > h3 + p {
-  display:block;
-}
-.no-dot-list-header > h4:after {
-  content: "";
-}
-</style>
-
-<p id="deans-men-start"></p>
 
 ## III. Off-Off Campus
 

@@ -5,75 +5,15 @@ toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
 permalink: /bylaws/ut-process
-modified_date: 6/11/2020
+date: 2020-06-11
+wrap_div: default-upper-ul
 ---
-
-<style>
-ol > li > ul {
-  list-style-type: lower-alpha !important;
-}
-#removal-of-committee-members + p + ul {
-  list-style-type: circle !important;
-}
-#position-descriptions + ul {
-  list-style-type: lower-roman !important;
-}
-ol > li > ul > li > h3 + p + ul,
-ol > li > ul > li > h4 + p + ul {
-  list-style-type: lower-roman !important;
-}
-li > h3, li > h4, li > h5, li > h6 {
-  font-size:initial !important;
-  font-style:italic;
-  margin:none !important;
-  margin-top:15px !important;
-  display:inline;
-}
-li > h3 + p, li > h4 + p, li > h5 + p, li > h6 + p {
-  display:inline;
-}
-li > h3 + p + p, li > h4 + p + p, li > h5 + p + p, li > h6 + p + p {
-  margin-top: 15px;
-}
-li > h3:after, li > h4:after, li > h5:after, li > h6:after {
-  content: ".";
-}
-#deans-men-start {
-  display:none;
-}
-#deans-men-start ~ ul {
-  list-style-type: upper-alpha !important;
-}
-#deans-men-start ~ ul > .fake-letter-i {
-  display:none;
-}
-.no-dot-list-header > h4:after {
-  content: "";
-}
-.ul-lower-alpha {
-  list-style-type: lower-alpha !important;
-}
-.ul-lower-roman {
-  list-style-type: lower-roman !important;
-}
-.ul-upper-roman {
-  list-style-type: upper-roman !important;
-}
-.clean-header > h3:after {
-  content: "";
-}
-.clean-header > h3 {
-  font-style:normal;
-}
-</style>
-
-<p id="deans-men-start"></p>
 
 ## VI. The University Theater Production Process
 
 After a production is passed and scheduled by the University Theater Committee, it enters the Production Process. The following elements are not to be taken as the only necessary steps for producing with University Theater.
 
-  * {:.clean-header} ### Pre-Production Quarter
+  * ### Pre-Production Quarter
 
     {:.ul-lower-alpha}
       * Once the University Theater season is released, committee and the production teams will coordinate to ensure that only one lead design/management position is held by any given individual.
@@ -88,7 +28,7 @@ After a production is passed and scheduled by the University Theater Committee, 
       * All auditions will be scheduled at the same time in order to preserve the arbitration process.
 
 
-  * {:.clean-header} ### Production Quarter
+  * ### Production Quarter
 
     {:.ul-lower-alpha}
       * No Actor will be cast in multiple UT productions in any given season.
@@ -104,3 +44,14 @@ After a production is passed and scheduled by the University Theater Committee, 
           * Communicating and advocating on behalf of the cast and staff to the stage manager, production manager, and/or the Committee Liaison when their attention is brought to a conflict or concern that cannot be mediated between the complainants themselves. Unless anonymity is explicitly waived, the identities of the complainants must be anonymous.
           * Meeting with the Committee Liaison at least once every two weeks to facilitate communication and bring up any concerns to the Committee Liaison.
           * For the staff NED, making every human attempt to attend all scheduled production meetings.
+
+  * ### Removal of an individual from a production by committee
+
+    {:.ul-lower-alpha}
+      * As the governing body of UT, committee is responsible for ensuring that the standards set in this document are met by all community members. As such, committee reserves the right to remove individuals from productions via a two-thirds majority vote.
+      * Committee should make every effort to ascertain the details of the situation before calling a vote for removal in this way.
+
+  * ### Post-mort
+
+    {:.ul-lower-alpha}
+      * After a production has closed, the committee chair will arrange for both an in-person post-mort where the process can be discussed and an anonymous online form for the same. If the committee chair was a part of the production, the treasurer will run the post-mort. If both the chair and the treasurer were part of the production, then the secretary will run the post-mort. If all three aforementioned Executive Board members were part of the production, the social chair will run the post-mort. If all of the Executive Board was a part of the production, the committee liaison will run the post mort.

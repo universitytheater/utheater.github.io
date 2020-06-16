@@ -5,81 +5,13 @@ toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
 permalink: /bylaws/t24
-modified_date: 6/11/2020
-wrap_div: t24-bylaws
+date: 2020-06-11
+wrap_div: t24-bylaws default-upper-ul
 ---
-
-<style>
-ol > li > ul {
-  list-style-type: lower-alpha !important;
-}
-#removal-of-committee-members + p + ul {
-  list-style-type: circle !important;
-}
-#position-descriptions + ul {
-  list-style-type: lower-roman !important;
-}
-ol > li > ul > li > h3 + p + ul,
-ol > li > ul > li > h4 + p + ul {
-  list-style-type: lower-roman !important;
-}
-li > h3, li > h4, li > h5, li > h6 {
-  font-size:initial !important;
-  font-style:italic;
-  margin-top:15px !important;
-  display:inline;
-}
-li > h3 + p, li > h4 + p, li > h5 + p, li > h6 + p {
-  display:inline;
-}
-li > h3 + p + p, li > h4 + p + p, li > h5 + p + p, li > h6 + p + p {
-  margin-top: 15px;
-}
-li > h3:after, li > h4:after, li > h5:after, li > h6:after {
-  content: ".";
-}
-#deans-men-start {
-  display:none;
-}
-#deans-men-start ~ ul {
-  list-style-type: upper-alpha !important;
-}
-#deans-men-start ~ ul > .fake-letter-i {
-  display:none;
-}
-.no-dot-list-header > h4:after {
-  content: "";
-}
-#t24-bylaws > ul > li > ul {
-  list-style-type: upper-roman;
-}
-.ul-lower-alpha {
-  list-style-type: lower-alpha !important;
-}
-.ul-lower-roman {
-  list-style-type: lower-roman !important;
-}
-#t24-bylaws > ul > li > ul > li > ul {
-  list-style-type: lower-alpha;
-}
-#t24-bylaws > ul > li > h3 {
-  font-style:normal;
-}
-#t24-bylaws > ul > li > h3:after {
-  content:"";
-}
-#t24-bylaws > ul > li > h3 {
-  font-style:normal;
-}
-#t24-bylaws > ul > li > h3:after {
-  content: "";
-}
-</style>
-
-<p id="deans-men-start"></p>
 
 ## IV. Theater [24]
   * ### Purpose
+
       Since at least 2009, Theater[24] is a quarterly theater festival of new work that is written, directed, rehearsed, and designed by University of Chicago students within 24 hours. It traditionally occurs on the first week of each quarter, although it can occasionally be postponed to second week due to religious holidays or other conflicting events. Theater[24] is a zany and hectic experience for anyone who wants to get involved with theater at the University of Chicago, but doesn’t want to commit more than 24 hours to it!
   * ### Production Process / What Theater[24] Curators Do
       * 9<sup>th</sup>-10<sup>th</sup> week of the quarter before: Curators meet to decide the theme of this quarter’s Theater[24]. The theme serves as a prompt for the writers and as a way to connect all the plays together into a cohesive one-night festival. Curators then create a sign-up form for the festival. The sign-up form should ask for:
@@ -166,5 +98,5 @@ li > h3:after, li > h4:after, li > h5:after, li > h6:after {
   * ### Amendments
 
     {:.ul-lower-alpha}
-      * Theater[24] curators of any of the previous three quarters of the festival may suggest amendments to these Bylaws, to be voted on by University Theater Committee and byother Theater[24] curators of any of the previous three quarters of the festival.
+      * Theater[24] curators of any of the previous three quarters of the festival may suggest amendments to these Bylaws, to be voted on by University Theater Committee and by other Theater[24] curators of any of the previous three quarters of the festival.
       * University Theater Committee may also suggest amendments to these Bylaws, to be voted on by University Theater Committee and by other Theater[24] curators of any of the previous three quarters of the festival.

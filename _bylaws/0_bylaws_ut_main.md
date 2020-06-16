@@ -5,49 +5,8 @@ toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
 permalink: /bylaws/ut-main
-modified_date: 6/11/2020
+date: 2020-06-11
 ---
-
-<style>
-ol > li > ul {
-  list-style-type: lower-alpha !important;
-}
-#removal-of-committee-members + p + ul {
-  list-style-type: circle !important;
-}
-#position-descriptions + ul {
-  list-style-type: lower-roman !important;
-}
-ol > li > ul > li > h3 + p + ul,
-ol > li > ul > li > h4 + p + ul {
-  list-style-type: lower-roman !important;
-}
-li > h3, li > h4, li > h5, li > h6 {
-  font-size:initial !important;
-  font-style:italic;
-  margin:0 !important;
-  margin-top:15px !important;
-  display:inline-block;
-}
-li > h3 + p, li > h4 + p, li > h5 + p, li > h6 + p {
-  display:inline;
-}
-li > h3 + p + p, li > h4 + p + p, li > h5 + p + p, li > h6 + p + p {
-  margin-top: 15px;
-}
-li > h3:after, li > h4:after, li > h5:after, li > h6:after {
-  content: ".";
-}
-#deans-men-start {
-  display:none;
-}
-#deans-men-start ~ ul {
-  list-style-type: upper-alpha !important
-}
-#deans-men-start ~ ul > .fake-letter-i {
-  display:none;
-}
-</style>
 
 ## University Theater's Mission Statement
 
@@ -96,7 +55,8 @@ University Theater is governed by the UT Student Committee and advised and suppo
       * Training and orienting their replacements at the end of their tenure;
       * In a neutral, positive manner and setting, promoting Committee elections and encouraging students to run and vote;
       * Make every human effort to see all UT productions, including at least one Off Off show per quarter and one Theater [24] festival per year;
-      * Distributing the “University Theater Harassment, Discrimination, and Sexual Misconduct Resource Sheet” and “Recommended Process for Complaint Escalation” to productions.p. Attending annual Title IX training in the Spring to be led by the Phoenix Survivors Alliance (PSA). The Chair will reach out to the Co-Presidents of PSA in order to arrange a time, place, and workshop leader (See Section I.B.4.a.i).
+      * Distributing the “University Theater Harassment, Discrimination, and Sexual Misconduct Resource Sheet” and “Recommended Process for Complaint Escalation” to productions.
+      * Attending annual Title IX training in the Spring to be led by the Phoenix Survivors Alliance (PSA). The Chair will reach out to the Co-Presidents of PSA in order to arrange a time, place, and workshop leader (See Section I.B.4.a.i).
 
   3. The Committee Liaison is responsible for ensuring the safety of all members in a production and acts as a communication point between a production and Committee during the show’s production process and performances. A Committee Liaison can only be responsible for one production per quarter. The responsibilities of a Committee Liaison include the following:
       * Reaching out to and meeting with the production’s director, stage manager, and production manager before the first rehearsal to establish expectations around how the Committee Liaison will interact with the production process.
@@ -111,21 +71,24 @@ University Theater is governed by the UT Student Committee and advised and suppo
 
 ### B. Membership, Meetings and Voting
 
-1.  #### Composition
+1. #### Composition
     UT Committee consists of student voting members and non-voting UT/TAPS Professional Staff. The student members are elected annually from the UT community, and consist of:
-      *       10 general members
-      *       1 Dean's Men representative, nominated by the Dean's Men
-      *       1 Off-Off Campus representative, nominated by Off-Off
-      *       1 representative from Student Administrative Staff
-      *       1 representative from Student Technical Staff
+      * 10 general members
+      * 1 Dean's Men representative, nominated by the Dean's Men
+      * 1 Off-Off Campus representative, nominated by Off-Off
+      * 1 representative from Student Administrative Staff
+      * 1 representative from Student Technical Staff
 
 2.  #### Elections
     Students on the Committee serve one-year terms. Elections for general members are held Seventh Week of Winter Quarter. Elections for representatives from the Dean’s Men, Off-Off, Student Staff, and Tech Staff are held according to the schedules determined in the bylaws of those organizations. Vacancies at other times will be filled by Special Elections. At least two weeks in advance of the election, a notice shall be posted to the UT general list-host (utheater-general@lists.uchicago.edu).
       * ##### Eligibility
-      To run for Committee, a candidate must be either:
-        * a registered student with TWO (2) University Theater cast or production staff credits within the FOUR (4) quarters prior to the election, including the quarter of the election and excluding any quarters spent studying abroad; or,
-        * a member of Off-Off Campus in their second quarter of training.
-        * a curator of Theater [24] for three (3) quarters within the last five (5) quarters prior to the election, including the quarter of the election and excluding quarters spent abroad.
+
+        To run for Committee, a candidate must be either:
+
+          {:.ul-lower-roman}
+          * a registered student with TWO (2) University Theater cast or production staff credits within the FOUR (4) quarters prior to the election, including the quarter of the election and excluding any quarters spent studying abroad; or,
+          * a member of Off-Off Campus in their second quarter of training.
+          * a curator of Theater [24] for three (3) quarters within the last five (5) quarters prior to the election, including the quarter of the election and excluding quarters spent abroad.
 
         Candidates must also be prepared to be available for the 5pm Monday meeting time for the entirety of their potential term. Collaboration credits do not count as University Theater credits.
 
@@ -140,6 +103,8 @@ University Theater is governed by the UT Student Committee and advised and suppo
         Should the number of elected, non-staff student Committee members (including general members, Off-Off rep, and Dean’s Men rep) drop below ten (10) at any point, special elections will be held at the next possible committee meeting. An email will be sent out within twenty-four (24) hours of the resignation or removal of the previous committee member asking for statements, as per the general election requirements. These statements must be received before the meeting in which the election will take place. Sitting members of the committee then vote to fill the seats up for election from amongst the candidates. Eligibility for special elections is the same as for general elections, and the number of seats up for elections will be limited to those vacant (i.e., until the number of non-staff student Committee members is restored to ten).
 3.  #### Removal of Committee Members
     The Committee may remove a member by a two-thirds majority in the following instances:
+
+      {:.ul-circle}
       *   The Committee member in question submits a letter of resignation to the Chair of the Committee.
       *   The Committee member in question ceases to be a registered student at the University of Chicago.
       *   The Committee member does not meet the standards outlined in I.A.2. or has proved ineffective in their other duties, especially as a Committee Liaison to a UT production.
@@ -149,8 +114,12 @@ University Theater is governed by the UT Student Committee and advised and suppo
 
 4.  #### Committee Officers
     * ##### Position Descriptions
+
+      {:.ul-lower-roman}
       * ###### Chair
         Sets weekly meeting agenda. Runs all Committee meetings. Serves as a voting member of the University of Chicago Program Coordinating Council (PCC) and as a liaison with the Center for Leadership and Involvement (CLI). Sits on the Logan Center Student Advisory Committee and the Performing Arts Roundtable. Coordinates annual Title IX trainings with PSA (See Section I.A.2.q).
+      * ###### Treasurer
+        Serves as University Theater's non-voting member of the Program Coordinating Council (PCC) and attends the annual PCC budget negotiations. Works with University Theater's Managing Director to prepare and present UT's budget for the PCC budget negotiation meeting. Meets quarterly with the Managing Director to “wrap” each season.
       * ###### Secretary
         Takes minutes at all Committee meetings, sends the draft to the Committee for approval within 24 hours, and sends the approved minutes to the general listhost after an additional 24 hours. (For most information on the protocol for the minutes, see Section I.B.5.b.) Also records any changes to the by-laws after each Committee meeting, keeping a regularly updated copy and noting the changes in the public Committee minutes. After the final committee meeting of each quarter, emails the most recent edition of the bylaws to the UT general listhost. Actively maintains the “University Theater Harassment, Discrimination, and Sexual Misconduct Resource Sheet,” updating information, noting changes in public Committee minutes, and posting the most current version of these documents in the UT Lounge.
       * ###### Social Chair
@@ -184,6 +153,8 @@ University Theater is governed by the UT Student Committee and advised and suppo
       All Mainstage productions (8th and 10th week productions) have a budget between $2000 and $3000. All Second Stage productions (6th week productions)have a budget between $500 and $1500. All Dean’s Men productions have a budget between $1000 and $2000. Weekends of Workshops, site specific proposals, and Studio productions have a budget between $0 and $250. The budget of individual productions within these ranges will be determined following the process outlined in VI.A. The only budget that may be extended beyond this is that of the Spring quarter 10th week mainstage, and only under the circumstances described in VI.A.1.D.I and by the processes described in IV.A.c.ii.
   4.  #### Amending the By-Laws
       These by-laws can be amended by a two-thirds vote of the entire Committee. After each meeting, any amendments to the by-laws must be made in the Secretary’s running copy of the by-laws and noted by the Secretary in the public committee meeting minutes. After the final (10th Week) meeting of each quarter, the Secretary emails the most recent edition of the bylaws to the UT general listhost if there have been changes that quarter.
+
+        {:.ul-upper-roman}
         * Any proposal deliberated on by committee must be decided and enacted under the bylaws that existed when it was proposed. Once a decision has been reached, committee will not hold another vote on the matter unless new information arises. A change of the bylaws is not considered new information for the purposes of reconsidering a decided matter. This item of the by-laws may only be changed by a unanimous vote of committee.
         * Any amendments to the by-laws must be proposed and added to the committee agenda at least twenty-four hours in advance of any meeting in which they can be passed.
         * Any amendments to the by-laws which are not deemed urgently necessary by the Chair must be shared with the community for feedback at least 48 hours before the amendment can be voted on. The author(s) shall not be identified when the by-law is shared unless they request to be identified. Amendments can subsequently be modified and voted on based on the feedback received without being shared again.

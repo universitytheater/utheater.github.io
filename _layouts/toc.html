@@ -7,28 +7,25 @@
 
     {%- include header.html -%}
 
-    <style>
-      .page-content {
-        display: grid;
-        grid-template-columns: 75% 25%;
-        margin-left:1em;
-        margin-right:1em;
-        overflow:visible;
-      }
-      .right-sidebar {
-        position:sticky;
-        top:0;
-        height:100vh;
-        overflow-y:scroll;
-      }
-      .post-header {
-        padding:1em;
-        margin-bottom:0;
-        padding-bottom:0;
-      }
-    </style>
 
-    <header class="post-header">
+    {% comment %}
+      ================ WARNING ================
+          See bylaws_new.md for context
+This is a gross hack to pass the last modified date up to the layout. We
+want it to be possible to automatically calculate the last modified date
+of all the bylaws by calculating the last modified dates of all the sections.
+To do that we need to calculate it here and pass it up to the layout. Sadly,
+it is impossible to pass variables up in scope in liquid (the jekyll markup
+language). So, we resort to the awful hack. It... shouldn't break. But if it
+does, please just delete the code below and use `date_modified` in the
+frontmatter of this page. I'm sorry you had to read this.
+      ================ WARNING ================
+    {% endcomment %}
+    {%- assign splitted = content | split: "VPASSUP_LAST_MODIFIED_" -%}
+    {%- assign raw_mtime = splitted.last -%}
+    {%- assign raw_content = splitted.first -%}
+
+    <header class="post-header toc">
       <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
       <p class="post-meta">
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
@@ -38,12 +35,16 @@
         </time>
         {%- endif -%}
 
-        {%- if page.modified_date -%}
+        {%- if page.modified_date or valid_mtime -%}
           {%- if page.date -%}
           /&nbsp;
           {%- endif -%}
           Last Updated
-          {%- assign mdate = page.modified_date | date_to_xmlschema -%}
+          {%- if splitted.size > 1 -%}
+            {%- assign mdate = raw_mtime | plus: 0 | date: "%F" | date_to_xmlschema -%}
+          {%- else -%}
+            {%- assign mdate = page.modified_date | date_to_xmlschema -%}
+          {%- endif -%}
           <time class="dt-modified" datetime="{{ mdate }}" itemprop="dateModified">
             {{ mdate | date: date_format }}
           </time>
@@ -56,12 +57,16 @@
           {% endfor %}
         {%- endif -%}</p>
     </header>
-    <main class="page-content" aria-label="Content">
+    <main class="toc page-content" aria-label="Content">
       <div class="content">
-        {{ content }}
+        {%- if raw_content -%}
+          {{ raw_content }}
+        {%- else -%}
+          {{ content }}
+        {%- endif -%}
       </div>
       <div>
-        <aside class="right-sidebar">
+        <aside class="toc-right-sidebar">
           <nav class="toc">
             <header><h4 class="nav__title"><i class="fas fa-{{ page.toc_icon | default: 'file-alt' }}"></i> {{ page.toc_label | default: site.data.ui-text[site.locale].toc_label | default: "On this page" }}</h4></header>
             {% include toc.html sanitize=true html=content h_min=1 h_max=6 class="toc__menu" %}

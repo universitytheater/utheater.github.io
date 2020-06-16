@@ -5,73 +5,12 @@ toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
 permalink: /bylaws/ut-proposals
-modified_date: 6/11/2020
-wrap_div: bylaws-proposals
+date: 2020-06-11
+wrap_div: bylaws-proposals default-upper-ul
 ---
 
-<style>
-ol > li > ul {
-  list-style-type: lower-alpha !important;
-}
-#removal-of-committee-members + p + ul {
-  list-style-type: circle !important;
-}
-#position-descriptions + ul {
-  list-style-type: lower-roman !important;
-}
-ol > li > ul > li > h3 + p + ul,
-ol > li > ul > li > h4 + p + ul {
-  list-style-type: lower-roman !important;
-}
-li > h3, li > h4, li > h5, li > h6 {
-  font-size:initial !important;
-  font-style:italic;
-  margin:none !important;
-  margin-top:15px !important;
-  display:inline;
-}
-li > h3 + p, li > h4 + p, li > h5 + p, li > h6 + p {
-  display:inline;
-}
-li > h3 + p + p, li > h4 + p + p, li > h5 + p + p, li > h6 + p + p {
-  margin-top: 15px;
-}
-li > h3:after, li > h4:after, li > h5:after, li > h6:after {
-  content: ".";
-}
-#deans-men-start {
-  display:none;
-}
-#deans-men-start ~ ul {
-  list-style-type: upper-alpha !important;
-}
-#deans-men-start ~ ul > .fake-letter-i {
-  display:none;
-}
-.no-dot-list-header > h4:after {
-  content: "";
-}
-.ul-lower-alpha {
-  list-style-type: lower-alpha !important;
-}
-.ul-lower-roman {
-  list-style-type: lower-roman !important;
-}
-.ul-upper-roman {
-  list-style-type: upper-roman !important;
-}
-.clean-header > h3:after {
-  content: "";
-}
-.clean-header > h3 {
-  font-style:normal;
-}
-</style>
-
-<p id="deans-men-start"></p>
-
 ## V. The University Theater Proposal Process
-  * {:.clean-header} ### Mainstages, Second Stages, Studios and Collaborations
+  * ### Mainstages, Second Stages, Studios and Collaborations
       1. #### Mainstages, Second Stages, and Studios
           * A proposer may email the Committee Chair to request a “preaison” from Committee. The preaison will meet with the proposer to discuss any questions the proposer might have about the proposal process.
           * Proposers meet with the Director of UT/TAPS and the TAPS Design Team to discuss their proposals. These individuals may recommend meeting with other members of the TAPS professional staff. Proposers meet with the Managing Director to discuss rights, if applicable.
@@ -149,7 +88,7 @@ li > h3:after, li > h4:after, li > h5:after, li > h6:after {
           *   #### Post-Meeting Process: Collaborations
               Once scheduled, Collaborators meet with the Managing Director of UT/TAPS to look at venue choice and run capacity, calculate potential ticket sales, and calculate a budget. In the event that a Collaborator wishes to do a free event, the RSO must have money from their own account to cover any production expenses. After this budgeting process, the rest of the production timeline is the same as for Mainstages: the staff of each Collaboration is encouraged to meet with UT/TAPSPro-staff to continue to develop design plans, as well as to attend their respective cohorts.
 
-  * {:.clean-header} ### Workshops
+  * ### Workshops
     1. #### Proposal Process
         * Proposers are encouraged to meet with the Director of UT/TAPS to discuss their proposals. Proposers meet with the Managing Director to discuss rights, if applicable.
         * Proposers turn in their proposal by Friday of 6<sup>rd</sup> Week by 5pm to the Committee Chair's mailbox and electronically, either by fileshare (Google Drive, Dropbox, etc. or emailed to [executivesessionuniversitytheatre@lists.uchicago.edu](executivesessionuniversitytheatre@lists.uchicago.edu)).
@@ -158,6 +97,7 @@ li > h3:after, li > h4:after, li > h5:after, li > h6:after {
             {:.ul-lower-roman}
               * Name and information about the proposer.
               * Cast size and Gender breakdown.
+              * Run time.
               * Space/week preference, if there is an option (i.e., multiple Weekends of Workshops in different spaces).
               * Three important images pivotal to the play.
               * The driving question and themes behind the production.
@@ -188,7 +128,7 @@ li > h3:after, li > h4:after, li > h5:after, li > h6:after {
             After the Workshops have been scheduled and reflected upon, the Committee Liaison(s) for Workshops will contact their various proposers regarding the status of their proposal and its scheduling. The Committee member running the meeting contacts the proposers whose shows were not scheduled. All Committee members must speak to their proposers by phone, _not_ via email or in person. The proposer must also be reached _directly_ by phone; voice mails are not permitted. Once all proposers have been reached directly by phone, the season may be announced by the Committee Chair via the UT general listhost.
         * ##### Post-Meeting Process
             Once scheduled, the Director and SM of each Workshop are encouraged to meet with UT/TAPS Pro-staff to continue to develop design plans, as well as to attend their respective cohorts.
-  * {:.clean-header} ### Site-specific work
+  * ### Site-specific work
       1. #### Proposal process
           {:.ul-lower-alpha}
             * Individuals may propose site-specific work to be produced by UT for the following quarter any week before Eighth Week. Projects appropriate for Site-Specific production include pieces in spaces other than Theater West, Theater East, or the FXK.
