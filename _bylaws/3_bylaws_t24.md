@@ -6,7 +6,7 @@ toc_label: "Table of Contents"
 toc_icon: "cog"
 permalink: /bylaws/t24
 date: 2020-06-11
-wrap_div: t24-bylaws default-upper-ul
+wrap_div: t24-bylaws bylaws
 ---
 
 ## IV. Theater [24]

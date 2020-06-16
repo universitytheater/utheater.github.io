@@ -6,7 +6,7 @@ toc_label: "Table of Contents"
 toc_icon: "cog"
 permalink: /bylaws/ut-process
 date: 2020-06-11
-wrap_div: default-upper-ul
+wrap_div: bylaws
 ---
 
 ## VI. The University Theater Production Process

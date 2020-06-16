@@ -6,7 +6,7 @@ toc_label: "Table of Contents"
 toc_icon: "cog"
 permalink: /bylaws/deans-men
 date: 2020-06-11
-wrap_div: default-upper-ul bylaws-deans-men
+wrap_div: bylaws-deans-men bylaws
 ---
 
 ## II. The Dean's Men

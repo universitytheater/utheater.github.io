@@ -6,7 +6,7 @@ toc_label: "Table of Contents"
 toc_icon: "cog"
 permalink: /bylaws/off-off-campus
 date: 2020-06-11
-wrap_div: bylaws-off-off default-upper-ul
+wrap_div: bylaws-off-off bylaws
 ---
 
 ## III. Off-Off Campus

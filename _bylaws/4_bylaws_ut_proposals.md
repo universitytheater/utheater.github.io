@@ -6,7 +6,7 @@ toc_label: "Table of Contents"
 toc_icon: "cog"
 permalink: /bylaws/ut-proposals
 date: 2020-06-11
-wrap_div: bylaws-proposals default-upper-ul
+wrap_div: bylaws-proposals bylaws
 ---
 
 ## V. The University Theater Proposal Process
