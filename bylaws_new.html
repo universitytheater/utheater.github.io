@@ -8,20 +8,24 @@ toc_icon: "cog"
 permalink: /bylaws/new
 ---
 
-{% assign last_modified_raw = 0 %}
-{% for bylaw in site.bylaws %}
-  {% assign tmp = bylaw.date | date: "%s" | plus: 0 %}
-  {% if tmp > last_modified_raw %}
-    {% assign last_modified_raw = tmp %}
-  {% endif %}
-  {% if bylaw.wrap_div %}
-    <div class="{{ bylaw.wrap_div }}">
-  {% endif %}
-  {{ bylaw.content | markdownify }}
-  {% if bylaw.wrap_div %}
-    </div>
-  {% endif %}
-{% endfor %}
+<div id="all-bylaws">
+  {% assign last_modified_raw = 0 %}
+  {% for bylaw in site.bylaws %}
+    {% assign tmp = bylaw.date | date: "%s" | plus: 0 %}
+    {% if tmp > last_modified_raw %}
+      {% assign last_modified_raw = tmp %}
+    {% endif %}
+    {% if bylaw.wrap_div %}
+      <div class="{{ bylaw.wrap_div }}">
+    {% endif %}
+    {{ bylaw.content | markdownify }}
+    {% if bylaw.wrap_div %}
+      </div>
+    {% endif %}
+  {% endfor %}
+</div>
+
+<script src="/assets/js/bylaws.js"></script>
 
 {% comment %} Date ordinalizing stolen from https://stackoverflow.com/questions/18892909/ordinalize-date-formatting-in-liquid-jekyll-e-g-1st-3rd-and-4th {% endcomment %}
 {% assign last_modified = last_modified_raw | date: "%s" %}
