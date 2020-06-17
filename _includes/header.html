@@ -1,43 +1,34 @@
-<header class="site-header">
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <a class="navbar-brand" href="{{ '/' | relative_url }}">
+    <img src="/assets/{{ site.logo }}" style="margin-top:-15px;" height="30" alt="">
+    {{ site.title | escape }}
+  </a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
 
-  <div>
-    {%- assign default_paths = site.pages | map: "path" -%}
-    {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
-    <img style="height:1em;font-size:26px;margin-top:-15px;" src="/assets/{{ site.logo }}">
-    <a style="float:initial;" class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
-
-    {%- if titles_size > 0 -%}
-      <nav class="site-nav">
-        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
-        <label for="nav-trigger">
-          <span class="menu-icon">
-            <svg viewBox="0 0 18 15" width="18px" height="15px">
-              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
-            </svg>
-          </span>
-        </label>
-
-        <div class="trigger real-site-nav">
-          <ul>
-            {%- for page_hsh in site.header_pages -%}
-              {%- assign my_page = site.pages | where: "path", page_hsh.page | first -%}
-              <li>
-                <a class="page-link" {%- if page_hsh.page -%}href="{{ my_page.url | relative_url }}"{%- endif -%}>
-                  {{ page_hsh.name }}
-                </a>
-                <ul>
-                  {%- for subpage_hsh in page_hsh.subpages -%}
-                    {%- for tmp in subpage_hsh -%}
-                      {%- assign my_subpage = site.pages | where: "path", tmp[1] | first -%}
-                      <li><a class="page-link" href="{{ my_subpage.url | relative_url }}">{{ tmp[0] }}</a></li>
-                    {%- endfor -%}
-                  {%- endfor -%}
-                </ul>
-              </li>
-            {%- endfor -%}
-          </ul>
-        </div>
-      </nav>
-    {%- endif -%}
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+      {%- for page_hsh in site.header_pages -%}
+        {%- assign my_page = site.pages | where: "path", page_hsh.page | first -%}
+        <li class="nav-item {% if page_hsh.subpages.size > 0 %} dropdown {% endif %}">
+          <a class="nav-link {% if page_hsh.subpages.size > 0 %} dropdown-toggle {% endif %}" {% if page_hsh.subpages.size > 0 %}id="navbarDropdown" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"{% elsif page_hsh.page %}href="{{ my_page.url | relative_url }}"{% endif %}>
+            {{ page_hsh.name }}
+          </a>
+          {%- if page_hsh.subpages.size > 0 -%}
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+              {%- for subpage_hsh in page_hsh.subpages -%}
+                {%- for tmp in subpage_hsh -%}
+                  {%- assign my_subpage = site.pages | where: "path", tmp[1] | first -%}
+                  <a class="dropdown-item" href="{{ my_subpage.url | relative_url }}">
+                    {{ tmp[0] }}
+                  </a>
+                {%- endfor -%}
+              {%- endfor -%}
+            </div>
+          {%- endif -%}
+        </li>
+      {%- endfor -%}
+    </ul>
   </div>
-</header>
+</nav>

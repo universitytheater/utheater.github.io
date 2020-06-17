@@ -121,6 +121,9 @@
   margin-bottom:0;
   padding-bottom:0;
 }
+#toc > ul > li:hover > ul {
+  display:block;
+}
 
 
 

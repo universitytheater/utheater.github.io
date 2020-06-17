@@ -27,7 +27,7 @@ logo: /UT-Logo.jpg
 
 # Build settings
 markdown: kramdown
-theme: minima
+
 plugins:
   - jekyll-feed
 strict_front_matter: true

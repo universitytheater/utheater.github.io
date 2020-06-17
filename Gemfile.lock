@@ -246,7 +246,6 @@ DEPENDENCIES
   github-pages
   jekyll
   jekyll-feed (~> 0.6)
-  minima (= 2.5.1)
   tzinfo-data
 
 BUNDLED WITH
