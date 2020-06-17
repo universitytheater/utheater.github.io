@@ -1,103 +1,74 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    {% include head.html %}
+---
+layout: default
+---
 
-    <link
-      rel="stylesheet"
-      href="https://cdn.rawgit.com/afeld/bootstrap-toc/v1.0.1/dist/bootstrap-toc.min.css"
-    />
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
-    <!-- add after bootstrap.min.js -->
-    <script src="https://cdn.rawgit.com/afeld/bootstrap-toc/v1.0.1/dist/bootstrap-toc.min.js"></script>
-  </head>
-  <body>
-    {% include header.html %}
-    {%- comment -%}
-    ================ WARNING ================
-    See bylaws_new.md for context
+{%- comment -%}
+================ WARNING ================
+See bylaws_new.md for context
 
-    This is a gross hack to pass the last modified date up to the layout. We
-    want it to be possible to automatically calculate the last modified date
-    of all the bylaws by calculating the last modified dates of all the sections.
-    To do that we need to calculate it here and pass it up to the layout. Sadly,
-    it is impossible to pass variables up in scope in liquid (the jekyll markup
-    language). So, we resort to the awful hack. It... shouldn't break. But if it
-    does, please just delete the code below and use `date_modified` in the
-    frontmatter of this page. I'm sorry you had to read this.
-    ================ WARNING ================
-    {%- endcomment -%}
-    {%- assign splitted = content | split: "VPASSUP_LAST_MODIFIED_" -%}
-    {%- assign raw_mtime = splitted | last -%}
-    {%- assign raw_content = splitted | first -%}
+This is a gross hack to pass the last modified date up to the layout. We
+want it to be possible to automatically calculate the last modified date
+of all the bylaws by calculating the last modified dates of all the sections.
+To do that we need to calculate it here and pass it up to the layout. Sadly,
+it is impossible to pass variables up in scope in liquid (the jekyll markup
+language). So, we resort to the awful hack. It... shouldn't break. But if it
+does, please just delete the code below and use `date_modified` in the
+frontmatter of this page. I'm sorry you had to read this.
+================ WARNING ================
+{%- endcomment -%}
+{%- assign splitted = content | split: "VPASSUP_LAST_MODIFIED_" -%}
+{%- assign raw_mtime = splitted | last -%}
+{%- assign raw_content = splitted | first -%}
 
-    <header class="post-header toc">
-      <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
-      <p class="post-meta">
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        {%- if page.date -%}
-        <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-          Published {{ page.date | date: date_format }}
-        </time>
-        {%- endif -%}
+<header class="post-header toc">
+  <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+  <p class="post-meta">
+    {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+    {%- if page.date -%}
+    <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+      Published {{ page.date | date: date_format }}
+    </time>
+    {%- endif -%}
 
-        {%- if page.modified_date or splitted.size > 1 -%}
-          {%- if page.date -%}
-          /&nbsp;
-          {%- endif -%}
-          Last Updated
-          {%- if splitted.size > 1 -%}
-            {%- assign mdate = raw_mtime | plus: 0 | date: "%F" | date_to_xmlschema -%}
-          {%- else -%}
-            {%- assign mdate = page.modified_date | date_to_xmlschema -%}
-          {%- endif -%}
-          <time class="dt-modified" datetime="{{ mdate }}" itemprop="dateModified">
-            {{ mdate | date: date_format }}
-          </time>
-        {%- endif -%}
-        {%- if page.author -%}
-          • {% for author in page.author %}
-            <span itemprop="author" itemscope itemtype="http://schema.org/Person">
-              <span class="p-author h-card" itemprop="name">{{ author }}</span></span>
-              {%- if forloop.last == false %}, {% endif -%}
-          {% endfor %}
-        {%- endif -%}</p>
-    </header>
-    <main class="toc page-content" aria-label="Content">
-      <div class="content">
-        {%- if raw_content -%}
-          {{ raw_content }}
-        {%- else -%}
-          {{ content }}
-        {%- endif -%}
-      </div>
-      <!-- <div>
-        <aside class="toc-right-sidebar">
-          <nav class="toc">
-            <header><h4 class="nav__title"><i class="fas fa-{{ page.toc_icon | default: 'file-alt' }}"></i> {{ page.toc_label | default: site.data.ui-text[site.locale].toc_label | default: "On this page" }}</h4></header>
-            {% include toc.html sanitize=true html=content h_min=1 h_max=3 class="toc__menu" %}
-          </nav>
-        </aside>
-      </div> -->
-      <div>
-        <nav class="toc-right-sidebar" id="toc" class="toc page-content"></nav>
-      </div>
-    </main>
-
-    <script>
-$(function() {
-  var navSelector = "#toc";
-  var $myNav = $(navSelector);
-  Toc.init({
-    $nav: $myNav,
-    $scope: $("h2, h3")
-  });
-  $("body").scrollspy({
-    target: navSelector
-  });
-});
-    </script>
-  </body>
-</html>
+    {%- if page.modified_date or splitted.size > 1 -%}
+      {%- if page.date -%}
+      /&nbsp;
+      {%- endif -%}
+      Last Updated
+      {%- if splitted.size > 1 -%}
+        {%- assign mdate = raw_mtime | plus: 0 | date: "%F" | date_to_xmlschema -%}
+      {%- else -%}
+        {%- assign mdate = page.modified_date | date_to_xmlschema -%}
+      {%- endif -%}
+      <time class="dt-modified" datetime="{{ mdate }}" itemprop="dateModified">
+        {{ mdate | date: date_format }}
+      </time>
+    {%- endif -%}
+    {%- if page.author -%}
+      • {% for author in page.author %}
+        <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+          <span class="p-author h-card" itemprop="name">{{ author }}</span></span>
+          {%- if forloop.last == false %}, {% endif -%}
+      {% endfor %}
+    {%- endif -%}</p>
+</header>
+<main class="toc page-content" aria-label="Content">
+  <div class="content">
+    {%- if raw_content -%}
+      {{ raw_content }}
+    {%- else -%}
+      {{ content }}
+    {%- endif -%}
+  </div>
+  <!-- <div>
+    <aside class="toc-right-sidebar">
+      <nav class="toc">
+        <header><h4 class="nav__title"><i class="fas fa-{{ page.toc_icon | default: 'file-alt' }}"></i> {{ page.toc_label | default: site.data.ui-text[site.locale].toc_label | default: "On this page" }}</h4></header>
+        {% include toc.html sanitize=true html=content h_min=1 h_max=3 class="toc__menu" %}
+      </nav>
+    </aside>
+  </div> -->
+  <div>
+    <nav class="toc-right-sidebar" id="toc" class="toc page-content"></nav>
+  </div>
+</main>
