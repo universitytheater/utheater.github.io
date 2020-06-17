@@ -1,6 +1,7 @@
 ---
 layout: toc
 title: University Theater By-Laws
+title_bar: By-Laws
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
@@ -36,18 +37,4 @@ permalink: /bylaws/new
 
 <p>This document was last edited on the {{ day_num }} of {{ last_modified | date: "-%d" | date: "%B, %Y"}}.</p>
 
-{% comment %}
-================ WARNING ================
-This is a gross hack to pass the last modified date up to the layout. We
-want it to be possible to automatically calculate the last modified date
-of all the bylaws by calculating the last modified dates of all the sections.
-To do that we need to calculate it here and pass it up to the layout. Sadly,
-it is impossible to pass variables up in scope in liquid (the jekyll markup
-language). So, we resort to the awful hack. It... shouldn't break. But if it
-does, please just delete the code below and use `date_modified` in the
-frontmatter of this page. I'm sorry you had to read this.
-================ WARNING ================
-{% endcomment %}
-{% if page.layout == "toc" %}
 VPASSUP_LAST_MODIFIED_{{ last_modified }}
-{% endif %}

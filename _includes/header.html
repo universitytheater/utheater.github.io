@@ -1,8 +1,7 @@
 <header class="site-header">
 
-  <div class="wrapper">
+  <div>
     {%- assign default_paths = site.pages | map: "path" -%}
-    {%- assign page_paths = site.header_pages | default: default_paths -%}
     {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
     <img style="height:1em;font-size:26px;margin-top:-15px;" src="/assets/{{ site.logo }}">
     <a style="float:initial;" class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
@@ -18,13 +17,25 @@
           </span>
         </label>
 
-        <div class="trigger">
-          {%- for path in page_paths -%}
-            {%- assign my_page = site.pages | where: "path", path | first -%}
-            {%- if my_page.title -%}
-            <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
-            {%- endif -%}
-          {%- endfor -%}
+        <div class="trigger real-site-nav">
+          <ul>
+            {%- for page_hsh in site.header_pages -%}
+              {%- assign my_page = site.pages | where: "path", page_hsh.page | first -%}
+              <li>
+                <a class="page-link" {%- if page_hsh.page -%}href="{{ my_page.url | relative_url }}"{%- endif -%}>
+                  {{ page_hsh.name }}
+                </a>
+                <ul>
+                  {%- for subpage_hsh in page_hsh.subpages -%}
+                    {%- for tmp in subpage_hsh -%}
+                      {%- assign my_subpage = site.pages | where: "path", tmp[1] | first -%}
+                      <li><a class="page-link" href="{{ my_subpage.url | relative_url }}">{{ tmp[0] }}</a></li>
+                    {%- endfor -%}
+                  {%- endfor -%}
+                </ul>
+              </li>
+            {%- endfor -%}
+          </ul>
         </div>
       </nav>
     {%- endif -%}

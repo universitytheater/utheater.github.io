@@ -8,7 +8,7 @@
     {%- include header.html -%}
 
 
-    {% comment %}
+    {%- comment -%}
       ================ WARNING ================
           See bylaws_new.md for context
 This is a gross hack to pass the last modified date up to the layout. We
@@ -20,10 +20,10 @@ language). So, we resort to the awful hack. It... shouldn't break. But if it
 does, please just delete the code below and use `date_modified` in the
 frontmatter of this page. I'm sorry you had to read this.
       ================ WARNING ================
-    {% endcomment %}
+    {%- endcomment -%}
     {%- assign splitted = content | split: "VPASSUP_LAST_MODIFIED_" -%}
-    {%- assign raw_mtime = splitted.last -%}
-    {%- assign raw_content = splitted.first -%}
+    {%- assign raw_mtime = splitted | last -%}
+    {%- assign raw_content = splitted | first -%}
 
     <header class="post-header toc">
       <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
@@ -35,7 +35,7 @@ frontmatter of this page. I'm sorry you had to read this.
         </time>
         {%- endif -%}
 
-        {%- if page.modified_date or valid_mtime -%}
+        {%- if page.modified_date or splitted.size > 1 -%}
           {%- if page.date -%}
           /&nbsp;
           {%- endif -%}

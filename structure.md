@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Structure
-permalink: /structure/
+permalink: /structure
 ---
 
 Students, staff, faculty, and alumni work together within University Theater to support the program and provide as many theater opportunities as possible. Students primarily drive the program. Members of the University community propose shows to produce, as well as staff, direct, and act in these shows.

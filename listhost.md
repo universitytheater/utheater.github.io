@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Listhost
-permalink: /listhost/
+permalink: /listhost
 ---
 
 The UT-General email listhost is a general listhost for communicating with the entire University Theater community and its audiences, moderated by UT Committee Chair and University Theater/Theater and Performance Studies Managing Director. Publicity for shows, audition and election information, Committee minutes, and weekly happenings regularly go out via this listhost. If you want to know what's going on in the University of Chicago theater world – events, opportunities, and people – this is the place. General community members are also welcome to email the listhost and tap into the vast theater community and its resources with any legitimate needs or calls.
