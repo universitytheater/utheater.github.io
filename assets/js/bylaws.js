@@ -1,35 +1,33 @@
-(function() {
+var testObj = {};
+(function(testObj) {
   var all = document.getElementById("all-bylaws");
   let glob_ctr = 0;
   processNode(all);
   function processNode(node) {
-    const nodeRegex = /\s((?:VI{1,3}|I?V|I{1,3})\.[A-Z]\.[a-zA-Z1-9\.]*[a-zA-Z1-9])/g;
+    const nodeRegex = /\s((?:VI{1,3}|I?V|I{1,3})\.[A-Z](?:\.[a-zA-Z1-9\.]*[a-zA-Z1-9])?)/g;
     for (let [e, subnode] of node.childNodes.entries()) {
       if (subnode.nodeType == Node.TEXT_NODE) {
         if (nodeRegex.test(subnode.textContent)) {
-          console.log(subnode)
           nodeRegex.lastIndex = 0;
           var re = nodeRegex,
-          str = subnode.textContent,
-          offs = 0;
+              str = subnode.textContent,
+              offs = 0;
           while ((match = re.exec(str)) != null) {
-            console.log("match found at " + match.index + "  " + match[0].length);
             innode = subnode.splitText(match.index + 1 - offs)
-            console.log(innode)
             subnode = innode.splitText(match[1].length)
             offs = match.index + match[0].length;
+            console.log(match[1]);
             ref_node = findNode(match[1]);
             rep_innode = document.createElement("a")
             rep_innode.textContent = match[1];
             if (ref_node == null) {
               rep_innode.classList.add("invalid-ref");
             } else {
-              if (ref_node.firstElementChild.nodeName[0] == "H") {
+              if (ref_node.firstElementChild && ref_node.firstElementChild.nodeName[0] == "H") {
                 rep_innode.dataset.targetSection = ref_node.firstElementChild.textContent
               }
               rep_innode.classList.add("valid-ref");
               if (!ref_node.id) {
-                console.log("INCR GLOB CTR ", glob_ctr);
                 ref_node.id = match[1].replaceAll(".", "-") + "-magic-linky-doo";
                 glob_ctr = glob_ctr + 1;
               }
@@ -48,6 +46,7 @@
       }
     }
 
+    testObj.findNode = findNode;
     function findNode(str) {
       var segments = str.split(".");
       var lv2 = segments.shift();
@@ -230,4 +229,4 @@
       return str;
     }
 
-})();
+})(testObj);
