@@ -124,17 +124,42 @@ wrap_div: bylaws bylaws-ut-main
     In the event that a community member or members, or Committee member or members, feel that a member or members of Committee have acted inappropriately (i.e., does not fulfill the responsibilities as outlined in Section I.A.2), they may propose the issue to the Committee Chair within 24 hours of the meeting. In such circumstances, each side should be allowed to make its case. Committee members directly involved in the complaint will then be excused while the remainder of Committee determines a response in an Executive Session. If the Committee determines that the Committee member or members have acted inappropriately, formal responses can range from censure (i.e. a public statement in the minutes) to removal from the Committee.
 2.  #### Fairness
     If a community or Committee member or members are concerned about a Committee member's ability to vote fairly during a proposal meeting or regular meeting, the Chair should ask publicly or privately that the individual or individuals in question consider their fairness. If the situation has not changed, any member of the Committee may ask for a vote on the person's further participation in the process, which can include removal from vote or discussion. Should the Committee Member choose to remove themself from the vote, they may have the opportunity to state so at the beginning of the proposal meeting. If the Chair is an individual in question, the Director of UT/TAPS should be approached.
-3.  #### Budgeting and Financial Matters
-    All Mainstage productions (8th and 10th week productions) have a budget between $2000 and $3000. All Second Stage productions (6th week productions)have a budget between $500 and $1500. All Dean’s Men productions have a budget between $1000 and $2000. Weekends of Workshops, site specific proposals, and Studio productions have a budget between $0 and $250. The budget of individual productions within these ranges will be determined following the process outlined in VI.A. The only budget that may be extended beyond this is that of the Spring quarter 10th week mainstage, and only under the circumstances described in VI.A.1.D.I and by the processes described in IV.A.c.ii.
-4.  #### Amending the By-Laws
-    These by-laws can be amended by a two-thirds vote of the entire Committee. After each meeting, any amendments to the by-laws must be made in the Secretary’s running copy of the by-laws and noted by the Secretary in the public committee meeting minutes. After the final (10th Week) meeting of each quarter, the Secretary emails the most recent edition of the bylaws to the UT general listhost if there have been changes that quarter.
 
-    {:.ul-upper-roman}
-    * Any proposal deliberated on by committee must be decided and enacted under the bylaws that existed when it was proposed. Once a decision has been reached, committee will not hold another vote on the matter unless new information arises. A change of the bylaws is not considered new information for the purposes of reconsidering a decided matter. This item of the by-laws may only be changed by a unanimous vote of committee.
-    * Any amendments to the by-laws must be proposed and added to the committee agenda at least twenty-four hours in advance of any meeting in which they can be passed.
-    * Any amendments to the by-laws which are not deemed urgently necessary by the Chair must be shared with the community for feedback at least 48 hours before the amendment can be voted on. The author(s) shall not be identified when the by-law is shared unless they request to be identified. Amendments can subsequently be modified and voted on based on the feedback received without being shared again.
+### D. Budgeting and Financial Matters
 
-### D. Diversity, Representation, and Inclusion Statement
+1. #### Terminology
+    * _Mainstage_: Mainstage productions are productions which take place during 8th or 10th week.
+    * _Secondstage_: Secondstage productions are productions which take place 6th week.
+2. #### Budget Determinations
+    The budget determination process begins once a production has been scheduled into the UT season and has filled enough positions to be able to discuss the show budget. At this point, the production team must develop a budget proposal which falls within the corresponding range in I.D.4 in coordination with TAPS Production Staff.
+
+    This budget proposal is formally presented to TAPS Production Staff at the Uber Production meeting. After the Uber Production meeting, TAPS professional staff will recommend to committee a budget for each production. Committee or a Budget Determination Group (I.D.3) may pass these proposed budgets by a majority vote. If a budget is not passed, committee or the Budget Determination Group will reenter discussions with TAPS professional staff, after which a new budget will be proposed. This continues until a final budget is passed for each production.
+
+    Once a final budget has been determined and passed, the budget cannot be subsequently altered.
+
+    * _Spring Quarter 10th week_: In the budget determination process during Spring Quarter, if UT committee decides that there is more money in the budget that can be spent on productions, that money may be added to the budget of the Spring 10th week production if that production was passed as described in V.A.1.d.I. This adjustment will be made in the same way as the original budget allocations.
+
+3. #### Budget Determination Group
+    A budget determination group is a group of 3 or more Committee members in addition the UT Treasurer. It's membership is determined by a simple poll of who wishes to participate. The role of the budget determination group is to communicate with TAPS Production Staff to alter a budget until the Group votes to pass the budget.
+4. #### Budget Ranges
+    The upper bound of the following ranges can not be exceeded in any case. The sole exception to this is the Mainstage which takes place during 10th week of Spring quarter, and only under the circumstances described in V.A.1.d.I.
+    * All Mainstage productions have a budget between $2000 and $3000.
+    * All Secondstage productions have a budget between $500 and $1500.
+    * All Dean’s Men productions have a budget between $1000 and $2000.
+    * Weekends of Workshops, site specific proposals, and Studio productions have a budget between $0 and $250.
+
+
+### E. Amending the By-Laws
+
+
+These by-laws can be amended by a two-thirds vote of the entire Committee. After each meeting, any amendments to the by-laws must be made in the Secretary’s running copy of the by-laws and noted by the Secretary in the public committee meeting minutes. After the final (10th Week) meeting of each quarter, the Secretary emails the most recent edition of the bylaws to the UT general listhost if there have been changes that quarter.
+
+{:.ul-upper-roman}
+* Any proposal deliberated on by committee must be decided and enacted under the bylaws that existed when it was proposed. Once a decision has been reached, committee will not hold another vote on the matter unless new information arises. A change of the bylaws is not considered new information for the purposes of reconsidering a decided matter. This item of the by-laws may only be changed by a unanimous vote of committee.
+* Any amendments to the by-laws must be proposed and added to the committee agenda at least twenty-four hours in advance of any meeting in which they can be passed.
+* Any amendments to the by-laws which are not deemed urgently necessary by the Chair must be shared with the community for feedback at least 48 hours before the amendment can be voted on. The author(s) shall not be identified when the by-law is shared unless they request to be identified. Amendments can subsequently be modified and voted on based on the feedback received without being shared again.
+
+### F. Diversity, Representation, and Inclusion Statement
 
 University Theater is committed to fostering diversity in its community and in its productions. University Theater does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity, national or ethnic origin, age, status as an individual with a disability, protected veteran status, genetic information, or other protected groups under the law (see the University of Chicago's Non-Discrimination Statement and Title IX of the Education Amendments of 1972).
 
