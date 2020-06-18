@@ -121,6 +121,7 @@ wrap_div: bylaws-proposals bylaws
         After the Workshops have been scheduled and reflected upon, the Committee Liaison(s) for Workshops will contact their various proposers regarding the status of their proposal and its scheduling. The Committee member running the meeting contacts the proposers whose shows were not scheduled. All Committee members must speak to their proposers by phone, _not_ via email or in person. The proposer must also be reached _directly_ by phone; voice mails are not permitted. Once all proposers have been reached directly by phone, the season may be announced by the Committee Chair via the UT general listhost.
     * ##### Post-Meeting Process
         Once scheduled, the Director and SM of each Workshop are encouraged to meet with UT/TAPS Pro-staff to continue to develop design plans, as well as to attend their respective cohorts.
+
 ### C. Site-specific work
 
 1. #### Proposal process
