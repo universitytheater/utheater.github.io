@@ -21,7 +21,7 @@ After a production is passed and scheduled by the University Theater Committee, 
 
     * The process for finalizing budgets will be as follows: TAPS professional staff will recommend to committee a budget for each production, after which committee, or a subcommittee appointed for this purpose, may pass these budgets by a majority vote. If a budget is not passed, committee or the appointed subcommittee will reenter discussions with TAPS professional staff, after which a new budget will be proposed. This continues until a final budget is passed for each production.
         1. Any subcommittee created for this purpose must include the Treasurer of UT Committee and no less than three other members.
-    * If, after budgets for the spring quarter have been determined, UT committee decides that there is more money in the budget that can be spent on productions, that money may be added to the budget of the Spring 10th week production if that production was passed as described in V.A.1.D.I. This adjustment will be made in the same way as the original budget allocations.
+    * If, after budgets for the spring quarter have been determined, UT committee decides that there is more money in the budget that can be spent on productions, that money may be added to the budget of the Spring 10th week production if that production was passed as described in V.A.1.d.I. This adjustment will be made in the same way as the original budget allocations.
     * After this point, UT committee will issue no further financial support.
 * All auditions will be scheduled at the same time in order to preserve the arbitration process.
 

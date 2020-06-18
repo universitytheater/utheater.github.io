@@ -37,7 +37,7 @@ wrap_div: bylaws-proposals bylaws
 
         See Appendix 1.A for the Mainstage/Second Stage Proposal Form
     * The community-wide Mainstage Proposal Meeting is held 4<sup>th</sup> Week, usually at 5pm. No UT activity may be scheduled during the community-wide Proposal Meeting. Each proposer has one minute to present their proposal and five minutes to answer the questions of Committee and community members.
-    * After all proposers have spoken, the Committee proceeds into the Executive (Closed) Session in an undisclosed location (See Section IV.A.3). Proposers who are also members of Committee are not allowed to sit in Executive Session Proposal Meeting or to vote on the season. If Director for the Dean's Men show is on Committee, however, they are permitted to take part in scheduling and vote on the season just as any other Committee member.
+    * After all proposers have spoken, the Committee proceeds into the Executive (Closed) Session in an undisclosed location (See Section V.A.3). Proposers who are also members of Committee are not allowed to sit in Executive Session Proposal Meeting or to vote on the season. If Director for the Dean's Men show is on Committee, however, they are permitted to take part in scheduling and vote on the season just as any other Committee member.
 
 2.  #### Collaborations
     RSOs may propose to collaborate with UT with the same deadline as mainstage proposals.
@@ -54,8 +54,8 @@ wrap_div: bylaws-proposals bylaws
           * The week (or weeks) the proposer will accept.
           * The amount of tech time the RSO will require.
           * Any other resources the RSO desires from UT, including but not limited to student production staff, student performers, publicity, and audition space.
-      * As detailed in Sections IV.A.1.f and IV.A.1.g, the community-wide Mainstage Proposal Meeting is held on Friday of 4<sup>th</sup> Week at 5pm. At this meeting, as with the Mainstage proposers, the Collaboration proposers have one minute each to present their proposal and five minutes each to answer the questions of Committee and community members. Also as with Mainstage proposers, Collaboration proposers who are also members of Committee are not allowed to sit in the Executive Session Proposal Meeting or to vote on the season.
-      * For the guidelines of the Collaboration process once a proposal passes, see Section IV.A.3.f.
+      * As detailed in Section V.A.1.g, the community-wide Mainstage Proposal Meeting is held on Friday of 4<sup>th</sup> Week at 5pm. At this meeting, as with the Mainstage proposers, the Collaboration proposers have one minute each to present their proposal and five minutes each to answer the questions of Committee and community members. Also as with Mainstage proposers, Collaboration proposers who are also members of Committee are not allowed to sit in the Executive Session Proposal Meeting or to vote on the season.
+      * For the guidelines of the Collaboration process once a proposal passes, see Section V.A.3.f.
 
 3. #### Mainstage Proposal Executive Session
     * Directly after the community-wide meeting, Committee goes into Executive Session to discuss each proposal individually. In this meeting, Committee considers whether a show:
@@ -121,6 +121,7 @@ wrap_div: bylaws-proposals bylaws
         After the Workshops have been scheduled and reflected upon, the Committee Liaison(s) for Workshops will contact their various proposers regarding the status of their proposal and its scheduling. The Committee member running the meeting contacts the proposers whose shows were not scheduled. All Committee members must speak to their proposers by phone, _not_ via email or in person. The proposer must also be reached _directly_ by phone; voice mails are not permitted. Once all proposers have been reached directly by phone, the season may be announced by the Committee Chair via the UT general listhost.
     * ##### Post-Meeting Process
         Once scheduled, the Director and SM of each Workshop are encouraged to meet with UT/TAPS Pro-staff to continue to develop design plans, as well as to attend their respective cohorts.
+
 ### C. Site-specific work
 
 1. #### Proposal process
