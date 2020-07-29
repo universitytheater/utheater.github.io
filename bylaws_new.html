@@ -5,6 +5,7 @@ title_bar: By-Laws
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
+no_container: true
 permalink: /bylaws/new
 ---
 
@@ -25,7 +26,7 @@ permalink: /bylaws/new
   {% endfor %}
 </div>
 
-<script src="/assets/js/bylaws.js"></script>
+<script src="{{ site.baseurl }}/assets/js/bylaws.js"></script>
 
 {% comment %} Date ordinalizing stolen from https://stackoverflow.com/questions/18892909/ordinalize-date-formatting-in-liquid-jekyll-e-g-1st-3rd-and-4th {% endcomment %}
 {% assign last_modified = last_modified_raw | date: "%s" %}

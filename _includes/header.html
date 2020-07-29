@@ -1,6 +1,6 @@
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
+<nav style="position:sticky;top:0;z-index:3;" class="bg-light navbar navbar-expand-lg navbar-light bg-light">
   <a class="navbar-brand" href="{{ '/' | relative_url }}">
-    <img src="/assets/{{ site.logo }}" style="margin-top:-15px;" height="30" alt="">
+    <img src="{{ site.baseurl }}/assets/{{ site.logo }}" style="margin-top:-15px;" height="30" alt="">
     {{ site.title | escape }}
   </a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -12,7 +12,7 @@
       {%- for page_hsh in site.header_pages -%}
         {%- assign my_page = site.pages | where: "path", page_hsh.page | first -%}
         <li class="nav-item {% if page_hsh.subpages.size > 0 %} dropdown {% endif %}">
-          <a class="nav-link {% if page_hsh.subpages.size > 0 %} dropdown-toggle {% endif %}" {% if page_hsh.subpages.size > 0 %}id="navbarDropdown" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"{% elsif page_hsh.page %}href="{{ my_page.url | relative_url }}"{% endif %}>
+          <a class="nav-link {% if page_hsh.subpages.size > 0 %} dropdown-toggle {% endif %}" {% if page_hsh.subpages.size > 0 %}id="navbarDropdown" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"{% elsif page_hsh.page %}href="{% if my_page %}{{ my_page.url | relative_url }}{% else %}{{ page_hsh.page }}{% endif %}"{% endif %}>
             {{ page_hsh.name }}
           </a>
           {%- if page_hsh.subpages.size > 0 -%}

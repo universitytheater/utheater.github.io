@@ -14,7 +14,7 @@
   <body>
     {% include header.html %}
 
-    {% if page.layout == "toc" %}
+    {% if page.no_container %}
       {{ content }}
     {% else %}
       <div class="container">

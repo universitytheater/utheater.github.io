@@ -1,0 +1,87 @@
+---
+layout: default
+title: University Theater
+permalink: /
+no_container: true
+---
+
+<div id="carouselExampleSlidesOnly" class="carousel slide shadow" style="background-color:rgba(0,0,0,.175);" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item text-center active">
+      <img src="assets/homepage-slideshow-images/fun-home.jpg" alt="First slide">
+    </div>
+    <div class="carousel-item text-center">
+      <img src="assets/homepage-slideshow-images/phil.jpg" alt="Second slide">
+    </div>
+    <div class="carousel-item text-center">
+      <img src="assets/homepage-slideshow-images/winters.jpg" alt="Third slide">
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#carouselExampleSlidesOnly" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleSlidesOnly" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+<div class="row my-3 mx-0">
+  <div class="col-9">
+    <iframe src="https://calendar.google.com/calendar/embed?wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FChicago&amp;showTitle=0&amp;showNav=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=1&amp;src=NXBkZm9wZWdvMzhrZmJkZG40czhwZm05MmNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%237986CB" style="min-height:400px;z-index:-1;" width="100%;" frameborder="0" scrolling="no"></iframe>
+  </div>
+  <div class="col-3 align-self-center">
+    <div class="row my-2">
+      <h3 class="mx-auto">Get Involved</h3>
+    </div>
+    <div class="row my-2">
+      <div class="col text-center">
+        <a href="https://ut-jobs.dvtk.me" class="btn btn-primary">Backstage</a>
+      </div>
+    </div>
+    <div class="row my-2">
+      <div class="col text-center">
+        <a href="auditions" class="btn btn-secondary">On Stage</a>
+      </div>
+    </div>
+    <hr>
+    <div class="row text-center my-2">
+      <h2 class="mx-auto">Links</h2>
+    </div>
+    <div class="row text-center my-2">
+      <ul style="display:block;list-style-type:none;margin-block-start:0;margin-block-end:0;padding-inline-start:0;" class="mx-auto">
+        <li><a href="#">Important Link 1</a></li>
+        <li><a href="#">Important Link 2</a></li>
+        <li><a href="#">Important Link 3</a></li>
+        <li><a href="#">Important Link 4</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+<div class="row my-3 mx-0">
+  <div class="col-3 align-self-center">
+    <ul>
+      <li><a href="#">Important Link 1</a></li>
+      <li><a href="#">Important Link 2</a></li>
+      <li><a href="#">Important Link 3</a></li>
+      <li><a href="#">Important Link 4</a></li>
+    </ul>
+  </div>
+  <div class="col-9">
+    {% for post in site.posts limit:1 %}
+      <div class="card">
+        <div class="card-body">
+          <h5 class="card-title">
+            <a class="post-link" href="{{ post.url | relative_url }}">
+              {{ post.title | escape }}
+            </a>
+          </h5>
+          <h6 class="card-subtitle mb-2 text-muted">{{ post.date | date: date_format }}</h6>
+          <p class="card-text">
+            {{ post.excerpt }}
+          </p>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+</div>

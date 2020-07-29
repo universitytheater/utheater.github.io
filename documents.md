@@ -1,0 +1,4 @@
+---
+permalink: /documents
+---
+# documents

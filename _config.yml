@@ -42,15 +42,20 @@ collections:
       - 5_bylaws_ut_process.md
 
 header_pages:
-  - name: By-Laws
-    page: bylaws_new.html
-  - name: Blog
-    page: blog.md
   - name: About
-    page: about.md
     subpages:
       - Structure: structure.md
       - Listhost: listhost.md
+  - name: Shows
+    page: shows.md
+  - name: By-Laws
+    page: bylaws_new.html
+  - name: Documents
+    page: documents.md
+  - name: Blog
+    page: blog.md
+  - name: Design Database
+    page: https://ut-jobs.dvtk.me
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
