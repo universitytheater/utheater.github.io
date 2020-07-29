@@ -1,0 +1,22 @@
+---
+layout: page
+title: About Us
+permalink: /about/ut
+---
+
+
+Open to any and all majors, University Theater (UT) is a hub of performance, design, and artistic creation for the UChicago community. At our core, we’re a large group of passionate students who are driven by a love of what we do, and it shows in our work. Every year, our community puts students at the helm of over 35 shows across 5 performance spaces. We’re also proud to foster a direct dialogue with some of Chicago’s most talented and experienced theater professionals through our co-curricular with the Theater and Performance Studies academic department. Whether you’re interested in working backstage, onstage, or if you’re a little fuzzy on the difference between the two, we welcome you to the UT community!
+
+Here’s a (incomplete) list of some of the groups and events that make up UT! If something catches your eye, we encourage you to learn more and reach out.
+
+- **University Theater** has been putting on student-led shows since 1898. Get involved [as an actor](#) or [as a technician](https://ut-jobs.dvtk.me)!
+
+- **The Dean’s Men** is a student organization at the University of Chicago dedicated to the works of William Shakespeare. Get involved [as an actor](#) or [as a technician](https://ut-jobs.dvtk.me)!
+
+- **Off-Off Campus** is UT’s very own improvisational comedy troupe. [Learn more](https://offoffcampus.org/)!
+
+- **Theater [24]** is a unique, quarterly theater festival of new work that is written, directed, rehearsed, and designed by students within 24 hours. Looking for a quick, fun, and hectic theater experience? [Check it out](#)!
+
+- **New Work Week** is an exciting celebration of the play-making process through student-written and directed pieces. [Get involved](https://arts.uchicago.edu/new-work-week)!
+
+- **Weekend of Workshops** offers a space for student directors to explore their craft and push on the limits of their creative vision. [Learn more](#).
