@@ -47,16 +47,16 @@ header_pages:
       - About UT: about-ut.md
       - Structure: structure.md
       - Listhost: listhost.md
-  - name: Shows
-    page: shows.md
+  # - name: Shows
+  #   page: shows.md
   - name: By-Laws
     page: bylaws_new.html
-  - name: Documents
-    page: documents.md
-  - name: Blog
-    page: blog.md
-  - name: Design Database
-    page: https://ut-jobs.dvtk.me
+  # - name: Documents
+  #   page: documents.md
+  # - name: Blog
+  #   page: blog.md
+  # - name: Design Database
+  #   page: https://ut-jobs.dvtk.me
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
