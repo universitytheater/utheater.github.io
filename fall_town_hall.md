@@ -8,7 +8,7 @@ On 8/16/2020 Committee hosted a Town Hall to describe our loose plans for the Fa
 
 ## Slides
 
-To download the slides, click [here](/assets/fall-2020-town-hall.pdf).
+<p><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ8jFTxMXw8HyOMwJWMt7JO7pID-hHkcmhiFkKTDnqIUu93SiCIepg0qlIvR4k7KdGqXBM_MbJaCuN8/embed?start=false&amp;loop=false&amp;delayms=60000" width="960" height="569" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
 
 ## Q&A
 
@@ -49,3 +49,7 @@ To download the slides, click [here](/assets/fall-2020-town-hall.pdf).
 - Are you a first year with Questions? Do you have more questions about this upcoming Fall Quarter? Contact: Caitlyn ([cklum@uchicago.edu](mailto:cklum@uchicago.edu))
 - Are you a first year interested in Design? Contact: Isaiah ([isaiahzs@uchicago.edu](mailto:isaiahzs@uchicago.edu))
 - The rest of Committee’s emails can be found [here](https://arts.uchicago.edu/theater-and-performance-studies/performance-rsos/university-theater/ut-student-committee). We’re very nice!
+
+## Additional Questions
+
+<p><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSezxM-6RhcVHMEUbvCK-fArbCXRe3mD-M2z6k-gUha3ALkiwQ/viewform?embedded=true" style="width:100%" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe><p>
