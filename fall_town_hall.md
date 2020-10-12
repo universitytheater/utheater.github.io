@@ -8,7 +8,7 @@ On 8/16/2020 Committee hosted a Town Hall to describe our loose plans for the Fa
 
 ## Slides
 
-<p><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ8jFTxMXw8HyOMwJWMt7JO7pID-hHkcmhiFkKTDnqIUu93SiCIepg0qlIvR4k7KdGqXBM_MbJaCuN8/embed?start=false&amp;loop=false&amp;delayms=60000" width="960" height="569" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ8jFTxMXw8HyOMwJWMt7JO7pID-hHkcmhiFkKTDnqIUu93SiCIepg0qlIvR4k7KdGqXBM_MbJaCuN8/embed?start=false&amp;loop=false&amp;delayms=60000" width="960" height="569" frameborder="0" style="width:100%;" allowfullscreen="allowfullscreen"></iframe></p>
 
 ## Q&A
 
