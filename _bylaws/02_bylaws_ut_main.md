@@ -114,7 +114,7 @@ wrap_div: bylaws bylaws-ut-main
     * ##### Attendance and Quorum
       Committee meetings, with the exception of the Mainstage Proposal Meeting and open forums, are closed ('Executive Session'). Quorum for a regular meeting is a majority of voting members. For a proposal meeting, at least four of those members must be elected, non-staff student members.
     * ##### Voting
-      General issues are voted on by 'secret ballot,’ either on paper or by secret show of hands. A member of UT/TAPS Pro-staff tallies the votes. At any point during a Committee meeting, a Committee member can request the issue at hand be put to a vote. While individual votes are secret, vote totals may be published in the notes.
+      General issues are voted on by ‘secret ballot,’ either on paper or by secret show of hands. The committee chair is not able to vote and is responsible for counting the votes. At any point during a Committee meeting, a Committee member can request the issue at hand be put to a vote. While individual votes are secret, vote totals may be published in the notes.
     * ##### Open Session
       Meetings are in open session starting at 5pm during this time any member of the UT community is welcome to join the meetings. This open session moves to executive session during which time meeting guests can no longer sit in on the meeting unless a member of committee invites them and committee votes to allow it. In addition to this chance to join a meeting, any member of the community can request a place on the agenda before the meeting to bring up issues, concerns or questions. This can be done by contacting the Committee Chair or any other member of Committee prior to said meeting.
 
