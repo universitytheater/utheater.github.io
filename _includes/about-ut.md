@@ -1,10 +1,3 @@
----
-layout: page
-title: About Us
-permalink: /about/ut
----
-
-
 Open to any and all majors, University Theater (UT) is a hub of performance, design, and artistic creation for the UChicago community. At our core, we’re a large group of passionate students who are driven by a love of what we do, and it shows in our work. Every year, our community puts students at the helm of over 35 shows across 5 performance spaces. We’re also proud to foster a direct dialogue with some of Chicago’s most talented and experienced theater professionals through our co-curricular with the Theater and Performance Studies academic department. Whether you’re interested in working backstage, onstage, or if you’re a little fuzzy on the difference between the two, we welcome you to the UT community!
 
 Here’s a (incomplete) list of some of the groups and events that make up UT! If something catches your eye, we encourage you to learn more and reach out.

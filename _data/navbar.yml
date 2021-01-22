@@ -1,0 +1,18 @@
+- name: About
+  subpages:
+    - About UT: _pages/about-ut.md
+    - About Committee: _pages/about-committee.md
+    - Structure: _pages/structure.md
+    - Listhost: _pages/listhost.md
+# - name: Shows
+#   page: shows.md
+- name: By-Laws
+  page: _pages/bylaws_new.html
+- name: COVID-19
+  page: _pages/covid.md
+# - name: Documents
+#   page: documents.md
+# - name: Blog
+#   page: blog.md
+# - name: Design Database
+#   page: https://ut-jobs.dvtk.me
