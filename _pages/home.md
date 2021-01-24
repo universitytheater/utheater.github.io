@@ -5,10 +5,11 @@ permalink: /
 ---
 
 <div class="alert alert-primary">
-{% include covid-msg.md %}
+{% capture covid_msg %}{% include covid-msg.md %}{% endcapture %}
+{{ covid_msg | markdownify }}
 </div>
 
-<h1>Welcome to UT!</h1>
+# Welcome to UT!
 
 {% include about-ut.md %}
 
