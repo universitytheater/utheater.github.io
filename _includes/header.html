@@ -20,7 +20,8 @@
               {%- for subpage_hsh in page_hsh.subpages -%}
                 {%- for tmp in subpage_hsh -%}
                   {%- assign my_subpage = site.pages | where: "path", tmp[1] | first -%}
-                  <a class="dropdown-item" href="{{ my_subpage.url | relative_url }}">
+                  {% capture http_prestr %}{{ tmp[1] | slice: 0, 4 }}{% endcapture %}
+                  <a class="dropdown-item" {% if http_prestr == "http" %}target="_blank"{% endif %} href="{% if http_prestr == "http" %}{{ tmp[1] }}{% else %}{{ my_subpage.url | relative_url }}{% endif %}">
                     {{ tmp[0] }}
                   </a>
                 {%- endfor -%}

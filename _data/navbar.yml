@@ -2,9 +2,10 @@
   subpages:
     - About UT: _pages/about-ut.md
     - About Committee: _pages/about-committee.md
+    - About TAPS: https://arts.uchicago.edu/theater-and-performance-studies/about-taps
+    - About CTS: _pages/cts.md
     - Structure: _pages/structure.md
     - Listhost: _pages/listhost.md
-    - About CTS: _pages/cts.md
 # - name: Shows
 #   page: shows.md
 - name: By-Laws
