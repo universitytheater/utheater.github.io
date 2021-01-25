@@ -4,7 +4,6 @@
     - About Committee: _pages/about-committee.md
     - About TAPS: https://arts.uchicago.edu/theater-and-performance-studies/about-taps
     - About CTS: _pages/cts.md
-    - Structure: _pages/structure.md
     - Listhost: _pages/listhost.md
 # - name: Shows
 #   page: shows.md
@@ -15,6 +14,7 @@
 # - name: Documents
 #   page: documents.md
 # - name: Blog
-#   page: blog.md
-# - name: Design Database
-#   page: https://ut-jobs.dvtk.me
+#   page: _pages/blog.md
+- name: Get Involved
+  subpages:
+    - Design Database: https://ut-jobs.dvtk.me

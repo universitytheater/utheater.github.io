@@ -12,7 +12,7 @@
       {%- for page_hsh in site.data.navbar -%}
         {%- assign my_page = site.pages | where: "path", page_hsh.page | first -%}
         <li class="nav-item {% if page_hsh.subpages.size > 0 %} dropdown {% endif %}">
-          <a class="nav-link {% if page_hsh.subpages.size > 0 %} dropdown-toggle {% endif %}" {% if page_hsh.subpages.size > 0 %}id="navbarDropdown" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"{% elsif page_hsh.page %}href="{% if my_page %}{{ my_page.url | relative_url }}{% else %}{{ page_hsh.page }}{% endif %}"{% endif %}>
+          <a class="nav-link {% if page_hsh.subpages.size > 0 %} dropdown-toggle {% endif %}" {% if page_hsh.subpages.size > 0 %}id="navbarDropdown" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"{% elsif page_hsh.page %}target="_blank" href="{% if my_page %}{{ my_page.url | relative_url }}{% else %}{{ page_hsh.page }}{% endif %}"{% endif %}>
             {{ page_hsh.name }}
           </a>
           {%- if page_hsh.subpages.size > 0 -%}
