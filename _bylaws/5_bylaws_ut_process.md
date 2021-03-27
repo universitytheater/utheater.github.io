@@ -5,7 +5,7 @@ toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
 permalink: /bylaws/ut-process
-date: 2020-06-11
+date: 2021-01-30
 wrap_div: bylaws bylaws-process
 ---
 {::options auto_id_prefix="VI-" /}
@@ -40,9 +40,9 @@ After a production is passed and scheduled by the University Theater Committee, 
     * Meeting with the Committee Liaison at least once every two weeks to facilitate communication and bring up any concerns to the Committee Liaison.
     * For the staff NED, making every human attempt to attend all scheduled production meetings.
 
-### C. Removal of an individual from a production by committee
+### C. Removal of an individual from a production by Committee
 
-* As the governing body of UT, committee is responsible for ensuring that the standards set in this document are met by all community members. As such, committee reserves the right to remove individuals from productions via a two-thirds majority vote.
+* As the governing body of UT, Committee is responsible for ensuring that the standards set in this document are met by all community members. As such, committee reserves the right to remove individuals from productions via a two-thirds majority vote.
 * Committee should make every effort to ascertain the details of the situation before calling a vote for removal in this way.
 
 ### D. Post-mort

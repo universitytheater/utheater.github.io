@@ -4,7 +4,7 @@ title: University Theater Bylaws
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
-permalink: /bylaws
+permalink: /bylaws/old
 modified_date: 6/11/2020
 ---
 

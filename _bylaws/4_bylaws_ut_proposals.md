@@ -5,7 +5,7 @@ toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
 permalink: /bylaws/ut-proposals
-date: 2020-06-11
+date: 2021-01-30
 wrap_div: bylaws-proposals bylaws
 ---
 {::options auto_id_prefix="V-" /}
@@ -54,8 +54,8 @@ wrap_div: bylaws-proposals bylaws
           * The week (or weeks) the proposer will accept.
           * The amount of tech time the RSO will require.
           * Any other resources the RSO desires from UT, including but not limited to student production staff, student performers, publicity, and audition space.
-      * As detailed in Sections IV.A.1.f and IV.A.1.g, the community-wide Mainstage Proposal Meeting is held on Friday of 4<sup>th</sup> Week at 5pm. At this meeting, as with the Mainstage proposers, the Collaboration proposers have one minute each to present their proposal and five minutes each to answer the questions of Committee and community members. Also as with Mainstage proposers, Collaboration proposers who are also members of Committee are not allowed to sit in the Executive Session Proposal Meeting or to vote on the season.
-      * For the guidelines of the Collaboration process once a proposal passes, see Section IV.A.3.f.
+      * As detailed in Sections V.A.1.g and V.A.1.h, the community-wide Mainstage Proposal Meeting is held on Friday of 4<sup>th</sup> Week at 5pm. At this meeting, as with the Mainstage proposers, the Collaboration proposers have one minute each to present their proposal and five minutes each to answer the questions of Committee and community members. Also as with Mainstage proposers, Collaboration proposers who are also members of Committee are not allowed to sit in the Executive Session Proposal Meeting or to vote on the season.
+      * For the guidelines of the Collaboration process once a proposal passes, see Section V.A.3.f.
 
 3. #### Mainstage Proposal Executive Session
     * Directly after the community-wide meeting, Committee goes into Executive Session to discuss each proposal individually. In this meeting, Committee considers whether a show:

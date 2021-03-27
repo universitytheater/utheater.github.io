@@ -12,5 +12,3 @@ permalink: /
 # Welcome to UT!
 
 {% include about-ut.md %}
-
-> **Note:** If you're looking for the Fall 2020 town hall notes, look [here](/town-hall/fall-2020)
