@@ -57,18 +57,24 @@ wrap_div: bylaws bylaws-ut-main
     Students on the Committee serve one-year terms. Elections for general members are held Seventh Week of Winter Quarter. Elections for representatives from the Dean’s Men, Off-Off, Student Staff, and Tech Staff are held according to the schedules determined in the bylaws of those organizations. Vacancies at other times will be filled by Special Elections. At least two weeks in advance of the election, a notice shall be posted to the UT general list-host (utheater-general@lists.uchicago.edu).
       * ##### Eligibility
 
-        To run for Committee, a candidate must be either:
+        To run for and serve on Committee, a candidate must be a registered student and have at least TWO (2) Quarters of Involvement in the University Theater community during their enrollment at the University of Chicago, including the quarter of the election. A Quarter of Involvement is an academic quarter in which a student has done one or more of the following:
 
           {:.ul-lower-roman}
-          * a registered student with TWO (2) University Theater cast or production staff credits within the FOUR (4) quarters prior to the election, including the quarter of the election and excluding any quarters spent studying abroad; or,
-          * a member of Off-Off Campus in their second quarter of training.
-          * a curator of Theater [24] for three (3) quarters within the last five (5) quarters prior to the election, including the quarter of the election and excluding quarters spent abroad.
+          * Participated as a cast or production staff member in a University Theater production (including Workshops), where performances of that production took place in that quarter
+          * Participated in TAPS productions, projects, and programs that give significant experience relevant to University Theater (e.g. regularly attending a TAPS design/management cohort, being a cast or production staff member in a TAPS Independent Project or Pro Show). Note that participation in a TAPS production only counts for the quarter in which performances took place.
+          * Participated in an artistic project or program sanctioned and/or funded by UT Committee (e.g. monologue festivals, paper projects, UT Mentorship Program)
+          * Participated in Radio[24] or Theater[24]
+          * Was an active member of Off-Off Campus
+          * Was an active member of the Dean’s Men Board or UT Committee
 
-        Candidates must also be prepared to be available for the 5pm Monday meeting time for the entirety of their potential term. Collaboration credits do not count as University Theater credits.
+        Candidates must also be prepared to be available for the 5pm Monday meeting time for the entirety of their potential term.
 
-        To vote in Committee elections, community members must be either:
-          * a registered student with ONE (1) University Theater cast or production staff credit within the FOUR (4) quarters prior to the election, including the quarter of the election and excluding any quarters spent studying abroad; or,
-          * a member of Off-Off Campus at least in their second quarter of training. Members of Pro-staff may not vote in the elections for Committee. Collaboration credits do not count as University Theater credits.
+        To vote in Committee elections, a community member must be a registered student and have at least ONE (1) Quarter of Involvement, as described above.
+
+        Candidates and voters will be asked to describe how they were involved during their Quarter(s) of Involvement.
+
+        Members of Pro-staff may not vote in the elections for Committee. Collaboration credits do not count as University Theater credits.
+
       * ##### Nomination
         Candidates must provide one-page statement listing their past UT involvement and motivation for running for Committee. This statement must be submitted to the sitting Committee Chair by 5PM the Friday before the election. A list of the candidates and their statements must be emailed to the UT General Listhost that evening. A ballot shall be prepared listing every candidate. If necessary, the Committee Chair will verify the eligibility of candidates and voters.
       * ##### The Election Meeting
@@ -103,7 +109,7 @@ wrap_div: bylaws bylaws-ut-main
     * ##### Terms of Office and Eligibility
       Officers' terms are from the time of election through the end of the following winter quarter. If an officer needs to be replaced prior to this time, a special officer election shall be held at a regular Committee meeting. Officers can be replaced by a two-thirds majority vote of the Committee. In the case of absences, each officer may designate another Committee member to fulfill their duties. Student Staff Committee members (Student Administrative and Technical Staff) are ineligible for Committee Officer positions.
     * ##### Election of Officers
-      New officers are nominated and elected during the Tenth Week Committee meeting of Winter Quarter by the newly elected voting Committee members who will begin serving in the Spring Quarter. Position descriptions shall be provided to the new Committee by the outgoing Committee at the end of the Winter Quarter. After brief presentations by those who are running, the Committee shall vote by secret ballot. The individual who receives a majority vote of those present shall fill the position.
+      New officers are nominated and elected during the Ninth Week Committee meeting of Winter Quarter by the newly elected voting Committee members who will begin serving in the Spring Quarter. Position descriptions shall be provided to the new Committee by the outgoing Committee at the end of the Winter Quarter. After brief presentations by those who are running, the Committee shall vote by secret ballot. The individual who receives a majority vote of those present shall fill the position.
     * ##### Filling Vacant Offices
       If at any time an office is vacated through the removal or resignation of a committee member, the duties and responsibilities of that office (but not the office itself) may be taken on in the interim by another member or divided up among members of the Committee. This is done by a nomination or motion during the meeting at which the vacancy occurs or is discovered, and is approved by majority vote. After the number of elected committee members is restored to TEN (10) through special elections (see Section I.B.2.d), a special officer election will be held for the vacant offices, to be held until the end of the winner's Committee term. Committee members already holding an office are permitted to run for vacant offices, but if elected must give up their previous office, which will then be filled by special election within that same meeting.
 5. #### Meetings
@@ -129,9 +135,9 @@ wrap_div: bylaws bylaws-ut-main
 3.  #### Fairness
     If a community or Committee member or members are concerned about a Committee member's ability to vote fairly during a proposal meeting or regular meeting, the Chair should ask publicly or privately that the individual or individuals in question consider their fairness. If the situation has not changed, any member of the Committee may ask for a vote on the person's further participation in the process, which can include removal from vote or discussion. Should the Committee Member choose to remove themself from the vote, they may have the opportunity to state so at the beginning of the proposal meeting. If the Chair is an individual in question, the Director of UT/TAPS should be approached.
 4.  #### Budgeting and Financial Matters
-    All Mainstage productions (8th and 10th week productions) have a budget between $2000 and $3000. All Second Stage productions (6th week productions)have a budget between $500 and $1500. All Dean’s Men productions have a budget between $1000 and $2000. Weekends of Workshops, site specific proposals, and Studio productions have a budget between $0 and $250. The budget of individual productions within these ranges will be determined following the process outlined in VI.A. The only budget that may be extended beyond this is that of the Spring quarter 10th week mainstage, and only under the circumstances described in VI.A.1.D.I and by the processes described in IV.A.c.ii.
+    All Mainstage productions (8th and 10th week productions) have a budget between $2000 and $3000. All Second Stage productions (6th week productions)have a budget between $500 and $1500. All Dean’s Men productions have a budget between $1000 and $2000. Weekends of Workshops, site specific proposals, and Studio productions have a budget between $0 and $250. The budget of individual productions within these ranges will be determined following the process outlined in VI.A. The only budget that may be extended beyond this is that of the Spring quarter 10th week mainstage, and only under the circumstances described in VI.A.1.D.I and by the processes described in IV.A.c.ii. All funds collected will be deposited in UT's University account.
 5.  #### Amending the By-Laws
-    These by-laws can be amended by a two-thirds vote of the entire Committee. After each meeting, any amendments to the by-laws must be made in the Secretary’s running copy of the by-laws and noted by the Secretary in the public committee meeting minutes. After the final (10th Week) meeting of each quarter, the Secretary emails the most recent edition of the bylaws to the UT general listhost if there have been changes that quarter.
+    These by-laws can be amended by a two-thirds vote of the entire Committee. After each meeting, any amendments to the by-laws must be made in the Secretary’s running copy of the by-laws and noted by the Secretary in the public committee meeting minutes. After the final meeting of each quarter, the Secretary emails the most recent edition of the bylaws to the UT general listhost if there have been changes that quarter.
 
     {:.ul-upper-roman}
     * Any proposal deliberated on by committee must be decided and enacted under the bylaws that existed when it was proposed. Once a decision has been reached, committee will not hold another vote on the matter unless new information arises. A change of the bylaws is not considered new information for the purposes of reconsidering a decided matter. This item of the by-laws may only be changed by a unanimous vote of committee.
@@ -140,7 +146,7 @@ wrap_div: bylaws bylaws-ut-main
 
 ### D. Diversity, Representation, and Inclusion Statement
 
-University Theater is committed to fostering diversity in its community and in its productions. University Theater does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity, national or ethnic origin, age, status as an individual with a disability, protected veteran status, genetic information, or other protected groups under the law (see the University of Chicago's Non-Discrimination Statement and Title IX of the Education Amendments of 1972).
+1. University Theater is committed to fostering diversity in its community and in its productions. University Theater does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity, national or ethnic origin, age, status as an individual with a disability, protected veteran status, genetic information, or other protected groups under the law (see the University of Chicago's Non-Discrimination Statement and Title IX of the Education Amendments of 1972).
 
 If one or more of the protected groups listed above are integral to a character's identity per the playwright's text and/or the directorial team's vision, then directorial teams should cast an actor that represents the protected group(s) through the actor’s own identities. If none of the protected groups listed above are integral to a character's identity per the playwright's text and/or the directorial team's vision, then directorial teams should be mindful that such factors of an actor's appearance and/or identity do not negatively impact in any way an actor's chances of being cast in the role.
 
@@ -153,3 +159,18 @@ These approaches may include (and are not limited to):
   4. Consciously casting people who identify as a member of one or more protected groups—where there may not be precedent to do so—in roles that serve to uniquely portray, uplift, or present the perspectives of their protected group(s).
   5. Consciously employing a staff of directors, designers, managers, and/or assistants who identify as members of one or more protected groups to uniquely portray, uplift, or present the perspectives of their protected group(s) in all aspects of production—not just in acting.
   6. Actively engaging with organizations on campus and/or in the larger community that have relevant missions related to diversity, inclusion, and/or promoting awareness of different identities both while conceiving of production visions and throughout the rehearsal process.
+
+2.  #### A Note on Programming
+University Theater honors its commitment to diversity, representation, and inclusion by producing at least one show per quarter authored by and/or centering on the stories of communities historically underrepresented and underproduced in the arts. This means that:
+
+    {:.ul-upper-roman}
+    * At least one show per quarter must be authored by and/or center on the stories of communities historically underrepresented and underproduced in the arts. This includes (but is not limited to) works authored by and/or centering on Black, Indigenous, and people of color (BIPOC), queer and trans people, and women; plays that treat identity intersectionally, contemporary plays (i.e. plays written in the last decade), and plays by contemporary Chicago-based playwrights are to be particularly encouraged. This also includes student-written work. A reimagining of a play that does not traditionally meet these standards of representation (e.g a Shakespeare play) will not be considered under this bylaw. 
+    * UT Committee recognizes that in order to honor its commitment to UT’s three pillars, Opportunity, Education, and Artistic Excellence, it must be an active participant in meeting the standards of this bylaw, and it must consistently work to create a space that showcases, welcomes, and uplifts artists of all identities. Committee’s approaches may include (but are not limited to):
+      1. working with the community to compile and promote an accessible library of underproduced work by BIPOC playwrights;
+      2. regularly organizing workshops for Committee members and the community in topics such as (but not limited to) copyright laws and ownership in theater industry, rehearsal room safety, and anti-racist theater practices;
+      3. organizing and funding community trips to productions by theater companies in Chicago committed to showcasing new work by BIPOC, queer and trans playwrights;
+      4. actively supporting the work of and seeking out collaborations with organizations that have missions related to diversity and inclusion, representation in the arts, and promoting awareness of different identities on campus.
+    * If no production that meets these standards of representation is proposed by the community, UT Committee will initiate a search for an appropriate director and play, working in conjunction with TAPS faculty and pro staff for support. If a production or reading cannot be organized, any UT programming that does not meet these standards of representation may not be scheduled in its stead. 
+    * Production of shows authored by and/or centering on the stories of communities historically underrepresented and underproduced in the arts is by no means limited to one per quarter. This bylaw is in place to ensure that there be at least one such work produced per quarter.
+    * All UT proposals will be rigorously looked at for their commitment to [Diversity, Representation, and Inclusion Bylaw 1-6], in addition to Opportunity, Education, and Artistic Excellence.
+
