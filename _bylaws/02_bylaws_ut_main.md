@@ -154,6 +154,7 @@ wrap_div: bylaws bylaws-ut-main
     In addition, University Theater values and invites storytelling that showcases, celebrates, and/or uplifts all identities. As such, when conceiving of production visions, members are encouraged to consider “identity-conscious” approaches (rather than “identity-blind” approaches)—that is, explicitly and intentionally leveraging identity in casting, crew, and production work with the aim of increasing awareness, honoring culture, fostering equity, and/or promoting identity and identity-focused discourse.
 
     These approaches may include (and are not limited to):
+    
     {:.ul-upper-roman}
     * Intentionally assembling diverse casts and crews to increase representation and encourage many different voices in the rehearsal room, the production room, and on stage.
     * Being attentive to casting and stage pictures that depict or are reminiscent of historically discriminatory viewpoints and consciously avoiding such depictions unless they are crucial to the playwright's text and/or the directorial team's vision.
