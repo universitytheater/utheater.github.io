@@ -12,4 +12,4 @@ In order to join the listhost, log in using your cnet ID and password at [lists.
 
 ### Subscribing to the UT newsletter
 
-University Theater also publishes a monthly newsletter featuring programming, community member spotlights, play reading lists, and updates from Committee! [**Click here](http://eepurl.com/hfi05f) to subscribe.**
+University Theater also publishes a monthly newsletter featuring programming, community member spotlights, play reading lists, and updates from Committee! **[Click here](http://eepurl.com/hfi05f) to subscribe.**
