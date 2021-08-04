@@ -16,6 +16,8 @@
 #   page: documents.md
 # - name: Blog
 #   page: _pages/blog.md
+- name: Town Halls
+  collection: townhalls
 - name: Get Involved
   subpages:
     - Design Database: https://ut-jobs.dvtk.me

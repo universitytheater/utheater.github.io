@@ -11,9 +11,14 @@
     <ul class="navbar-nav mr-auto">
       {%- for page_hsh in site.data.navbar -%}
         {%- assign my_page = site.pages | where: "path", page_hsh.page | first -%}
-        <li class="nav-item {% if page_hsh.subpages.size > 0 %} dropdown {% endif %}">
+        {%- if page_hsh.subpages.size > 0 or page_hsh.collection -%}
+        {%- assign is_dropdown = true -%}
+        {%- else -%}
+        {%- assign is_dropdown = false -%}
+        {%- endif -%}
+        <li class="nav-item {% if is_dropdown %} dropdown {% endif %}" foobar="{{is_dropdown}}">
           {% capture http_prestr %}{{ page_hsh.page | slice: 0, 4 }}{% endcapture %}
-          <a class="nav-link {% if page_hsh.subpages.size > 0 %} dropdown-toggle {% endif %}" {% if page_hsh.subpages.size > 0 %}id="navbarDropdown" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"{% elsif page_hsh.page %}{% if http_prestr == "http" %}target="_blank"{% endif %} href="{% if my_page %}{{ my_page.url | relative_url }}{% else %}{{ page_hsh.page }}{% endif %}"{% endif %}>
+          <a class="nav-link {% if is_dropdown %} dropdown-toggle {% endif %}" {% if is_dropdown %}id="navbarDropdown" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"{% elsif page_hsh.page %}{% if http_prestr == "http" %}target="_blank"{% endif %} href="{% if my_page %}{{ my_page.url | relative_url }}{% else %}{{ page_hsh.page }}{% endif %}"{% endif %}>
             {{ page_hsh.name }}
           </a>
           {%- if page_hsh.subpages.size > 0 -%}
@@ -26,6 +31,14 @@
                     {{ tmp[0] }}
                   </a>
                 {%- endfor -%}
+              {%- endfor -%}
+            </div>
+          {%- elsif page_hsh.collection -%}
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+              {%- for collection_item in site[page_hsh.collection] -%}
+                <a class="dropdown-item" href="{{ collection_item.url | relative_url }}">
+                  {{ collection_item.title }}
+                </a>
               {%- endfor -%}
             </div>
           {%- endif -%}
