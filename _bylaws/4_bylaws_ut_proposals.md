@@ -17,7 +17,7 @@ wrap_div: bylaws-proposals bylaws
     * A proposer may email the Committee Chair to request a “preaison” from Committee. The preaison will meet with the proposer to discuss any questions the proposer might have about the proposal process.
     * Proposers meet with the Director of UT/TAPS and the TAPS Design Team to discuss their proposals. These individuals may recommend meeting with other members of the TAPS professional staff. Proposers meet with the Managing Director to discuss rights, if applicable.
     * Proposers present to a production cohort meeting. This meeting is open to all members of University Theater. In this meeting proposers discuss briefly their vision for their production,in terms of both design and process. After this meeting, attendees and proposers meet and form teams.
-    * Proposers turn in their proposal by Friday of 3<sup>rd</sup> Week of the quarter prior to production by 5pm to the Committee Chair’s mailbox and electronically, either by fileshare (Google Drive, Dropbox, etc. or emailed to [executivesessionuniversitytheatre@lists.uchicago.edu](mailto:executivesessionuniversitytheatre@lists.uchicago.edu)).
+    * Proposers turn in their proposal by Friday of 3<sup>rd</sup> Week of the quarter prior to production by 5pm to the Committee Chair’s mailbox and electronically, either by fileshare (Google Drive, Dropbox, etc. or emailed to [ut-committee@lists.uchicago.edu](mailto:ut-committee@lists.uchicago.edu)).
 
       {:.ul-upper-roman}
         * The Spring 10th week production may be proposed in the proposal cycle that occurs during Fall Quarter. If no production is passed in that slot at that time, the slot may be filled in the Winter Quarter proposal meeting as usual.
@@ -43,7 +43,7 @@ wrap_div: bylaws-proposals bylaws
     RSOs may propose to collaborate with UT with the same deadline as mainstage proposals.
       * Proposing RSOs contact the Committee Chair expressing an interest in collaborating with UT. The RSO then sends a representative to a Committee meeting any time before the Mainstage proposal meeting to discuss the proposal with Committee.
       * Collaborations proposers are encouraged to meet with the Director of UT/TAPS and the TAPS Design Team to discuss their proposals. Proposers meet with the Managing Director to discuss rights, if applicable.
-      * Proposers turn in their proposal by Friday of 3<sup>rd</sup> Week by 5pm to the Committee Chair's mailbox and electronically, either by fileshare (Google Drive, Dropbox, etc. or emailed to [executivesessionuniversitytheatre@lists.uchicago.edu](mailto:executivesessionuniversitytheatre@lists.uchicago.edu)).
+      * Proposers turn in their proposal by Friday of 3<sup>rd</sup> Week by 5pm to the Committee Chair's mailbox and electronically, either by fileshare (Google Drive, Dropbox, etc. or emailed to [ut-committee@lists.uchicago.edu](mailto:ut-committee@lists.uchicago.edu)).
       * The proposal should include the following components:
 
           * Name and information about the RSO, and proposer, and their role in the organization.
@@ -87,7 +87,7 @@ wrap_div: bylaws-proposals bylaws
 
 1. #### Proposal Process
     * Proposers are encouraged to meet with the Director of UT/TAPS to discuss their proposals. Proposers meet with the Managing Director to discuss rights, if applicable.
-    * Proposers turn in their proposal by Friday of 6<sup>rd</sup> Week by 5pm to the Committee Chair's mailbox and electronically, either by fileshare (Google Drive, Dropbox, etc. or emailed to [executivesessionuniversitytheatre@lists.uchicago.edu](executivesessionuniversitytheatre@lists.uchicago.edu)).
+    * Proposers turn in their proposal by Friday of 6<sup>rd</sup> Week by 5pm to the Committee Chair's mailbox and electronically, either by fileshare (Google Drive, Dropbox, etc. or emailed to [ut-committee@lists.uchicago.edu](ut-committee@lists.uchicago.edu)).
     *   The proposal should include the following components:
 
           * Name and information about the proposer.
