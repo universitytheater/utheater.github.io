@@ -12,4 +12,4 @@ Here’s a list of some of the groups and events that make up UT! If something c
 
 - **New Work Week** is an exciting celebration of the play-making process through student-written and directed pieces. [Get involved](https://taps.uchicago.edu/performance/new-work-week-2021)!
 
-- **Weekend of Workshops** offers a space for student directors to explore their craft and push on the limits of their creative vision.
+- **Weekend of Workshops** offers a space for student directors to explore their craft and push on the limits of their creative vision. [Click here](https://docs.google.com/document/d/1dzDkBSw-pfvZGrv60M3INPljW6JH5gYglF1t8eCwMjw/edit) ) to learn more and propose a workshop!
