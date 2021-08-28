@@ -4,7 +4,7 @@ Here’s a list of some of the groups and events that make up UT! If something c
 
 - **University Theater** has been putting on student-led shows since 1898. Get involved as an actor or [as a designer or manager](https://ut-jobs.dvtk.me)!
 
-- **The Dean’s Men** is a student organization at the University of Chicago dedicated to the works of William Shakespeare.
+- **The Dean’s Men** is a student organization at the University of Chicago dedicated to the works of William Shakespeare. [Learn more](https://www.facebook.com/thedeansmen/)!
 
 - **Off-Off Campus** is UT’s very own improvisational comedy troupe. [Learn more](https://offoffcampus.org/)!
 

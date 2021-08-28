@@ -3,7 +3,7 @@ layout: page
 slug: fall-2020
 ---
 
-On 8/16/2020 Committee hosted a Town Hall to describe our loose plans for the Fall and to solicit ideas for possible programming.
+On August 16, 2020, Committee hosted a Town Hall to describe our loose plans for Fall 2020 and to solicit ideas for possible programming.
 
 ## Slides
 
