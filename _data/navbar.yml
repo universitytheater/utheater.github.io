@@ -4,10 +4,17 @@
     - About UT Committee: _pages/about-committee.md
     - About TAPS: https://taps.uchicago.edu/
     - About CTS: _pages/cts.md
+- name: Get Involved
+  subpages:
+    - Actors: https://ut.uchicago.edu
+    - Designers & Managers: https://bit.ly/UTFall21Interest
+    - UT Listhost: _pages/listhost.md
 # - name: Shows
 #   page: shows.md
 - name: By-Laws
   page: _pages/bylaws_new.html
+- name: Past Shows
+  page: https://arts.uchicago.edu/utshows
 - name: COVID Policies
   page: _pages/covid.md
 # - name: Documents
@@ -16,10 +23,6 @@
 #   page: _pages/blog.md
 - name: Town Halls
   collection: townhalls
-- name: Get Involved
-  subpages:
-    - Actors: https://ut.uchicago.edu
-    - Designers & Managers: https://bit.ly/UTFall21Interest
-    - UT Listhost: _pages/listhost.md
+
 #    - Propose a Show: #
 #    - Design Database: https://ut-jobs.dvtk.me

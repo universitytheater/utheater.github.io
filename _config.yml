@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: University Theater
+title: University Theater at UChicago
 email: ut@uchicago.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  The home for University Theater, the premiere performance RSO at the University of Chicago
+  The home for University Theater, the premier performance RSO at the University of Chicago
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 logo: /ut-logo.png
