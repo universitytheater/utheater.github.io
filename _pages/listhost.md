@@ -8,7 +8,7 @@ The UT-General email listhost is a general listhost for communicating with the U
 
 ### Joining the Listhost
 
-In order to join the listhost, log in using your cnet ID and password at [lists.uchicago.edu](http://lists.uchicago.edu) and go to [this link](lists.uchicago.edu/web/subscribe/utheater-general) to subscribe. 
+In order to join the listhost, log in using your cnet ID and password at [lists.uchicago.edu](http://lists.uchicago.edu) and **go to [this link](http://lists.uchicago.edu/web/subscribe/utheater-general)** to subscribe. 
 
 ### Subscribing to the UT newsletter
 
