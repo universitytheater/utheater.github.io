@@ -23,7 +23,7 @@ Our auditions are not meant to be stressful or intimidating, and all casting tea
 **Do you have questions about auditioning for each show?** Feel free to contact the following:
 
 * *Ah Wing and the Automaton Eagle*: [Danielle Yablonovskiy](mailto:dyab2602@uchicago.edu)
-* *The Heirs*: [Jack Zheng](mailto:jackgood0815@gmail.com)
+* *The Heirs*: [Jack Zeng](mailto:jackgood0815@gmail.com)
 * *Love's Labour's Lost*: [Spencer Ng](mailto:spencerng@uchicago.edu)
 
 
