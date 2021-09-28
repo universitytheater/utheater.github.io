@@ -4,13 +4,6 @@ title: UT & TAPS Fall 2021 Events
 permalink: /events/fall21
 ---
 
-<div class="alert alert-info">
-{% capture fall_2021 %}{% include fall-2021.md %}{% endcapture %}
-{{ fall_2021 | markdownify }}
-</div>
-
-Here's what happening from UT and TAPS this quarter!
-
 
 <div class="border container p-2 mb-3">
   <div class="row align-items-center">
@@ -64,7 +57,7 @@ Here's what happening from UT and TAPS this quarter!
 <div class="border container p-2 mb-3">
   <div class="row align-items-center">
     <div class="col-6 p-3">
-      Game & Trivia "Night"</h4>
+      <h4>Game & Trivia "Night"</h4>
       <p class="mb-1">Come chill with UT at our week-capping game and trivia "night"! All are invited, from first- to fourth-year; reconnect with old friends, and meet some new ones! Non-formal, just bring yourself and maybe even your brain. Capacity in Logan 028 is capped at 28 people, so depending on turnout, we may ask folks to rotate out of the room.</p>
     </div>
     <div class="col-3">
@@ -128,7 +121,7 @@ Here's what happening from UT and TAPS this quarter!
   <div class="row align-items-center">
     <div class="col-6 p-3">
       <h4 class="font-weight-bold mb-0 text-dark">Weekend of Workshops</h4>
-      <p class="mb-1">Come see workshopped scenes of two student-written plays: <em>The Heirs</em> and <em>Ah Wing and the Automaton Eagle</em>. A free preview will take place Thursday, Oct 28th at 7:30pm. </p>
+      <p class="mb-1">Come see workshopped scenes from two student-written plays: <em>The Heirs</em> and <em>Ah Wing and the Automaton Eagle</em>. A free preview will take place Thursday, Oct 28th at 7:30pm. </p>
     </div>
     <div class="col-3">
       <p class="mb-1"><i class="far fa-calendar"></i> Oct. 29-30, 7:30pm + Oct. 30, 2pm</p>
@@ -145,7 +138,7 @@ Here's what happening from UT and TAPS this quarter!
   <div class="row align-items-center">
     <div class="col-6 p-3">
       <h4 class="font-weight-bold mb-0 text-dark">Love's Labour's Lost</h4>
-      <p class="mb-1">Come see the Dean's Men's Fall show, classic Shakespeare comedy <em>Love's Labour's Lost</em>. A free preview will take place Thursday, Nov 11th at 7:30pm. </p>
+      <p class="mb-1">Come see the Dean's Men's Fall show, classic Shakespeare comedy <em>Love's Labour's Lost</em>. A free preview will take place Thursday, Nov 18th at 7:30pm. </p>
     </div>
     <div class="col-3">
       <p class="mb-1"><i class="far fa-calendar"></i> Nov. 18-20, 7:30pm + Nov. 20, 2pm</p>
@@ -166,10 +159,8 @@ Here's what happening from UT and TAPS this quarter!
 * [Follow us on Facebook](https://facebook.com/universitytheater)!
 * Join our Discord through the [UChicago student hub](https://discord.gg/KhEEuRweMd)! 
 
-**Have an idea for an event?** Contact us at [ut-committee@uchicago.edu](mailto:ut-committee@uchicago.edu) or message us [on Facebook](https://facebook.com/universitytheater))! 
+**Have an idea for an event?** Contact us at [ut-committee@uchicago.edu](mailto:ut-committee@uchicago.edu) or message us [on Facebook](https://facebook.com/universitytheater)! 
 
 
-**A note on these events**
-
-These convenings are open to all invitees who are compliant with UChicago vaccination requirements and, because of ongoing health risks, particularly to the unvaccinated, participants are expected to adopt the risk mitigation measures (masking and social distancing, etc.) appropriate to their vaccination status as advised by public health officials or to their individual vulnerabilities as advised by a medical professional. Public convenings may not be safe for all and carries a risk for contracting COVID-19, particularly for those unvaccinated. Participants will not know the vaccination status of others and should follow appropriate risk mitigation measures. Click [here](https://leadership.uchicago.edu/registered-student-organizations/autumn-quarter-2021-updates/in-person-event-procedures/) for more information about university COVID safety protocols. 
+**A note on these events**: These convenings are open to all invitees who are compliant with UChicago vaccination requirements and, because of ongoing health risks, particularly to the unvaccinated, participants are expected to adopt the risk mitigation measures (masking and social distancing, etc.) appropriate to their vaccination status as advised by public health officials or to their individual vulnerabilities as advised by a medical professional. Public convenings may not be safe for all and carries a risk for contracting COVID-19, particularly for those unvaccinated. Participants will not know the vaccination status of others and should follow appropriate risk mitigation measures. Click [here](https://leadership.uchicago.edu/registered-student-organizations/autumn-quarter-2021-updates/in-person-event-procedures/) for more information about university COVID safety protocols. 
 
