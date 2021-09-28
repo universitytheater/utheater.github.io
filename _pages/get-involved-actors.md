@@ -8,7 +8,7 @@ Welcome to University Theater! We're delighted you're thinking of auditioning fo
 
 Our auditions are not meant to be stressful or intimidating, and all casting teams are rooting for you to do your best. The most important thing is to have fun!
 
-UT will be producing the following shows in Fall 2021:
+**UT will be producing the following shows in Fall 2021**:
 
 * A Weekend of Workshops: *Ah Wing and the Automaton Eagle* & *The Heirs* - 5th Week (10/29-10/30), Theater East
 * *Love's Labour's Lost* - 8th week (11/18-11/20), Theater West
