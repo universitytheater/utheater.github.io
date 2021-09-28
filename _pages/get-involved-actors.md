@@ -8,6 +8,25 @@ Welcome to University Theater! We're delighted you're thinking of auditioning fo
 
 Our auditions are not meant to be stressful or intimidating, and all casting teams are rooting for you to do your best. The most important thing is to have fun!
 
+UT will be producing the following shows in Fall 2021:
+
+* A Weekend of Workshops: *Ah Wing and the Automaton Eagle* & *The Heirs* - 5th Week (10/29-10/30), Theater East
+* *Love's Labour's Lost* - 8th week (11/18-11/20), Theater West
+
+**To audition for Fall 2021 shows, follow these steps!**
+
+1. **Fill out the [general UT audition form](http://bit.ly/UTFall21Auditions)**. If you're quarantining during first week, you'll also have an opportunity to request a Zoom audition.
+2. **Sign up for a time slot** to audition for [*Love’s Labour’s Lost*](http://bit.ly/LLLAuditionSignup) and/or [our workshops](http://bit.ly/Fall21WorkshopsAuditionSignup), *Ah Wing and the Automaton Eagle* and *The Heirs*.
+3. **Choose an [audition side](http://bit.ly/UTFall21AuditionSides)**, then enter the audition room on the 3rd floor of Cobb Hall during your time slot. We'll also have physical copies of the sides at each show’s table! Please note that you are not expected to memorize your side.
+4. Callback auditions will be announced via email late Wednesday evening! If you are called back, congrats! Please go to Cobb Hall during your assigned time(s) Thursday evening 7-10pm. Final cast lists will be announced Friday afternoon.
+
+**Do you have questions about auditioning for each show?** Feel free to contact the following:
+
+* *Ah Wing and the Automaton Eagle*: [Danielle Yablonovskiy](mailto:dyab2602@uchicago.edu)
+* *The Heirs*: [Jack Zheng](mailto:jackgood0815@gmail.com)
+* *Love's Labour's Lost*: [Spencer Ng](mailto:spencerng@uchicago.edu)
+
+
 **Do you have any additional questions about acting in UT?** Feel free to send them to UT Committee at [ut-committee@uchicago.edu](mailto:ut-committee@uchicago.edu)!
 
 
@@ -22,7 +41,7 @@ For Fall 2021, auditions will be on September 28 and 29, with callbacks on the e
 
 There'll be basic instructions for each show's audition posted on this page in the near future! There'll also be an audition form you can fill out ahead of time; however, you can also do this at auditions if you wish. 
 
-Otherwise, **you can come as you are**! If you would like to prepare more thoroughly, you can find the audition materials for each show posted on the UT website (coming soon). However, you are **never** expected to memorize any material before an audition with UT. 
+Otherwise, **you can come as you are**! If you would like to prepare more thoroughly, you can find the audition materials for each show posted on the UT website. However, you are **never** expected to memorize any material before an audition with UT. 
 
 
 #### What should I do when I get to auditions?
