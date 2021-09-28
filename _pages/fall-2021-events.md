@@ -4,14 +4,14 @@ title: UT & TAPS Fall 2021 Events
 permalink: /events/fall21
 ---
 
-Here's a sneak peek at what's happening from UT and TAPS this quarter!*
+Here's a sneak peek at what's happening from UT and TAPS this quarter!
 
 
 <div class="border container p-2 mb-3">
   <div class="row align-items-center">
     <div class="col-6 p-3">
       <h4 class="font-weight-bold mb-0 text-dark">UT Auditions</h4>
-      <p class="mb-1">Come audition for <em>Circle Mirror Transformation</em>, <em>Love's Labour's Lost</em>, and Fall Workshops! Open auditions Tuesday and Wednesday, with callbacks Thursday.</p>
+      <p class="mb-1">Come audition for <em>Love's Labour's Lost</em> and Fall Workshops! Open auditions Tuesday and Wednesday, with callbacks Thursday.</p>
     </div>
     <div class="col-3">
       <p class="mb-1"><i class="far fa-calendar"></i> Sept. 28-30, 7pm</p>
@@ -47,8 +47,8 @@ Here's a sneak peek at what's happening from UT and TAPS this quarter!*
     </div>
     <div class="col-3">
       <p class="mb-1"><i class="far fa-calendar"></i> Oct. 1-2, 7:30pm</p>
-      <p class="mb-1"><i class="fas fa-map-marker-alt"></i> <a href="https://goo.gl/maps/Rd7gzsGaCBNaBYrM7">Logan 501</a></p>
-      <p class="mb-1"><i class="fas fa-link"></i> <a href="#">Signup Form</a>
+      <p class="mb-1"><i class="fas fa-map-marker-alt"></i> <a href="https://goo.gl/maps/Rd7gzsGaCBNaBYrM7">Theater East</a></p>
+      <p class="mb-1"><i class="fas fa-link"></i> <a href="https://forms.gle/d1ttiqMKeeWwE3av9">Signup Form</a>
       </p>
     </div>
     <div class="col-3 justify-content-center img-responsive">
@@ -63,7 +63,7 @@ Here's a sneak peek at what's happening from UT and TAPS this quarter!*
       <p class="mb-1">In this quarterly tradition, participate in some TAPS-led ~projects~ and meet others in the performing arts community. Pizza may be provided.</p>
     </div>
     <div class="col-3">
-      <p class="mb-1"><i class="far fa-calendar"></i> Oct. 8, 5:30pm</p>
+      <p class="mb-1"><i class="far fa-calendar"></i> Oct. 8, 6pm</p>
       <p class="mb-1"><i class="fas fa-map-marker-alt"></i> <a href="https://goo.gl/maps/Rd7gzsGaCBNaBYrM7">Logan Center</a></p>
     </div>
     <div class="col-3 justify-content-center img-responsive">
@@ -90,7 +90,7 @@ Here's a sneak peek at what's happening from UT and TAPS this quarter!*
   <div class="row align-items-center">
     <div class="col-6 p-3">
       <h4 class="font-weight-bold mb-0 text-dark">Weekend of Workshops</h4>
-      <p class="mb-1">I heard we're putting on some short, possibly student-written, possibly experimental pieces. Hopefully the Maroon like what we've got after 18 months of workshoping ourselves.</p>
+      <p class="mb-1">Performances Friday and Saturday of 5th Week</p>
     </div>
     <div class="col-3">
       <p class="mb-1"><i class="far fa-calendar"></i> Oct. 29, 7:30pm</p>
@@ -124,7 +124,7 @@ Here's a sneak peek at what's happening from UT and TAPS this quarter!*
   <div class="row align-items-center">
     <div class="col-6 p-3">
       <h4 class="font-weight-bold mb-0 text-dark">Love's Labour's Lost</h4>
-      <p class="mb-1">The beloved Shakespeare show returns yet again! Free preview on Thursday, November 18. Additional matinee performance at 2pm on Saturday, November 20.</p>
+      <p class="mb-1">Free preview on Thursday, November 18. Additional matinee performance at 2pm on Saturday, November 20.</p>
     </div>
     <div class="col-3">
       <p class="mb-1"><i class="far fa-calendar"></i> Nov. 18-20, 7:30pm</p>
@@ -137,5 +137,3 @@ Here's a sneak peek at what's happening from UT and TAPS this quarter!*
     </div>
   </div>
 </div>
-
-**Note:** if you found this page, this is a work in progress, and these events may or may not become a reality...
