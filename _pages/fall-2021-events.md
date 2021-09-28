@@ -14,7 +14,7 @@ permalink: /events/fall21
     <div class="col-3">
       <p class="mb-1"><i class="far fa-calendar"></i> Sept. 28-30, 7-10pm</p>
       <p class="mb-1"><i class="fas fa-map-marker-alt"></i> <a href="https://goo.gl/maps/anPB47QHpuVahVy9A">3rd Floor, Cobb Hall</a></p>
-      <p class="mb-1"><i class="fas fa-link"></i> <a href="https://bit.ly/UTFall21Auditions">Audition Form</a>, <a href="https://bit.ly/UTFall21AuditionSides">Audition Sides</a>
+      <p class="mb-1"><i class="fas fa-link"></i> <a href="https://bit.ly/UTFall21Auditions" target="_blank">Audition Form</a>, <a href="https://bit.ly/UTFall21AuditionSides" target="_blank">Audition Sides</a>
       </p>
     </div>
     <div class="col-3 justify-content-center img-responsive">
@@ -46,7 +46,7 @@ permalink: /events/fall21
     <div class="col-3">
       <p class="mb-1"><i class="far fa-calendar"></i> Oct. 2, 8pm</p>
       <p class="mb-1"><i class="fas fa-map-marker-alt"></i> <a href="https://goo.gl/maps/Rd7gzsGaCBNaBYrM7">Logan Theater East</a></p>
-      <p class="mb-1"><i class="fas fa-link"></i> <a href="https://taps.uchicago.edu/event/theatre24-2">Tickets ($4)</a>
+      <p class="mb-1"><i class="fas fa-link"></i> <a href="https://taps.uchicago.edu/event/theatre24-2" target="_blank">Tickets ($4)</a>
       </p>
     </div>
     <div class="col-3 justify-content-center img-responsive">
@@ -57,7 +57,7 @@ permalink: /events/fall21
 <div class="border container p-2 mb-3">
   <div class="row align-items-center">
     <div class="col-6 p-3">
-      <h4>Game & Trivia "Night"</h4>
+      <h4 class="font-weight-bold mb-0 text-dark">Game & Trivia "Night"</h4>
       <p class="mb-1">Come chill with UT at our week-capping game and trivia "night"! All are invited, from first- to fourth-year; reconnect with old friends, and meet some new ones! Non-formal, just bring yourself and maybe even your brain. Capacity in Logan 028 is capped at 28 people, so depending on turnout, we may ask folks to rotate out of the room.</p>
     </div>
     <div class="col-3">
@@ -72,7 +72,7 @@ permalink: /events/fall21
   <div class="row align-items-center">
     <div class="col-6 p-3">
       <h4 class="font-weight-bold mb-0 text-dark">Project Day</h4>
-      <p class="mb-1">Hosted by TAPS, Project Day is a big quarterly event for the casts and crews of all the shows to meet each other, other performance RSOs, and TAPS staff. This year, it is also doubling as an open house for new students! So, feel free to come even if you are not on a show - it is a great way to meet theater people and learn about the performance opportunities at UChicago!</p>
+      <p class="mb-1">Hosted by TAPS, Project Day is a big quarterly event for the casts and crews of all the shows to meet each other, other performance RSOs, and TAPS staff. This year, it's also doubling as an open house for new students! Feel free to come even if you are not on a show - it's a great way to meet theater people and learn about the performance opportunities at UChicago!</p>
     </div>
     <div class="col-3">
       <p class="mb-1"><i class="far fa-calendar"></i> Oct. 8, 6-8pm</p>
@@ -109,7 +109,7 @@ permalink: /events/fall21
     <div class="col-3">
       <p class="mb-1"><i class="far fa-calendar"></i> 4th Week, Weekend (Time TBD)</p>
       <p class="mb-1"><i class="fas fa-map-marker-alt"></i> <a href="https://goo.gl/maps/Rd7gzsGaCBNaBYrM7">Logan Theater East</a></p>
-      <p class="mb-1"><i class="fas fa-link"></i> <a href="https://docs.google.com/forms/d/e/1FAIpQLScpz8PVNpsImzV71mfI4GJI0mJfGmE-PirASFWPaBTRe1JWoA/viewform">Signup link!</a>
+      <p class="mb-1"><i class="fas fa-link"></i> <a href="https://docs.google.com/forms/d/e/1FAIpQLScpz8PVNpsImzV71mfI4GJI0mJfGmE-PirASFWPaBTRe1JWoA/viewform" target="_blank">Signup link!</a>
       </p>
     </div>
     <div class="col-3 justify-content-center img-responsive">
