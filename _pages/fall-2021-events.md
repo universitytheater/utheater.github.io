@@ -41,12 +41,12 @@ permalink: /events/fall21
   <div class="row align-items-center">
     <div class="col-6 p-3">
       <h4 class="font-weight-bold mb-0 text-dark">Theater[24] Showcase</h4>
-      <p class="mb-1">Theater [24] is a wild ride of a theater festival where students write, produce, direct, rehearse and perform short plays centered around a secret theme all in the span of 24 hours! Come see the culmination of their work! Tickets are $4 and can be purchased <a href="https://taps.uchicago.edu/event/theatre24-2" target="_blank">in advance</a> or at the door.</p>
+      <p class="mb-1">Theater [24] is a wild ride of a theater festival where students write, produce, direct, rehearse and perform short plays centered around a secret theme all in the span of 24 hours! Come see the culmination of their work, or signup <a href="https://docs.google.com/forms/d/e/1FAIpQLSeWSHCy4ikINL7G8hra_LZ763rX5ye_9o4kcRSYhb_k_RBfMw/viewform" target="_blank">here</a> to participate! Tickets are $4 and can be purchased <a href="https://taps.uchicago.edu/event/theatre24-2" target="_blank">in advance</a> or at the door.</p>
     </div>
     <div class="col-3">
       <p class="mb-1"><i class="far fa-calendar"></i> Oct. 2, 8pm</p>
       <p class="mb-1"><i class="fas fa-map-marker-alt"></i> <a href="https://goo.gl/maps/Rd7gzsGaCBNaBYrM7">Logan Theater East</a></p>
-      <p class="mb-1"><i class="fas fa-link"></i> <a href="https://taps.uchicago.edu/event/theatre24-2" target="_blank">Tickets ($4)</a>
+      <p class="mb-1"><i class="fas fa-link"></i> <a href="https://docs.google.com/forms/d/e/1FAIpQLSeWSHCy4ikINL7G8hra_LZ763rX5ye_9o4kcRSYhb_k_RBfMw/viewform" target="_blank">Signup Link</a>, <a href="https://taps.uchicago.edu/event/theatre24-2" target="_blank">Tickets ($4)</a>
       </p>
     </div>
     <div class="col-3 justify-content-center img-responsive">
