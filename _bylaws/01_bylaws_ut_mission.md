@@ -30,8 +30,8 @@ To be eligible to be a voting member of UT (i.e., to vote on members of Committe
 
 ### Hazing
 
-University Theatre will abide by the University of Chicago’s Hazing Policy.
+University Theatre will abide by the [University of Chicago’s Anti-Hazing Policy](https://studentmanual.uchicago.edu/university-policies/hazing-policy/#).
 
 ### Governing Bodies
 
-University Theater is governed by the UT Student Committee and advised and supported by UT/TAPS Professional Staff (Pro-Staff). Additionally, Off-Off Campus and the Dean's Men report to UT committee in the form of a liaison; each organization has its own set of governing guidelines. UT Student Committee also will appoint a liaison to Theater [24], another of its subsidiaries. The by-laws for each of UT’s bodies (UT, Dean’s Men, Off-Off Campus, and Theater [24]) follow.
+University Theater is governed by the UT Student Committee and advised and supported by TAPS Production Staff (Pro-Staff). Additionally, Off-Off Campus and the Dean's Men report to UT committee in the form of a liaison; each organization has its own set of governing guidelines. UT Student Committee also will appoint a liaison to Theater[24], another of its subsidiaries. The by-laws for each of UT’s bodies (UT, Dean’s Men, Off-Off Campus, and Theater[24]) follow.

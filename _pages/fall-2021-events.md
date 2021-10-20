@@ -103,13 +103,12 @@ permalink: /events/fall21
   <div class="row align-items-center">
     <div class="col-6 p-3">
       <h4 class="font-weight-bold mb-0 text-dark">Staged Readings</h4>
-      <p class="mb-1">Come watch staged readings of scenes written, directed, and performed by students! This is a free event!</p>
-      <p class="mb-1">Staged readings are fun to watch and fun to participate in - sign up as an actor, director, or writer <a href="https://docs.google.com/forms/d/e/1FAIpQLScpz8PVNpsImzV71mfI4GJI0mJfGmE-PirASFWPaBTRe1JWoA/viewform">here</a> by Friday October 1st. Commitment for directors and actors is only three rehearsals and one show. Great for first-time directors and actors!</p>
+      <p class="mb-1">Come watch staged readings of eight scenes written, directed, and performed by students! This is a free event!</p>
     </div>
     <div class="col-3">
-      <p class="mb-1"><i class="far fa-calendar"></i> 4th Week, Weekend (Time TBD)</p>
+      <p class="mb-1"><i class="far fa-calendar"></i> Oct. 22-23, 7:30p</p>
       <p class="mb-1"><i class="fas fa-map-marker-alt"></i> <a href="https://goo.gl/maps/Rd7gzsGaCBNaBYrM7">Logan Theater East</a></p>
-      <p class="mb-1"><i class="fas fa-link"></i> <a href="https://docs.google.com/forms/d/e/1FAIpQLScpz8PVNpsImzV71mfI4GJI0mJfGmE-PirASFWPaBTRe1JWoA/viewform" target="_blank">Signup link!</a>
+      <p class="mb-1"><i class="fas fa-link"></i> <a href="https://www.facebook.com/events/1151035088761547" target="_blank">Facebook event</a>, <a href="https://bit.ly/UTStagedReadingsTickets" target="_blank">Get tickets</a>
       </p>
     </div>
     <div class="col-3 justify-content-center img-responsive">

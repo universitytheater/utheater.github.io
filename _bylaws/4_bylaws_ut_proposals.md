@@ -11,6 +11,15 @@ wrap_div: bylaws-proposals bylaws
 {::options auto_id_prefix="V-" /}
 ## V. The University Theater Proposal Process
 
+### A. Types of Work
+
+1. One-Quarter Shows: Performances take place during the 7th or 8th week of Fall, Winter, and Spring Quarter and are passed one quarter prior to their performance quarter. One-Quarter shows may also take place during 6th week if no Cross-Quarter shows are scheduled, but shows in the same space (e.g. FXK, Theater West) cannot take place in consecutive weeks.
+2. Cross-Quarter Shows: Performances take place during the 6th week of Winter and Spring Quarter and are passed two quarters prior to the quarter of their performance. These shows can take place in Theater West, Theater East, 501, or a site-specific alternative depending upon availability. The Cross-Quarter model is intended for productions that want more flexible rehearsal scheduling, increased rehearsal time to accommodate performance duration, and/or additional time to develop design elements.
+3. Collaborations: RSOs may propose to collaborate with UT to produce One-Quarter and Cross-Quarter shows, utilizing UT resources and following a similar proposal process and timeline.
+4. Site-Specific Work: Performance pieces and installations that are located in Logan 501 or other locations on campus, pending University administration approval and the availability of desired resources (e.g. scale of designs, space availability)
+5. Workshops: Performances take place during 4th and/or 5th Week of Fall and Winter Quarters
+and are passed one quarter prior to their performance quarter. Workshops are intended for works, particularly new or student-written work, with a shorter runtime and minimal stage design.
+
 ### A. Mainstages, Second Stages, Studios and Collaborations
 
 1. #### Mainstages, Second Stages, and Studios

@@ -9,7 +9,7 @@ date: 2020-06-11
 wrap_div: bylaws-t24 bylaws
 ---
 {::options auto_id_prefix="IV-" /}
-## IV. Theater [24]
+## IV. Theater[24]
 
 ### A. Purpose
 

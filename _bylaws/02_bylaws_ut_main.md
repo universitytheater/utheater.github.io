@@ -13,7 +13,7 @@ wrap_div: bylaws bylaws-ut-main
 
 ### A. Duties and Responsibilities
 
-1. As the governing body of University Theater, the UT Committee represents the UT community’s interests to the UT/TAPS Professional Staff and to the University at large. The students on Committee maintain artistic control of University Theater, scheduling its productions and encouraging the creative development of the community.
+1. As the governing body of University Theater, the UT Committee represents the UT community’s interests to the TAPS Production Staff and to the University at large. The students on Committee maintain artistic control of University Theater, scheduling its productions and encouraging the creative development of the community.
 2. Individual Committee members should be committed to the overall improvement of the organization and its ability to provide opportunities to those who participate in theater at the University of Chicago. Although elected members often play important roles in other aspects of UT and its productions, they must remain committed first and foremost to fulfilling their duties as Committee members. These duties and responsibilities include but are not limited to:
   * Representing the UT community;
   * Publicly supporting both the Committee’s decisions and the theater projects of every member of the UT community;
@@ -25,7 +25,7 @@ wrap_div: bylaws bylaws-ut-main
   * make every human effort to assist with general maintenance and clean-up of UT facilities, attending quarterly Project Days, etc.;
   * Maintaining a positive public persona, including talking to prospective and incoming/new students at University-sponsored RSO events;
   * Being available for advice and guidance when other community members need assistance;
-  * Serving as Committee Liaisons to all UT shows (this includes Mainstages, Workshops, Dean’s Men, Theater [24], and Collaborations);
+  * Serving as Committee Liaisons to all UT shows (this includes Mainstages, Workshops, Dean’s Men, Theater[24], and Collaborations);
   * Training and orienting their replacements at the end of their tenure;
   * In a neutral, positive manner and setting, promoting Committee elections and encouraging students to run and vote;
   * Make every human effort to see all UT productions, including at least one Off Off show per quarter and one Theater [24] festival per year;
@@ -135,7 +135,11 @@ wrap_div: bylaws bylaws-ut-main
 3.  #### Fairness
     If a community or Committee member or members are concerned about a Committee member's ability to vote fairly during a proposal meeting or regular meeting, the Chair should ask publicly or privately that the individual or individuals in question consider their fairness. If the situation has not changed, any member of the Committee may ask for a vote on the person's further participation in the process, which can include removal from vote or discussion. Should the Committee Member choose to remove themself from the vote, they may have the opportunity to state so at the beginning of the proposal meeting. If the Chair is an individual in question, the Director of UT/TAPS should be approached.
 4.  #### Budgeting and Financial Matters
-    All Mainstage productions (8th and 10th week productions) have a budget between $2000 and $3000. All Second Stage productions (6th week productions)have a budget between $500 and $1500. All Dean’s Men productions have a budget between $1000 and $2000. Weekends of Workshops, site specific proposals, and Studio productions have a budget between $0 and $250. The budget of individual productions within these ranges will be determined following the process outlined in VI.A. The only budget that may be extended beyond this is that of the Spring quarter 10th week mainstage, and only under the circumstances described in VI.A.1.D.I and by the processes described in IV.A.c.ii. All funds collected will be deposited in UT's University account.
+    All Cross-Quarter productions can apply for a budget of up to $5000. All One-Quarter productions, including Dean’s Men shows, can apply for a budget of up to $3000. Weekends of Workshops performances have a budget up to $250. All Mainstage productions must submit a rough budget to the nearest $500 when their proposals are due. If passed, budgets may be adjusted by up to $500 based on a final budget submitted to Committee by noon the day of Uber Prod. Budgets for all productions cannot exceed the aforementioned amounts for Uber Prod (e.g. a One-Quarter show passed with a $2750 budget cannot have an Uber Prod budget greater than $3000). Final budgets are subject to approval by a majority vote by Committee, with budget approvals taking place by the Friday of 9th week in consultation with TAPS Pro Staff. If budget revisions are requested by Committee, they must be submitted by noon on the Monday of 1st Week of the following quarter, and the revised budget will be voted on during the Committee meeting of 1st Week.
+
+    One-Quarter and Cross-Quarter shows may apply for additional funding beyond their approved budget due to unforeseen costs (up to $1000) by submitting a Budget Extension Form to Committee by the Sunday before their first performance. Any additional funds may not be spent until approved by a majority vote of Committee, and forms are reviewed the first Monday after they are submitted. See Section V.A.1. for more information regarding One-Quarter and Cross-Quarter shows.
+
+    Throughout this process, shows should aim to budget for only what they need to realize their proposed artistic vision, with budgets made to the team’s best ability.
 5.  #### Amending the By-Laws
     These by-laws can be amended by a two-thirds vote of the entire Committee. After each meeting, any amendments to the by-laws must be made in the Secretary’s running copy of the by-laws and noted by the Secretary in the public committee meeting minutes. After the final meeting of each quarter, the Secretary emails the most recent edition of the bylaws to the UT general listhost if there have been changes that quarter.
 
