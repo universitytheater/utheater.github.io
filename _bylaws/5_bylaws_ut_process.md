@@ -15,14 +15,9 @@ After a production is passed and scheduled by the University Theater Committee, 
 
 ### A. Pre-Production Quarter
 
-* Once the University Theater season is released, committee and the production teams will coordinate to ensure that only one lead design/management position is held by any given individual.
-* Once production teams are finalized, they work with TAPS professional staff to fully realize design visions and determine budgets that are within the specified ranges.
-* By the time of the Uber Production Meeting, production teams will finalize budgets. These budgets will be presented at the Uber Production Meeting, after which TAPS production staff and UT committee will determine exact final budgets.
-
-    * The process for finalizing budgets will be as follows: TAPS professional staff will recommend to committee a budget for each production, after which committee, or a subcommittee appointed for this purpose, may pass these budgets by a majority vote. If a budget is not passed, committee or the appointed subcommittee will reenter discussions with TAPS professional staff, after which a new budget will be proposed. This continues until a final budget is passed for each production.
-        1. Any subcommittee created for this purpose must include the Treasurer of UT Committee and no less than three other members.
-    * If, after budgets for the spring quarter have been determined, UT committee decides that there is more money in the budget that can be spent on productions, that money may be added to the budget of the Spring 10th week production if that production was passed as described in V.A.1.D.I. This adjustment will be made in the same way as the original budget allocations.
-    * After this point, UT committee will issue no further financial support.
+* Once the University Theater season is released, Committee and the production teams will coordinate to ensure that only one lead design/management position is held by any given individual.
+* Once production teams are finalized, they work with TAPS production staff to fully realize design visions and determine budgets that are within the specified ranges.
+* By the time of the Uber Production Meeting, production teams will finalize budgets. These budgets will be presented at the Uber Production Meeting, after which TAPS production staff and UT Committee will determine exact final budgets.
 * All auditions will be scheduled at the same time in order to preserve the arbitration process.
 
 ### B. Production Quarter

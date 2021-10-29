@@ -120,12 +120,12 @@ permalink: /events/fall21
   <div class="row align-items-center">
     <div class="col-6 p-3">
       <h4 class="font-weight-bold mb-0 text-dark">Weekend of Workshops</h4>
-      <p class="mb-1">Come see workshopped scenes from two student-written plays: <em>The Heirs</em> and <em>Ah Wing and the Automaton Eagle</em>. A free preview will take place Thursday, Oct 28th at 7:30pm. </p>
+      <p class="mb-1">Come see workshopped scenes from two student-written plays: <em>The Heirs</em> and <em>Ah Wing and the Automaton Eagle</em>.</p>
     </div>
     <div class="col-3">
-      <p class="mb-1"><i class="far fa-calendar"></i> Oct. 29-30, 7:30pm + Oct. 30, 2pm</p>
+      <p class="mb-1"><i class="far fa-calendar"></i> Oct. 29-30, 7:30pm</p>
       <p class="mb-1"><i class="fas fa-map-marker-alt"></i> <a href="https://goo.gl/maps/Rd7gzsGaCBNaBYrM7">Logan Theater East</a></p>
-      <p class="mb-1"><i class="fas fa-link"></i> <a href="#">Tickets ($6 advance, $8 door; link coming soon)</a>
+      <p class="mb-1"><i class="fas fa-link"></i> <a href="https://tickets.uchicago.edu/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=22A93515-7705-4776-9125-78A103E87F0D">Tickets ($6 advance, $8 door)</a>
       </p>
     </div>
     <div class="col-3 justify-content-center img-responsive">
