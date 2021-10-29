@@ -20,13 +20,13 @@ wrap_div: bylaws-proposals bylaws
 5. Workshops: Performances take place during 4th and/or 5th Week of Fall and Winter Quarters
 and are passed one quarter prior to their performance quarter. Workshops are intended for works, particularly new or student-written work, with a shorter runtime and minimal stage design.
 
-### B. Proposing Mainstages
+### B. Mainstages
 
 1. #### One-Quarter and Cross-Quarter Productions
     * A proposer must request a proposal liaison from Committee. The preaison will meet with the proposer to discuss any questions the proposer might have about the proposal process.
     * Proposers must meet with the Director of Performance Programs and the Committee Chair. These individuals may recommend meeting with other members of the TAPS production staff. Proposers must meet with the Managing Director to discuss rights, if applicable. Proposers are also strongly encouraged to meet with the Managing Director and Committee Treasurer to discuss rough budgets.
     *  Proposers have the option of presenting to a production cohort meeting. This meeting is open to all members of University Theater. In this meeting, proposers discuss briefly their vision for their production, in terms of both design and process. After this meeting, attendees and proposers may meet and form teams. 
-    * Mainstage shows are divided into One-Quarter and Cross-Quarter shows and are distinguished by their different budget amounts (see I.C.3). Each show type occurs at a specific time each quarter, as specified in Section V.A.
+    * Mainstage shows are divided into One-Quarter and Cross-Quarter shows and are distinguished by their different budget amounts (see I.C.4). Each show type occurs at a specific time each quarter, as specified in Section V.A.
     *  Proposers must turn in their proposal to the Committee Chair’s mailbox and electronically, emailed to [ut-committee@uchicago.edu](mailto:ut-committee@uchicago.edu). Deadlines for different shows are as specified below:
 
         * Cross-Quarter Shows are due 5pm on Friday of 2nd week of the quarter two quarters prior to the desired production date. (e.g. Spring Cross-Quarter shows are passed during Fall Quarter).
@@ -67,8 +67,8 @@ and are passed one quarter prior to their performance quarter. Workshops are int
           * The week (or weeks) the proposer will accept.
           * The amount of tech time the RSO will require.
           * Any other resources the RSO desires from UT, including but not limited to student production staff, student performers, publicity, and audition space.
-      * As detailed in Sections V.A.1.h and V.A.1.i, the community-wide Mainstage Proposal Meeting is held on Friday of 3<sup>rd</sup> Week at 5pm. At this meeting, as with the Mainstage proposers, the Collaboration proposers have one minute each to present their proposal and five minutes each to answer the questions of Committee and community members. Also as with Mainstage proposers, Collaboration proposers who are also members of Committee are not allowed to sit in the Executive Session Proposal Meeting or to vote on the season.
-      * For the guidelines of the Collaboration process once a proposal passes, see Section V.A.3.f.
+      * As detailed in Sections V.B.1.h and V.B.1.i, the community-wide Mainstage Proposal Meeting is held on Friday of 3<sup>rd</sup> Week at 5pm. At this meeting, as with the Mainstage proposers, the Collaboration proposers have one minute each to present their proposal and five minutes each to answer the questions of Committee and community members. Also as with Mainstage proposers, Collaboration proposers who are also members of Committee are not allowed to sit in the Executive Session Proposal Meeting or to vote on the season.
+      * For the guidelines of the Collaboration process once a proposal passes, see Section V.B.3.f.
 
 3. #### Mainstage Proposal Executive Session
     * Directly after the community-wide meeting, Committee goes into Executive Session to discuss each proposal individually. In this meeting, Committee considers whether a show:
@@ -95,7 +95,7 @@ and are passed one quarter prior to their performance quarter. Workshops are int
     *   ##### Post-Meeting Process: Collaborations
         Once scheduled, Collaborators meet with the Managing Director of TAPS to look at venue choice and run capacity, calculate potential ticket sales, and calculate a budget. In the event that a Collaborator wishes to do a free event, the RSO must have money from their own account to cover any production expenses. After this budgeting process, the rest of the production timeline is the same as for Mainstages: the staff of each Collaboration is encouraged to meet with TAPS Pro-staff to continue to develop design plans, as well as to attend their respective cohorts.
 
-### B. Workshops
+### C. Workshops
 
 1. #### Proposal Process
     * Proposers are encouraged to meet with the Director of TAPS to discuss their proposals. Proposers meet with the Managing Director to discuss rights, if applicable.
@@ -135,11 +135,11 @@ and are passed one quarter prior to their performance quarter. Workshops are int
     * ##### Post-Meeting Process
         Once scheduled, the Director and SM of each Workshop are encouraged to meet with UT/TAPS Pro-staff to continue to develop design plans, as well as to attend their respective cohorts.
 
-### C. Site-specific work
+### D. Site-specific work
 
 1. #### Proposal process
       * Individuals may propose site-specific work to be produced by UT for the following two quarters . Projects appropriate for Site-Specific production include pieces in spaces other than Theater West, Theater East, or the FXK. The proposers are encouraged to meet with the TAPS Managing Director to discuss the production rights as well as the TAPS Production Manager to discuss the feasibility of locations cited.
-      * Proposers must fill out the Site-Specific Proposal Form and submit it to the Committee Chair by 5PM on the Friday of 5th Week, with the proposal meeting occurring the following Monday at 5PM. The proposal meeting process follows the format outlined in Section Sections V.A.1.h. Note that proposing earlier in the quarter may make it easier for proposals to pass due to greater space availability.
+      * Proposers must fill out the Site-Specific Proposal Form and submit it to the Committee Chair by 5PM on the Friday of 5th Week, with the proposal meeting occurring the following Monday at 5PM. The proposal meeting process follows the format outlined in Section Sections V.B.1.h. Note that proposing earlier in the quarter may make it easier for proposals to pass due to greater space availability.
       * The proposal should include the following components
 
           * Name and information about the proposer(s)
