@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About UT Committee / Subcommittees
+title: About UT Committee
 permalink: /about/committee
 ---
 
