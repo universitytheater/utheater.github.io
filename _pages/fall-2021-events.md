@@ -142,7 +142,7 @@ permalink: /events/fall21
     <div class="col-3">
       <p class="mb-1"><i class="far fa-calendar"></i> Nov. 18-20, 7:30pm + Nov. 20, 2pm</p>
       <p class="mb-1"><i class="fas fa-map-marker-alt"></i> <a href="https://goo.gl/maps/Rd7gzsGaCBNaBYrM7">Logan Theater West</a></p>
-      <p class="mb-1"><i class="fas fa-link"></i> <a href="#">Tickets ($6 advance, $8 door; link coming soon)</a>
+      <p class="mb-1"><i class="fas fa-link"></i> <a href="https://tickets.uchicago.edu/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=22A93515-7705-4776-9125-78A103E87F0D">Tickets ($6 advance, $8 door)</a>
       </p>
     </div>
     <div class="col-3 justify-content-center img-responsive">
