@@ -131,6 +131,7 @@ GEM
       commonmarker (~> 0.17.6)
       jekyll-commonmark (~> 1.2)
       rouge (>= 2.0, < 4.0)
+    jekyll-datapage-generator (1.4.0)
     jekyll-default-layout (0.1.4)
       jekyll (~> 3.0)
     jekyll-feed (0.15.1)
@@ -285,6 +286,7 @@ DEPENDENCIES
   ffi
   github-pages
   jekyll
+  jekyll-datapage-generator
   jekyll-feed (~> 0.6)
   tzinfo-data
   wdm (~> 0.1.0)

@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+<article class="post">
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+     <h5 class="mt-2 mb-2">{{ page.subheader }}</h5>
+  </header>
+
+  <div class="post-content">
+    <div class="text-center">
+      <img src="/assets/show-banners/{{ page.slug }}.jpg" class="img-fluid"></img>
+    </div>
+   
+    <p class="mt-3">{{ page.description }}</p>
+    <h4 class="mt-2 mb-2">Cast</h4>
+    {% for actor in page.cast %}
+      <p><strong>{{actor.name}}</strong> ({{actor.role}}) {{actor.bio}}</p>
+    {% endfor %}
+    <h4 class="mt-2 mb-2">Staff</h4>
+    {% for staff_member in page.staff %}
+      <p><strong>{{staff_member.name}}</strong> ({{staff_member.role}}) {{staff_member.bio}}</p>
+    {% endfor %}
+  </div>
+
+  
+
+</article>

@@ -15,4 +15,4 @@ Afterwards, run `bundle exec jekyll serve` and navigate to `http://localhost:400
 
 This website was originally built by [Isaiah Zwick-Schachter](https://github.com/isaiahzs) (UT Committee 2020-21) and is currently maintained by [Spencer Ng](https://github.com/spencerng).
 
-Reach out to ut@uchicago.edu for more info about how to get involved in UT!
+Reach out to ut-committee [at] uchicago [dot] edu for more info about how to get involved in UT!

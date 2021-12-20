@@ -5,10 +5,26 @@
   width: 100%;
 }
 
-.show-container {
-  padding: 0;
+.card {
+  max-width: 18rem;
+  height: 100%;
 }
 
+.show-container {
+  padding: 0;
+  height: 100%;
+}
+
+.row {
+  height: 100%;
+}
+
+.card {
+  margin: auto;
+  max-width: 100%;
+  overflow: auto;
+  min-height: 15.5rem;
+}
 
 .show-info {
   font-size: 0.9rem;

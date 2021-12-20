@@ -1,0 +1,39 @@
+- title: Ever in the Glades
+  subheader: "book, music, and lyrics by PigPen Theatre Co.<br>\ndirected by Kenjiro Lee<br>\nWinter 2020"
+  quarter: Winter 2020
+  slug: ever-glades
+  description: "A winner of the 2018 AATE Distinguished Play Award, Laura Schellhardt’s Ever in the Glades tackles themes of friendship, faith, and identity. Aiming for a world beyond their disappointing adults and toxic constraints, dreams and hopes propel five teenagers on an isolated island in the Florida Everglades to become the family they need so that each one can freely breathe into who they are."
+  cast:
+    - name: Brandon Zang
+      role: Z
+      bio: "is a second year Anthropology and TAPS double major from Vancouver, British Columbia. He has worked on other UT/TAPS shows such as Yellow Face (HYH) and Company (Clarinetist), along with several shows with Classical Entertainment Society, acting in Macbeth (Duncan/Doctor) and Bodas de Sangre (El Padre De La Novia). Brandon enjoys playing the ukulele, reading science fiction, and obsessively listening to the Dear Evan Hansen soundtrack in his spare time."
+    - name: Jonathan White
+      role: Ames
+      bio: "is a second year Theater and Performance Studies major. He has been in a few shows while attending the College such as Yellow Face (Marcus), Dry Land (Victor), and Company (Peter). He would like to thank Tiffany Trent for this experience as well as his cast members. And he would always like to thank his family."
+  staff:
+    - name: Tiffany Trent
+      role: Director
+      bio: "is a member of TAPS pro-staff."
+    - name: Kurt Boetcher
+      role: Scenic Designer
+      bio: "is a member of TAPS pro-staff."
+- title: Company
+  author: "written by Laura Schellhardt"
+  director: "directed by Tiffany Trent"
+  quarter: Winter 2020
+  slug: company
+  summary: "A winner of the 2018 AATE Distinguished Play Award, Laura Schellhardt’s Ever in the Glades tackles themes of friendship, faith, and identity. Aiming for a world beyond their disappointing adults and toxic constraints, dreams and hopes propel five teenagers on an isolated island in the Florida Everglades to become the family they need so that each one can freely breathe into who they are."
+  cast:
+    - name: Brandon Zang
+      role: Z
+      bio: "is a second year Anthropology and TAPS double major from Vancouver, British Columbia. He has worked on other UT/TAPS shows such as Yellow Face (HYH) and Company (Clarinetist), along with several shows with Classical Entertainment Society, acting in Macbeth (Duncan/Doctor) and Bodas de Sangre (El Padre De La Novia). Brandon enjoys playing the ukulele, reading science fiction, and obsessively listening to the Dear Evan Hansen soundtrack in his spare time."
+    - name: Jonathan White
+      role: Ames
+      bio: "is a second year Theater and Performance Studies major. He has been in a few shows while attending the College such as Yellow Face (Marcus), Dry Land (Victor), and Company (Peter). He would like to thank Tiffany Trent for this experience as well as his cast members. And he would always like to thank his family."
+  staff:
+    - name: Tiffany Trent
+      role: Director
+      bio: "is a member of TAPS pro-staff."
+    - name: Kurt Boetcher
+      role: Scenic Designer
+      bio: "is a member of TAPS pro-staff."

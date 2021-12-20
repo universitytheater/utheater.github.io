@@ -26,6 +26,7 @@ markdown: kramdown
 
 plugins:
   - jekyll-feed
+  - jekyll-datapage-generator
 strict_front_matter: true
 collections:
   bylaws:
@@ -40,8 +41,18 @@ collections:
   townhalls:
     output: true
     permalink: /:collection/:title
+
 include:
   - _pages
+
+# Generate show pages
+page_gen-dirs: true
+page_gen:
+  - data: 'show-info'
+    name: 'slug'
+    title: 'slug'
+    dir: 'shows'
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

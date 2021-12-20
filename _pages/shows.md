@@ -5,36 +5,19 @@ permalink: /shows
 ---
 
 
-#### 2021-2022 Shows
-
-#### 2020-2021 Shows
-
-#### 2019-2020 Shows
-
-<div class="row align-items-center">
-  <div class="border container col-3 show-container">
-    <img src="assets/show-thumbnails/company.jpg" class="show-thumb"/>
-    <h5 class="mb-0"><strong>Company</strong></h5>
-    <p class="show-info">music and lyrics by Stephen Sondheim<br>
-    book by George Furth<br>
-    directed by Emily Lynch and Caitlyn Klum<br>
-    Fall 2019</p>
+{% for show_year in site.data.shows %}
+  <h4 class="text-center">{{ show_year[0] }} Shows</h4>
+  <div class="container row show-group">
+        {% for show in show_year[1] %}
+          <div class="col-6 col-sm-6 col-md-4 col-lg-3 show-container">
+            <div class="card text-white bg-dark m-3 border h-100">
+              <h6 class="m-2 text-center"><strong>{{ show.quarter }}</strong></h6>
+              <a href="{{ show.slug }}"><img src="/assets/show-thumbnails/{{ show.slug }}.jpg" class="show-thumb"/></a>
+              <div class="card-body d-flex p-0 align-items-center justify-content-center">
+                <a href="{{ show.slug }}" class="font-weight-bold card-text m-2 text-center text-white">{{ show.title }}</a>
+              </div>
+            </div>
+          </div>
+        {% endfor %}
   </div>
-  <div class="border container col-3 ml-1 mr-1">
-    <img src="assets/show-thumbnails/company.jpg" class="show-thumb"/>
-    <h5 class="mb-0"><strong>Company</strong></h5>
-    <p class="show-info">music and lyrics by Stephen Sondheim<br>
-    directed by Emily Lynch and Caitlyn Klum<br>
-    Fall 2019</p>
-  </div>
-  <div class="border container col-3">
-    <img src="assets/show-thumbnails/company.jpg" class="show-thumb"/>
-    <h5 class="mb-0"><strong>Company</strong></h5>
-    <p class="show-info">music and lyrics by Stephen Sondheim<br>
-    book by George Furth<br>
-    directed by Emily Lynch and Caitlyn Klum<br>
-    Fall 2019</p>
-  </div>
-</div>
-
-
+{% endfor %}
