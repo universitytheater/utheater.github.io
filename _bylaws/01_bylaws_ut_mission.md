@@ -2,7 +2,7 @@
 layout: page
 title: University Theater Mission Statement
 permalink: /bylaws/ut-mission
-date: 2020-06-11
+date: 2021-10-13
 ---
 
 {::options auto_id_prefix="mission-" /}

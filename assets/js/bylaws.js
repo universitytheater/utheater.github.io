@@ -16,7 +16,7 @@ var testObj = {};
             innode = subnode.splitText(match.index + 1 - offs)
             subnode = innode.splitText(match[1].length)
             offs = match.index + match[0].length;
-            console.log(match[1]);
+            // console.log(match[1]);
             ref_node = findNode(match[1]);
             rep_innode = document.createElement("a")
             rep_innode.textContent = match[1];

@@ -40,6 +40,6 @@ permalink: /bylaws
   {% endcase %}
 {% endcapture %}
 
-<p>This document was last edited on the {{ day_num }} of {{ last_modified | date: "-%d" | date: "%B, %Y"}}.</p>
+<p>This document was last edited on {{ last_modified | date: "%B %d, %Y"}}.</p>
 
 VPASSUP_LAST_MODIFIED_{{ last_modified }}
