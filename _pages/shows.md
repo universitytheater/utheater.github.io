@@ -12,9 +12,9 @@ permalink: /shows
           <div class="col-6 col-sm-6 col-md-4 col-lg-3 show-container">
             <div class="card text-white bg-dark m-3 border h-100">
               <h6 class="m-2 text-center"><strong>{{ show.quarter }}</strong></h6>
-              <a href="{{ show.slug }}"><img src="/assets/show-thumbnails/{{ show.slug }}.jpg" class="show-thumb"/></a>
+              <a href="{{ page.url }}/{{ show.slug }}"><img src="/assets/show-thumbnails/{{ show.slug }}.jpg" class="show-thumb"/></a>
               <div class="card-body d-flex p-0 align-items-center justify-content-center">
-                <a href="{{ show.slug }}" class="font-weight-bold card-text m-2 text-center text-white">{{ show.title }}</a>
+                <a href="shows/{{ show.slug }}" class="font-weight-bold card-text m-2 text-center text-white">{{ show.title }}</a>
               </div>
             </div>
           </div>

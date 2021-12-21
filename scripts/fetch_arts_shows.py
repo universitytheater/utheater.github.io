@@ -38,8 +38,6 @@ def get_show_info(slug):
 
 	return info
 
-
-
 def download_image(url, path):
 	img_req = requests.get(url, stream=True)
 	img_req.raw.decode_content = True
