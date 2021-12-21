@@ -17,7 +17,7 @@
 - name: By-Laws
   page: _pages/bylaws.html
 - name: Past Shows
-  page: https://arts.uchicago.edu/utshows
+  page: _pages/shows.md
 - name: COVID Policies
   page: _pages/covid.md
 # - name: Documents

@@ -6,7 +6,7 @@ permalink: /shows
 
 
 {% for show_year in site.data.shows %}
-  <h4 class="text-center">{{ show_year[0] }} Shows</h4>
+  <h4 class="text-center mb-0 mt-2">{{ show_year[0] }}</h4>
   <div class="container row show-group">
         {% for show in show_year[1] %}
           <div class="col-6 col-sm-6 col-md-4 col-lg-3 show-container">

@@ -1,16 +1,343 @@
-2019-2020:
-  - title: Ever In the Glades
-    slug: ever-glades
-    quarter: Winter 2020
-  - title: Company
-    slug: company
-    quarter: Fall 2019
-  - title: Rosencrantz & Guildenstern Are Dead
-    slug: rosencrantz-guildenstern-dead
-    quarter: Fall 2019
-  - title: The Winter's Tale
-    slug: winters-tale-0
-    quarter: Fall 2019
-  - title: Julius Caesar
-    slug: julius-caesar
-    quarter: Fall 2019
+2021-2022 Shows:
+- title: Love's Labour's Lost
+  slug: loves-labours-lost-f21
+  quarter: Fall 2021
+- title: Weekend Of Workshops
+  slug: weekend-workshops-f21
+  quarter: Fall 2021
+- title: UT Staged Readings
+  slug: staged-readings
+  quarter: Fall 2021
+2020-2021 Shows:
+- title: Welcome Back to My Channel
+  slug: welcome-back
+  quarter: Spring 2021
+- title: Original Sin
+  slug: original-sin
+  quarter: Spring 2021
+- title: My H8 Letter to the Gr8 American Theatre
+  slug: my-h8-letter
+  quarter: Winter 2021
+2019-2020 Shows:
+- title: The Old Man And The Old Moon
+  slug: old-man-and-old-moon
+  quarter: Winter 2020
+- title: Antony & Cleopatra
+  slug: antony-cleopatra
+  quarter: Winter 2020
+- title: Waiting For Godot
+  slug: waiting-godot
+  quarter: Winter 2020
+- title: Weekend Of Workshops
+  slug: weekend-workshops-0
+  quarter: Winter 2020
+- title: Ever In The Glades
+  slug: ever-glades
+  quarter: Winter 2020
+- title: Company
+  slug: company
+  quarter: Fall 2019
+- title: Rosencrantz & Guildenstern Are Dead
+  slug: rosencrantz-guildenstern-are-dead
+  quarter: Fall 2019
+- title: The Winter's Tale
+  slug: winters-tale-0
+  quarter: Fall 2019
+- title: Julius Caesar
+  slug: julius-caesar
+  quarter: Fall 2019
+2018-2019 Shows:
+- title: Twelfth Night
+  slug: twelfth-night-0
+  quarter: Spring 2019
+- title: Philoctetes
+  slug: philoctetes
+  quarter: Spring 2019
+- title: Fun Home
+  slug: fun-home
+  quarter: Winter 2019
+- title: Don Gil of the Green Breeches
+  slug: don-gil-green-breeches
+  quarter: Winter 2019
+- title: Grenadine
+  slug: grenadine
+  quarter: Winter 2019
+- title: Macbeth
+  slug: macbeth-0
+  quarter: Winter 2019
+- title: Machinal
+  slug: machinal
+  quarter: Winter 2019
+- title: A Weekend Of Workshops
+  slug: weekend-workshops-winter-2019
+  quarter: Winter 2019
+- title: A Streetcar Named Desire
+  slug: streetcar-named-desire
+  quarter: Fall 2018
+- title: Measure for Measure
+  slug: measure-measure
+  quarter: Fall 2018
+- title: good friday
+  slug: good-friday
+  quarter: Fall 2018
+- title: A Weekend Of Workshops
+  slug: weekend-workshops-fall-2018
+  quarter: Fall 2018
+2017-2018 Shows:
+- title: Animals Out Of Paper
+  slug: animals-out-paper
+  quarter: Spring 2018
+- title: Richard III
+  slug: richard-iii
+  quarter: Spring 2018
+- title: The Aliens
+  slug: aliens
+  quarter: Spring 2018
+- title: I & You
+  slug: i-you
+  quarter: Spring 2018
+- title: New Work Week 2018
+  slug: new-work-week-2018
+  quarter: Spring 2018
+- title: Love's Labour's Lost
+  slug: loves-labours-lost-1
+  quarter: Winter 2018
+- title: Eurydice
+  slug: eurydice
+  quarter: Winter 2018
+- title: Much Ado About Nothing
+  slug: much-ado-about-nothing-0
+  quarter: Winter 2018
+- title: God Of Carnage
+  slug: god-carnage
+  quarter: Winter 2018
+- title: 'A Weekend Of Workshops: Matt & Ben'
+  slug: weekend-workshops-matt-ben
+  quarter: Winter 2018
+- title: 'Exquisite Pressure: The Misanthrope'
+  slug: exquisite-pressure
+  quarter: Winter 2018
+- title: Reflections
+  slug: reflections
+  quarter: Winter 2018
+- title: Peter And The Starcatcher
+  slug: peter-and-starcatcher
+  quarter: Fall 2017
+- title: Next To Normal
+  slug: next-normal
+  quarter: Fall 2017
+- title: As You Like It
+  slug: you-it-0
+  quarter: Fall 2017
+- title: A Weekend Of Workshops
+  slug: weekend-workshops-fall-2017
+  quarter: Fall 2017
+2016-2017 Shows:
+- title: She Kills Monsters
+  slug: she-kills-monsters
+  quarter: Spring 2017
+- title: LEAR
+  slug: lear
+  quarter: Spring 2017
+- title: Nari
+  slug: nari
+  quarter: Spring 2017
+- title: Night of January 16th
+  slug: night-january-16th
+  quarter: Spring 2017
+- title: New Work Week 2017
+  slug: new-work-week-2017
+  quarter: Spring 2017
+- title: Mr Burns, a post-electric play
+  slug: mr-burns-post-electric-play
+  quarter: Winter 2017
+- title: 'Henry VI: Parts I, II, and III'
+  slug: henry-vi-parts-i-ii-and-iii
+  quarter: Winter 2017
+- title: Circe
+  slug: circe
+  quarter: Winter 2017
+- title: Geography of a Horse Dreamer
+  slug: geography-horse-dreamer
+  quarter: Winter 2017
+- title: A Weekend of Workshops
+  slug: weekend-workshops-winter-2017
+  quarter: Winter 2017
+- title: Merchant of Venice
+  slug: merchant-venice
+  quarter: Fall 2016
+- title: After the Revolution
+  slug: after-revolution
+  quarter: Fall 2016
+- title: Comedy of Errors
+  slug: comedy-errors
+  quarter: Fall 2016
+- title: Iphigenia & Other Daughters
+  slug: iphigenia-other-daughters
+  quarter: Fall 2016
+- title: A Weekend of Workshops
+  slug: weekend-workshops-fall-2016
+  quarter: Fall 2016
+- title: A Winter's Tale
+  slug: winters-tale
+  quarter: Fall 2016
+2015-2016 Shows:
+- title: West Side Story
+  slug: west-side-story
+  quarter: Spring 2016
+- title: Romeo & Juliet
+  slug: romeo-juliet
+  quarter: Spring 2016
+- title: Noises Off
+  slug: noises
+  quarter: Spring 2016
+- title: 'Navarasa: Reimagined'
+  slug: navarasa-reimagined
+  quarter: Spring 2016
+- title: New Work Week
+  slug: new-work-week
+  quarter: Spring 2016
+- title: The Monkey King
+  slug: monkey-king
+  quarter: Spring 2016
+- title: The Seagull
+  slug: seagull
+  quarter: Winter 2016
+- title: Hamlet
+  slug: hamlet
+  quarter: Winter 2016
+- title: By the Bog of Cats
+  slug: bog-cats
+  quarter: Winter 2016
+- title: Belleville
+  slug: belleville
+  quarter: Winter 2016
+- title: A Weekend of Workshops
+  slug: weekend-workshops-winter-2016
+  quarter: Winter 2016
+- title: Kaleidoscope
+  slug: kaleidoscope
+  quarter: Winter 2016
+- title: Urinetown
+  slug: urinetown
+  quarter: Fall 2015
+- title: Miss Julie
+  slug: miss-julie
+  quarter: Fall 2015
+- title: Twelfth Night
+  slug: twelfth-night
+  quarter: Fall 2015
+- title: House of Cards
+  slug: house-cards
+  quarter: Fall 2015
+- title: A Weekend of Workshops
+  slug: weekend-workshops-fall-2015-0
+  quarter: Fall 2015
+- title: Krapp's Last Tape
+  slug: krapps-last-tape
+  quarter: Fall 2015
+- title: Suburbia
+  slug: suburbia
+  quarter: Fall 2015
+2014-2015 Shows:
+- title: The Effect of Gamma Rays on Man-In-The-Moon Marigolds
+  slug: effect-gamma-rays-man-moon-marigolds
+  quarter: Spring 2015
+- title: Love's Labour's Lost
+  slug: loves-labours-lost
+  quarter: Spring 2015
+- title: Rumors
+  slug: rumors
+  quarter: Spring 2015
+- title: This Is How It Goes
+  slug: how-it-goes
+  quarter: Directed by Billy Bungeroth
+- title: Amadeus
+  slug: amadeus
+  quarter: Winter 2015
+- title: Richard II
+  slug: richard-ii
+  quarter: Winter 2015
+- title: Cowboy Mouth
+  slug: cowboy-mouth
+  quarter: Winter 2015
+- title: Fifth Planet
+  slug: fifth-planet
+  quarter: Winter 2015
+- title: Weekend of Workshops
+  slug: weekend-workshops-winter-2015
+  quarter: Winter 2015
+- title: Macbeth
+  slug: macbeth
+  quarter: Fall 2014
+- title: Endgame
+  slug: endgame
+  quarter: Fall 2014
+- title: Henry V
+  slug: henry-v
+  quarter: Fall 2014
+- title: Closer
+  slug: closer
+  quarter: Fall 2014
+- title: A Weekend of Workshops
+  slug: weekend-workshops-fall
+  quarter: Fall 2014
+- title: A Streetcar Named Desire
+  slug: streetcar-named-desire-2014 
+  quarter: Fall 2014
+2013-2014 Shows:
+- title: Cabaret
+  slug: cabaret
+  quarter: Spring 2014
+- title: Much Ado About Nothing
+  slug: much-ado-about-nothing
+  quarter: Spring 2014
+- title: Sleuth
+  slug: sleuth
+  quarter: Spring 2014
+- title: A Weekend of Workshops
+  slug: weekend-workshops-spring-2014
+  quarter: Spring 2014
+- title: 'Buried in Bughouse Square: A Studs Terkel Circus'
+  slug: buried-bughouse-square
+  quarter: Spring 2014
+- title: Godspell
+  slug: godspell
+  quarter: Winter 2014
+- title: Voices
+  slug: voices
+  quarter: Winter 2014
+- title: A Midsummer Night's Dream
+  slug: midsummer-nights-dream
+  quarter: Winter 2014
+- title: The Clean House
+  slug: clean-house
+  quarter: Winter 2014
+- title: Fool for Love
+  slug: fool-love
+  quarter: Winter 2014
+- title: A Weekend of Workshops
+  slug: weekend-workshops
+  quarter: Winter 2014
+- title: Grey Gardens
+  slug: grey-gardens
+  quarter: Fall 2013
+- title: Hedda Gabler
+  slug: hedda-gabler
+  quarter: Fall 2013
+- title: As You Like It
+  slug: you-it
+  quarter: Fall 2013
+- title: The Hamletmachine
+  slug: hamletmachine
+  quarter: Fall 2013
+- title: A Weekend of Workshops
+  slug: weekend-workshops-fa-0
+  quarter: Fall 2013
+- title: The House of Yes
+  slug: house-yes
+  quarter: Fall 2013
+2012-2013 Shows:
+- title: Hotel Nepenthe
+  slug: hotel-nepenthe
+  quarter: Winter 2013
