@@ -10,7 +10,7 @@ permalink: /
 </div>
 
 <div class="alert alert-info">
-{% capture fall_2021 %}{% include fall-2021.md %}{% endcapture %}
+{% capture fall_2021 %}{% include winter-2022.md %}{% endcapture %}
 {{ fall_2021 | markdownify }}
 </div>
 

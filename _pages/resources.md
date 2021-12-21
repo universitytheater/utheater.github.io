@@ -14,6 +14,15 @@ Here are some resources to help you get started in UT and learn more about the a
 * [Winter 2022 Workshop Proposal Form](https://docs.google.com/document/d/1dzDkBSw-pfvZGrv60M3INPljW6JH5gYglF1t8eCwMjw/edit)
 * [Budget Extension Request Form](https://docs.google.com/document/d/1cE9u-UuHLCKNKRt1_thdpe8oQOvgbespe4nNPqbzJTw/edit?usp=sharing)
 
+**UT Links**
+
+* [Buy Tickets](https://tickets.uchicago.edu)
+* [UT Facebook page](https://www.facebook.com/universitytheater)
+* [UT Listhost](https://lists.uchicago.edu/web/info/utheater-general)
+* [UT Newsletter](http://eepurl.com/hfi05f) and [past issues](https://us2.campaign-archive.com/home/?u=898aa836fc636cd1b2571ad5b&id=ef0f5470fe)
+* [Email UT Committee](mailto:ut-committee@uchicago.edu)
+* Discord server: Join the [UChicago Student Hub](https://discord.gg/KhEEuRweMd) to get access!
+
 
 **Community Resources**
 
@@ -23,15 +32,6 @@ Here are some resources to help you get started in UT and learn more about the a
 * [TAPS Design, Management & Crafting Cohorts](https://taps.uchicago.edu/news/tapscohorts)
 * [TAPS Space Scheduler](https://calendar.google.com/calendar/u/0/embed?src=5pdfopego38kfbddn4s8pfm92c@group.calendar.google.com&ctz=America/Chicago)
 * UT Committee Meetings - 5pm on Mondays in Logan 603!
-
-**UT Links**
-
-* [Buy Tickets](https://tickets.uchicago.edu)
-* [UT Facebook page](https://www.facebook.com/universitytheater)
-* [UT Listhost](https://lists.uchicago.edu/web/info/utheater-general)
-* [UT Newsletter](http://eepurl.com/hfi05f)
-* [Email UT Committee](mailto:ut-committee@uchicago.edu)
-* Discord server: Join the [UChicago Student Hub](https://discord.gg/KhEEuRweMd) to get access!
 
 **Dean's Men Links**
 
