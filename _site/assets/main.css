@@ -1,0 +1,72 @@
+.show-thumb { padding: 0; width: 100%; }
+
+.video-player { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+
+.video-player-wrapper { padding: 40% 0 0 0; max-height: 15rem; max-width: 100%; height: auto; width: auto; position: relative; text-align: center; }
+
+.show-banner { max-width: 100%; max-height: 22rem; width: auto; }
+
+.card { max-width: 18rem; height: 100%; border-radius: 0.4rem; }
+
+.show-container { padding: 0; height: 100%; }
+
+.row { height: 100%; }
+
+.card { margin: auto; max-width: 100%; overflow: auto; min-height: 15.5rem; }
+
+.show-info { font-size: 0.9rem; margin-bottom: 0.1rem; margin: 0.1rem; }
+
+.bylaws-proposals > ol > li > ul > li > ul { list-style-type: lower-roman; }
+
+.bylaws-process > ul { list-style-type: lower-alpha; }
+.bylaws-process > ul > li > ul { list-style-type: lower-roman; }
+
+.bylaws-off-off > ol > li > ul > li > ul { list-style-type: lower-roman !important; }
+.bylaws-off-off > ol > li > ul > li > ul > li > ul { list-style-type: upper-alpha !important; }
+.bylaws-off-off > ol > li > ul > li > ul > li > ul > li > ul { list-style-type: lower-roman !important; }
+.bylaws-off-off > h3 + p { display: block; }
+
+.bylaws-t24 > ol { list-style-type: upper-roman; }
+.bylaws-t24 > ol > li > ul { list-style-type: lower-alpha; }
+.bylaws-t24 > ul { list-style-type: lower-alpha; }
+.bylaws-t24 > ul > li > ul { list-style-type: lower-roman; }
+
+.bylaws-deans-men > ul > li h3 { font-style: normal; display: block; }
+.bylaws-deans-men > ul > li h3:after { content: ""; }
+
+.bylaws > h3 { margin-left: 0.5em; font-size: 1.4rem; }
+.bylaws h3 ~ p { margin-left: 2em; }
+.bylaws h3 ~ ul, .bylaws h3 ~ ol { margin-left: 0.5em; }
+.bylaws ol > li > ul { list-style-type: lower-alpha; }
+.bylaws ol > li > ul > li > h3 + p + ul, .bylaws ol > li > ul > li > h4 + p + ul { list-style-type: lower-roman; }
+.bylaws li > h3, .bylaws li > h4, .bylaws li > h5, .bylaws li > h6 { font-size: initial; font-style: italic; margin: 0; margin-top: 15px; display: inline-block; }
+.bylaws li > h3 + p, .bylaws li > h4 + p, .bylaws li > h5 + p, .bylaws li > h6 + p { display: inline; }
+.bylaws li > h3 + p + p, .bylaws li > h4 + p + p, .bylaws li > h5 + p + p, .bylaws li > h6 + p + p { margin-top: 15px; }
+.bylaws li > h3:after, .bylaws li > h4:after, .bylaws li > h5:after, .bylaws li > h6:after { content: "."; }
+
+.ul-lower-alpha { list-style-type: lower-alpha !important; }
+
+.ul-lower-roman { list-style-type: lower-roman !important; }
+
+.ul-upper-roman { list-style-type: upper-roman !important; }
+
+.ul-circle { list-style-type: circle !important; }
+
+.no-dot-list-header > h4:after { content: ""; }
+
+.invalid-ref { color: red !important; }
+.invalid-ref:after { content: " (invalid reference)"; color: grey; font-style: italic; }
+
+.valid-ref[data-target-section]:after { content: " " attr(data-target-section) " "; vertical-align: super; font-size: smaller; font-style: italic; }
+
+.alert { padding: 0.75rem 0.75rem 0rem 0.75rem; }
+
+.toc.page-content { display: grid; grid-template-columns: 75% 25%; margin-left: 1em; margin-right: 1em; overflow: visible; }
+
+.toc-right-sidebar { position: sticky; top: 4em; height: 100vh; overflow-y: scroll; }
+
+.toc.post-header { padding: 1em; margin-bottom: 0; padding-bottom: 0; }
+
+#toc > ul > li:hover > ul { display: block; }
+
+body { font-family: Roboto, "Helvetica Neue", Arial, "Noto Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
