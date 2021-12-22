@@ -7,7 +7,7 @@
 - name: Get Involved
   subpages:
     - Actors: _pages/get-involved-actors.md
-    - Designers & Managers: https://bit.ly/UTFall21Interest
+    - Designers & Managers: _pages/get-involved-designers.md
     - UT Listhost: _pages/listhost.md
     - Resources: _pages/resources.md
 - name: Shows

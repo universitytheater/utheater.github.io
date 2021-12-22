@@ -2,7 +2,7 @@ Open to any and all majors, University Theater (UT) is a hub of performance, des
 
 Here’s a list of some of the groups and events that make up UT! If something catches your eye, we encourage you to learn more and reach out.
 
-- **University Theater** has been putting on student-led shows since 1898. Get involved as an actor or [as a designer or manager](https://ut-jobs.dvtk.me)!
+- **University Theater** has been putting on student-led shows since 1898. Get involved [as an actor]({{ "get-involved/actors" | relative_url }}) or [as a designer or manager]({{ "get-involved/designers-managers" | relative_url }})!
 
 - **The Dean’s Men** is a student organization at the University of Chicago dedicated to the works of William Shakespeare. [Learn more](https://www.facebook.com/thedeansmen/)!
 
