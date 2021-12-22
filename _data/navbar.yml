@@ -10,14 +10,12 @@
     - Designers & Managers: https://bit.ly/UTFall21Interest
     - UT Listhost: _pages/listhost.md
     - Resources: _pages/resources.md
-# - name: Shows
-#   page: shows.md
+- name: Shows
+  page: _pages/shows.md
 - name: Fall 2021 Events
-  page: _pages/fall-2021-events.md
+  page: /events/fall21
 - name: By-Laws
   page: _pages/bylaws.html
-- name: Past Shows
-  page: _pages/shows.md
 - name: COVID Policies
   page: _pages/covid.md
 # - name: Documents

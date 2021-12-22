@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Past UT & TAPS Shows
+title: UT & TAPS Shows
 permalink: /shows
 ---
 
