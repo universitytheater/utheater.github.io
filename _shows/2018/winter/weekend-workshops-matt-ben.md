@@ -74,5 +74,6 @@ layout: show-info
 quarter: winter
 year: 2018
 season: 2017-2018 Shows
+date: 2021-01-07
 
 ---

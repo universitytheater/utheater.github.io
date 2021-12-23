@@ -16,7 +16,7 @@ layout: default
     <p class="mt-3">{{ page.description }}</p>
     {% if page.roles %}
       {% for role in page.roles %}
-        <h4 class="mt-2 mb-2">{{role[0]}}</h4>
+        <h4 class="mt-2 mb-2">{{role[0] | markdownify | remove: '<p>' | remove: '</p>'}}</h4>
         {% for actor in role[1] %}
           <p><strong>{{actor.name}}</strong> ({{actor.role}}) {{actor.bio}}</p>
         {% endfor %}

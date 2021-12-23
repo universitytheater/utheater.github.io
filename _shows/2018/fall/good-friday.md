@@ -140,5 +140,6 @@ layout: show-info
 quarter: fall
 year: 2018
 season: 2018-2019 Shows
+date: 2021-01-02
 
 ---

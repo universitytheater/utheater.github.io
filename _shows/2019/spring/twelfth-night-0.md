@@ -83,5 +83,6 @@ layout: show-info
 quarter: spring
 year: 2019
 season: 2018-2019 Shows
+date: 2021-01-12
 
 ---

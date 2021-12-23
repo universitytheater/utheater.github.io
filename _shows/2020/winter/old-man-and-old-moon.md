@@ -197,5 +197,6 @@ layout: show-info
 quarter: winter
 year: 2020
 season: 2019-2020 Shows
+date: 2021-01-09
 
 ---

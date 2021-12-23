@@ -6,7 +6,7 @@ description: Come see two evenings of scenes from student-written plays, featuri
   eight new works!<p>Organized by Allegra Hatem and Gabi Garcia.</p><p>Thanks to TAPS
   Lecturer Scott Elmegreen for supporting student writers and for assisting with casting!</p>
 roles:
-  "<em>P.N.O.K.</em>, written & directed by Carissa Greene":
+  "*P.N.O.K.*, written & directed by Carissa Greene":
   - role: Dorothy
     name: Makila Sims
   - role: Momma
@@ -23,7 +23,7 @@ roles:
     name: Cameron Drake
   - role: Dad
     name: Jackson Overton-Clark
-  "<em>Ah Wing and the Automaton Eagle</em>, written by Brandon Zang, directed by Jonah Herrera-Dodd":
+  "*Ah Wing and the Automaton Eagle*, written by Brandon Zang, directed by Jonah Herrera-Dodd":
   - role: Ah Wing
     name: Jennie Liu
   - role: The Eagle
@@ -36,7 +36,7 @@ roles:
     name: Luke Delaney
   - role: Mayor Bryant
     name: Adam Oppenheimer
-  "<em>Take Me Dancing</em>, written by Hope Gundlah & Tess Gundlah, directed by Roxy Fisher":
+  "*Take Me Dancing*, written by Hope Gundlah & Tess Gundlah, directed by Roxy Fisher":
   - role: Charlie McKenna
     name: Lisa Dong
   - role: Heather Burton
@@ -51,10 +51,10 @@ roles:
     name: Carolyn C. Heinzer
   - role: Waitress/Announcer
     name: Lara Sachdeva
-  "<em>The World/The Edge</em>, written by London Mahaley, directed by Zach Braunschweig":
+  "*The World/The Edge*, written by London Mahaley, directed by Zach Braunschweig":
   - role: Max
     name: Ro Redfern
-  "<em>Apocalypse 654</em>, written by Jayda Hart, directed by Natalie Manley":
+  "*Apocalypse 654*, written by Jayda Hart, directed by Natalie Manley":
   - role: Ethan
     name: Luke Delaney
   - role: Harriet
@@ -67,7 +67,7 @@ roles:
     name: George Corrin
   - role: Ben
     name: Bojun Feng
-  "<em>The Heirs</em>, written by Noah Klowden and Ronan O'Callaghan, directed by Sophia Kottman":
+  "*The Heirs*, written by Noah Klowden and Ronan O'Callaghan, directed by Sophia Kottman":
   - role: Teagan
     name: Joshua Winston
   - role: Gerald
@@ -80,12 +80,12 @@ roles:
     name: Taiz Rodriguez
   - role: Charlotte
     name: Caroline Lopez
-  "<em>Past, Present, Future</em>, written by Gabi Garcia, directed by Eleni Lefakis":
+  "*Past, Present, Future*, written by Gabi Garcia, directed by Eleni Lefakis":
   - role: Dalia
     name: Stone Garcia
   - role: Lilana
     name: Caroline Lopez
-  "<em>vom.com: a cyberdrama</em>, written by George Corrin, directed by Caroline Lopez":
+  "*vom.com: a cyberdrama*, written by George Corrin, directed by Caroline Lopez":
   - role: News Anchor/Someone Very Beautiful
     name: Safia Mahjebin
   - role: Roger/Lover 1
@@ -102,5 +102,6 @@ layout: show-info
 quarter: fall
 year: 2021
 season: 2021-2022 Shows
+date: 2021-10-22
 
 ---
