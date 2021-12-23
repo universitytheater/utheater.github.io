@@ -10,7 +10,7 @@ permalink: /shows
   <div class="container row show-group">
         {% for show in show_year[1] %}
           <div class="col-6 col-sm-6 col-md-4 col-lg-3 show-container">
-            <div class="card text-white bg-dark m-3 border h-100">
+            <div class="card text-white bg-dark m-3 border-0 h-100">
               <h6 class="m-2 text-center"><strong>{{ show.quarter }}</strong></h6>
               <a href="{{ page.url }}/{{ show.slug }}"><img src="/assets/show-thumbnails/{{ show.slug }}.jpg" class="show-thumb"/></a>
               <div class="card-body d-flex p-0 align-items-center justify-content-center">
