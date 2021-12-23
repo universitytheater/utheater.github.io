@@ -19,10 +19,10 @@ def get_show_info(slug):
 		if subhead_elem is not None:
 			info["subheader"] = subhead_elem.text.strip()
 
-	description_elems = [str(para) for p in soup.find(class_="content-body").find_all("p")]
+	description_elems = [str(p) for p in soup.find(class_="content-body").find_all("p")]
 
 	info["description"] = "\n".join(description_elems)
-
+	
 	banner = soup.find(class_="main-gallery-slide").find("img")["src"]
 	slug = slug.split("/")[-1]
 	filename = f"assets/show-banners/{slug}.jpg"
@@ -33,6 +33,15 @@ def get_show_info(slug):
 		slug = "streetcar-named-desire-2014"
 		filename = f"assets/show-banners/{slug}.jpg"
 		download_image(banner, filename)
+
+	slideshow = soup.find_all(class_="supplemental-gallery-slide")
+	for i, image in enumerate(slideshow):
+		slide = image.find("a")["href"]
+		os.makedirs(f"assets/show-slideshow/{slug}", exist_ok=True)
+		filename = f"assets/show-slideshow/{slug}/slide-{i + 1:02}.jpg"
+
+		if not os.path.exists(filename):
+			download_image(slide, filename)
 
 	info["slug"] = slug
 
@@ -70,8 +79,6 @@ def build_shows(output=False):
 			except AttributeError:
 				continue
 
-			print(props)
-
 			show_info = get_show_info(props["slug"])
 			show_info["title"] = props["title"]
 			show_infos.append(show_info)
@@ -86,11 +93,11 @@ def build_shows(output=False):
 
 			show_list[year_group].append(props)
 
-	with open("_data/show-info.yml", "w+") as out:
-		out.write(yaml.dump(show_infos, sort_keys=False))
-
 	if not output:
 		return
+
+	with open("_data/show-info.yml", "w+") as out:
+		out.write(yaml.dump(show_infos, sort_keys=False))
 
 	with open("_data/shows.yml", "w+") as out:
 		out.write(yaml.dump(show_list, sort_keys=False))
