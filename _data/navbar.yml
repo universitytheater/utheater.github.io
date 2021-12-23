@@ -11,7 +11,7 @@
     - UT Listhost: _pages/listhost.md
     - Resources: _pages/resources.md
 - name: Shows
-  page: _pages/shows.md
+  page: _pages/shows.html
 - name: Fall 2021 Events
   page: /events/fall21
 - name: By-Laws
