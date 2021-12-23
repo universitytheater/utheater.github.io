@@ -50,14 +50,6 @@ collections:
 include:
   - _pages
 
-# Generate show pages
-page_gen-dirs: true
-page_gen:
-  - data: 'events'
-    name: 'slug'
-    title: 'title'
-    dir: 'events'
-
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
