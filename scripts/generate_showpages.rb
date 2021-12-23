@@ -4,14 +4,17 @@ require 'fileutils'
 show_info = YAML.load_file("../_data/show-info.yml")
 show_timing_raw = YAML.load_file("../_data/shows.yml")
 
-show_timing = show_timing_raw.values.flatten.map do |st|
-  quarter, year = st["quarter"].split(" ")
-  [st["slug"], {
-    "quarter" => quarter.downcase,
-    "year" => year.to_i,
-    "title" => st["title"]
-  }]
-end.to_h
+show_timing = show_timing_raw.map do |season, shows|
+  shows.map do |st|
+    quarter, year = st["quarter"].split(" ")
+    [st["slug"], {
+      "quarter" => quarter.downcase,
+      "year" => year.to_i,
+      "season" => season,
+      "title" => st["title"]
+    }]
+  end
+end.flatten(1).to_h
 
 show_info.each do |show|
   show["layout"] = "show-info"
