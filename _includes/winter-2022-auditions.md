@@ -5,12 +5,21 @@
 * *The Light* - 8th Week Winter (2/24-2/26), Theater West
 * *The Trail to Oregon!* - 6th Week Spring (4/28-4/30), Theater West
 
+<div class="alert alert-primary">
+{% capture covid_msg %}
+**Due to [recent announcements](https://provost.uchicago.edu/announcements/delayed-start-winter-quarter) made by the University regarding Winter Quarter, the timing and format of auditions is to be confirmed.**
+
+This page will be updated on the week of December 27 with more information. Please [email UT Committee](mailto:ut-committee@uchicago.edu) with any questions in the meantime!
+{% endcapture %}
+{{ covid_msg | markdownify }}
+</div>
+
 **To audition for Winter 2022 shows, follow these steps!**
 
-1. **Fill out the [general UT audition form](https://bit.ly/UTWinter22Auditions)**. If you're quarantining during first week, you'll also have an opportunity to request a Zoom audition.
-2. **Sign up for a time slot** to audition for [*The Heirs*](#), [*The Light*](#), [*The Trail to Oregon!*](#) and/or [our workshops](#), *Chaos Theory* and *Fields of Asphodel* (links coming soon). **General auditions will be on Tuesday, January 4 and Wednesday, January 5**.
-3. **Choose an [audition side](https://bit.ly/UTWinter22AuditionSides)** (to be updated), then enter the audition room on the 3rd floor of Cobb Hall during your time slot. We'll also have physical copies of the sides at each show’s table! Please note that you are not expected to memorize your side.
-4. Callback auditions will be announced via email late Wednesday evening! If you are called back, congrats! Please go to Cobb Hall during your assigned time(s). Callbacks take place 7-10pm on Thursday, January 6. Final cast lists will be announced on the afternoon of Friday, January 7.
+1. **Fill out the [general UT audition form](https://bit.ly/UTWinter22Auditions)**.
+2. **Sign up for a time slot** to audition for [*The Heirs*](#), [*The Light*](#), [*The Trail to Oregon!*](#) and/or [our workshops](#), *Chaos Theory* and *Fields of Asphodel* (links coming soon).
+3. **Choose an [audition side](https://bit.ly/UTWinter22AuditionSides)** (to be updated), then enter the audition room during your time slot. Please note that you are not expected to memorize your side.
+4. Callback auditions will be announced via email late Wednesday evening! If you are called back, congrats! Please go to the callback room during your assigned time(s).
 
 **Do you have questions about auditioning for each show?** Feel free to contact the following:
 
