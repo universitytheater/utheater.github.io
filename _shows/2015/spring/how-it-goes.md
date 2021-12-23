@@ -11,8 +11,8 @@ description: |-
 slug: how-it-goes
 title: This Is How It Goes
 layout: show-info
-quarter: directed
-year: 0
+quarter: spring
+year: 2015
 season: 2014-2015 Shows
 
 ---
