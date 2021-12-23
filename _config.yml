@@ -43,6 +43,9 @@ collections:
   townhalls:
     output: true
     permalink: /:collection/:title
+  shows:
+    output: true
+    permalink: /:collection/:path
 
 include:
   - _pages
@@ -50,10 +53,6 @@ include:
 # Generate show pages
 page_gen-dirs: true
 page_gen:
-  - data: 'show-info'
-    name: 'slug'
-    title: 'slug'
-    dir: 'shows'
   - data: 'events'
     name: 'slug'
     title: 'title'
