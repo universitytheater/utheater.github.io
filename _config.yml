@@ -27,7 +27,7 @@ markdown: kramdown
 
 plugins:
   - jekyll-feed
-
+  - jekyll-sitemap
 strict_front_matter: true
 collections:
   bylaws:
