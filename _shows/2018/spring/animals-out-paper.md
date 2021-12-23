@@ -187,5 +187,6 @@ title: Animals Out Of Paper
 layout: show-info
 quarter: spring
 year: 2018
+season: 2017-2018 Shows
 
 ---

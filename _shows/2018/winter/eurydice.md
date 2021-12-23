@@ -218,5 +218,6 @@ title: Eurydice
 layout: show-info
 quarter: winter
 year: 2018
+season: 2017-2018 Shows
 
 ---

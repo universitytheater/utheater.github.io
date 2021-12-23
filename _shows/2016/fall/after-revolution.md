@@ -10,5 +10,6 @@ title: After the Revolution
 layout: show-info
 quarter: fall
 year: 2016
+season: 2016-2017 Shows
 
 ---

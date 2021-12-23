@@ -48,5 +48,6 @@ title: New Work Week 2018
 layout: show-info
 quarter: spring
 year: 2018
+season: 2017-2018 Shows
 
 ---

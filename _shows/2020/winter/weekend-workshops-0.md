@@ -47,5 +47,6 @@ title: Weekend Of Workshops
 layout: show-info
 quarter: winter
 year: 2020
+season: 2019-2020 Shows
 
 ---

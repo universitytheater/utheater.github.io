@@ -224,5 +224,6 @@ title: Next To Normal
 layout: show-info
 quarter: fall
 year: 2017
+season: 2017-2018 Shows
 
 ---

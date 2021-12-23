@@ -13,5 +13,6 @@ title: A Weekend of Workshops
 layout: show-info
 quarter: winter
 year: 2016
+season: 2015-2016 Shows
 
 ---

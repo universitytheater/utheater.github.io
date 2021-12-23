@@ -98,5 +98,6 @@ title: Measure for Measure
 layout: show-info
 quarter: fall
 year: 2018
+season: 2018-2019 Shows
 
 ---

@@ -9,5 +9,6 @@ title: Closer
 layout: show-info
 quarter: fall
 year: 2014
+season: 2014-2015 Shows
 
 ---

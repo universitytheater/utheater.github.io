@@ -67,5 +67,6 @@ title: Julius Caesar
 layout: show-info
 quarter: fall
 year: 2019
+season: 2019-2020 Shows
 
 ---

@@ -17,5 +17,6 @@ title: The Effect of Gamma Rays on Man-In-The-Moon Marigolds
 layout: show-info
 quarter: spring
 year: 2015
+season: 2014-2015 Shows
 
 ---

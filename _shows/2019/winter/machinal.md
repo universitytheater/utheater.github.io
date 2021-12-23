@@ -130,5 +130,6 @@ title: Machinal
 layout: show-info
 quarter: winter
 year: 2019
+season: 2018-2019 Shows
 
 ---

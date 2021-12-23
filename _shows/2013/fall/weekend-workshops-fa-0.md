@@ -85,5 +85,6 @@ title: A Weekend of Workshops
 layout: show-info
 quarter: fall
 year: 2013
+season: 2013-2014 Shows
 
 ---

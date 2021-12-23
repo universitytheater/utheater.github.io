@@ -10,5 +10,6 @@ title: Geography of a Horse Dreamer
 layout: show-info
 quarter: winter
 year: 2017
+season: 2016-2017 Shows
 
 ---
