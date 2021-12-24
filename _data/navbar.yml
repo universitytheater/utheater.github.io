@@ -13,7 +13,7 @@
 - name: Shows
   page: _pages/shows.html
 - name: Fall 2021 Events
-  page: /events/fall21
+  page: _pages/events.md
 - name: By-Laws
   page: _pages/bylaws.html
 - name: COVID Policies
