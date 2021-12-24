@@ -4,14 +4,12 @@ title: University Theater
 permalink: /
 ---
 
-<div class="alert alert-primary">
-{% capture covid_msg %}{% include covid-msg.md %}{% endcapture %}
-{{ covid_msg | markdownify }}
+<div markdown=1 class="alert alert-primary">
+{% include covid-msg.md %}
 </div>
 
-<div class="alert alert-info">
-{% capture fall_2021 %}{% include winter-2022.md %}{% endcapture %}
-{{ fall_2021 | markdownify }}
+<div markdown=1 class="alert alert-info">
+{% include winter-2022.md %}
 </div>
 
 # Welcome to UT!

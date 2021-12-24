@@ -5,13 +5,10 @@
 * *The Light* - 8th Week Winter (2/24-2/26), Theater West
 * *The Trail to Oregon!* - 6th Week Spring (4/28-4/30), Theater West
 
-<div class="alert alert-primary">
-{% capture covid_msg %}
+<div markdown=1 class="alert alert-primary">
 **Due to [recent announcements](https://provost.uchicago.edu/announcements/delayed-start-winter-quarter) made by the University regarding Winter Quarter, the timing and format of auditions is to be confirmed.**
 
 This page will be updated on the week of December 27 with more information. Please [email UT Committee](mailto:ut-committee@uchicago.edu) with any questions in the meantime!
-{% endcapture %}
-{{ covid_msg | markdownify }}
 </div>
 
 **To audition for Winter 2022 shows, follow these steps!**
