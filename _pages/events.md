@@ -13,17 +13,35 @@ permalink: events
         <p class="mb-1">{{event.description | markdownify | remove: '<p>' | remove: '</p>'}}</p>
       </div>
       <div class="col-5 col-md-3">
-        <p class="mb-1"><i class="far fa-calendar"></i> {{event.time | remove: '<p>' | remove: '</p>'}}</p>
-        <p class="mb-1"><i class="fas fa-map-marker-alt"></i> {{event.location | markdownify | remove: '<p>' | remove: '</p>'}}</p>
+        <div class="container">
+          <div class="row">
+            <div class="col flex-grow-0 px-0 align-self-top text-center">
+              <i class="far fa-calendar"></i>
+            </div>
+            <div class="col flex-grow-1 pl-3 pr-0">
+                <span class="d-block">{{event.time | remove: '<p>' | remove: '</p>'}}</span>
+            </div>
+          </div>
+        </div>
+        <div class="container">
+          <div class="row">
+            <div class="col flex-grow-0 px-0 align-self-top text-center">
+              <i class="fas fa-map-marker-alt"></i>
+            </div>
+            <div class="col flex-grow-1 pl-3 pr-0">
+                <span class="d-block">{{event.location | markdownify | remove: '<p>' | remove: '</p>'}}</span>
+            </div>
+          </div>
+        </div>
         {% if event.links %}
           <div class="container">
             <div class="row">
-              <div class="col flex-grow-0 px-0 align-self-center">
+              <div class="col flex-grow-0 px-0 align-self-top text-center">
                 <i class="fas fa-link"></i>
               </div>
               <div class="col flex-grow-1 pl-3 pr-0">
                 {% for link in event.links %}
-                  <span class="d-block">- <a href="{{ link[1] }}">{{ link[0] }}</a></span>
+                  <span class="d-block"><a href="{{ link[1] }}">{{ link[0] }}</a></span>
                 {% endfor %}
               </div>
             </div>
