@@ -15,8 +15,19 @@ permalink: events
       <div class="col-3">
         <p class="mb-1"><i class="far fa-calendar"></i> {{event.time | remove: '<p>' | remove: '</p>'}}</p>
         <p class="mb-1"><i class="fas fa-map-marker-alt"></i> {{event.location | markdownify | remove: '<p>' | remove: '</p>'}}</p>
-        {% if event.links != "" %}
-          <p class="mb-1"><i class="fas fa-link"></i> {{event.links | markdownify | remove: '<p>' | remove: '</p>'}}</p>
+        {% if event.links %}
+          <div class="container">
+            <div class="row">
+              <div class="col flex-grow-0 px-0 align-self-center">
+                <i class="fas fa-link"></i>
+              </div>
+              <div class="col flex-grow-1 pl-3 pr-0">
+                {% for link in event.links %}
+                  <span class="d-block">- <a href="{{ link[1] }}">{{ link[0] }}</a></span>
+                {% endfor %}
+              </div>
+            </div>
+          </div>
         {% endif %}
       </div>
       <div class="col-3 justify-content-center img-responsive">
