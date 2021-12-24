@@ -8,11 +8,11 @@ permalink: events
 {% for event in site.data.events %}
   <div class="border container p-2 mb-3">
     <div class="row align-items-center">
-      <div class="col-6 p-3">
+      <div class="col-7 col-md-6 p-3">
         <h4 class="font-weight-bold mb-0 text-dark">{{event.title}}</h4>
         <p class="mb-1">{{event.description | markdownify | remove: '<p>' | remove: '</p>'}}</p>
       </div>
-      <div class="col-3">
+      <div class="col-5 col-md-3">
         <p class="mb-1"><i class="far fa-calendar"></i> {{event.time | remove: '<p>' | remove: '</p>'}}</p>
         <p class="mb-1"><i class="fas fa-map-marker-alt"></i> {{event.location | markdownify | remove: '<p>' | remove: '</p>'}}</p>
         {% if event.links %}
@@ -30,7 +30,7 @@ permalink: events
           </div>
         {% endif %}
       </div>
-      <div class="col-3 justify-content-center img-responsive">
+      <div class="col-3 justify-content-center img-responsive d-none d-md-block">
         <img src="{{event.image}}" width="100%">
       </div>
     </div>
