@@ -5,32 +5,12 @@ layout: default
 <article class="post">
   <header class="post-header">
     <h1 class="post-title">{{ page.title | escape }}</h1>
-    <h5 class="mt-2 mb-2">{{ page.subheader | newline_to_br }}</h5>
+     <h5 class="mt-2 mb-2">{{ page.subheader | newline_to_br }}</h5>
   </header>
 
   <div class="post-content">
-    <div id="show-gallery" class="carousel slide" data-ride="carousel">
-      <div class="carousel-inner" style="height: 500px !important;">
-        <div class="carousel-item active" style="max-height: 500px;">
-          <img src="/assets/show-banners/{{ page.slug }}.jpg" style="max-height: 500px;" class="d-block w-100" alt="...">
-        </div>
-        {% capture image_prefix %}assets/show-slideshow/{{ page.slug }}{% endcapture %}
-        {% for image in site.static_files %}
-          {% if image.path contains image_prefix %}
-            <div class="carousel-item text-center" style="max-height: 500px;">
-              <img src="{{image.path}}" class="center-block" style="max-height: 500px;" alt="...">
-            </div>
-          {% endif %}
-        {% endfor %}
-      </div>
-      <a class="carousel-control-prev" href="#show-gallery" role="button" data-slide="prev">
-        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-        <span class="sr-only">Previous</span>
-      </a>
-      <a class="carousel-control-next" href="#show-gallery" role="button" data-slide="next">
-        <span class="carousel-control-next-icon" aria-hidden="true"></span>
-        <span class="sr-only">Next</span>
-      </a>
+    <div class="text-center">
+      <img src="/assets/show-banners/{{ page.slug }}.jpg" class="img-fluid show-banner"></img>
     </div>
 
     <p class="mt-3">{{ page.description }}</p>
