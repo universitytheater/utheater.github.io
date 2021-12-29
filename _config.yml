@@ -44,6 +44,9 @@ collections:
     permalink: /:collection/:title
   shows:
     output: true
+    permalink: /:collection/:year/:slug
+  events:
+    output: true
     permalink: /:collection/:path
 
 include:

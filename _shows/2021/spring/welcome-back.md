@@ -1,9 +1,9 @@
 ---
 title: Welcome Back to My Channel
 slug: welcome-back
-subheader: |-
-  written & directed by Brandon Zang
-  Spring 2021
+subheader: 'written & directed by Brandon Zang
+
+  Spring 2021'
 description: <em>Welcome Back to My Channel</em> is a virtual play that centers around
   the story of Martha, a popular makeup YouTube influencer. Struggling to stay relevant
   in the fast-paced world of social media, Martha begins to question her career as

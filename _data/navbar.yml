@@ -12,8 +12,8 @@
     - Resources: _pages/resources.md
 - name: Shows
   page: _pages/shows.html
-- name: Fall 2021 Events
-  page: _pages/events.md
+- name: Events
+  page: /events
 - name: By-Laws
   page: _pages/bylaws.html
 - name: COVID Policies

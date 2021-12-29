@@ -1,9 +1,9 @@
 ---
 title: Original Sin
 slug: original-sin
-subheader: |-
-  written & directed by Julia Fennell
-  Spring 2021
+subheader: 'written & directed by Julia Fennell
+
+  Spring 2021'
 description: When Judy Thomas, a devout pastor, is condemned to Hell for her single
   imperfection of wearing clothing with mixed fabrics, she is forced to learn that
   the difference between a sinner and a saint is just a few letters.

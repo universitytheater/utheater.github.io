@@ -13,7 +13,7 @@ show_timing = show_timing_raw.map do |season, shows|
       "year" => year.to_i,
       "season" => season,
       "title" => st["title"],
-      "date" => Date.new(2021, 1, shows.length - i)
+      "date" => Date.new(year.to_i, 1, shows.length - i)
     }]
   end
 end.flatten(1).to_h
