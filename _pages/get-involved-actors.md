@@ -20,7 +20,7 @@ General auditions happen Tuesday and Wednesday evening, 7-10pm, of 1st Week of F
 
 #### What should I do to prepare?
 
-There'll be basic instructions for each show's audition posted on this page in the near future! There'll also be an audition form you can fill out ahead of time; however, you can also do this at auditions if you wish. 
+See the steps above!
 
 Otherwise, **you can come as you are**! If you would like to prepare more thoroughly, you can find the audition materials for each show posted on the UT website. However, you are **never** expected to memorize any material before an audition with UT. 
 
