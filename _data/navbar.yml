@@ -11,7 +11,7 @@
     - UT Listhost: _pages/listhost.md
     - Resources: _pages/resources.md
 - name: Shows
-  page: _pages/shows.html
+  page: _pages/shows.md
 - name: Events
   page: /events
 - name: By-Laws
