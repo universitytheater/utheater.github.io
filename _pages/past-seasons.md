@@ -3,7 +3,7 @@ layout: page
 title: UT & TAPS Show Archive
 permalink: /shows/archive
 ---
-<h4 class="text-center mb-0 mt-2">2012–2013 Shows</h4>
+<h4 class="text-center mb-2 mt-2">2012–2013 Shows</h4>
 
 
 **Fall 2012**
@@ -52,7 +52,7 @@ permalink: /shows/archive
 * The Drowsy Chaperone by Lisa Lambert, Greg Morrison, Bob Martin, and Don McKellar; directed by Ava Woychuk-Mlinac
 
 
-<h4 class="text-center mb-0 mt-2">2011–2012 Shows</h4>
+<h4 class="text-center mb-2 mt-2">2011–2012 Shows</h4>
 
 
 **Fall 2011**
@@ -103,10 +103,10 @@ permalink: /shows/archive
 * The Lion in Winter by James Goldman, directed by Tom Murphy
 
 
-<h4 class="text-center mb-0 mt-2">2010–2011 Shows</h4>
+<h4 class="text-center mb-2 mt-2">2010–2011 Shows</h4>
 
 
-**<strong>Autumn </strong>2010**
+**Fall 2010**
 
 * Theater [24] - Cloud with Trousers
 * <span>A Weekend Of Workshops:</span>
@@ -118,7 +118,7 @@ permalink: /shows/archive
 * <span>The Rose Tattoo, by Tennessee Williams, directed by KImberly Senior</span>
 * <span>Henry V, by William Shakespeare, directed by Amanda Fink</span>
 
-**<strong> Winter 2011</strong>**
+**Winter 2011**
 
 * Theater [24]
 * <span>A Weekend Of Workshops:</span>
@@ -170,7 +170,7 @@ permalink: /shows/archive
 
 
 
-<h4 class="text-center mb-0 mt-2">2009–2010 Shows</h4>
+<h4 class="text-center mb-2 mt-2">2009–2010 Shows</h4>
 
 
 **Fall 2009**
@@ -185,7 +185,7 @@ permalink: /shows/archive
 * <span>Fefu and Her Friends, by Maria Irene Fornes, directed by William Glick</span>
 * <span>The Car Cemetery, by Fernando Arrabal, directed by Anastasia Barron </span>
 
-**<strong>Winter 2010</strong>**
+**Winter 2010**
 
 * Self, Torture, &amp; Anxiety: A Weekend Of Workshops
     * <span>Variations on The Death of Trotsky, by David Ives, directed by John King</span>
@@ -196,7 +196,7 @@ permalink: /shows/archive
 * <span>​Waiting for Godot by Samuel Beckett, directed by Aileen McGroddy</span>
 * <span>Big Love by Charles Mee, directed by Sean Graney</span>
 
-**<strong>Spring 2010</strong>**
+**Spring 2010**
 
 * New Work Week 2010
     * Oedipus <span>by Pierre Corneille, Translator: David Wray, directed by Drew Dir</span>
@@ -232,7 +232,7 @@ permalink: /shows/archive
 * <span>Die Hard translated by Jack Mayer, directed by Jack Mayer </span>
 
 
-<h4 class="text-center mb-0 mt-2">2008–2009 Shows</h4>
+<h4 class="text-center mb-2 mt-2">2008–2009 Shows</h4>
 
 
 **Fall 2008**
@@ -295,7 +295,7 @@ permalink: /shows/archive
 * The Last Ninety Minutes In The Life of Nikola Tesla by Lee August Praley, directed by Pheobe Holtzman
 
 
-<h4 class="text-center mb-0 mt-2">2007–2008 Shows</h4>
+<h4 class="text-center mb-2 mt-2">2007–2008 Shows</h4>
 
 
 **Fall 2007**
@@ -353,7 +353,7 @@ permalink: /shows/archive
 * Bat Boy: The Musical, story and book by KeyThe Farley and Brian Flemming, music and lyrics by Laurence O'Keefe, directed by Augie Praley
 
 
-<h4 class="text-center mb-0 mt-2">2006–2007 Shows</h4>
+<h4 class="text-center mb-2 mt-2">2006–2007 Shows</h4>
 
 
 **Fall 2006**
@@ -414,7 +414,7 @@ permalink: /shows/archive
 * Off-Off Campus Presents: The 21ST GENERATION'S DEBUT REVUE
 
 
-<h4 class="text-center mb-0 mt-2">2005–2006 Shows</h4>
+<h4 class="text-center mb-2 mt-2">2005–2006 Shows</h4>
 
 
 **Fall 2005**
@@ -448,7 +448,7 @@ permalink: /shows/archive
 * Off-Off Campus Presents: The Giving Up Tree
 
 
-<h4 class="text-center mb-0 mt-2">2004–2005 Shows</h4>
+<h4 class="text-center mb-2 mt-2">2004–2005 Shows</h4>
 
 
 **Fall 2004**
@@ -482,7 +482,7 @@ permalink: /shows/archive
 * Off-Off Campus Presents: The Umbrella for Beginners
 
 
-<h4 class="text-center mb-0 mt-2">2003–2004 Shows</h4>
+<h4 class="text-center mb-2 mt-2">2003–2004 Shows</h4>
 
 
 **Fall 2003**
@@ -518,7 +518,7 @@ permalink: /shows/archive
 * Off-Off Campus Presents: Pants, Pants, Revolution!
 
 
-<h4 class="text-center mb-0 mt-2">2002–2003 Shows</h4>
+<h4 class="text-center mb-2 mt-2">2002–2003 Shows</h4>
 
 
 **Fall 2002**
@@ -529,7 +529,7 @@ permalink: /shows/archive
 * Leocadia, by Jean Anouilh
 * Company!, by Stephen Sondheim and George Furth
 * Off-Off Campus Presents: A River Ran Through Id
-* <strong>UT Day</strong>
+* UT Day
 
 **Winter 2003**
 
@@ -543,7 +543,7 @@ permalink: /shows/archive
 * Movements of The Mind, original dance pieces by UC Dancers
 * Side Man, by Warren Leight
 * Off-Off Campus Presents: Pastor of Muppets and The New Black
-* <strong>UT Day</strong>
+* UT Day
 
 **Spring 2003**
 
@@ -563,7 +563,7 @@ permalink: /shows/archive
 * UT Day
 
 
-<h4 class="text-center mb-0 mt-2">2001–2002 Shows</h4>
+<h4 class="text-center mb-2 mt-2">2001–2002 Shows</h4>
 
 
 **Fall 2001**
@@ -595,7 +595,7 @@ permalink: /shows/archive
 * Off-Off Campus Presents: Off-Off Campus and The Riddle of The Sphinx
 
 
-<h4 class="text-center mb-0 mt-2">2000–2001 Shows</h4>
+<h4 class="text-center mb-2 mt-2">2000–2001 Shows</h4>
 
 
 **Fall 2000**
@@ -632,7 +632,7 @@ permalink: /shows/archive
 * Smile Laugh Happy Good/Foot in Mouth Disease, an improvised show
 
 
-<h4 class="text-center mb-0 mt-2">1999–2000 Shows</h4>
+<h4 class="text-center mb-2 mt-2">1999–2000 Shows</h4>
 
 
 **Fall 1999**
@@ -670,7 +670,7 @@ permalink: /shows/archive
 * The Pinter Project, several one-acts by Pinter
 
 
-<h4 class="text-center mb-0 mt-2">1998–1999 Shows</h4>
+<h4 class="text-center mb-2 mt-2">1998–1999 Shows</h4>
 
 
 **Fall 1998**
@@ -713,7 +713,7 @@ permalink: /shows/archive
 * Hyde Park Fine Arts Festival: Macbeth, by William Shakespeare
 
 
-<h4 class="text-center mb-0 mt-2">1997–1998 Shows</h4>
+<h4 class="text-center mb-2 mt-2">1997–1998 Shows</h4>
 
 
 **Fall 1997**
@@ -759,7 +759,7 @@ permalink: /shows/archive
 * Summer Shakespeare in The Court: Love's Labor's Lost
 
 
-<h4 class="text-center mb-0 mt-2">1996–1997 Shows</h4>
+<h4 class="text-center mb-2 mt-2">1996–1997 Shows</h4>
 
 
 **Fall 1996**
@@ -797,7 +797,7 @@ permalink: /shows/archive
 * Summer Shakespeare in The Court: The Comedy of Errors
 
 
-<h4 class="text-center mb-0 mt-2">1995–1996 Shows</h4>
+<h4 class="text-center mb-2 mt-2">1995–1996 Shows</h4>
 
 
 **Fall 1995**
@@ -845,7 +845,7 @@ permalink: /shows/archive
 * Summer Shakespeare in The Court: A Midsummer Night's Dream
 
 
-<h4 class="text-center mb-0 mt-2">1994–1995 Shows</h4>
+<h4 class="text-center mb-2 mt-2">1994–1995 Shows</h4>
 
 
 **Fall 1994**
@@ -893,7 +893,7 @@ permalink: /shows/archive
 * Blackfriars: Guys and Dolls, by Abe Burrows and Frank Loesse
 
 
-<h4 class="text-center mb-0 mt-2">1993–1994 Shows</h4>
+<h4 class="text-center mb-2 mt-2">1993–1994 Shows</h4>
 
 
 **Fall 1993**
