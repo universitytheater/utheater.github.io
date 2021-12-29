@@ -13,7 +13,7 @@ We expect to have confirmation by the week of January 3. Please [email UT Commit
 
 **To audition for Winter 2022 shows, follow these steps!**
 
-1. **Fill out the [general UT audition form](https://bit.ly/UTWinter22Auditions)** Auditions will be held on Tuesday, January 4 and Wednesday, January 5 via Zoom at 7-10pm CT.
+1. **Fill out the [general UT audition form](https://bit.ly/UTWinter22Auditions)**. Auditions will be held on Tuesday, January 4 and Wednesday, January 5 via Zoom at 7-10pm CT.
 2. **Sign up for a time slot** to audition for [*The Heirs*](https://bit.ly/HeirsAuditionSignup), [*The Light*](https://bit.ly/LightAuditionSignup), [*The Trail to Oregon!*](https://bit.ly/TTOAuditionSignup) and/or [our workshops](https://bit.ly/WinterWorkshopsAuditionSignup), *Chaos Theory* and *Fields of Asphodel*. If you are unable to make it to a live audition (e.g. due to travel), please contact the stage management for each show (listed below) for alternate audition options.
 3. **Choose an [audition side](https://bit.ly/UTWinter22AuditionSides)**, then enter the audition room during your time slot. Links to Zoom audition rooms are provided below. Please note that you are not expected to memorize your side.
 4. **Callback auditions will be announced via email late Wednesday evening!** If you are called back, congrats! Please go to the callback room during your assigned time(s). Callbacks will take place Thursday, January 6 via Zoom at 7-10pm CT.
