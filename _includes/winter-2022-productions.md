@@ -5,6 +5,12 @@
 * *The Light* - 8th Week Winter (2/24-2/26), Theater West
 * *The Trail to Oregon!* - 6th Week Spring (4/28-4/30), Theater West
 
+<div markdown=1 class="alert alert-primary">
+**Due to [recent announcements](https://provost.uchicago.edu/announcements/delayed-start-winter-quarter) made by the University regarding Winter Quarter, the performance dates of shows is to be confirmed.**
+
+We expect to have confirmation by the week of January 3. Please [email UT Committee](mailto:ut-committee@uchicago.edu) with any questions in the meantime!
+</div>
+
 **Would you like to get involved as a manager or designer?** Feel free to contact the following:
 
 * *Chaos Theory*: [Ananya Karanam](mailto:akaranam@uchicago.edu) (Director)
