@@ -17,8 +17,10 @@ roles:
   Cast:
   - role: Martha
     name: Tess Ortego
+    bio: is a third-year majoring in Political Science and Global Studies. This is her first time doing University Theatre, and she is grateful it got to be with this company and cast!
   - role: Marcus
     name: Noah Friedlander
+    bio: is a fourth-year double majoring in Physics and Political Science. He has appeared in the ensembles of *Rosencrantz and Guildenstern are Dead*, *Philoctetes*, and *Richard III*. Aside from UT, he has performed with the Gilbert and Sullivan Opera Company of Chicago for four years. He would like to thank his girlfriend for helping him learn the makeup designs as well as Brandon for letting him attempt to set a record for the number of accents in a single scene. Enjoy the show!
   - role: Saskia
     name: Shreya Shettigar
   - role: Will
