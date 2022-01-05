@@ -52,7 +52,7 @@ Here are some resources to help you get started in UT and learn more about the a
   * [Website](https://taps.uchicago.edu)
   * [Facebook page](https://www.facebook.com/TAPSUOFC/)
   * [Listhost](https://lists.uchicago.edu/web/info/taps)
-  * [Email TAPS Production Staff](taps-productionstaff@lists.uchicago.edu)
+  * [Email TAPS Production Staff](mailto:taps-productionstaff@lists.uchicago.edu)
   * [Other TAPS resources](https://taps.uchicago.edu/performance/resources)
 * Le Vorris & Vox Circus
   * [Instagram](https://www.instagram.com/levorrisandvoxcircus)

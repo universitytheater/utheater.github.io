@@ -59,9 +59,10 @@ layout: default
       {% for role in page.roles %}
         <h4 class="mt-2 mb-2">{{role[0] | markdownify | remove: '<p>' | remove: '</p>'}}</h4>
         {% for actor in role[1] %}
-          <p><strong>{{actor.name}}</strong> ({{actor.role}}) {{actor.bio}}</p>
+          <p><strong>{{actor.name | markdownify | remove: '<p>' | remove: '</p>'}}</strong> ({{actor.role}}) {{actor.bio | markdownify | remove: '<p>' | remove: '</p>'}}</p>
         {% endfor %}
       {% endfor %}
     {% endif %}
+    {{ content }}
   </div>
 </article>

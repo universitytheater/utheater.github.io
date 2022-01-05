@@ -14,7 +14,7 @@ description: 'Workshops give directors and writers a chance to see their work co
   class="video-player" frameborder="0" allow="autoplay; fullscreen; picture-in-picture"
   allowfullscreen></iframe></div>'
 roles:
-  <em>The Heirs</em> Cast:
+  "*The Heirs* Cast":
   - name: Sian McAllister
     role: Jane
   - name: Cameron Landin
@@ -27,7 +27,7 @@ roles:
     role: Charlotte
   - name: Theodore Anderson
     role: Gerald
-  <em>Ah Wing and the Automaton Eagle</em> Cast:
+  "*Ah Wing and the Automaton Eagle* Cast":
   - name: Amadis Davis
     role: Ah Wing
   - name: Ling Lin
