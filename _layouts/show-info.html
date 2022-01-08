@@ -59,8 +59,15 @@ layout: default
       {% for workshop in page.workshops %}
         <h4 class="mt-2 mb-2">{{workshop.title | markdownify | remove: '<p>' | remove: '</p>'}}</h4>
         <p>{{workshop.description}}</p>
-        {% for actor in workshop.roles %}
-          <p><strong>{{actor.name | markdownify | remove: '<p>' | remove: '</p>'}}</strong> ({{actor.role}}) {{actor.bio | markdownify | remove: '<p>' | remove: '</p>'}}</p>
+        {% for role in workshop.roles %}
+          <h5 class="mt-2 mb-2">{{role[0] | markdownify | remove: '<p>' | remove: '</p>'}}</h5>
+          {% for actor in role[1] %}
+            <p><strong>{{actor.name | markdownify | remove: '<p>' | remove: '</p>'}}</strong> 
+            {% if actor.role %}
+              ({{actor.role}}) 
+            {% endif %}
+            {{actor.bio | markdownify | remove: '<p>' | remove: '</p>'}}</p>
+          {% endfor %}
         {% endfor %}
       {% endfor %}
     {% endif %}
@@ -68,7 +75,11 @@ layout: default
       {% for role in page.roles %}
         <h4 class="mt-2 mb-2">{{role[0] | markdownify | remove: '<p>' | remove: '</p>'}}</h4>
         {% for actor in role[1] %}
-          <p><strong>{{actor.name | markdownify | remove: '<p>' | remove: '</p>'}}</strong> ({{actor.role}}) {{actor.bio | markdownify | remove: '<p>' | remove: '</p>'}}</p>
+          <p><strong>{{actor.name | markdownify | remove: '<p>' | remove: '</p>'}}</strong> 
+          {% if actor.role %}
+              ({{actor.role}}) 
+            {% endif %}
+          {{actor.bio | markdownify | remove: '<p>' | remove: '</p>'}}</p>
         {% endfor %}
       {% endfor %}
     {% endif %}
