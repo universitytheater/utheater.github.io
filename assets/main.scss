@@ -44,6 +44,20 @@
   border-radius: 0.4rem;
 }
 
+.paragraph--type--image-text.paragraph--special--thumbnail img {
+    max-width: 15rem;
+    max-height: 15rem;
+    float: left;
+    margin-right: 1rem;
+    height: auto;
+    vertical-align: middle;
+    margin-bottom: 1rem;
+}
+
+.paragraph {
+  clear: both;
+}
+
 .show-container {
   padding: 0;
   height: 100%;
