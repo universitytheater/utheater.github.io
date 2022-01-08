@@ -1,7 +1,9 @@
 ---
 title: Much Ado About Monologues
 slug: much-ado-monologues
-subheader: presented by the Dean's Men
+subheader: "presented by the Dean's Men
+
+  Fall 2020"
 description: "Join the Dean's Men for our fall quarter virtual mainstage, featuring two unique collections of Shakespearean monologues! The event will be live-streamed on the Dean's Men YouTube Channel!\nThis will be the culmination of the hard work our Dean's Men directors, actors, and production staff have been putting in all quarter."
 workshops:
 - title: "*Wifely Duties*, directed by Ryan Murphy"
