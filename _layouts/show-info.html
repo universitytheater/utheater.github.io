@@ -55,6 +55,15 @@ layout: default
     {% endif %}
 
     <p class="mt-3">{{ page.description }}</p>
+    {% if page.workshops %}
+      {% for workshop in page.workshops %}
+        <h4 class="mt-2 mb-2">{{workshop.title | markdownify | remove: '<p>' | remove: '</p>'}}</h4>
+        <p>{{workshop.description}}</p>
+        {% for actor in workshop.roles %}
+          <p><strong>{{actor.name | markdownify | remove: '<p>' | remove: '</p>'}}</strong> ({{actor.role}}) {{actor.bio | markdownify | remove: '<p>' | remove: '</p>'}}</p>
+        {% endfor %}
+      {% endfor %}
+    {% endif %}
     {% if page.roles %}
       {% for role in page.roles %}
         <h4 class="mt-2 mb-2">{{role[0] | markdownify | remove: '<p>' | remove: '</p>'}}</h4>

@@ -7,7 +7,7 @@ description: "<p><strong>Context, written &amp; directed by Kayla Mathisen.\_The
   \ human experience from honest explorations of romantic relationships to raw portrayals\
   \ of complex family dynamics. Audiences will encounter new work and old, devised\
   \ and revised. A Weekend of Workshops commits each and every inhabitant of this\
-  \ intimate space to the expansion of\_the limits of their artistry.</p> <p><strong>Kayla\
+  \ intimate space to the expansion of\_the limits of their artistry.</p><h4><em>Context</em></h4> <p><strong>Kayla\
   \ Mathisen</strong> (Director) is a fourth-year in the College majoring in Law,\
   \ Letters, and Society with a minor in Creative Writing. She wrote and directed\
   \ <em>Context</em>. She has also directed an abbreviated <em>No Exit</em>, and wrote\
@@ -27,7 +27,7 @@ description: "<p><strong>Context, written &amp; directed by Kayla Mathisen.\_The
   \ Theatre[24], and been a stagehand and assistant props designer for <em>Closer.</em>\
   \ Charlie is currently serving as a member of UT Committee. Before coming to college,\
   \ Charlie stage managed seventeen productions through community, professional, and\
-  \ school theatre.</p><p>\_</p><p><strong>Brandon McCallister </strong>(Director)\
+  \ school theatre.</p><h4><em>The Monkey's Paw</em></h4><p><strong>Brandon McCallister </strong>(Director)\
   \ is a second-year in the College double majoring in TAPS and Comparative Human\
   \ Development. Previous credits include <em>Twelfth Night</em> (Stage Manager),\
   \ <em>Henry V </em>and <em>Richard II</em> (ASM), and <em>Love's Labour's Lost </em>(Assistant\
@@ -42,7 +42,7 @@ description: "<p><strong>Context, written &amp; directed by Kayla Mathisen.\_The
   \ Last quarter, she was involved in the UT production of <em>Twelfth Night</em>.</p><p><strong>Olivia\
   \ Malone </strong>(Stage Manager) is a first-year prospective Computer Science major\
   \ in the College. She has been involved in stage management for four years and was\
-  \ the Assistant Stage Manager for <em>Urinetown</em> last quarter.</p> <p>\_</p><p><strong>Molly\
+  \ the Assistant Stage Manager for <em>Urinetown</em> last quarter.</p><h4>Production Staff</h4><p><strong>Molly\
   \ Becker </strong>(Production Manager) is a third-year in the College majoring in\
   \ ISHum. Previous production management credits include <em>Cabaret </em>(APM),\
   \ <em>Closer </em>(APM), <em>The Effect of Gamma Rays on Man-in-the-Moon Marigolds\
@@ -54,7 +54,7 @@ description: "<p><strong>Context, written &amp; directed by Kayla Mathisen.\_The
   \ Religious Studies with a minor in Art History. She is the assistant north campus\
   \ theater manager for the Department of Theater and Performance Studies, has participated\
   \ in a wide variety of shows in a wide variety of roles for University Theater,\
-  \ and is an ensemble member with U of C Commedia.</p><p><strong>Feb 4-5:\_UofC Commedia\
+  \ and is an ensemble member with U of C Commedia.</p><h4>After-Glows</h4><p><strong>Feb 4-5:\_UofC Commedia\
   \ presents:\_</strong><em><strong>UofC Commedia</strong></em><br/>\nDirected by\
   \ Lauren Eames<br/>\nCommedia Ensemble</p><p><strong>Feb 6: <em>Wittgenstein's Mistress</em></strong><br/>\n\
   Adapted by David Markson<br/>\nDirected by Si Squires-Kasten<br/>\nPeyton Walker\u2026\
