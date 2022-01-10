@@ -1,15 +1,9 @@
 **UT will be producing the following shows in Winter 2022**:
 
-* A Weekend of Workshops: *Chaos Theory* & *Fields of Asphodel* - 5th Week Winter (2/4-2/5), Logan 501
-* *The Heirs* - 6th Week Winter (2/10-2/12), Theater East
-* *The Light* - 8th Week Winter (2/24-2/26), Theater West
-* *The Trail to Oregon!* - 6th Week Spring (4/28-4/30), Theater West
-
-<div markdown=1 class="alert alert-primary">
-**Due to [recent announcements](https://provost.uchicago.edu/announcements/delayed-start-winter-quarter) made by the University regarding Winter Quarter, the performance dates of shows is to be confirmed.**
-
-We expect to have confirmation by the week of January 3. Please [email UT Committee](mailto:ut-committee@uchicago.edu) with any questions in the meantime!
-</div>
+* A Weekend of Workshops: *Chaos Theory* & *Fields of Asphodel* - 5th Week Winter (2/11-2/12), Logan 501
+* *The Heirs* - 6th Week Winter (2/17-2/19), Theater East
+* *The Light* - 8th Week Winter (3/3-3/5), Theater West
+* *The Trail to Oregon!* - 6th Week Spring (5/5-5/7), Theater West
 
 **Would you like to get involved as a manager or designer?** Feel free to contact the following:
 
