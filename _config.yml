@@ -47,7 +47,7 @@ collections:
     permalink: /:collection/:year/:slug
   events:
     output: true
-    permalink: /:collection/:path
+    permalink: /:collection/:year/:slug
 
 include:
   - _pages

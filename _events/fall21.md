@@ -1,5 +1,7 @@
 ---
 title: UT & TAPS Fall 2021 Events
+date: 2021-09-30
+slug: fall
 layout: events
 events:
     - title: Fall Auditions
