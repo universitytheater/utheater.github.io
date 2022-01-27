@@ -1,4 +1,4 @@
-**UT is producing *The Heirs*, *The Light*, *The Trail to Oregon!*, and workshops of *Chaos Theory* and *Fields of Asphodel*** in Winter and Spring 2022. Click [here]({{ "events/winter/2022" | relative_url }}) for more info about what's happening this quarter!
+**UT is producing *The Heirs*, *The Light*, *The Trail to Oregon!*, and workshops of *Chaos Theory* and *Fields of Asphodel*** in Winter and Spring 2022. Click [here]({{ "events/2022/winter" | relative_url }}) for more info about what's happening this quarter!
 
 **Interested in acting?** Stay tuned for auditions taking place 1st Week of Spring Quarter!
 
