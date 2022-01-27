@@ -9,8 +9,8 @@ Here are some resources to help you get started in UT and learn more about the a
 
 **UT Documents and Forms**
 
-* [Current UT Bylaws](https://docs.google.com/document/d/1LG3EDUSyqv-RhPrpK5BXB2oK310AzS0Q/edit?usp=sharing&ouid=105840471950903327081&rtpof=true&sd=true)
-* [Winter/Spring 2022 Mainstage Proposal Form](https://docs.google.com/document/d/1k06ZjEp9GAP2top1OfQCRqptDcUIm6nB/edit)
+* [Current UT Bylaws](https://docs.google.com/document/d/1LG3EDUSyqv-RhPrpK5BXB2oK310AzS0Q/edit)
+* [Winter/Spring 2022 Mainstage Proposal Form](https://docs.google.com/document/d/1Pd-V6xOy9_vITI8AeIZRYL7rYFPBvMBU/edit)
 * [Winter 2022 Workshop Proposal Form](https://docs.google.com/document/d/1dzDkBSw-pfvZGrv60M3INPljW6JH5gYglF1t8eCwMjw/edit)
 * [Budget Extension Request Form](https://docs.google.com/document/d/1cE9u-UuHLCKNKRt1_thdpe8oQOvgbespe4nNPqbzJTw/edit?usp=sharing)
 
@@ -32,7 +32,7 @@ Here are some resources to help you get started in UT and learn more about the a
 * [Interest form to get involved in design/management](https://forms.gle/qRpMdFR1HDCxAdTi8)
 * [TAPS Design, Management & Crafting Cohorts](https://taps.uchicago.edu/news/tapscohorts)
 * [TAPS Space Scheduler](https://calendar.google.com/calendar/u/0/embed?src=5pdfopego38kfbddn4s8pfm92c@group.calendar.google.com&ctz=America/Chicago)
-* UT Committee Meetings - 5pm on Mondays in Logan 603!
+* UT Committee Meetings - 5pm on Mondays in Logan 028!
 
 **Dean's Men Links**
 
