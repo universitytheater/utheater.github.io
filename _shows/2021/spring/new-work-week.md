@@ -69,6 +69,8 @@ workshops:
     Production Staff:
     - name: Cameron Drake
       role: Director
+    - name: Allegra Hatem
+      role: Dramaturg
 - title: "*Welcome Back to My Channel*, written and directed by Brandon Zang"
   description: '<div class="video-player-wrapper"><iframe width="854" height="480" class="video-player" src="https://www.youtube.com/embed/IlzWMZNQV4U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>'
   roles:
