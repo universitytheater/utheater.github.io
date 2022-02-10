@@ -21,6 +21,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ut.uchicago.edu" # the base hostname & protocol for your site, e.g. http://example.com
 logo: /ut-logo.png
 favicon: /ut-logo-square.png
+future: true
 
 # Build settings
 markdown: kramdown
