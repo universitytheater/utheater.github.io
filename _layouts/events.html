@@ -12,7 +12,7 @@ layout: default
       <div class="border container p-2 mb-3">
         <div class="row align-items-center">
           <div class="col-7 col-md-6 p-3">
-            <h4 class="font-weight-bold mb-0 text-dark">{{event.title}}</h4>
+            <h4 class="font-weight-bold mb-0 text-dark">{{event.title | markdownify | remove: '<p>' | remove: '</p>'}}</h4>
             <p class="mb-1">{{event.description | markdownify | remove: '<p>' | remove: '</p>'}}</p>
           </div>
           <div class="col-5 col-md-3">

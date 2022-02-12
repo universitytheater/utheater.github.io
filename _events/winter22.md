@@ -66,7 +66,7 @@ events:
       time: 'Feb. 12, 2pm'
       location: '[Logan 501](https://goo.gl/maps/Rd7gzsGaCBNaBYrM7)'
       image: /assets/images/2022/winter-events/staged-readings.jpg
-    - title: Weekend of Workshops
+    - title: "[Weekend of Workshops](/shows/2022/winter-weekend-workshops)"
       description: >-
         Come see workshopped scenes from *Chaos Theory* and *Fields of Asphodel*.
       time: 'Feb. 11-12, 7:30pm'
@@ -74,7 +74,7 @@ events:
       links:
         Tickets ($6 advance, $8 door): https://tickets.uchicago.edu/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=AA0C3AB5-68F5-4B85-8699-519AE581082C
       image: /assets/images/2022/winter-events/workshops.jpg
-    - title: Amazons and Their Men
+    - title: "[Amazons and Their Men](/shows/2022/amazons-their-men)"
       description: >-
         The Frau used to direct beautiful films for a fascist government. Now she’s trying to make a film that’s simply beautiful. But when telegrams start to arrive from the Minister of Propaganda, The Frau can no longer ignore the real war outside her sound stage. A darkly comical look at the role of artists during wartime, inspired by the life and work of Leni Riefenstahl. A free preview will take place Thursday, Feb. 17.
       time: 'Feb. 17-19, 7:30pm + Feb. 19, 2pm'
@@ -83,7 +83,7 @@ events:
         Tickets ($6 advance, $8 door): https://tickets.uchicago.edu/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=8425BAA5-1329-4F83-9EB4-38408829C06F
       image:
         /assets/images/2022/winter-events/amazons-preview.jpg
-    - title: The Heirs
+    - title: "[The Heirs](/shows/2022/heirs)"
       description: >-
         At the annual Von Meyer Christmas Eve party, the youngest generation of the Von Meyer family find their retreat in the back office. But in the wake of the Von Meyer matriarch, Annabelle "Granny Annie" Smith-Von Meyer, the family fortune is on the line. Now, the young Von Meyers must face both the family legacy and their future. A free preview will take place Thursday, Feb. 17.
       time: 'Feb. 17-19, 7:30pm + Feb. 19, 2pm'
@@ -92,7 +92,7 @@ events:
         Tickets ($6 advance, $8 door): https://tickets.uchicago.edu/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=6E2833EA-78D2-4321-A531-66A6565DA6DF
       image:
         /assets/images/2022/winter-events/heirs-preview.jpg
-    - title: The Light
+    - title: "[The Light](/shows/2022/light)"
       description: >-
         Not every marriage proposal goes as planned. Loy A. Webb’s *The Light* introduces us to Rashad and Genesis on what should be one of the happiest days of their lives, but their joy quickly unravels when ground-shifting accusations from the past resurface in this gripping two-character drama. Can their relationship survive the growing divide between them over who – and what – to believe? *The Light* is a reckoning that unfolds in real-time and peels away the layers of truth, doubt, pain, and, ultimately, the power of love. A free preview will take place Thursday, March 3.
       time: 'Mar. 3-5, 7:30pm + Mar. 5, 2pm'
