@@ -1,7 +1,6 @@
 ---
 title: UT Staged Readings
 slug: fall-staged-readings
-subheader: Fall 2021
 description: Come see two evenings of scenes from student-written plays, featuring
   eight new works!<p>Organized by Allegra Hatem and Gabi Garcia.</p><p>Thanks to TAPS
   Lecturer Scott Elmegreen for supporting student writers and for assisting with casting!</p>

@@ -1,13 +1,13 @@
 ---
-title: Staged Readings
+title: UT Staged Readings
 slug: winter-staged-readings
 layout: show-info
 subheader: ""
-description: 'Come see an afternoon of scenes from student-written plays, featuring six new works!
+description: '<p>Come see an afternoon of scenes from student-written plays, featuring six new works!</p>
 
-Organized by Allegra Hatem, Spencer Ng, Cole Meldorf, and Gabi Garcia.
+<p>Organized by Allegra Hatem, Spencer Ng, Cole Meldorf, and Gabi Garcia.</p>
 
-Thanks to TAPS Lecturer Scott Elmegreen for supporting student writers and for assisting with casting!'
+<p>Thanks to TAPS Lecturer Scott Elmegreen for supporting student writers and for assisting with casting!</p>'
 workshops:
 - title: "*Waiting Room* by Natalie Manley, directed by Tyler Pleasant"
   description: 'Content warning: Mentions of death, profanity'

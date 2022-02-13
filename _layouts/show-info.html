@@ -10,6 +10,8 @@ layout: default
         {{ page.year }}
       {% elsif page.slug contains "weekend-workshops" %}
         ({{ page.quarter | capitalize }} {{ page.year }})
+      {% elsif page.slug contains "staged-readings" %}
+        ({{ page.quarter | capitalize }} {{ page.year }})
       {% endif %}
     </h1>
     <h5 class="mt-2 mb-2">{{ page.subheader | newline_to_br }}</h5>
