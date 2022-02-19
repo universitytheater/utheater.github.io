@@ -4,6 +4,10 @@ title: University Theater
 permalink: /
 ---
 
+<div markdown=1 class="alert alert-info">
+{% include heirs-cancelled.md %}
+</div>
+
 <div markdown=1 class="alert alert-primary">
 {% include covid-msg.md %}
 </div>
