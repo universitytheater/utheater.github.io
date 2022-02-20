@@ -61,3 +61,7 @@ season: 2021-2022 Shows
 date: 2022-02-17
 
 ---
+
+<div markdown=1 class="alert alert-info">
+{% include heirs-cancelled.md %}
+</div>
