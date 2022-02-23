@@ -31,8 +31,11 @@ roles:
     bio: is a fourth year Astrophysics and Physics major. He has previously worked on Love's Labour's Lost (Director), Old Man and the Old Moon (Pericles, pit violin), Fun Home (pit violin), The Winter's Tale (Shepard's son), Macbeth (various roles), A Streetcar Named Desire (Patrick), and Theater24. He is on both the University Theater and Dean's Men boards. His favorite drink is a Moscow Mule. 
   Production Staff:
   - name: Noah Klowden
-    role: Director
+    role: Director, Writer
     bio: is a third year Computer Science and Linguistics major. This is his first theater production with University Theater, apart from a workshop performance of The Heirs (director). His favorite drink is classified.
+  - name: Ronan O'Callaghan
+    role: Writer
+    bio: is a third-year History major and is the co-writer for The Heirs. He is an avid writer and outside of playwriting he is the co-Editor-in-Chief of The Gate at the IOP.
   - name: Annie Dhal
     role: Dramaturg
   - name: Kelly Mao
@@ -64,6 +67,9 @@ roles:
   - name: Belle Nahoom
     role: Assistant Stage Manager
     bio:  is a first year. She has previously been involved in Theatre 24 and Staged Readings. She is also part of the Commedia Dell’Arte Improv group on campus. She is very grateful to everyone involved to be a part of this experience.
+  - name: Seth Nguyen
+    role: Assistant Scenic Designer
+    bio: "is a fourth-ish year in the College. Credits: The Winter's Tale (Stage Manager), Macbeth (Assistant Stage Manager), A Weekend of Workshops: The Asian Crime Show Play (Director), Waiting for Godot (Props Designer), Dry Land (Assistant Scenic Designer), and Theater[24] (Curator, Writer). He is excited to tell you about the wonderful qualities of mahogany."
   - name: Becky Vazquez
     role: Assistant Props Designer
   - name: Amy Lu
