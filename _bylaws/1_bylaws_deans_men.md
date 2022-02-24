@@ -21,7 +21,7 @@ In addition to our quarterly University Theater show, we take part in community 
 
 The Dean’s Men will perform three shows per year. Once a director and show have been selected for a particular quarter, the Board will assist the director in filling a staff and finding a space, as need be. The selected Dean’s Men show is then submitted to University Theater so that a space and week may be selected with sensitivity to the UT season (see below). The Dean’s Men productions, as UT productions, will fully participate in UT production requirements such as arbitration and space scheduling.
 
-If a show passes the Dean’s Men voting process during Fall or Winter Quarter, this production automatically goes into the Fall or Winter Quarter UT schedules. After a show has passed, a space request will be submitted for the Francis X. Kinahan (FXK) Theater. If the passed director/proposer opts to propose for a different UT space, Committee may consider this option during the scheduling portion of the quarterly Committee Proposal Meeting. No pro/con or other merit-based discussion of the proposed production will occur in the Committee Proposal Meeting once the show has been passed in the Dean’s Men voting process. If the FXK theater or other desired space is not available, the Dean’s Men will consult Pro-Staff for alternate locations.
+If a show passes the Dean’s Men voting process during Fall or Winter Quarter, this production automatically goes into the Fall or Winter Quarter UT schedules. After a show has passed, a space request will be submitted for the Francis X. Kinahan (FXK) Theater. If the passed director/proposer opts to propose for a different UT space, Committee may consider this option during the scheduling portion of the quarterly Committee Proposal Meeting. The only reason this may be vetoed is if logistically the Dean’s Men may not have this space. No pro/con or other merit-based discussion of the proposed production will occur in the Committee Proposal Meeting once the show has been passed in the Dean’s Men voting process. If the FXK theater or other desired space is not available, the Dean’s Men will consult Pro-Staff for alternate locations.
 
 The same above holds true for the Spring Quarter production, substituting Logan Courtyard for the FXK. Upholding long-standing University of Chicago tradition, The Dean’s Men will do everything in their power to make this Spring Quarter production an outdoors production, even if it is held in an outdoor location other than Logan Courtyard. Should an excellent case be made in a proposal for an inside Spring show, however, the Dean’s Men may vote for it in their proposal voting process. Should this decision affect space rental fees and therefore budgets, The Dean’s Men will meet with Pro-Staff and Committee prior to the Committee Proposal Meeting to discuss alternate locations and determine the best course of action on a case by case basis.
 
@@ -32,6 +32,11 @@ During show weekend, the Production Manager will serve as House Manager and coop
 ### C. Dean's Men Activities and University Theater
 
 The Dean’s Men retain the right to perform sonnets, collections of scenes, etc. throughout the school year and summer as opportunities arise and as they see fit. The Dean’s Men understand that when they engage in these opportunities they are representing the Shakespeare face of University Theater and will act accordingly.
+
+At all events hosted by The Dean’s Men, members of The Dean’s Men Board should designate multiple individuals to be “event monitors” that are designated beforehand. The contact information of these individuals should be physically posted at the gathering and presented alongside all instances of event advertisement/information (email, Facebook, etc). Event monitors should be aware of their position before the event and available during and after the event for individuals to voice concerns. In addition, a member of Dean’s Men Board should clearly post the University Theater Harassment, Discrimination, and Sexual Misconduct Resource Sheet at the event.
+
+In accordance with University Theater, the Dean’s Men and Dean’s Men shows will follow the Chicago Code of Conduct (CCOC) that University Theater has adopted, and the Dean’s Men Board will attend the PSA and Title IX trainings coordinated by Committee. 
+
 
 ### D. Artistic Autonomy
 
@@ -54,42 +59,30 @@ Regular Board Meetings are held on a weekly basis in order to discuss the busine
     The President serves as the public image of the Dean’s Men. They are required to attend Performing Arts Roundtable meetings and panels as well as any other events expected of a campus arts leader. They are responsible for ensuring the continued excellence of the Dean’s Men and the cohesion of the Board. The President runs Board meetings.
 2. #### Secretary
     The Secretary is responsible for the successful communication of all Dean’s Men operations. They compose the itinerary for each Board Meeting, write and distribute meeting minutes, announce Dean’s Men events to the necessary listhosts and serve as a contact point between Board members, especially the President. The Secretary is also responsible for maintaining the Dean’s Men listhost.
+
+    The Secretary is also responsible for maintaining the Dean’s Men listhost, the Board listhost, and the Dropbox. 
+
 3. #### Treasurer
     The Treasurer is responsible for maintaining the non-production budget of the Dean’s Men. They collect and allocate funds for non-production events including fundraisers, non-UT artistic projects, etc. They are also in charge of merchandise production and distribution.
-4. #### UT Committee Liaison
-    The Committee Liaison is responsible for representing the interests of the Dean's Men within the larger University Theater organization. They serve as a full member on both the Dean's Men Board and UT Committee. Dean's Men responsibilities include actively soliciting community input in order to best gauge the interests of the Dean's Men at large, advocating for those interests in committee meetings, and maintaining positive working relationships with TAPS Pro Staff. Committee responsibilities include deciding the UT season each quarter, participating in strike for each mainstage production, and attending the weekly meeting each Monday at 5pm , where the Liaison will report to the rest of Committee on recent Dean's Men happenings.
-5. #### Arts Chair
-    The Arts Chair is responsible for facilitating the artistic endeavors of the Dean’s Men, including but not limited to play readings, collaborations, and the proposal process. They are expected to oversee directors, actors, and production staff for collaboration.
-6. #### Education Chair
-    The Education Chair is responsible for the implementation of Shakespeare education within the University community and beyond. They are responsible for overseeing the yearly after-school Shakespeare show at St. Thomas, as well as any other education opportunities within local schools that may arise. They are encouraged to serve as a director for the St. Thomas show but are not required to do so.
-7. #### Social Chair
+4. #### Arts Chair
+    The Arts Chair is responsible for facilitating the artistic endeavors of the Dean’s Men, including but not limited to play readings, collaborations, and the proposal process. They are expected to oversee directors, actors, and production staff for collaboration. They are responsible for informing the community about off-campus theatric or Shakespearian events and opportunities. They typically organize the show potluck that the Board hosts quarterly and spearhead Spring Shit Show productions. 
+5. #### Education Chair
+    TThe Education Chair is responsible for the implementation of Shakespeare education within the University community and beyond. They are responsible for overseeing any education opportunities within local schools that may arise and lead the group of Dean’s Men dedicated to the programs they facilitate. They are encouraged to serve as a director for these school’s shows but are not required to do so.
+6. #### Social Chair
     The Social Chair serves the social needs of the current Dean’s Men show in addition to the Dean’s Men community at large. They plan, organize, and serve as the contact point for any fundraiser or event hosted by the Dean’s Men Board, including the quarterly David Bevington Event. Funding for said events happens through the Treasurer. The Social Chair also maintains the Dean’s Men Facebook page and other social media pages.
+7. #### UT Committee Liaison
+    The UT Committee liaison serves as the Dean’s Men Board representative and full voting member on UT Committee. The UT Committee Liaison is also the show liaison to UT Committee. This responsibility is a year-long commitment and is in addition to their Board position responsibilities. They are responsible for bringing all PSA and Sexual Assault Resource sheets to Dean’s Men functions.
+
 8. #### Show Liaisons
-    All members of the Dean’s Men Board shall operate as co-liaisons to the Dean’s Men quarterly production. They are responsible for communicating effectively and alerting all relevant parties (including other Board Members) of issues that arise.
-
-### H. Voting Procedure
-
-All voting held by the Dean’s Men (e.g. show proposals and board elections) will be decided by majority vote whenever possible. The voting process is to be conducted as follows:
-
-  1. All voters will be asked to rank all of the possible candidates on their ballots in their order of preference.
-  2. The Board will count all of the first-choice votes for each candidate. If any
-  candidate receives a majority (that is, over 50%) of the votes, then that candidate automatically wins.
-  3. If no candidate receives a majority, then all votes cast for the candidate with the _fewest_ votes will be redistributed to the second-choice candidate listed on each ballot. If any candidate has a majority at this point, then that candidate automatically wins.
-  4. This process is repeated (eliminating the ballots cast for the candidate with the fewest votes and redistributing them to the highest-ranked choice that has not yet been eliminated) until one candidate receives a majority vote.
-
-If all but two candidates have been eliminated via this process and the result is a tie, then the procedure for Board Elections is as follows: The most recent round of runoffs is undone and the candidate with the most votes wins.
-
-In the event of a tie in proposals, the procedure is as follows: There is a discussion and re-vote with the two tied candidates, and the candidate with the most votes wins. If a tie occurs once again between these two proposals, the Board will vote. If there is a tie within the Board vote, then a coin will be flipped to determine the show.
+    All members of the Dean’s Men Board shall operate as co-liaisons to the Dean’s Men quarterly production. However, one member of the Board will be selected to attend production meetings and be the main point person for the production team and another will be selected to serve as the point person for the rehearsal room. They are responsible for communicating effectively and alerting all relevant parties (including other Board Members) of issues that arise. All Board members are responsible for attending rehearsals and production meetings on a regular basis. 
 
 ### J. Board Elections
 
-The Board is elected by Voting Members of the organization (as defined in Section 5) at an annual meeting specifically designated as the Board Election Meeting. Said meeting will take place midway through Spring Quarter. Voting takes place for Board positions in the order stated above, starting with the President. Positions may be added, subtracted, and/or altered in response to current organization conditions and requirements as the present Board deems fit.
+The Board is elected by Voting Members of the organization (as defined in Section 5) at an annual meeting specifically designated as the Board Election Meeting. Said meeting will take place midway through Spring Quarter. Voting takes place for Board positions in the order stated above, starting with the President. Positions may be added, subtracted, and/or altered in response to current organization conditions and requirements as the present Board deems fit. 
 
-An email will be sent out well in advance of the Board Election Meeting calling for people to run for Board positions. To be eligible to run for a Dean’s Men Board position, a Voting Member of the organization must send in a statement of intent, including all of the positions they intend to run for. At the Board Election meeting, each candidate will present a brief statement and participate in a two minute question and answer session. Time will be kept by the Treasurer. Once all candidates complete their two minute question and answer session, all Voting Members will cast their votes by secret ballot. A majority vote is needed to elect a candidate (see Section 8 for our voting procedure). The current President and Secretary will announce the results at that time. Then voting for the following positions will go through the same process.
+An email will be sent out well in advance of the Board Election Meeting calling for people to run for Board positions. To be eligible to run for a Dean’s Men Board position, a Voting Member of the organization must send in a statement of intent, including all of the positions they intend to run for. A Voting Member of the organization may not run for any position on the Dean’s Men Board if they already hold an elected position with another arts leadership body that meets with the Performing Arts Roundtable as well as Iris and CES. At the Board Election meeting, each candidate will present 30-second a brief statement and participate in a two minute question and answer session. The Treasurer will keep time. Once all candidates complete their two-minute question and answer session, all Voting Members will cast their votes by secret ranked ballot. A majority vote is needed to elect a candidate. The current President and Secretary will count votes and announce the results at that time. Then voting for the following positions will go through the same process. On the secret ballot, voters will rank their choices of candidates such that in the event of a tie between two candidates, the tie may be broken by reallocation of the other parties’ votes for other candidates. In the event of a tie after redistribution of votes, a coin will be flipped to determine the winner of the tie. In this case, this information is kept to the Board for confidentiality. 
 
-Dean’s Men members who are not able to attend the Board Election meeting may vote for the representatives of their choice in absentia via email and/or Google Doc, to be managed by the Secretary. These absent voters are expected to read the statements of intents submitted by all directors prior to submitting their vote to the Secretary. They are required to provide at least one show credit for proof of voting, as well as a valid excuse (such as work, illness, class, study abroad, etc.) for their absence.
-
-The new Board takes office during the next academic year, though they shall be trained in their new positions and aid the outgoing Board in the interim. The new Board is expected to attend all Dean’s Men Board meetings after they are elected. The incoming President will be expected to attend Performing Arts Roundtable meetings along with the current President. Terms last for a full academic year. In the event of a midterm vacancy, the relevant Chair will nominate a replacement. The Board will then be responsible for approving that nominee.
+The new Board takes office during the next academic year, though they shall be trained in their new positions and aid the outgoing Board in the interim. The new Board is expected to attend all Dean’s Men Board meetings after they are elected. The incoming President will be expected to attend Performing Arts Roundtable meetings along with the current President. Terms last for a full academic year. In the event of a midterm vacancy, the relevant Chair will nominate a replacement. The Board will then be responsible for approving that nominee. 
 
 ### K. Show Proposals
 
@@ -103,9 +96,11 @@ At the proposal meeting, proposers will take turns speaking for five minutes abo
 
 Following each question and answer session, directors are asked to leave the room. Once all directors have been questioned, the remaining Voting Members of the Dean’s Men will discuss the proposals and vote by secret ballot. For voting procedure, see Section 8. Dean’s Men members who are not able to attend the proposal meeting may vote for a show of their choice in absentia via email and/or Google Doc, to be managed by the Secretary. These absent voters are expected to read the proposal documents submitted by all directors prior to submitting their vote to the Secretary. They are required to provide at least one show credit for proof of voting, as well as a valid excuse (such as work, illness, class, study abroad, etc.) for their absence.
 
+In the event of a tie in votes between two proposals in a three or more proposal season, the tie will be broken through the ranking ballot system indicated above. In the event of a tie between two proposals in a two proposal season, there will be a second discussion and a re-vote. If there is a second tie between the two proposals, a coin will be flipped to determine the winner of the tie. In this case, this information is kept to the board for confidentiality.  
+
 ### M. Non-Production Activities
 
-The Dean’s Men may hold non-production related activities outside of the UT Mainstage season. These activities may include but are not limited to publicity events, fundraisers, staged readings, discussion groups, and short performances.
+The Dean’s Men may hold non-production related activities in the UT season. These activities may include but are not limited to publicity events, fundraisers, staged readings, discussion groups, and short performances.
 
 ### N. Amendments
 
