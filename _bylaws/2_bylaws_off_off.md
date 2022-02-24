@@ -5,7 +5,7 @@ toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
 permalink: /bylaws/off-off-campus
-date: 2021-10-14
+date: 2022-02-23
 wrap_div: bylaws-off-off bylaws
 ---
 {::options auto_id_prefix="III-" /}

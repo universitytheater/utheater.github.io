@@ -5,7 +5,7 @@ toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
 permalink: /bylaws/deans-men
-date: 2021-10-14
+date: 2022-02-23
 wrap_div: bylaws-deans-men bylaws
 ---
 {::options auto_id_prefix="II-" /}
@@ -16,6 +16,8 @@ wrap_div: bylaws-deans-men bylaws
 Founded in 2006, The Dean's Men is a student organization at the University of Chicago dedicated to the works of William Shakespeare. Through University Theater productions and other activities, we strive to bring the Bard's writing to the school and create a community of theater makers in the process. We are dedicated to this community, which prospers through social events as well as the rehearsal process. We believe in the importance of its warm, joyous existence. As we continue to cultivate and strengthen our art, so we continue to cultivate and strengthen our community. Once a Dean's Man, always a Dean's Man.
 
 In addition to our quarterly University Theater show, we take part in community outreach, engage with academic resources, and participate in other artist and social endeavors. In the past, such endeavors have included directing a yearly Shakespeare show with local middle school students at St. Thomas Academy, organizing bi-weekly play readings, and hosting gatherings with David Bevington, the world-renowned Shakespeare scholar.
+
+Once a Dean's Man, always a Dean's Man
 
 ### B. Production Process
 
@@ -58,9 +60,7 @@ Regular Board Meetings are held on a weekly basis in order to discuss the busine
 1. #### President
     The President serves as the public image of the Dean’s Men. They are required to attend Performing Arts Roundtable meetings and panels as well as any other events expected of a campus arts leader. They are responsible for ensuring the continued excellence of the Dean’s Men and the cohesion of the Board. The President runs Board meetings.
 2. #### Secretary
-    The Secretary is responsible for the successful communication of all Dean’s Men operations. They compose the itinerary for each Board Meeting, write and distribute meeting minutes, announce Dean’s Men events to the necessary listhosts and serve as a contact point between Board members, especially the President. The Secretary is also responsible for maintaining the Dean’s Men listhost.
-
-    The Secretary is also responsible for maintaining the Dean’s Men listhost, the Board listhost, and the Dropbox. 
+    The Secretary is responsible for the successful communication of all Dean’s Men operations. They compose the itinerary for each Board Meeting, write and distribute meeting minutes, announce Dean’s Men events to the necessary listhosts and serve as a contact point between Board members, especially the President. The Secretary is also responsible for maintaining the Dean’s Men listhost, the Board listhost, and the Dropbox. 
 
 3. #### Treasurer
     The Treasurer is responsible for maintaining the non-production budget of the Dean’s Men. They collect and allocate funds for non-production events including fundraisers, non-UT artistic projects, etc. They are also in charge of merchandise production and distribution.
