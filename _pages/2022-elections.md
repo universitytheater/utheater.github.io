@@ -4,7 +4,7 @@ title: UT Committee 2022-23 Elections
 permalink: /elections/2022
 ---
 
-Read the statements from the following 2022-2023 UT Committee candidates here! Elections will be held 5pm on Monday, February 28 in Logan 028.
+Read the statements from the following 2022-2023 UT Committee candidates here! Elections will be held at 5pm on Monday, February 28 in the Logan Center (room to be confirmed).
 
 <ul>
 {% for candidate in site.data.2022_candidates%}
