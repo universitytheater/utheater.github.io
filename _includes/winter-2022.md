@@ -2,4 +2,4 @@
 
 **Interested in acting?** Stay tuned for auditions taking place 1st Week of Spring Quarter for *The Scientific Method* and *King Lear*!
 
-**Interested in joining a Winter or Spring 2022 mainstage as a designer or manager?** **[Fill out this form](https://forms.gle/qRpMdFR1HDCxAdTi8)** to get your name out to show staff, who can [view this page](https://docs.google.com/document/d/1-CPp6fKgUhwP6BdVOM4c6b-2FGZw49l3K-5_jnMQ5rk/edit) to see those who are interested!
+**Interested in joining a Spring 2022 mainstage as a designer or manager?** **Click [here]({{ "get-involved/designers-managers" | relative_url }})** for more info about how to get your name out to show staff and join a team!
