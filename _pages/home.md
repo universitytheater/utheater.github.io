@@ -5,10 +5,6 @@ permalink: /
 ---
 
 
-<div markdown=1 class="alert alert-primary">
-{% include covid-msg.md %}
-</div>
-
 <div markdown=1 class="alert alert-info">
 {% include winter-2022.md %}
 </div>
