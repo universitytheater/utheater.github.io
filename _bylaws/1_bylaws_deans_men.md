@@ -1,12 +1,13 @@
 ---
 layout: toc
-title: Deans Men Bylaws3
+title: Deans Men Bylaws
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
 permalink: /bylaws/deans-men
 date: 2022-02-23
 wrap_div: bylaws-deans-men bylaws
+section: "1"
 ---
 {::options auto_id_prefix="II-" /}
 ## II. The Dean's Men

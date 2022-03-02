@@ -7,6 +7,7 @@ toc_icon: "cog"
 permalink: /bylaws/ut-main
 date: 2022-02-23
 wrap_div: bylaws bylaws-ut-main
+section: "02"
 ---
 {::options auto_id_prefix="I-" /}
 ## I. The University Theater Committee

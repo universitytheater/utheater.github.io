@@ -7,6 +7,7 @@ toc_icon: "cog"
 permalink: /bylaws/ut-proposals
 date: 2022-02-23
 wrap_div: bylaws-proposals bylaws
+section: "4"
 ---
 {::options auto_id_prefix="V-" /}
 ## V. The University Theater Proposal Process
@@ -56,7 +57,7 @@ and are passed one quarter prior to their performance quarter. Workshops are int
     RSOs may propose to collaborate with UT with the same deadline as mainstage proposals.
       * Proposing RSOs contact the Committee Chair expressing an interest in collaborating with UT. The RSO then sends a representative to a Committee meeting any time before the Mainstage proposal meeting to discuss the proposal with Committee.
       * Collaborations proposers are encouraged to meet with the Director of UT/TAPS and the TAPS Design Team to discuss their proposals. Proposers meet with the Managing Director to discuss rights, if applicable.
-      * Proposers turn in their proposal by Friday of 2<sup>nd</sup> Week by 5pm to the Committee Chair's mailbox and electronically, either by fileshare (Google Drive, Dropbox, etc. or emailed to [ut-committee@lists.uchicago.edu](mailto:ut-committee@lists.uchicago.edu)).
+      * Proposers turn in their proposal by Friday of 2<sup>nd</sup> Week by 5pm to the Committee Chair's mailbox and electronically, either by fileshare (Google Drive, Dropbox, etc. or emailed to [ut-committee@uchicago.edu](mailto:ut-committee@uchicago.edu)).
       * The proposal should include the following components:
 
           * Name and information about the RSO, and proposer, and their role in the organization.
@@ -99,7 +100,7 @@ and are passed one quarter prior to their performance quarter. Workshops are int
 
 1. #### Proposal Process
     * Proposers are encouraged to meet with the Director of TAPS to discuss their proposals. Proposers meet with the Managing Director to discuss rights, if applicable.
-    * Proposers turn in their proposal by Friday of 5<sup>th</sup> Week by 5pm to the Committee Chair's mailbox and electronically, emailed to [ut-committee@lists.uchicago.edu](ut-committee@lists.uchicago.edu)).
+    * Proposers turn in their proposal by Friday of 5<sup>th</sup> Week by 5pm to the Committee Chair's mailbox and electronically, emailed to [ut-committee@uchicago.edu](mailto:ut-committee@uchicago.edu)).
     *   The proposal should include the following components:
 
           * Name and information about the proposer.

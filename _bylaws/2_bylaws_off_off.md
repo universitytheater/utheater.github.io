@@ -1,12 +1,13 @@
 ---
 layout: toc
-title: Off-Off Campus Bylaws3
+title: Off-Off Campus Bylaws
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
 permalink: /bylaws/off-off-campus
 date: 2022-02-23
 wrap_div: bylaws-off-off bylaws
+section: "2"
 ---
 {::options auto_id_prefix="III-" /}
 ## III. Off-Off Campus

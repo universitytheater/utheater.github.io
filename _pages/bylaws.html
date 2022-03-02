@@ -11,7 +11,8 @@ permalink: /bylaws
 
 <div id="all-bylaws">
   {% assign last_modified_raw = 0 %}
-  {% for bylaw in site.bylaws %}
+  {% assign bylaws = site.bylaws | sort: "section" %}
+  {% for bylaw in bylaws %}
     {% assign tmp = bylaw.date | date: "%s" | plus: 0 %}
     {% if tmp > last_modified_raw %}
       {% assign last_modified_raw = tmp %}

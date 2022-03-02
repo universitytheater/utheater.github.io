@@ -7,6 +7,7 @@ toc_icon: "cog"
 permalink: /bylaws/t24
 date: 2022-02-23
 wrap_div: bylaws-t24 bylaws
+section: "3"
 ---
 {::options auto_id_prefix="IV-" /}
 ## IV. Theater[24]
