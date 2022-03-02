@@ -119,13 +119,14 @@ wrap_div: bylaws bylaws-ut-main
       Open Session minutes should be shared with the community in full, with edits made for clarity and effective information dissemination. Executive Session minutes should be shared with the community unless pertaining to confidential information or topics.
 
       Confidential topics might include but are not limited to:
-      - Proposals
-      - Information that involves identifying or may identify individuals to the larger UT community
-      - Discussion of show-specific conflict that does not relate to the larger UT community. This may include—but is not limited to–conflict resolution, communication problems, or concerns about harassment.
-      - Information that might require action by a Mandatory Reporter. 
-      - Anything marked confidential during or after the meeting
 
-      The agenda for the meeting should be emailed to the Committee 24 hours before the meeting. Minutes of the meeting should be posted to the UT Committee Executive Session listhost by the Secretary within 24 hours of the end of the meeting. These minutes must clearly demarcate Executive Session (closed meeting) minutes from for-public minutes. Committee has an additional 24 hours after this point to suggest any changes in information, wording, or regarding the demarcation, or to make further additions. After this period, the Secretary posts the minutes, with Executive Session minutes removed, to the UT general listhost. Any changes to by-laws occurring in a Committee meeting must be noted in the public minutes.
+      * Proposals.
+      * Information that involves identifying or may identify individuals to the larger UT community.
+      * Discussion of show-specific conflict that does not relate to the larger UT community. This may include—but is not limited to–conflict resolution, communication problems, or concerns about harassment.
+      * Information that might require action by a Mandatory Reporter. 
+      * Anything marked confidential during or after the meeting. <br /> <br />
+
+      The agenda for the meeting should be emailed to the Committee 24 hours before the meeting. Minutes of the meeting should be posted to the UT Committee Executive Session listhost by the Secretary within 24 hours of the end of the meeting. These minutes must clearly differentiate confidential minutes from for-public minutes. Committee has an additional 24 hours after the Secretary sends out the full minutes to suggest any changes in information, wording, or regarding the proposed minutes, or to make further additions. Minutes sent out to the community must be anonymized. Executive session minutes will not be confidential unless otherwise specified at this point. All changes must be requested on a platform accessible by all of Committee, such as a Committee meeting, shared communication platform, or Committee listhost. Any member of Committee can make this request. In the case of any objection, the information in question is excluded from that week’s minutes. After this period, the Secretary posts the minutes, with confidential information removed, to the UT general listhost. Any changes to by-laws occurring in a Committee meeting must be noted in the public minutes.
     * ##### Attendance and Quorum
       Committee meetings, with the exception of the Mainstage Proposal Meeting and open forums, are closed ('Executive Session'). Quorum for a regular meeting is a majority of voting members. For a proposal meeting, at least four of those members must be elected, non-staff student members.
     * ##### Voting
