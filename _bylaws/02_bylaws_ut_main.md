@@ -116,6 +116,15 @@ wrap_div: bylaws bylaws-ut-main
     * ##### Frequency
       The Committee meets regularly, once a week during the regular school term (Fall, Winter, and Spring quarters). Meetings are at 5pm on Monday evening. Any member of the Committee may ask the Chair of the Committee to call a special meeting, at which point a phone or email poll of the other members will determine if quorum can be reached, at which point a meeting is held. Regular Committee meetings should be scheduled for at least one hour with a reasonable amount of time set aside for accidentals, incidentals, and unforeseen important business. Committee members should not schedule rehearsals, builds, etc. that conflict with the already-scheduled Committee meetings. Members who wish to have item put on the agenda should contact the Chair of the Committee at least 24 hours before the meeting.
     * ##### Agendas and Minutes
+      Open Session minutes should be shared with the community in full, with edits made for clarity and effective information dissemination. Executive Session minutes should be shared with the community unless pertaining to confidential information or topics.
+
+      Confidential topics might include but are not limited to:
+      - Proposals
+      - Information that involves identifying or may identify individuals to the larger UT community
+      - Discussion of show-specific conflict that does not relate to the larger UT community. This may include—but is not limited to–conflict resolution, communication problems, or concerns about harassment.
+      - Information that might require action by a Mandatory Reporter. 
+      - Anything marked confidential during or after the meeting
+
       The agenda for the meeting should be emailed to the Committee 24 hours before the meeting. Minutes of the meeting should be posted to the UT Committee Executive Session listhost by the Secretary within 24 hours of the end of the meeting. These minutes must clearly demarcate Executive Session (closed meeting) minutes from for-public minutes. Committee has an additional 24 hours after this point to suggest any changes in information, wording, or regarding the demarcation, or to make further additions. After this period, the Secretary posts the minutes, with Executive Session minutes removed, to the UT general listhost. Any changes to by-laws occurring in a Committee meeting must be noted in the public minutes.
     * ##### Attendance and Quorum
       Committee meetings, with the exception of the Mainstage Proposal Meeting and open forums, are closed ('Executive Session'). Quorum for a regular meeting is a majority of voting members. For a proposal meeting, at least four of those members must be elected, non-staff student members.
