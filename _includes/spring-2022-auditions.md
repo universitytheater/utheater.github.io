@@ -8,7 +8,7 @@
 1. **Fill out the [general UT audition form](https://bit.ly/UTSpring2022Auditions)**. Auditions will be held on Tuesday, March 29 and Wednesday, March 30 on the 3rd floor of Cobb Hall at 7-10pm.
 2. **Sign up for a time slot** to audition for [*King Lear*](https://bit.ly/KingLearAuditionSignup.) or [*Scientific Method*](https://bit.ly/ScientificMethodAuditionSignup.).
 3. **Choose an [audition side](https://bit.ly/UTSpring22AuditionSides)**, then enter the audition room in Cobb during your time slot. Please note that you are not expected to memorize your side.
-4. **Callback auditions will be announced via email late Wednesday evening!** If you are called back, congrats! Please go to the callback room during your assigned time(s). Callbacks will take place Thursday, March 30 in Cobb at 7-10pm.
+4. **Callback auditions will be announced via email late Wednesday evening!** If you are called back, congrats! Please go to the callback room during your assigned time(s). Callbacks will take place Thursday, March 31 in Cobb at 7-10pm.
 
 **Do you have questions about auditioning for a particular show?** Feel free to contact their stage management team!
 
