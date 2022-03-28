@@ -62,7 +62,8 @@ Callbacks can be whatever the directing team wants and often varies. You could r
 
 
 #### How will I know if I'm cast?
-Cast lists will be emailed to auditionees and may be posted outside of the TAPS Lounge at the Logan Center on Friday of 1st Week around early afternoon. Auditionees are expected to check this list and confirm their role with stage management by the end of Friday, so be on the lookout then!
+
+Casting decisions will be emailed to auditionees on Friday of 1st Week around early afternoon. Auditionees are expected to check their email and confirm their role with stage management by the end of Friday, so be on the lookout then!
 
 #### Can I be cast in more than one show?
 
