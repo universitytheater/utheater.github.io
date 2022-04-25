@@ -4,7 +4,8 @@ slug: winter-weekend-workshops
 layout: show-info
 subheader: ""
 description: 'Workshops give directors and writers a chance to see their work come
-  alive on stage. Join us for a weekend of workshopped scenes from two plays: <em>Chaos Theory</em> and <em>Fields of Asphodel</em>. Buy tickets <a href="https://tickets.uchicago.edu/Online/default.asp?doWork%3A%3AWScontent%3A%3AloadArticle=Load&BOparam%3A%3AWScontent%3A%3AloadArticle%3A%3Aarticle_id=AA0C3AB5-68F5-4B85-8699-519AE581082C">at this link</a>!'
+  alive on stage. Join us for a weekend of workshopped scenes from two plays: <em>Chaos Theory</em> and <em>Fields of Asphodel</em>.'
+vimeo_link: 'https://player.vimeo.com/video/688587422'
 workshops:
 - title: "*Chaos Theory* by Anuvab Pal, directed by Ananya Karanam"
   description: 'These excerpts from <em>Chaos Theory</em> follow longtime friends Sunita and Mukesh over their 35-year relationship, as they go from idealistic undergraduate students in New Delhi to literature professors at prestigious American universities. A story of academia, love, and migration, Chaos Theory is an exploration of what it means to be part of the South Asian diaspora.'
