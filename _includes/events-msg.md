@@ -1,7 +1,7 @@
 **We will continue planning events throughout the quarter!** The best way to stay up-to-date on events is to…..
 
 * Join the [UT listhost](https://lists.uchicago.edu/web/info/utheater-general) and [sign up for our newsletter](https://uchicago.us2.list-manage.com/subscribe?u=898aa836fc636cd1b2571ad5b&id=ef0f5470fe)! 
-* [Follow us on Facebook](https://facebook.com/universitytheater)!
+* [Follow us on Facebook](https://facebook.com/universitytheater) or [Instagram](https://instagram.com/university.theater)!
 * Join our Discord through the [UChicago student hub](https://discord.gg/KhEEuRweMd)! 
 
 **Have an idea for an event?** Contact us at [ut-committee@uchicago.edu](mailto:ut-committee@uchicago.edu) or message us [on Facebook](https://facebook.com/universitytheater)! 
