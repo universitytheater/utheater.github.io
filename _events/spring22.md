@@ -38,7 +38,6 @@ events:
     - title: 'New Work Week: *Pre-Vaccin, Post Instagram*'
       description: >-
         Come watch *Pre-Vaccin, Post Instagram* by Lou Gargouri, directed by Eleni Lefakis and Olivia Ward, and featuring Allegra Hatem and Honglan Huang. Tickets are free!<br>
-
         In the early days of the Covid-19 pandemic two new roommates get to know each other during lockdown. They share dinner, their feelings on social media as well as their homesickness. Will they end up friends or will the lockdown drive them apart?
       time: 'Apr. 16, 4pm'
       location: '[Logan 501](https://goo.gl/maps/Rd7gzsGaCBNaBYrM7)'
@@ -53,9 +52,7 @@ events:
     - title: "Off-Off Campus: Soup!"
       description: >-
         Off-Off Campus is the nation's oldest collegiate improv and sketch comedy group.<br>
-
         Join us for the Spring Quarter Revue! Every Friday from 4th-8th week, Generations 36 will present a never-before-seen comedy show, never to be seen again... unless you're in a Groundhog Day situation, in which case, we can't help you. All love, though!<br>
-
         This season will feature pre-glows from UChicago stand-up comedians, Ransom Notes a capella, and even a magician!
       time: 'Fridays 7:30pm, Apr. 22 - May 20'
       location: '[The Revival](https://goo.gl/maps/xTEDKciYkjp6GArx8)'
@@ -82,7 +79,7 @@ events:
         /assets/images/2022/king-lear/thumbnail.jpg
     - title: "[Scientific Method](#)"
       description: >-
-        Amy’s a cutting-edge cancer researcher on the edge of a breakthrough…and the edge of a nervous breakdown. When her big project gets “scooped,” and a handsome new colleague starts asking questions, Amy discovers that she’s the one under the microscope. A free preview will take place Thursday, May 19.
+       Amy, a soon-to-graduate biology PhD student, is almost ready to submit her cancer research work. Meanwhile at a conference, her mentor finds out that a heavily overlapping work was recently published, rendering Amy’s hard work no longer usable. She is now forced to start over on a new project and seek outside funding. Getting scooped isn’t a rare occurrence in science, but what happened to Amy might be more than a simple coincidence. A free preview will take place Thursday, May 19.
       time: 'May 19-21, 7:30pm + May 21, 2pm'
       location: '[Logan Theater East](https://goo.gl/maps/Rd7gzsGaCBNaBYrM7)'
       links:
