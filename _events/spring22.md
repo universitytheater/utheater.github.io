@@ -68,20 +68,22 @@ events:
         Tickets ($6 advance, $8 door): https://tickets.uchicago.edu/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=31AECB8A-E3F4-421F-AB87-3D0CE1D4E71A
       image:
         /assets/images/2022/trail-oregon/thumbnail.jpg
-    - title: "[King Lear](#)"
+    - title: "[King Lear](/shows/2022/king-lear)"
       description: >-
-        King Lear has ruled for many years. As age overtakes him, he divides his kingdom amongst his cildren. Misjudging their loyalty, he soon finds himself stripped of all the trappings of state, wealth and power that had defined him. A free preview will take place Thursday, May 12.
+        King Lear has ruled for many years. As age overtakes him, he divides his kingdom amongst his children. Misjudging their loyalty, he soon finds himself stripped of all the trappings of state, wealth and power that had defined him. A free preview will take place Thursday, May 12.
       time: 'May 12-13 and May 15, 7:30pm + May 15, 2pm'
       location: 'FXK Theater, Reynolds Club'
       links:
         Tickets ($6 advance, $8 door): https://tickets.uchicago.edu/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=1D8048F9-CFD0-4066-A81E-DBEAF2EC70B2
       image:
         /assets/images/2022/king-lear/thumbnail.jpg
-    - title: "[Scientific Method](#)"
+    - title: "[Scientific Method](/shows/2022/scientific-method)"
       description: >-
        Amy, a soon-to-graduate biology PhD student, is almost ready to submit her cancer research work. Meanwhile at a conference, her mentor finds out that a heavily overlapping work was recently published, rendering Amy’s hard work no longer usable. She is now forced to start over on a new project and seek outside funding. Getting scooped isn’t a rare occurrence in science, but what happened to Amy might be more than a simple coincidence. A free preview will take place Thursday, May 19.
       time: 'May 19-21, 7:30pm + May 21, 2pm'
       location: '[Logan Theater East](https://goo.gl/maps/Rd7gzsGaCBNaBYrM7)'
       links:
-        Tickets (coming soon; $6 advance, $8 door): #
+        Tickets ($6 advance, $8 door): https://tickets.uchicago.edu/Online/default.asp?doWork%3A%3AWScontent%3A%3AloadArticle=Load&BOparam%3A%3AWScontent%3A%3AloadArticle%3A%3Aarticle_id=702C3542-DBEC-40AB-885B-22DAA8A32136
+      image:
+        /assets/images/2022/scientific-method/thumbnail.jpg
 ---

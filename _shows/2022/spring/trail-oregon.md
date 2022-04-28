@@ -31,7 +31,7 @@ roles:
   Production Staff:
   - name: Reese Klemm
     role: Co-Director
-  - name: Jules Fennell
+  - name: Julia Fennell
     role: Co-Director
   - name: Reese Klemm
     role: Choreographer
