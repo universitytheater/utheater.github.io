@@ -1,5 +1,6 @@
 - source: 'assets/images/2022/trail-oregon/banner.jpg'
   url: 'shows/2022/trail-oregon'
 - source: 'assets/images/2022/king-lear/banner.jpg'
+  url: 'shows/2022/king-lear'
 - source: 'https://humanities-web.s3.us-east-2.amazonaws.com/taps/prod/styles/slider_image/s3/2022-04/2022%20BA%20projects.jpg'
   url: 'https://taps.uchicago.edu/event/taps-ba-thesis-project-presentations'
