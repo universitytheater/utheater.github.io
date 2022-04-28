@@ -232,11 +232,15 @@ GEM
       jekyll-seo-tag (~> 2.1)
     minitest (5.15.0)
     multipart-post (2.1.1)
+<<<<<<< HEAD
     nokogiri (1.13.4-arm64-darwin)
       racc (~> 1.4)
     nokogiri (1.13.4-x86_64-darwin)
       racc (~> 1.4)
     nokogiri (1.13.4-x86_64-linux)
+=======
+    nokogiri (1.12.5-x86_64-linux)
+>>>>>>> c6ae1b1cd4fbbdcd02307fc2b84aa5613d00517c
       racc (~> 1.4)
     octokit (4.22.0)
       faraday (>= 0.9)

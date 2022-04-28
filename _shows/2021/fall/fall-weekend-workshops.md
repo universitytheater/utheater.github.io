@@ -7,10 +7,8 @@ description: 'Workshops give directors and writers a chance to see their work co
   plays: <em>The Heirs</em> and <em>Ah Wing and the Automaton Eagle</em>.'
 workshops:
 - title: "*The Heirs* by Ronan O’Callaghan and Noah Klowden, directed by Noah Klowden"
-  description: 'At the annual Von Meyer Christmas Eve party, the youngest generation of the Von Meyer family find their retreat in the back office. But in the wake of the Von Meyer matriarch, Annabelle "Granny Annie" Smith-Von Meyer, the family fortune is on the line. Now, the young Von Meyers must face both the family legacy and their future.<br><div
-    class="video-player-wrapper"><iframe src="https://player.vimeo.com/video/644400819?h=fbc08f2e03&color=FF6600&byline=0&portrait=0"
-    class="video-player" frameborder="0" allow="autoplay; fullscreen; picture-in-picture"
-    allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>'
+  description: 'At the annual Von Meyer Christmas Eve party, the youngest generation of the Von Meyer family find their retreat in the back office. But in the wake of the Von Meyer matriarch, Annabelle "Granny Annie" Smith-Von Meyer, the family fortune is on the line. Now, the young Von Meyers must face both the family legacy and their future.'
+  vimeo_link: 'https://player.vimeo.com/video/644400819?h=fbc08f2e03&color=FF6600&byline=0&portrait=0'
   roles:
     Cast:
     - name: Sian McAllister
@@ -37,10 +35,8 @@ workshops:
     - name: Teddy Sandler
       role: Scenic Designer
 - title: "*Ah Wing and the Automaton Eagle* by Brandon Zang, directed by Jayda Hart"
-  description: "This steampunk drama follows Ah Wing and his journey to build an automaton Eagle based on his late father's blueprints with hopes of selling it to the US Government to release into the wild after they have gone extinct. These scenes follow the building tension as he finally gets the Eagle to function, fulfilling the expectations from his mother and community, and working to get the money to rebuild Chinatown. Ah Wing and his family must navigate grief, hope, and trying to live the American dream.<br><div
-class=\"video-player-wrapper\"><iframe src=\"https://player.vimeo.com/video/644378954?h=becec3fbbf&color=FF6600&byline=0&portrait=0\"
-class=\"video-player\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\"
-allowfullscreen></iframe></div>"
+  description: "This steampunk drama follows Ah Wing and his journey to build an automaton Eagle based on his late father's blueprints with hopes of selling it to the US Government to release into the wild after they have gone extinct. These scenes follow the building tension as he finally gets the Eagle to function, fulfilling the expectations from his mother and community, and working to get the money to rebuild Chinatown. Ah Wing and his family must navigate grief, hope, and trying to live the American dream."
+  vimeo_link: 'https://player.vimeo.com/video/644378954?h=becec3fbbf&color=FF6600&byline=0&portrait=0'
   roles:
     Cast:
     - name: Amadis Davis

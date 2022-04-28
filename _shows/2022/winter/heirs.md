@@ -6,7 +6,8 @@ subheader: 'written by Ronan O’Callaghan and Noah Klowden
   directed by Noah Klowden
 
   Winter 2022'
-description: 'At the annual Von Meyer Christmas Eve party, the youngest generation of the Von Meyer family find their retreat in the back office. But in the wake of the death of the Von Meyer matriarch, Annabelle "Granny Annie" Smith-Von Meyer, the family fortune is on the line. Now, the young Von Meyers must face both the family legacy and their future. Buy tickets <a href="https://tickets.uchicago.edu/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=6E2833EA-78D2-4321-A531-66A6565DA6DF">at this link</a>!'
+description: 'At the annual Von Meyer Christmas Eve party, the youngest generation of the Von Meyer family find their retreat in the back office. But in the wake of the death of the Von Meyer matriarch, Annabelle "Granny Annie" Smith-Von Meyer, the family fortune is on the line. Now, the young Von Meyers must face both the family legacy and their future.'
+vimeo_link: 'https://player.vimeo.com/video/689420818'
 roles:
   Cast:
   - name: Robert Carhuayo

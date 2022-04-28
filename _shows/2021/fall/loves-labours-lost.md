@@ -16,10 +16,8 @@ description: "King Ferdinand of Navarre\u2019s \u201Cno fun\u201D edict mandates
   \ women set out to teach the men a thing or two about love and commitment. The puns\
   \ fly and the playwright\u2019s wordplay take flight in this playful romantic comedy\
   \ about young love with a surprising conclusion where the characters' new outlooks\
-  \ on life are tested. <br><div class=\"video-player-wrapper\"><iframe src=\"https://player.vimeo.com/video/653270391?h=7d9911e5af&byline=0&portrait=0\"\
-  \ class=\"video-player\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\"\
-  \ allowfullscreen></iframe></div><script src=\"https://player.vimeo.com/api/player.js\"\
-  ></script>"
+  \ on life are tested."
+vimeo_link: 'https://player.vimeo.com/video/653270391?h=7d9911e5af&byline=0&portrait=0'
 roles:
   Cast:
   - name: Jonathan Rufino

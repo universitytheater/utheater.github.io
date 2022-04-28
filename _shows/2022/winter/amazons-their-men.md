@@ -6,7 +6,8 @@ subheader: 'written by Jordan Harrison
   directed by Kathryn Walsh
 
   Winter 2022'
-description: 'The Frau used to direct beautiful films for a fascist government. Now she’s trying to make a film that’s simply beautiful. But when telegrams start to arrive from the Minister of Propaganda, The Frau can no longer ignore the real war outside her sound stage. A darkly comical look at the role of artists during wartime, inspired by the life and work of Leni Riefenstahl. Buy tickets <a href="https://tickets.uchicago.edu/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=8425BAA5-1329-4F83-9EB4-38408829C06F">at this link</a>!'
+description: 'The Frau used to direct beautiful films for a fascist government. Now she’s trying to make a film that’s simply beautiful. But when telegrams start to arrive from the Minister of Propaganda, The Frau can no longer ignore the real war outside her sound stage. A darkly comical look at the role of artists during wartime, inspired by the life and work of Leni Riefenstahl.'
+vimeo_link: 'https://player.vimeo.com/video/683120402'
 roles:
   Cast:
   - name: Abby Kanes

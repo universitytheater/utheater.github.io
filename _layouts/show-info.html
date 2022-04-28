@@ -5,7 +5,7 @@ layout: default
 <article class="post">
   {{content}}
   <header class="post-header">
-
+    <script src="https://player.vimeo.com/api/player.js"></script>
     <h1 class="post-title">
       {{ page.title | escape }}
       {% if page.slug contains "new-work-week" %}
@@ -59,10 +59,23 @@ layout: default
     {% endif %}
 
     <p class="mt-3">{{ page.description }}</p>
+    {% if page.tickets_link %}
+    <p class="mt-3">Buy tickets <a href="{{ page.tickets_link }}">at this link</a>!</p>
+    {% endif %}
+    {% if page.vimeo_link %}
+    <div class="video-player-wrapper">
+      <iframe src="{{ page.vimeo_link }}" class="video-player" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+    </div>
+    {% endif %}
     {% if page.workshops %}
       {% for workshop in page.workshops %}
         <h4 class="mt-2 mb-2">{{workshop.title | markdownify | remove: '<p>' | remove: '</p>'}}</h4>
         <p>{{workshop.description}}</p>
+        {% if workshop.vimeo_link %}
+        <div class="video-player-wrapper">
+          <iframe src="{{ workshop.vimeo_link }}" class="video-player" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        {% endif %}
         {% for role in workshop.roles %}
           <h5 class="mt-2 mb-2">{{role[0] | markdownify | remove: '<p>' | remove: '</p>'}}</h5>
           {% for actor in role[1] %}

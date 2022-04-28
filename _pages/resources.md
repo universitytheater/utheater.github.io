@@ -11,7 +11,7 @@ Here are some resources to help you get started in UT and learn more about the a
 
 * [Current UT Bylaws](https://docs.google.com/document/d/1LG3EDUSyqv-RhPrpK5BXB2oK310AzS0Q/edit)
 * [Fall 2022/Winter 2023 Mainstage Proposal Form](https://docs.google.com/document/d/1jggy4tTiY0BUrcuNk8eB6e2OSEof0KLN/edit?usp=sharing&ouid=105840471950903327081&rtpof=true&sd=true)
-* [Winter 2022 Workshop Proposal Form](https://docs.google.com/document/d/1dzDkBSw-pfvZGrv60M3INPljW6JH5gYglF1t8eCwMjw/edit)
+* [Fall 2022 Workshop Proposal Form](https://docs.google.com/document/d/1lmvoj2XuqxxK2gN5dgFqxJ2hj1cMvvhCQBtlFYG4gmI/edit)
 * [Budget Extension Request Form](https://docs.google.com/document/d/1cE9u-UuHLCKNKRt1_thdpe8oQOvgbespe4nNPqbzJTw/edit?usp=sharing)
 
 **UT Links**
