@@ -28,67 +28,80 @@ roles:
     role: Understudy - Mother
   - name: Kaleigh Perez
     role: Understudy - Kids
+  Band:
+  - name: Davis Cook
+    role: Guitarist
+  - name: Hayden Cremen
+    role: Drummer
+  - name: Abby Kanes
+    role: Bass
+  - name: Elena Gill
+    role: Pianist
+  - name: Owen Dominguez
+    role: Pianist
   Production Staff:
   - name: Reese Klemm
-    role: Co-Director
+    role: Co-Director/Choreographer
   - name: Julia Fennell
     role: Co-Director
-  - name: Reese Klemm
-    role: Choreographer
-  - name: Gwendolyn Laub
-    role: Assistant Choreographer
-  - name: Eleni Lefakis
-    role: Assistant Director/Dramaturg
-  - name: Ariana Baginski
-    role: Calling Stage Manager
-  - name: Danielle Yablonovskiy
-    role: Deck Stage Manager
-  - name: Ruhi Sah
-    role: Production Manager
-  - name: June Villers
-    role: Sound Designer
-  - name: Thomas Nielsen
-    role: Scenic Designer
-  - name: Daisy Marshall
-    role: Props Designer
   - name: Guilherme Galhardo
     role: Vocal Director
   - name: Sophie Hachten
     role: Music Director
-  - name: Amelia Simonoff
-    role: Lighting Designer
+  - name: Ruhi Sah
+    role: Production Manager
+  - name: Ariana Baginski
+    role: Calling Stage Manager
+  - name: Danielle Yablonovskiy
+    role: Deck Stage Manager
+  - name: Eleni Lefakis
+    role: Dramaturg/Assistant Director
+  - name: Thomas Nielsen
+    role: Scenic Designer
   - name: Carolyn Johansen
     role: Costume Designer
+  - name: Daisy Marshall
+    role: Props Designer
+  - name: June Villers
+    role: Sound Designer
+  - name: Amelia Simonoff
+    role: Lighting Designer
+  - name: Emma Edwards
+    role: Assistant Stage Manager
+  - name: Daniel Arad
+    role: Assistant Stage Manager
+  - name: Gwendolyn Laub
+    role: Assistant Choreographer
+  - name: Tanya Cukierman
+    role: Assistant Dramaturg
+  - name: Nora Schultz
+    role: Assistant Scenic Designer
+  - name: Karinn Sytsma
+    role: Assistant Scenic Designer
   - name: Eli Wiener
     role: Assistant Costume Designer
   - name: Honor Torrance
     role: Assistant Costume Designer
-  - name: Tanya Cukierman
-    role: Assistant Dramaturg
-  - name: Layla Lukaj
-    role: Committee Liasion
+  - name: Asia Quizon-Colquitt
+    role: Assistant Costume Designer
   - name: Allegra Hatem
     role: Props Mentor
-  - name: Emma Edwards
-    role: Assistant Stage Manager
-  - name: Hannah Ni
-    role: Assistant Sound Designer
   - name: Sophia Balabanova
     role: Assistant Sound Designer
   - name: Maya Doyle
     role: Assistant Lighting Designer
-  - name: Nora Schultz
-    role: Assistant Scenic Designer
-  - name: Daniel Arad
-    role: Assistant Stage Manager
-  - name: Asia Quizon-Colquitt
-    role: Assistant Costume Designer
   - name: Sophia Pegues
     role: Assistant Lighting Designer
   - name: Carolyn Heinzer
     role: Assistant Lighting Designer
-  - name: Davis Cook
-    role: Band Guitarist
+  - name: Alex Korfhage
+    role: Assistant Lighting Designer
+  - name: Isaiah Zwick-Schachter
+    role: Master Electrician
+  - name: Layla Lukaj
+    role: Committee Liaison
+  - name: Gigi Hancock
+    role: Tech Staff Liaison
 layout: show-info
 quarter: spring
 year: 2022
