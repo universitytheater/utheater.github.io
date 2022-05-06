@@ -35,9 +35,9 @@ events:
         people and learn about the performance opportunities at UChicago!
       time: 'Apr. 8, 6-8pm'
       location: 'Theater West'
-    - title: 'New Work Week: *Pre-Vaccin, Post Instagram*'
+    - title: 'New Work Week: *Pre-Vaccine, Post Instagram*'
       description: >-
-        Come watch *Pre-Vaccin, Post Instagram* by Lou Gargouri, directed by Eleni Lefakis and Olivia Ward, and featuring Allegra Hatem and Honglan Huang. Tickets are free!<br>
+        Come watch *Pre-Vaccine, Post Instagram* by Lou Gargouri, directed by Eleni Lefakis and Olivia Ward, and featuring Allegra Hatem and Honglan Huang. Tickets are free!<br>
         In the early days of the Covid-19 pandemic two new roommates get to know each other during lockdown. They share dinner, their feelings on social media as well as their homesickness. Will they end up friends or will the lockdown drive them apart?
       time: 'Apr. 16, 4pm'
       location: '[Logan 501](https://goo.gl/maps/Rd7gzsGaCBNaBYrM7)'
