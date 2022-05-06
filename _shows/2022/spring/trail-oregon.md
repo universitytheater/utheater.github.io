@@ -21,7 +21,7 @@ roles:
     bio: is a second-year double majoring in Theater and Performance Studies and Gender and Sexuality Studies. This is Gwen's first UT show, but you may have seen her performing with the improv group Off-Off Campus! Some of her favorite previous roles have been Agnes in *She Kills Monsters* and Katherine in *Newsies*. Gwen would like to thank her family for always supporting her and the cast and crew of TTO for being so welcoming and creating an amazing show! She hopes you enjoy it and fully believe that this twenty year old girl is a seven year old boy.
   - name: Lillian McHugh
     role: Daughter
-    bio: is a second-year Biological Sciences major with a Visual Arts minor. She has previously been involved with UTs staged readings and a virtual monologue series by the Dean's Men. She can't wait to introduce her new script, "DARLA: The Untold Story of a Western Barmaid", to the masses. 
+    bio: "is a second-year Biological Sciences major with a Visual Arts minor. She has previously been involved with UT's staged readings and a virtual monologue series by the Dean's Men. She can't wait to introduce her new script, \"DARLA: The Untold Story of a Western Barmaid\", to the masses."
   - name: Harry Franklin
     role: McDoon et al.
     bio: is a second-year Public Policy major. He has previously performed at the University in *Original Sin* (Simon) and *Love's Labour's Lost* (Don Armado). When not doing theatre, Harry enjoys a cappella, tap dancing, and joggling. He would like to thank the amazing cast and crew for a fantastic experience these past four months!
@@ -61,7 +61,7 @@ roles:
     role: Co-Director
   - name: Guilherme Galhardo
     role: Vocal Director
-    bio: is a third year Comparative Human Development major and Math minor. This is their first show with UT, and he's very grateful for the opportunity to work with fellow directors Julia Fennell and Reese Klemm. Gui has had so much fun bringing the score to life alongside the actors and instrumentalists, and would especially like to thank music director Sophie Hachten and pianist Elena Gill. He hopes you enjoy the show as much as he has, and they can't wait to see all the actors' hard work pay off!
+    bio: is a third-year Comparative Human Development major and Math minor. This is their first show with UT, and he's very grateful for the opportunity to work with fellow directors Julia Fennell and Reese Klemm. Gui has had so much fun bringing the score to life alongside the actors and instrumentalists, and would especially like to thank music director Sophie Hachten and pianist Elena Gill. He hopes you enjoy the show as much as he has, and they can't wait to see all the actors' hard work pay off!
   - name: Sophie Hachten
     role: Music Director
   - name: Ruhi Sah
@@ -72,7 +72,7 @@ roles:
     bio: is a third-year Molecular Engineering major on the Bioengineering track and a TAPS minor. She has previously worked on *The Winter's Tale* (Assistant Scenic Designer), *The Old Man and the Old Moon* (Assistant Scenic Designer), and *My H8 Letter to the Gr8 American Theater* (Assistant Sound Designer). She would like to thank her co-SM, Danielle, and the wonderful ASMs, Daniel and Emma, for sharing the workload of getting this show on its feet and for bringing fun into every rehearsal moment.
   - name: Danielle Yablonovskiy
     role: Deck Stage Manager
-    bio: is a second year Economics and Psychology major. She has previously worked on *Welcome Back to My Channel* (Assistant Stage Manager) and *Ah Wing and the Automaton Eagle":" Fall Workshop* (Stage Manager). She would like to thank Ariana for being the best co-SM ever and the rest of the cast and crew of *The Trail to Oregon* for making her first UChicago musical an unforgettable experience! 
+    bio: "is a second-year Economics and Psychology major. She has previously worked on *Welcome Back to My Channel* (Assistant Stage Manager) and *Ah Wing and the Automaton Eagle: Fall Workshop* (Stage Manager). She would like to thank Ariana for being the best co-SM ever and the rest of the cast and crew of *The Trail to Oregon* for making her first UChicago musical an unforgettable experience!"
   - name: Eleni Lefakis
     role: Dramaturg/Assistant Director
     bio: is a first-year TAPS and Data Science major. *The Trail to Oregon!* is her second UT mainstage, the first being *The Heirs* (Stage Manager). She is currently a member of UT committee and an honorary member of Commedia Dell'Arte (Stage Manager). She is forever grateful to the cast and crew of this show for putting up with her ballet-inspired choreography and teaching her that the American Bison is not, in fact, extinct!
@@ -81,7 +81,7 @@ roles:
     bio: is a third-year Computer Science and Creative Writing major. You might've seen her previous work in *Love's Labour's Lost*. She'd like to thank everyone who helped realize the set that was only on paper just a few months ago!
   - name: Carolyn Johansen
     role: Costume Designer
-    bio: is a third year Economics and Data Science major. She has previously worked on *Original Sin* (Costume Designer) and *Love's Labour's Lost* (Costume Designer). 
+    bio: is a third-year Economics and Data Science major. She has previously worked on *Original Sin* (Costume Designer) and *Love's Labour's Lost* (Costume Designer). 
   - name: Daisy Marshall
     role: Props Designer
     bio: is a second-year Sociology major and Media, Arts, and Design minor. He previously designed for *Original Sin* (Lighting Designer) and the *Ah Wing and the Automaton Eagle* workshop (Props Designer). His work this time around included buying nerf weapons with school funds, sliding in with goofy online purchases right under the wire, and putting too many lobster .pngs on illegal tender. He's incredibly grateful to the whole cast and crew for this opportunity.
@@ -111,7 +111,7 @@ roles:
     role: Assistant Costume Designer
   - name: Asia Quizon-Colquitt
     role: Assistant Costume Designer
-    bio: is a second year double majoring in East Asian Languages and Civilizations and Visual Arts. This is her first time being involved in a theatrical production. 
+    bio: is a second-year double majoring in East Asian Languages and Civilizations and Visual Arts. This is her first time being involved in a theatrical production. 
   - name: Allegra Hatem
     role: Props Mentor
   - name: Sophia Balabanova
@@ -120,7 +120,7 @@ roles:
     role: Assistant Lighting Designer
   - name: Sophia Pegues
     role: Assistant Lighting Designer
-    bio: is a third year Psychology and Business Economics major at the college.
+    bio: is a third-year Psychology and Business Economics major at the College.
   - name: Carolyn Heinzer
     role: Assistant Lighting Designer
     bio: is a first-year Computer Science and English major. They have previously written for Theater[24] in Fall and Spring quarter (“Disney World Is Not for Zombies”, “Urine Trouble”) and participated in staged readings. 
