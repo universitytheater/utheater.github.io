@@ -2,6 +2,7 @@
 .jekyll-metadata
 _site/
 vendor/
+.DS_Store
 
 *.gem
 *.rbc
