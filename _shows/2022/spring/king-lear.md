@@ -22,6 +22,7 @@ roles:
     bio: "is a fourth-year Public Policy and Spanish major. She has previously acted in the Dean’s Men productions of *The Winter’s Tale* as Mamillius/Perdita, *Antony and Cleopatra* as Cleopatra, and *Love’s Labour’s Lost* as the Princess of France. She is so excited to close out her University Theater career with *King Lear* and is incredibly grateful to the wonderful cast and crew for making the experience so memorable. After graduation, Murphy will be attending the University of Pittsburgh School of Law!"
   - name: Steele Citrone
     role: Oswald/King of France
+    bio: "is a second-year Media Arts and Design Major with a cluster focus in Game Design. He is very excited for his Dean's Men's debut, but previously he has acted in shows such as *The Old Man & The Old Moon* (Ensemble), *Macbeth* (King Duncan/Porter/Seyton), and *Beetlejuice: The Musical* (Lydia Deetz). As Steele will be turning the banners many times during the show, he wants you to remember that Red is Lear, Purple is Gloucester, Green is Albany, and Blue is France.
   - name: Alex Nobert
     role: Regan
   - name: Gabe Schneider
@@ -50,10 +51,13 @@ roles:
     bio: "is a second-year majoring in Theater and Performance Studies and minoring in Linguistics, Anthropology and Russian. Her theatre involvement here at UChicago has included *My H8 Letter to the Gr8 American Theatre* (Ensemble), *Original Sin* (Andrea), *Love's Labour's Lost* (Rosaline) and a variety of workshops. When not in rehearsals, Laura can usually be found in one of the university's dance studios, attempting to learn and occasionally succeeding at new breaking moves."
   - name: Jack Pflieger
     role: Understudy - King Lear
+    bio: "is a third-year English major with a passion for Shakespeare and performance art.  His previous acting experience includes *King Lear* (Lear), *Twelfth Night* (Orsino), *A Midsummer Night’s Dream* (Oberon), as well as *The Importance of Being Earnest* (Ernest Worthing) and *My Fair Lady* (Henry Higgins)."
   - name: Rory McGann
     role: Understudy
+    bio: "is a first-year Molecular Engineering major, and this is his first play with the Dean's Men. In the past, he has appeared in *Into the Woods* (Jack), *Singin' in the Rain* (Don Lockwood), and *The Complete Works of William Shakespeare: Abridged and Revised* (Adam), among others. He is beyond thrilled to have gotten to work with the cast and he wishes them the best of broken legs!"
   - name: Natalie Floreancig
     role: Understudy
+    bio: "is a first-year Physics Major. This is her first show with UT, but she hopes to be involved with more in the future! Outside of rehearsal, Natalie can be found wandering through the stacks of the Reg while she thinks about doing her psets. She wants to thank the cast and crew for making this production a great experience!"
   Production Staff:
   - name: Jared Zuker
     role: Director
@@ -74,7 +78,7 @@ roles:
     bio: "is a fourth-year Geophysical Science major with a minor in French. This is her first time serving as scenic designer in college. She worked on props for *The Heirs* last quarter, and designed sets and costumes in high school. Outside of theatre, Kate writes, draws, and serves as co-coordinator for the Environmental Justice Task Force."
   - name: Katherine Nurminsky
     role: Props Designer
-    bio: "is a fourth-year Math major. They have previously worked on the Dean's Men's *THe Winter's Tale*. Outside of theater, Katherine also works in their lab and dances."
+    bio: "is a fourth-year Math major. They have previously worked on the Dean's Men's *The Winter's Tale*. Outside of theater, Katherine also works in their lab and dances."
   - name: Rea Brown
     role: Costume Designer
     bio: "is a fourth-year Theater & Performance Studies and Visual Arts major. Previous UT credits include *The Old Man & The Old Moon* (Costume Designer), *Rosencrantz & Guildenstern Are Dead* (Set Designer), *Philoctetes* (Assistant Set), and *Grenadine* (Assistant Props). Regional credits include *Rasheeda Speaking* (Shattered Globe Theatre), *WHITE* (Definition Theatre Company), *The Snow Queen* (The House Theater of Chicago), and *America v. 2.1* (Definition Theatre Company)."
