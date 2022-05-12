@@ -22,7 +22,7 @@ roles:
     bio: "is a fourth-year Public Policy and Spanish major. She has previously acted in the Dean’s Men productions of *The Winter’s Tale* as Mamillius/Perdita, *Antony and Cleopatra* as Cleopatra, and *Love’s Labour’s Lost* as the Princess of France. She is so excited to close out her University Theater career with *King Lear* and is incredibly grateful to the wonderful cast and crew for making the experience so memorable. After graduation, Murphy will be attending the University of Pittsburgh School of Law!"
   - name: Steele Citrone
     role: Oswald/King of France
-    bio: "is a second-year Media Arts and Design Major with a cluster focus in Game Design. He is very excited for his Dean's Men's debut, but previously he has acted in shows such as *The Old Man & The Old Moon* (Ensemble), *Macbeth* (King Duncan/Porter/Seyton), and *Beetlejuice: The Musical* (Lydia Deetz). As Steele will be turning the banners many times during the show, he wants you to remember that Red is Lear, Purple is Gloucester, Green is Albany, and Blue is France.
+    bio: "is a second-year Media Arts and Design Major with a cluster focus in Game Design. He is very excited for his Dean's Men's debut, but previously he has acted in shows such as *The Old Man & The Old Moon* (Ensemble), *Macbeth* (King Duncan/Porter/Seyton), and *Beetlejuice: The Musical* (Lydia Deetz). As Steele will be turning the banners many times during the show, he wants you to remember that Red is Lear, Purple is Gloucester, Green is Albany, and Blue is France."
   - name: Alex Nobert
     role: Regan
   - name: Gabe Schneider
