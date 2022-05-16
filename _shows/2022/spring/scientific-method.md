@@ -19,12 +19,13 @@ roles:
     bio: "is a fifth-year PhD candidate in the Committee on Immunology.  He has performed in over 15 UT/TAPS productions and is in his fourth term on UT Committee. Some of his favorite UT credits include *Love's Labour's Lost* (Holofernes), *Animals Out of Paper* (Andy), and *Peter and the Starcatcher* (Smee).  Zander also performs regionally in Chicago, where his credits include work with CenterStage in Lake Forest, the Beverly Arts Center, This Moment Productions, and Underscore Theatre Company as part of the Chicago Musical Theatre Festival.  You can catch him appearing next as Lysander in CenterStage in Lake Forest's outdoor touring production of *A Midsummer Night's Dream* late this summer!  "
   - name: Emma Linderman
     role: Makayla
+    bio: "is a second-year Cinema and Media Studies and TAPS major. At UChicago, she has acted in *Amazons and Their Men* (The Extra) and *Yivdak* (Zahara), and has also performed in regional and community productions. She is also a member of UChicago's independent improv group, Occam's Razor. She has not taken a science class since last year."
   - name: Lara Braverman
     role: Marie
   Production Staff:
   - name: Tyler Pleasant
     role: Director
-    bio: "is a second-year Chemistry PhD student. Last quarter, which was his first quarter with UT, he was the Production Manager for workshops. This is his second time directing a full-length show and he is very excited the amazing work of the whole team with you! Other than living in the rehearsal room for the last 7 weeks, Tyler also enjoys board games, D&D, video games, and anime."
+    bio: "is a second-year Chemistry PhD student. Last quarter, which was his first quarter with UT, he was the Production Manager for workshops. This is his second time directing a full-length show and he is very excited to share the amazing work of the whole team with you! Other than living in the rehearsal room for the last 7 weeks, Tyler also enjoys board games, D&D, video games, and anime."
   - name: Lena Maghraoui
     role: Production Manager
   - name: Henry Kerrey
