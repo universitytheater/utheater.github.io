@@ -110,16 +110,16 @@ roles:
   - name: Jo Zeng
     role: Assistant Props Designer
     bio: "is a third year Psychology major. This is her first time doing anything associated with University Theater, whether acting or backstage. Outside, she plays video games, reads, and competes with the University of Chicago Mock Trial team."
-  - name: Anna German
-    role: Assistant Costume Designer
-    bio: "is a first-year Political Science and Media Arts and Design major. Her previous UT credits include *The Heirs* (Costume Designer) and Fall Workshops (Costume Designer)."
-  - name: Raquel Buriani
-    role: Assistant Costume Designer
   - name: Noor Syafira Shih
     role: Assistant Props Designer
   - name: Frances Poth
     role: Assistant Props Designer
     bio: "is a second-year Economics major and Cinema and Media Studies minor. She signed up for this show in large part so she could write memes on prop paper."
+  - name: Anna German
+    role: Assistant Costume Designer
+    bio: "is a first-year Political Science and Media Arts and Design major. Her previous UT credits include *The Heirs* (Costume Designer) and Fall Workshops (Costume Designer)."
+  - name: Raquel Buriani
+    role: Assistant Costume Designer
   - name: Emily Zen
     role: Assistant Lighting Designer
     bio: "is a first-year in the College. She previously assisted with props in *Love's Labour's Lost*."

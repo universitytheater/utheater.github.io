@@ -12,6 +12,7 @@ roles:
   Cast:
   - name: Tess Ortego
     role: Amy
+    bio: "is a fourth year Political Science and Global Studies major. She has previously worked on *Welcome Back to My Channel* (Martha). She is so excited to end her senior year by working with this amazing team!"
   - name: Stevie Xie
     role: Danny
   - name: Zander Galluppi
@@ -30,6 +31,7 @@ roles:
     role: Production Manager
   - name: Henry Kerrey
     role: Stage Manager
+    bio: "is a second year Creative Writing and TAPS major. He has previously worked on the Winter 2022 Theater[24] Festival (Writer) and is an active member of Pint Sized Plays (Actor/Director). He currently is working on multiple student projects both in theater and film."
   - name: Faustina Yick
     role: Dramaturg
   - name: Kosuke Takaira
@@ -43,8 +45,10 @@ roles:
     role: Lighting Designer
   - name: Crystina Windham
     role: Sound Designer
+    bio: "is a first year Music major at UChicago. This is her first show at the College. She hopes to continue her involvement with University Theater and increase her knowledge in sound design. She would like to thank the cast and crew for their kindness and teamwork in bringing this production to life."
   - name: Gigi Hancock
     role: Projections Designer
+    bio: "is a Geophysics major in the class of 2022 whose previous credits include *Machinal* (Assistant Sound Designer), *Fun Home* (Assistant Lighting Designer), *Twelfth Night* (Assistant Props Designer), *Company* (Co-Sound Designer/Assistant Props Designer), *Waiting for Godot* (Sound Designer), *Welcome Back to My Channel* (Video Manager), and the art installation *Telephone: A Memorial to the Present* (Electronics). Gigi currently works for TAPS in the scene and sound shops, and is glad to have returned to in-person theatre before they graduate!"
   - name: Danielle Yablonovskiy
     role: Assistant Production Manager
   - name: Polly Ren
@@ -55,21 +59,26 @@ roles:
   - name: Felix Chen
     role: Assistant Stage Manager
     bio: "is a second-year student planning to major in Linguistics and Sociology. This is his first time with UT in any capacity, but previously in grade school, among other things, he has served as actor and props coordinator. Outside of theater, Felix rides the bicycle, does copyediting at The Chicago Maroon, and is currently a student building manager at Reynolds and Ida Noyes."
+  - name: Finn Hartnett
+    role: Assistant Stage Manager
+    bio: "is a second year Fundamentals major. He has previously done tech work for various plays in high school. In his free time, Finn enjoys playing soccer and petting his cat."
   - name: Yangge Xu
     role: Assistant Stage Manager
   - name: Belle Nahoom
     role: Assistant Costume Designer
+    bio: "is a first year Art History major. Belle has previously worked on *The Heirs* (Assistant Stage Manager), *Yivdak* (Jared), Staged Readings (Actor), and Theater[24] (Actor). She is also an actor on the Commedia Troupe on campus. She is very excited to be working on this show!"
   - name: Amelia Simonoff
     role: Assistant Lighting Designer
     bio: "is a fourth-year Neuroscience and Music double major, as well as pre-med. She has previously done camera work for *86th Annual*, and was the lighting designer on *Fields of Asphodel*, *Ah Wing and the Automaton Eagle*, and *The Trail to Oregon*. She hopes you likes microscopes!"
   - name: Aurélie Roubinowitz
     role: Assistant Lighting Designer
   - name: Abby Beckler
-    role: Assistant Proj./Sound Designer
+    role: Assistant Projections/Sound Designer
   - name: Sana Fessuh
-    role: Assistant Proj./Sound Designer
+    role: Assistant Projections/Sound Designer
   - name: Ariana Baginski
     role: UT Committee Liaison
+    bio: "is a third-year Molecular Engineering major on the Bioengineering track and a TAPS minor. She has previously worked on *The Winter’s Tale* (Assistant Scenic Designer), *The Old Man and the Old Moon* (Assistant Scenic Designer), *My H8 Letter to the Gr8 American Theater* (Assistant Sound Designer), and *The Trail to Oregon* (Calling Stage Manager)."
   - name: Abby Starr
     role: Tech Staff Liaison
 layout: show-info
