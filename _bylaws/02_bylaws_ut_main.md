@@ -5,7 +5,7 @@ toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
 permalink: /bylaws/ut-main
-date: 2022-03-01
+date: 2022-04-25
 wrap_div: bylaws bylaws-ut-main
 section: "02"
 ---
