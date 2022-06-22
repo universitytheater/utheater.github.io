@@ -7,8 +7,7 @@ subheader: 'written by William Shakespeare
 
   Spring 2022'
 description: 'King Lear has ruled for many years. As age overtakes him, he divides his kingdom amongst his children. Misjudging their loyalty, he soon finds himself stripped of all the trappings of state, wealth, and power that had defined him.'
-tickets_link: 'https://tickets.uchicago.edu/Online/default.asp?doWork%3A%3AWScontent%3A%3AloadArticle=Load&BOparam%3A%3AWScontent%3A%3AloadArticle%3A%3Aarticle_id=1D8048F9-CFD0-4066-A81E-DBEAF2EC70B2'
-vimeo_link: https://player.vimeo.com/video/706770758
+vimeo_link: https://player.vimeo.com/video/712107278
 roles:
   Cast:
   - name: Jonathan Rufino

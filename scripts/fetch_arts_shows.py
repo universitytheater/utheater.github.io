@@ -5,102 +5,104 @@ from tqdm import tqdm
 import shutil
 import os
 
+
 def get_show_info(slug):
-	req = requests.get(f"https://arts.uchicago.edu/{slug}")
-	soup = BeautifulSoup(req.content, "html.parser")
+    req = requests.get(f"https://arts.uchicago.edu/{slug}")
+    soup = BeautifulSoup(req.content, "html.parser")
 
-	info = dict()
+    info = dict()
 
+    info["subheader"] = ""
 
-	info["subheader"] = ""
+    if soup.find(class_="subhead") is not None:
+        subhead_elem = soup.find(class_="subhead").find("p")
+        if subhead_elem is not None:
+            info["subheader"] = subhead_elem.text.strip()
 
-	if soup.find(class_="subhead") is not None:
-		subhead_elem = soup.find(class_="subhead").find("p")
-		if subhead_elem is not None:
-			info["subheader"] = subhead_elem.text.strip()
+    description_elems = [str(p) for p in soup.find(class_="content-body").find_all("p")]
 
-	description_elems = [str(p) for p in soup.find(class_="content-body").find_all("p")]
+    info["description"] = "\n".join(description_elems)
 
-	info["description"] = "\n".join(description_elems)
-	
-	banner = soup.find(class_="main-gallery-slide").find("img")["src"]
-	slug = slug.split("/")[-1]
-	filename = f"assets/show-banners/{slug}.jpg"
+    banner = soup.find(class_="main-gallery-slide").find("img")["src"]
+    slug = slug.split("/")[-1]
+    filename = f"assets/show-banners/{slug}.jpg"
 
-	if not os.path.exists(filename):
-		download_image(banner, filename)
-	elif slug == "streetcar-named-desire":
-		slug = "streetcar-named-desire-2014"
-		filename = f"assets/show-banners/{slug}.jpg"
-		download_image(banner, filename)
+    if not os.path.exists(filename):
+        download_image(banner, filename)
+    elif slug == "streetcar-named-desire":
+        slug = "streetcar-named-desire-2014"
+        filename = f"assets/show-banners/{slug}.jpg"
+        download_image(banner, filename)
 
-	slideshow = soup.find_all(class_="supplemental-gallery-slide")
-	for i, image in enumerate(slideshow):
-		slide = image.find("a")["href"]
-		os.makedirs(f"assets/show-slideshow/{slug}", exist_ok=True)
-		filename = f"assets/show-slideshow/{slug}/slide-{i + 1:02}.jpg"
+    slideshow = soup.find_all(class_="supplemental-gallery-slide")
+    for i, image in enumerate(slideshow):
+        slide = image.find("a")["href"]
+        os.makedirs(f"assets/show-slideshow/{slug}", exist_ok=True)
+        filename = f"assets/show-slideshow/{slug}/slide-{i + 1:02}.jpg"
 
-		if not os.path.exists(filename):
-			download_image(slide, filename)
+        if not os.path.exists(filename):
+            download_image(slide, filename)
 
-	info["slug"] = slug
+    info["slug"] = slug
 
-	return info
+    return info
+
 
 def download_image(url, path):
-	img_req = requests.get(url, stream=True)
-	img_req.raw.decode_content = True
+    img_req = requests.get(url, stream=True)
+    img_req.raw.decode_content = True
 
-	with open(path, "wb") as out:
-		shutil.copyfileobj(img_req.raw, out)
+    with open(path, "wb") as out:
+        shutil.copyfileobj(img_req.raw, out)
 
 
 def build_shows(output=False):
-	req = requests.get("https://arts.uchicago.edu/utshows")
-	soup = BeautifulSoup(req.content, "html.parser")
-	year_obj = soup.find_all(class_="gallery-section")
+    req = requests.get("https://arts.uchicago.edu/utshows")
+    soup = BeautifulSoup(req.content, "html.parser")
+    year_obj = soup.find_all(class_="gallery-section")
 
-	show_list = dict()
-	show_infos = list()
+    show_list = dict()
+    show_infos = list()
 
-	for year in year_obj:
-		year_group = year.find("h2").text.strip()
-		show_obj = year.find_all(class_="gallery-item")
-		
-		show_list[year_group] = list()
+    for year in year_obj:
+        year_group = year.find("h2").text.strip()
+        show_obj = year.find_all(class_="gallery-item")
 
-		for show in tqdm(show_obj):
-			try:
-				props = {
-					"title": show.find("h3").text.strip(),
-					"slug": show.find("h3").find("a")["href"][1:],
-					"quarter": show.find("p").text.split("\n")[-1]
-				}
-			except AttributeError:
-				continue
+        show_list[year_group] = list()
 
-			show_info = get_show_info(props["slug"])
-			show_info["title"] = props["title"]
-			show_infos.append(show_info)
+        for show in tqdm(show_obj):
+            try:
+                props = {
+                    "title": show.find("h3").text.strip(),
+                    "slug": show.find("h3").find("a")["href"][1:],
+                    "quarter": show.find("p").text.split("\n")[-1],
+                }
+            except AttributeError:
+                continue
 
-			props["slug"] = props["slug"].split("/")[-1]
+            show_info = get_show_info(props["slug"])
+            show_info["title"] = props["title"]
+            show_infos.append(show_info)
 
-			thumbnail = show.find("img")["src"]
-			filename = f"assets/show-thumbnails/{props['slug']}.jpg"
+            props["slug"] = props["slug"].split("/")[-1]
 
-			if not os.path.exists(filename):
-				download_image(thumbnail, filename)
+            thumbnail = show.find("img")["src"]
+            filename = f"assets/show-thumbnails/{props['slug']}.jpg"
 
-			show_list[year_group].append(props)
+            if not os.path.exists(filename):
+                download_image(thumbnail, filename)
 
-	if not output:
-		return
+            show_list[year_group].append(props)
 
-	with open("_data/show-info.yml", "w+") as out:
-		out.write(yaml.dump(show_infos, sort_keys=False))
+    if not output:
+        return
 
-	with open("_data/shows.yml", "w+") as out:
-		out.write(yaml.dump(show_list, sort_keys=False))
+    with open("_data/show-info.yml", "w+") as out:
+        out.write(yaml.dump(show_infos, sort_keys=False))
 
-if __name__ == '__main__':
-	build_shows()
+    with open("_data/shows.yml", "w+") as out:
+        out.write(yaml.dump(show_list, sort_keys=False))
+
+
+if __name__ == "__main__":
+    build_shows()

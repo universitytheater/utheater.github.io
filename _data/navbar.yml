@@ -9,7 +9,6 @@
     - Actors: _pages/get-involved-actors.md
     - Designers & Managers: _pages/get-involved-designers.md
     - UT Listhost: _pages/listhost.md
-    - Resources: _pages/resources.md
 - name: Shows
   page: _pages/shows.md
 - name: Events
@@ -22,8 +21,8 @@
 #   page: documents.md
 # - name: Blog
 #   page: _pages/blog.md
-- name: Town Halls
-  collection: townhalls
+- name: Resources
+  page: _pages/resources.md
 
 #    - Propose a Show: #
 #    - Design Database: https://ut-jobs.dvtk.me

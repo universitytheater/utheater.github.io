@@ -7,7 +7,9 @@ for show in glob("_shows/**/**/*.md"):
 
     show_info["date"] = show_info["date"].replace(year=show_info["year"])
 
-    open(show, "w", encoding="utf8").write(f"---\n{yaml.dump(show_info, sort_keys=False)}\n---")
+    open(show, "w", encoding="utf8").write(
+        f"---\n{yaml.dump(show_info, sort_keys=False)}\n---"
+    )
 
     # slug = show_info['slug']
     # new_path = f"assets/images/{show_info['year']}/{slug}"

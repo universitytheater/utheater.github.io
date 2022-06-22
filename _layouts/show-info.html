@@ -8,7 +8,7 @@ layout: default
     <script src="https://player.vimeo.com/api/player.js"></script>
     <h1 class="post-title">
       {{ page.title | escape }}
-      {% if page.slug contains "new-work-week" %}
+      {% if page.slug contains "new-work-week" or page.slug contains "taps-ba-projects" %}
         {{ page.year }}
       {% elsif page.slug contains "weekend-workshops" %}
         ({{ page.quarter | capitalize }} {{ page.year }})
@@ -21,23 +21,31 @@ layout: default
 
   <div class="post-content">
     {% capture image_prefix %}assets/images/{{page.year}}/{{page.slug}}/slide{% endcapture %}
+    {% capture banner_path_pattern %}assets/images/{{page.year}}/{{page.slug}}/banner{% endcapture %}
     {% assign has_show_images = false %}
+    {% assign banner_path = "" %}
     {% for image in site.static_files %}
       {% if image.path contains image_prefix %}
         {% assign has_show_images = true %}
         {% break %}
       {% endif %}
     {% endfor %}
+    {% for image in site.static_files %}
+      {% if image.path contains banner_path_pattern %}
+        {% assign banner_path = image.path %}
+        {% break %}
+      {% endif %}
+    {% endfor %}
     
-    {% if has_show_images == false %}
+    {% if has_show_images == false and banner_path != "" %}
       <div class="text-center">
-        <img src="/assets/images/{{page.year}}/{{page.slug}}/banner.jpg" class="img-fluid show-banner"></img>
+        <img src="{{ banner_path }}" class="img-fluid show-banner"></img>
       </div>
-    {% else %}
+    {% elsif has_show_images == true %}
       <div id="show-gallery" class="carousel slide" data-ride="carousel" style="height: 30%;">
         <div class="carousel-inner" style="min-width: 100%; width: 100%; height: 100%">
           <div class="carousel-item active text-center" style="width: 100%;height: 100%;">
-            <img src="/assets/images/{{page.year}}/{{page.slug}}/banner.jpg" style="max-width: 78%; max-height: 30rem;" class="center-block" alt="...">
+            <img src="{{banner_path}}" style="max-width: 78%; max-height: 30rem;" class="center-block" alt="...">
           </div>
           {% for image in site.static_files %}
             {% if image.path contains image_prefix %}
