@@ -8,7 +8,7 @@ Welcome to University Theater! We're delighted you're thinking of becoming a des
 
 Ongoing workshops may have lead design positions open and lead designers/managers on mainstages may be open to assistants, though positions often get filled as performances approach. Reach out to the directors and production managers below to get connected!
 
-{% include spring-2022-productions.md %}
+{% include info/2022/fall-2022-productions.md %}
 
  Otherwise, to get connected with show proposals for future quarters, fill out our [interest form](https://docs.google.com/forms/d/e/1FAIpQLSe6c0O6Aat6YhsDQ6rp6_ujrfRgkiYSNwZxfNy_-Szp5PbdJA/viewform)! Show proposers will directly reach out to interested designers and managers during the proposal or preproduction processes.
 
