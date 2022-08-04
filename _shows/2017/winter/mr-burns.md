@@ -66,10 +66,10 @@ description: "<p>With the planet as we know it left in ruins, people who have su
   \ include<em> By the Bog of Cats </em>(Young Dunne/Ghost Fancier), <em>Officer Lockstock\
   \ </em>(Urinetown), <em>Suburbia</em> (Jeff), and <em>Endgame</em> (Nagg). He also\
   \ clown coached for <em>Comedy of Errors</em> and <em>Krapp's Last Tape</em> and\
-  \ clowns around with UChicago Commedia.</p> <p><strong>Mariel Shlomchik</strong>\
+  \ clowns around with UChicago Commedia.</p> <p><strong>Kovi Shlomchik</strong>\
   \ (Production Manager) is a fourth-year in the College studying Biology. <em>Mr.\
-  \ Burns</em> is her thirteenth show, and sixth time production managing with University\
-  \ Theater. In the last year she has production managed <em>The Seagull</em> and\
+  \ Burns</em> is their thirteenth show, and sixth time production managing with University\
+  \ Theater. In the last year they have production managed <em>The Seagull</em> and\
   \ the <em>Comedy of Errors</em>.</p> <p><strong>Charlie Lovejoy </strong>(Stage\
   \ Manager) is a third-year English literature major from Minneapolis, where they\
   \ stage managed community and professional productions before moving to Chicago.\
