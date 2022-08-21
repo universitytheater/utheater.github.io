@@ -10,8 +10,8 @@ Here are some resources to help you get started in UT and learn more about the a
 **UT Documents and Forms**
 
 * [Current UT Bylaws](https://docs.google.com/document/d/1LG3EDUSyqv-RhPrpK5BXB2oK310AzS0Q/edit)
-* [Fall 2022/Winter 2023 Mainstage Proposal Form](https://docs.google.com/document/d/1jggy4tTiY0BUrcuNk8eB6e2OSEof0KLN/edit?usp=sharing&ouid=105840471950903327081&rtpof=true&sd=true)
-* [Fall 2022 Workshop Proposal Form](https://docs.google.com/document/d/1lmvoj2XuqxxK2gN5dgFqxJ2hj1cMvvhCQBtlFYG4gmI/edit)
+* [Winter/Spring 2023 Mainstage Proposal Form](https://bit.ly/Winter2023ProposalForm)
+* [Winter 2023 Workshop Proposal Form](https://bit.ly/Winter2023WorkshopProposalForm)
 * [Budget Extension Request Form](https://docs.google.com/document/d/1cE9u-UuHLCKNKRt1_thdpe8oQOvgbespe4nNPqbzJTw/edit?usp=sharing)
 
 **UT Links**
@@ -28,8 +28,8 @@ Here are some resources to help you get started in UT and learn more about the a
 **Community Resources**
 
 * [UT Community Resources](https://drive.google.com/drive/folders/10__fPm0F1mAGhADl8Pn-yWehM_1cAXed?usp=sharing), including [past proposals](https://drive.google.com/drive/folders/1HuAAugsZYzhmiwkLl4oby_rL0uuALF2-?usp=sharing) and designer documents
-* [List of interested designers](https://docs.google.com/document/d/1-CPp6fKgUhwP6BdVOM4c6b-2FGZw49l3K-5_jnMQ5rk/edit)
-* [Interest form to get involved in design/management](https://forms.gle/qRpMdFR1HDCxAdTi8)
+* [List of interested designers](https://docs.google.com/spreadsheets/d/1UoOuXcON0RIhoPSc92W3n4TRSbZN-3iA9HirhzwyU9s/edit) (UChicago login required)
+* [Interest form to get involved in design/management](https://docs.google.com/forms/d/e/1FAIpQLSe6c0O6Aat6YhsDQ6rp6_ujrfRgkiYSNwZxfNy_-Szp5PbdJA/viewform)
 * [TAPS Design, Management & Crafting Cohorts](https://taps.uchicago.edu/news/tapscohorts)
 * [TAPS Space Scheduler](https://calendar.google.com/calendar/u/0/embed?src=5pdfopego38kfbddn4s8pfm92c@group.calendar.google.com&ctz=America/Chicago)
 * UT Committee Meetings - 5pm on Mondays in Logan 603!
