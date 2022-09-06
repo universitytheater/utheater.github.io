@@ -8,8 +8,8 @@ The UT-General email listhost is a general listhost for communicating with the U
 
 ### Joining the Listhost
 
-In order to join the listhost, log in using your cnet ID and password at [lists.uchicago.edu](http://lists.uchicago.edu) and **go to [this link](https://lists.uchicago.edu/web/info/utheater-general)** to subscribe. 
+In order to join the listhost, log in using your cnet ID and password at [lists.uchicago.edu](http://lists.uchicago.edu), then **go to [this link](https://lists.uchicago.edu/web/info/utheater-general)** to subscribe. 
 
-### Subscribing to the UT newsletter
+### UT on Social Media
 
-University Theater also publishes a monthly newsletter featuring programming, community member spotlights, play reading lists, and updates from Committee! **[Click here](http://eepurl.com/hfi05f)** to subscribe, and **view our past issues [at this link](https://us2.campaign-archive.com/home/?u=898aa836fc636cd1b2571ad5b&id=ef0f5470fe)!**
+Be sure to follow University Theater on [Facebook](https://facebook.com/universitytheater) and [Instagram](https://instagram.com/university.theater) for the latest news, community member spotlights, updates from Committee, and more beyond the listhost!
