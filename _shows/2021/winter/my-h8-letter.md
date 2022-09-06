@@ -6,6 +6,7 @@ subheader: 'written by Diana Oh
   directed by Leslie Buxbaum Danzig
 
   Winter 2021'
+is_taps: true
 description: "This new play by contemporary Asian-American playwright Diane Oh centers\
   \ on a writer, musician, and actor who confronts the Gr8 American Theater. Through\
   \ ranting, laughing, singing, pleading, evoking history, making fun of, calling\
@@ -13,11 +14,8 @@ description: "This new play by contemporary Asian-American playwright Diane Oh c
   \ \u2013 its diversity panels, fundraising galas, playbills, white leads, Shakespeare,\
   \ and more. It is a fierce, joyful, relentless h8-filled love-fest that generously\
   \ invites all of us to take a look at the institution to which we\u2019re so devoted.\
-  \ (Video password: MYH8LTTR)<br><div class=\"video-player-wrapper\"><iframe src=\"\
-  https://player.vimeo.com/video/511981706#t=836?autoplay=0&h=b53c6d1013&byline=0&portrait=0\"\
-  \ class=\"video-player\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\"\
-  \ allowfullscreen></iframe></div><script src=\"https://player.vimeo.com/api/player.js\"\
-  ></script><br>The following program is inspired by <em>Thing 3: Programs</em>, which will make sense once you watch the show."
+  \ (Video password: MYH8LTTR)"
+vimeo_link: 'https://player.vimeo.com/video/511981706#t=836?autoplay=0&h=b53c6d1013&byline=0&portrait=0'
 layout: show-info
 quarter: winter
 year: 2021
@@ -25,7 +23,7 @@ season: 2020-2021 Shows
 date: 2021-02-18
 
 ---
-
+<p>The following program is inspired by <em>Thing 3: Programs</em>, which will make sense once you watch the show.</p>
 <h4>Cast</h4>
 <div class="paragraph paragraph--type--image-text paragraph--view-mode--default paragraph--special--thumbnail section body section-column">
   <h6><strong>Omar Almakki</strong> (Ensemble)</h6>

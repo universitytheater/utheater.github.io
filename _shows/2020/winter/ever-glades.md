@@ -142,6 +142,7 @@ description: "<p>A winner of the 2018 AATE Distinguished Play Award, Laura Schel
   \ on <em>The Old Man and The Old Moon</em>.\_ Her past credits include <em>Philoctetes</em>\
   \ (Production Manager), <em>Measure for Measure</em> (Production Manager), and <em>Fun\
   \ Home</em> (Assistant Production Manager).</p>"
+is_taps: true
 slug: ever-glades
 title: Ever In The Glades
 layout: show-info

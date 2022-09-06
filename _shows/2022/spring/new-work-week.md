@@ -9,6 +9,7 @@ subheader: '<em>Pre-Vaccine, Post-Instagram</em>
 
   Spring 2022'
 description: 'In the early days of the Covid-19 pandemic two new roommates get to know each other during lockdown. They share dinner, their feelings on social media as well as their homesickness. Will they end up friends or will the lockdown drive them apart?'
+is_taps: true
 vimeo_link: https://player.vimeo.com/video/703982771
 roles:
   Cast:

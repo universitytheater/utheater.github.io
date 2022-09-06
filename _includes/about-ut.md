@@ -8,8 +8,8 @@ Here’s a list of some of the groups and events that make up UT! If something c
 
 - **Off-Off Campus** is UT’s very own improvisational comedy troupe. [Learn more](https://offoffcampus.org/)!
 
-- **Theater [24]** is a unique, quarterly theater festival of new work that is written, directed, rehearsed, and designed by students within 24 hours. Looking for a quick, fun, and hectic theater experience? [Check it out](https://www.facebook.com/24hrtheater)!
+- **Theater [24]** is a unique, quarterly theater festival of new work that is written, directed, rehearsed, and designed by students within 24 hours. Looking for a quick, fun, and hectic theater experience? [Check it out]({{ "/theater24" | relative_url }})!
 
 - **New Work Week** is an exciting celebration of the play-making process through student-written and directed pieces. [Get involved](https://taps.uchicago.edu/performance/new-work-week-2021)!
 
-- **Weekend of Workshops** offers a space for student directors to explore their craft and push on the limits of their creative vision. [Click here](https://docs.google.com/document/d/1dzDkBSw-pfvZGrv60M3INPljW6JH5gYglF1t8eCwMjw/edit) to learn more and propose a workshop!
+- **Weekend of Workshops** offers a space for student directors to explore their craft and push on the limits of their creative vision. [Click here](https://bit.ly/Winter2023WorkshopProposalForm) to learn more and propose a workshop!

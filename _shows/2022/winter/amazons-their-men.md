@@ -8,6 +8,7 @@ subheader: 'written by Jordan Harrison
   Winter 2022'
 description: 'The Frau used to direct beautiful films for a fascist government. Now she’s trying to make a film that’s simply beautiful. But when telegrams start to arrive from the Minister of Propaganda, The Frau can no longer ignore the real war outside her sound stage. A darkly comical look at the role of artists during wartime, inspired by the life and work of Leni Riefenstahl.'
 vimeo_link: 'https://player.vimeo.com/video/683120402'
+is_taps: true
 roles:
   Cast:
   - name: Abby Kanes
