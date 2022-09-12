@@ -13,9 +13,7 @@ description: "This new play by contemporary Asian-American playwright Diane Oh c
   \ out, and deeply loving, our protagonist gives us a play-by-play critique of theatre\
   \ \u2013 its diversity panels, fundraising galas, playbills, white leads, Shakespeare,\
   \ and more. It is a fierce, joyful, relentless h8-filled love-fest that generously\
-  \ invites all of us to take a look at the institution to which we\u2019re so devoted.\
-  \ (Video password: MYH8LTTR)"
-vimeo_link: 'https://player.vimeo.com/video/511981706#t=836?autoplay=0&h=b53c6d1013&byline=0&portrait=0'
+  \ invites all of us to take a look at the institution to which we\u2019re so devoted."
 layout: show-info
 quarter: winter
 year: 2021
