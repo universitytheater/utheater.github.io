@@ -1,6 +1,6 @@
 **UT will be having auditions for the following shows in Fall 2022**:
 
-* A Weekend of Workshops: *The Intruder* by Maurice Maeterlinck & *Perfect Match*, an original musical by Allegra Hatem - 4th Week, FXK Theater
+* A Weekend of Workshops: *The Intruder* by Maurice Maeterlinck & *Perfect Match*, an original musical by Allegra Hatem - 4th Week (10/21-10/22), FXK Theater
 * *Romeo and Juliet* by William Shakespeare - 7th Week (11/10-11/12), FXK Theater
 * *Marian, Or the True Tale of Robin Hood* by Adam Szymkowicz - 8th Week (11/17-11/19), Theater East
 

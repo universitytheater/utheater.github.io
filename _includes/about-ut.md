@@ -2,14 +2,12 @@ Open to any and all majors, University Theater (UT) is a hub of performance, des
 
 Here’s a list of some of the groups and events that make up UT! If something catches your eye, we encourage you to learn more and reach out.
 
-- **University Theater** has been putting on student-led shows since 1898. Get involved [as an actor]({{ "get-involved/actors" | relative_url }}) or [as a designer or manager]({{ "get-involved/designers-managers" | relative_url }})!
+- **University Theater** has been putting on student-led mainstage shows since 1898. Get involved [as an actor]({{ "get-involved/actors" | relative_url }}) or [as a designer or manager]({{ "get-involved/designers-managers" | relative_url }})!
 
 - **The Dean’s Men** is a student organization at the University of Chicago dedicated to the works of William Shakespeare. [Learn more](https://www.facebook.com/thedeansmen/)!
 
 - **Off-Off Campus** is UT’s very own improvisational comedy troupe. [Learn more](https://offoffcampus.org/)!
 
-- **Theater [24]** is a unique, quarterly theater festival of new work that is written, directed, rehearsed, and designed by students within 24 hours. Looking for a quick, fun, and hectic theater experience? [Check it out]({{ "/theater24" | relative_url }})!
-
-- **New Work Week** is an exciting celebration of the play-making process through student-written and directed pieces. [Get involved](https://taps.uchicago.edu/performance/new-work-week-2021)!
+- **Theater[24]** is a unique, quarterly theater festival of new work that is written, directed, rehearsed, and designed by students within 24 hours. Looking for a quick, fun, and hectic theater experience? [Check it out]({{ "/theater24" | relative_url }})!
 
 - **Weekend of Workshops** offers a space for student directors to explore their craft and push on the limits of their creative vision. [Click here](https://bit.ly/Winter2023WorkshopProposalForm) to learn more and propose a workshop!
