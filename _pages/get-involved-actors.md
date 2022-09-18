@@ -58,7 +58,7 @@ Casting teams may not always send emails to those who did not get a callback, bu
 
 
 #### What can I expect at callbacks?
-Callbacks can be whatever the directing team wants and often varies. You could read scenes with other people, do acting/movement exercises, sing or play music, etc. You will be told in your scheduling email what you'll be expected to read and do.
+Callbacks often varies based on the directing team. You could read scenes with other people, do acting/movement exercises, sing or play music, etc. You will be told in your scheduling email what you'll be expected to read and do.
 
 
 #### How will I know if I'm cast?
@@ -67,4 +67,4 @@ Casting decisions will be emailed to auditionees on Friday of 1st Week around ea
 
 #### Can I be cast in more than one show?
 
-Generally not. All directors of UT shows and workshops arbitrate casting in a closed meeting with the Director of Performance Programs to make sure actors only get cast in one show per quarter.
+No. All directors of UT shows and workshops arbitrate casting in a closed meeting with the Director of Performance Programs to make sure actors only get cast in one show per quarter. Declining a casting offer from a UT mainstage or workshops comes with the understanding that an actor will not receive another casting offer for a UT mainstage or workshop that season. For more information, see our [bylaws regarding casting]({{ "/bylaws#VI-c-casting-arbitration" | absolute_url }})
