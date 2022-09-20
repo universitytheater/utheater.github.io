@@ -6,10 +6,10 @@ slug: fall
 events:
     - title: Fall Auditions
       description: >-
-        Come audition for *Romeo & Juliet*, *Marian, Or the True Tale of Robin Hood*, and A Weekend of Workshops: *The Intruder* and *Perfect Match*! Those interested in
+        Come audition for *Romeo & Juliet*, *Marian, or The True Tale of Robin Hood*, and A Weekend of Workshops: *The Intruder* and *Perfect Match*! Those interested in
         auditioning should visit [this page](/get-involved/actors) for more details.
       time: 'Sep. 27-28, 7-10pm'
-      location: '3rd Floor, Cobb Hall'
+      location: '4th Floor, Cobb Hall'
     - title: 'Theater[24] Showcase'
       description: >-
         Theater[24] is a wild ride of a theater festival where students write,
@@ -35,21 +35,23 @@ events:
         Tickets ($5 per show, $15 Fall Quarter Pass): https://tickets.uchicago.edu/
     - title: "A Weekend of Workshops"
       description: >-
-        Join us for a weekend of workshops, featuring *The Intruder* by Maurice Maeterlinck and *Perfect Match*, an original musical by Allegra Hatem.
+        Join us for a weekend of workshops, featuring *The Intruder* by Maurice Maeterlinck and *Perfect Match*, an original musical by UT alum Allegra Hatem.
+
+        *The Intruder* is a short, eerie play which follows a family together awaiting the doctor to treat the Mother, only to instead be greeted by a more grim and mysterious guest. *Perfect Match* follows Brittany, a sorority girl who upon discovering her poor habits had caused her to develop liver disease, turns to some questionable methods (Tinder) to find her "perfect match."
       time: 'Oct. 21-22, 7:30pm'
       location: 'FXK Theater, Reynolds Club'
       links:
         Tickets ($6 advance, $8 door): https://tickets.uchicago.edu/
     - title: "Romeo & Juliet"
       description: >-
-        A free preview will take place Thursday, November 10.
+        *Romeo & Juliet* is Shakespeare's classic tale of love sprung from hate, reimagined within the confines of rival Catholic schools in the 1990s. A free preview will take place Thursday, November 10.
       time: 'Nov. 10-12, 7:30pm + Nov. 12, 2pm'
       location: 'FXK Theater, Reynolds Club'
       links:
         Tickets ($6 advance, $8 door): https://tickets.uchicago.edu/
-    - title: "Marian, Or the True Tale of Robin Hood"
+    - title: "Marian, or The True Tale of Robin Hood"
       description: >-
-       A free preview will take place Thursday, November 17.
+       *Marian, or The True Tale of Robin Hood* is a very fun play about stealing from the rich and giving to the poor! A free preview will take place Thursday, November 17.
       time: 'Nov. 17-19, 7:30pm + Nov. 19, 2pm'
       location: '[Logan Theater East](https://goo.gl/maps/Rd7gzsGaCBNaBYrM7)'
       links:
