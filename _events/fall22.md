@@ -4,6 +4,11 @@ layout: events
 date: 2022-09-26
 slug: fall
 events:
+    - title: TAPS Open House
+      description: >-
+        Join faculty and staff for an introduction to student-driven campus arts opportunities, how to major or minor in the program and what to expect in the year ahead. During this informal presentation, you’ll learn more about TAPS and each of the student organizations on the Performing Arts Roundtable, including University Theater.
+      time: 'Sep. 22, 4pm'
+      location: 'Theater West, Logan Center'
     - title: Fall Auditions
       description: >-
         Come audition for *Romeo & Juliet*, *Marian, or The True Tale of Robin Hood*, and A Weekend of Workshops: *The Intruder* and *Perfect Match*! Those interested in
