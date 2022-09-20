@@ -35,8 +35,7 @@ events:
         Tickets ($5 per show, $15 Fall Quarter Pass): https://tickets.uchicago.edu/
     - title: "A Weekend of Workshops"
       description: >-
-        Join us for a weekend of workshops, featuring *The Intruder* by Maurice Maeterlinck and *Perfect Match*, an original musical by UT alum Allegra Hatem.
-
+        Join us for a weekend of workshops, featuring *The Intruder* by Maurice Maeterlinck and *Perfect Match*, an original musical by UT alum Allegra Hatem.<br>
         *The Intruder* is a short, eerie play which follows a family together awaiting the doctor to treat the Mother, only to instead be greeted by a more grim and mysterious guest. *Perfect Match* follows Brittany, a sorority girl who upon discovering her poor habits had caused her to develop liver disease, turns to some questionable methods (Tinder) to find her "perfect match."
       time: 'Oct. 21-22, 7:30pm'
       location: 'FXK Theater, Reynolds Club'
