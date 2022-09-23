@@ -23,6 +23,9 @@ events:
         or go to [this page](/theater24) for more info about participating!
       time: 'Oct. 1, 8:00pm'
       location: 'FXK Theater'
+      links:
+        Signup Form: https://docs.google.com/forms/d/e/1FAIpQLSe5vdQR4iG5BqAz2gSOFq2KaoINEGD8vTC7ecaoTuWK8yE1Ow/viewform
+        Tickets: https://tickets.uchicago.edu/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=D832F35B-8C4F-47C9-AEF9-AC6883905196
     - title: Project Day
       description: >-
         Hosted by TAPS, Project Day is a quarterly event for the casts and crews
