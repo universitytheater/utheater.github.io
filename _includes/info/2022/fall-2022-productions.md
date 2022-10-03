@@ -13,4 +13,4 @@
 
 ### Current openings
 
-<p><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT8yiuRm6YEcTshVp4yCI85NawubwVZQ2uRil9dO3qSub_VE0whES4WRBJXbS4Pho4Wn5gvdbNm0E9M/pubhtml?widget=true&amp;headers=false" style="width:100%" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe></p>
+<p><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT8yiuRm6YEcTshVp4yCI85NawubwVZQ2uRil9dO3qSub_VE0whES4WRBJXbS4Pho4Wn5gvdbNm0E9M/pubhtml?widget=true&amp;headers=false" style="width:100%" height="700" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe></p>
