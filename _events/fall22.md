@@ -40,7 +40,7 @@ events:
       time: 'Fridays 7:30pm, Oct. 21 - Nov. 18'
       location: '[The Revival](https://goo.gl/maps/xTEDKciYkjp6GArx8)'
       links:
-        Tickets ($5 per show, $15 Fall Quarter Pass): https://tickets.uchicago.edu/
+        Tickets ($5 per show, $15 Fall Quarter Pass): https://tickets.uchicago.edu/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=D77DC803-1CBF-48C2-8460-0C946609D295
     - title: "A Weekend of Workshops"
       description: >-
         Join us for a weekend of workshops, featuring *The Intruder* by Maurice Maeterlinck and *Perfect Match*, an original musical by UT alum Allegra Hatem.<br>
@@ -48,19 +48,19 @@ events:
       time: 'Oct. 21-22, 7:30pm'
       location: 'FXK Theater, Reynolds Club'
       links:
-        Tickets ($6 advance, $8 door): https://tickets.uchicago.edu/
+        Tickets ($6 advance, $8 door): https://tickets.uchicago.edu/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=B10E93E5-823D-4485-B215-0022496C0588
     - title: "Romeo & Juliet"
       description: >-
         *Romeo & Juliet* is Shakespeare's classic tale of love sprung from hate, reimagined within the confines of rival Catholic schools in the 1990s. A free preview will take place Thursday, November 10.
       time: 'Nov. 10-12, 7:30pm + Nov. 12, 2pm'
       location: 'FXK Theater, Reynolds Club'
       links:
-        Tickets ($6 advance, $8 door): https://tickets.uchicago.edu/
+        Tickets ($6 advance, $8 door): https://tickets.uchicago.edu/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=C66864C8-C8CA-4255-9391-97D33D3B8FAB
     - title: "Marian, or The True Tale of Robin Hood"
       description: >-
        *Marian, or The True Tale of Robin Hood* is a very fun play about stealing from the rich and giving to the poor! A free preview will take place Thursday, November 17.
       time: 'Nov. 17-19, 7:30pm + Nov. 19, 2pm'
       location: '[Logan Theater East](https://goo.gl/maps/Rd7gzsGaCBNaBYrM7)'
       links:
-        Tickets ($6 advance, $8 door): https://tickets.uchicago.edu/
+        Tickets ($6 advance, $8 door): https://tickets.uchicago.edu/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=FD45A615-358A-4FEC-81B4-3C4F0A1B29E0
 ---
