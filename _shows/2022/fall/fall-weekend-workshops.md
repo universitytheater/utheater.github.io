@@ -3,6 +3,7 @@ title: Weekend Of Workshops
 slug: fall-weekend-workshops
 subheader: ""
 description: 'Weekend of Workshops offers a stage to directors, devisers and performers hoping to exercise and explore their craft. This fall, audiences will encounter new work and old, original and revised. A Weekend of Workshops commits each and every inhabitant of this intimate space to the expansion of the limits of their artistry. Join us for <em>The Intruder</em> and <em>Perfect Match</em>!'
+tickets_link: https://tickets.uchicago.edu/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=B10E93E5-823D-4485-B215-0022496C0588
 workshops:
 - title: "*The Intruder* by Maurice Maeterlinck, directed by Tyler Pleasant"
   description: 'A one-act play by Belgian playwright and Literature Nobel Laureate.  A family stays up together at night waiting for the arrival of a doctor and another member of the family. As they wait, worried about the sick mother in the other room, they are instead visited by a mysterious unseen intruder who pays the family a visit and strains the bonds between them.'
