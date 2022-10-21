@@ -91,36 +91,38 @@ workshops:
       bio: is a recent alum of UChicago (B.A. Sociology 2022). While a student she worked in the prop shop as TAPS tech staff, was treasurer of University Theater, and was awarded the Francis X. Kinahan Memorial Prize (awarded annually the graduating senior who was contributed the most to University Theater). Show credits include *Vanya & Sonia & Masha & Spike* (Nina, St. Mark's Players, Fall 2022), *She Kills Monsters* (Tilly, Hyde Park Players, Winter 2020), and *The Winter's Tale* (Props, UT, Fall 2019). *Perfect Match* is her first endeavor in theatrical writing, a project she began in Scott Elmegreen's "Songwriting for Musical Theater" course in winter 2021. Huge thanks to Scott and writer's cohort for their feedback and encouragement, to friends and family for their support, and to the cast, band, and crew for bringing the script to life! (Since *Perfect Match* is a work in progress, she welcomes any thoughts, comments, or suggestions on the script - if you have them, please let her know at ahatem@uchicago.edu or on Instagram @allegrahatem.) 
     - name: Reese Klemm
       role: Director
-      bio: is a third-year Economics major, double minoring in French and Cinema Studies. She is happy to be back working with students in the rehearsal room after having directed *The Trail to Oregon!* in Spring 2022. In the past, Reese was also assistant production manager in Fall 2019 and a crew member in countless Theatre[24]s! She can't wait to show everyone what the cast and crew has worked on for the last 3 weeks over! Special thanks to Tate, Dave, Dhirpal, and the RShively Casting Agency (@reidshively)! 
+      bio: is a fourth-year Economics major, double minoring in French and Cinema Studies. She is happy to be back working with students in the rehearsal room after having directed *The Trail to Oregon!* in Spring 2022. In the past, Reese was also assistant production manager in Fall 2019 and a crew member in countless Theatre[24]s! She can't wait to show everyone what the cast and crew has worked on for the last 3 weeks over! Special thanks to Tate, Dave, Dhirpal, and the RShively Casting Agency (@reidshively)! 
     - name: Gui Galhardo		
       role: Vocal Director
-      bio: is a fourth year studying Comparative Human Development, and thrilled to be vocal directing this show alongside their co-director Reese! Having vocal directed *The Trail to Oregon!* during Winter and Spring 2022 as his first show with UT, he's excited to be returning to the directorial slate for the '22-'23 season. Gui would like to thank their director, Reese; music director, Owen, and the members of the band; the stage management, design, and production teams; and, of course Allegra Hatem for writing and composing the show! He hopes you enjoy all the hard work the actors have put in these last few weeks, and they also wish you the best of luck finding your own Perfect Match, whether they come from an app, the UNOS list, or within! 
+      bio: is a fourth-year studying Comparative Human Development, and thrilled to be vocal directing this show alongside their co-director Reese! Having vocal directed *The Trail to Oregon!* during Winter and Spring 2022 as his first show with UT, he's excited to be returning to the directorial slate for the '22-'23 season. Gui would like to thank their director, Reese; music director, Owen, and the members of the band; the stage management, design, and production teams; and, of course Allegra Hatem for writing and composing the show! He hopes you enjoy all the hard work the actors have put in these last few weeks, and they also wish you the best of luck finding your own Perfect Match, whether they come from an app, the UNOS list, or within! 
     - name: Owen Dominguez
       role: Music Director
+    - name: Lena Maghraoui
+      role: Production Manager
     - name: Danielle Yablonovskiy
       role: Stage Manager
     - name: Becky Vazquez
       role: Props Designer
-      bio: is a fourth year Biology major who has previously worked on other shows such as *Rosencrantz and Guildenstern are Dead* and *Love's Labour's Lost*. This is the first workshop they have participated in, and they are very excited for everyone to see it!
+      bio: is a fourth-year Biology major who has previously worked on other shows such as *Rosencrantz and Guildenstern are Dead* and *Love's Labour's Lost*. This is the first workshop they have participated in, and they are very excited for everyone to see it!
     - name: Samantha Doepker		
       role: Sound Designer
-      bio: is a first year Computer Science major. This is her first show at the University of Chicago, along with *The Intruder*, and she looks forward to being involved with University Theater more in the future.
+      bio: is a first-year Computer Science major. This is her first show at the University of Chicago, along with *The Intruder*, and she looks forward to being involved with University Theater more in the future.
     - name: Amelia Simonoff		
       role: Lighting Designer/Rehearsal Pianist
-      bio: "is a fifth year neuroscience and music double major. Her previous credits include Jack Off The Beanstalk (PrideArts Theater, Lighting Designer), and with UT: Trail to Oregon! (Lighting Designer), Ah Wing and the Automaton Eagle (Lighting Designer), and Scientific Method (Assistant Lighting Designer)."
+      bio: "is a fifth-year neuroscience and music double major. Her previous credits include Jack Off The Beanstalk (PrideArts Theater, Lighting Designer), and with UT: Trail to Oregon! (Lighting Designer), Ah Wing and the Automaton Eagle (Lighting Designer), and Scientific Method (Assistant Lighting Designer)."
     - name: Yifan Zou		
       role: Costume Coordinator
     - name: Daniel Arad
       role: Assistant Director
-      bio: is a second year Neuroscience and HIPS major. He previously worked on *The Trail to Oregon!* as an assistant stage manager (a delightful time) and various film projects on campus. 
+      bio: is a second-year Neuroscience and HIPS major. He previously worked on *The Trail to Oregon!* as an assistant stage manager (a delightful time) and various film projects on campus. 
     - name: Isabel Schmitz
       role: Assistant Vocal Director
     - name: Lily McHugh		
       role: Assistant Stage Manager
-      bio: is a third year Biology major and Visual Arts minor. She has previously played the daughter in *The Trail to Oregon!*. This is her first managerial position within University Theater. Special shout-out to her manager, the honorable Reid Shively from R.Shively Casting Agency, for securing this position for her. 
+      bio: is a third-year Biology major and Visual Arts minor. She has previously played the daughter in *The Trail to Oregon!*. This is her first managerial position within University Theater. Special shout-out to her manager, the honorable Reid Shively from R.Shively Casting Agency, for securing this position for her. 
     - name: Carolyn Heinzer
       role: Assistant Lighting Designer
-      bio: is a second year Computer Science and English major.  They have previously worked on *The Trail to Oregon!* (Assistant Lighting Designer) and written for three Theater[24] workshops (Disneyworld Is Not for Zombies, Urine Trouble, and Me n U). This is probably the most normal show they have done so far.
+      bio: is a second-year Computer Science and English major.  They have previously worked on *The Trail to Oregon!* (Assistant Lighting Designer) and written for three Theater[24] workshops (Disneyworld Is Not for Zombies, Urine Trouble, and Me n U). This is probably the most normal show they have done so far.
 roles:
   Committee Liaison:
   - name: Zander Galluppi
