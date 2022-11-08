@@ -7,7 +7,7 @@ subheader: 'written by Jenny Connell Davis
 
   Spring 2022'
 description: 'Amy, a soon-to-graduate biology PhD student, is almost ready to submit her cancer research work. Meanwhile at a conference, her mentor finds out that a heavily overlapping work was recently published, rendering Amy’s hard work no longer usable. She is now forced to start over on a new project and seek outside funding. Getting scooped isn’t a rare occurrence in science, but what happened to Amy might be more than a simple coincidence.'
-vimeo_link: https://player.vimeo.com/video/712461296
+#vimeo_link: https://player.vimeo.com/video/712461296
 roles:
   Cast:
   - name: Tess Ortego

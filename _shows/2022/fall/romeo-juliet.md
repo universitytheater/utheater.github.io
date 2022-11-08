@@ -1,12 +1,13 @@
 ---
-title: Romeo and Juliet
+title: Romeo & Juliet
 slug: romeo-juliet
 subheader: "written by William Shakespeare
 
   directed by Emily O'Heir
 
-  Spring 2022"
+  Fall 2022"
 description: "Two families, two lovers, and a hatred so old that no one remembers its cause. Defying the barriers forged from their families’ enmity, Romeo and Juliet challenge their community by risking everything for love. Shakespeare sets his immortal tale against a community uprooted by conflict—as resonant today as it was 400 years ago. Moved by mutual infatuation and desire for a new life, Romeo and Juliet dare to pursue a reality where hearts are not ruled by hatred."
+tickets_link: https://tickets.uchicago.edu/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=C66864C8-C8CA-4255-9391-97D33D3B8FAB
 roles:
   Cast:
   - name: Jo Selmeczy
@@ -32,7 +33,7 @@ roles:
     bio: "is a pre-med and Physics major. Previous Dean's Men's credits include Spring 2022's *King Lear* (Lear), Autumn 2021's *Love's Labour's Lost* (Ferdinand), Autumn 2020's *Much Ado About Monologues* (King John), Spring 2019's *Twelfth Night* (Sir Andrew Aguecheek), and Winter 2019's *Macbeth* (Macduff). He would like to apologize in advance for how mean his character is and assures you that, in real life, he is just a silly little guy. Enjoy the show!"
   - name: Ariana Baginski
     role: Lady Capulet
-    bio: "is a fourth-year Molecular Engineering major on the Bioengineering track and TAPS minor. She has previously worked for several UT productions including *The Trail to Oregon!* (Co-Stage Manager), *My H8 Letter to the Gr8 American Theater* (Assistant Sound Designer), *The Old Man and the Old Moon* (Assistant Scenic Designer), and *The Winter's Tale* (Assistant Scenic Designer). She would like to thank the cast and crew of *Romeo and Juliet* for being so insanely talented and supportive!!!"
+    bio: "is a fourth-year Molecular Engineering major on the Bioengineering track and TAPS minor. She has previously worked for several UT productions including *The Trail to Oregon!* (Co-Stage Manager), *My H8 Letter to the Gr8 American Theatre* (Assistant Sound Designer), *The Old Man and the Old Moon* (Assistant Scenic Designer), and *The Winter's Tale* (Assistant Scenic Designer). She would like to thank the cast and crew of *Romeo and Juliet* for being so insanely talented and supportive!!!"
   - name: Asher Hansen
     role: Montague
   - name: Abby Kanes
@@ -86,7 +87,7 @@ roles:
     bio: 
   - name: Colin Cooper
     role: Sound Designer
-    bio: "is a fourth-year Chemistry major. Before Romeo and Juliet, he worked on *Antony and Cleopatra*, *Love's Labour's Lost*, and *King Lear* as sound designer. He currently serves as the president of the Dean's Men."
+    bio: "is a fourth-year Chemistry major. Before *Romeo & Juliet*, he worked on *Antony and Cleopatra*, *Love's Labour's Lost*, and *King Lear* as sound designer. He currently serves as the president of the Dean's Men."
   - name: Charlie Baker
     role: Fight/Intimacy Coordinator
     bio:
@@ -138,6 +139,6 @@ layout: show-info
 quarter: fall
 year: 2022
 season: 2022-2023 Shows
-date: 2022-11-07
+date: 2022-11-10
 
 ---

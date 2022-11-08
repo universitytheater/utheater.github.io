@@ -7,7 +7,7 @@ subheader: 'book by Jeff Blim, Nick Lang, and Matt Lang, music by Jeff Blim
 
   Spring 2022'
 description: 'Based on the Oregon Trail computer game that we all grew up with and loved. <em>The Trail to Oregon</em> follows a family of five as they make their way from Missouri to Oregon in 1848. From starvation to bandits to dysentery, the family endures all of these challenges in hopes of a better life in Oregon.'
-vimeo_link: https://player.vimeo.com/video/716090974
+#vimeo_link: https://player.vimeo.com/video/716090974
 roles:
   Cast:
   - name: Tanaka Nemarundwe

@@ -3,10 +3,10 @@ title: Weekend Of Workshops
 slug: fall-weekend-workshops
 subheader: ""
 description: 'Weekend of Workshops offers a stage to directors, devisers and performers hoping to exercise and explore their craft. This fall, audiences will encounter new work and old, original and revised. A Weekend of Workshops commits each and every inhabitant of this intimate space to the expansion of the limits of their artistry. Join us for <em>The Intruder</em> and <em>Perfect Match</em>!'
-tickets_link: https://tickets.uchicago.edu/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=B10E93E5-823D-4485-B215-0022496C0588
 workshops:
 - title: "*The Intruder* by Maurice Maeterlinck, directed by Tyler Pleasant"
   description: 'A one-act play by Belgian playwright and Literature Nobel Laureate.  A family stays up together at night waiting for the arrival of a doctor and another member of the family. As they wait, worried about the sick mother in the other room, they are instead visited by a mysterious unseen intruder who pays the family a visit and strains the bonds between them.'
+  vimeo_link: https://player.vimeo.com/video/764764739
   roles:
     Cast:
     - name: Samara Friedman
@@ -35,7 +35,7 @@ workshops:
       bio: "is a fifth year Neuroscience and Music double major. Her previous credits include *Jack Off The Beanstalk* (PrideArts Theater, Lighting Designer), and with UT: *The Trail to Oregon!* (Lighting Designer), *Ah Wing and the Automaton Eagle* (Lighting Designer), and *Scientific Method* (Assistant Lighting Designer)."
     - name: Carolyn Heinzer
       role: Co-Stage Manager
-      bio: is a second year Computer Science and English major.  They have previously worked on *The Trail to Oregon!* (Assistant Lighting Designer) and written for three Theater[24] workshops (Disneyworld Is Not for Zombies, Urine Trouble, and Me n U). This is probably the most normal show they have done so far.
+      bio: is a second year Computer Science and English major.  They have previously worked on *The Trail to Oregon!* (Assistant Lighting Designer) and written for three Theater[24] workshops (*Disneyworld Is Not for Zombies*, *Urine Trouble*, and *Me n U*). This is probably the most normal show they have done so far.
     - name: Tanaka Nemarundwe
       role: Scenic Designer
       bio: is a second year Political Science major. She has previously acted in University Theater's Spring 2022 production of *The Trail to Oregon!*, and she acted in 5 musicals (including *Les Miserables*, *Once on This Island*, and a few others) during high school. *The Intruder* is her first show doing scenic.
@@ -57,6 +57,7 @@ workshops:
       role: Assistant Projections Designer
       bio: is a 4th-year Computer Science major. This is their first time contributing to a theater production. Tallon enjoys coding, art, and trying new things. 
 - title: "*Perfect Match* by Allegra Hatem, directed by Reese Klemm and Guilherme Galhardo"
+  vimeo_link: https://player.vimeo.com/video/764768726
   description: "When she finds that years of heavy drinking have given her liver disease, sorority girl Brittany turns to Tinder in order to find a liver donor who’s her “perfect match.” However, under what pretense will her date accept? For the first time ever in front of an audience, the cast of Perfect Match will perform a concert selection of songs from the hilarious student-written musical."
   roles:
     Cast:
