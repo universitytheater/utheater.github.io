@@ -18,7 +18,7 @@ roles:
     bio: "is a second-year majoring in Molecular Engineering. Rory previously worked as an Understudy in *King Lear* last spring, and has performed in *Singin' in the Rain* (Don Lockwood) and *Into the Woods* (Jack) in the past, among others. He enjoys writing, climbing, singing, and making crossword puzzles. He would like to thank the cast & crew for their tireless effort in putting this performance together and his family & friends for their continuous support. He hopes you enjoy the show!"
   - name: Alex Nobert
     role: Mercutio
-    bio: 
+    bio: "is a third-year Environmental Science and History major. She has previously acted in *King Lear* (Regan), *The Heirs* (Aveline) and *Original Sin* (ensemble member), as well as Hyde Park Community Players' *Much Ado About Nothing* (Don John). When she is not learning how to properly use a cigarette or fall without hurting her knees, she is trying her best to promote sustainability on campus (please please sign up for the subsidized off campus composting program!! Ask me about it, I'll send you the link!). She is so grateful to be a part of this incredible cast and crew. And lastly, a plague o' both your houses!"
   - name: Giancarlo Beritela
     role: Benvolio
     bio: 
@@ -27,7 +27,7 @@ roles:
     bio: "is a fourth-year History and Philosophy major. He has no previous theater experience, and is really just happy to be here."
   - name: Charlotte Manier
     role: Nurse
-    bio: 
+    bio: "is a third-year Biology and LLSO major. After many years of learning and teaching Shakespeare with The Viola Project, *Romeo and Juliet* is her first full Shakespeare production. Joining this production has, without a doubt, been her best decision since coming to UChicago. There's no faith, no trust, no honesty in men...except for the Dean's Men."
   - name: Jonathan Rufino
     role: Capulet
     bio: "is a pre-med and Physics major. Previous Dean's Men's credits include Spring 2022's *King Lear* (Lear), Autumn 2021's *Love's Labour's Lost* (Ferdinand), Autumn 2020's *Much Ado About Monologues* (King John), Spring 2019's *Twelfth Night* (Sir Andrew Aguecheek), and Winter 2019's *Macbeth* (Macduff). He would like to apologize in advance for how mean his character is and assures you that, in real life, he is just a silly little guy. Enjoy the show!"
@@ -38,7 +38,7 @@ roles:
     role: Montague
   - name: Abby Kanes
     role: Tybalt
-    bio: "is a second-year TAPS and Business Economics major. In UT she performed in *The Heirs Workshop* (Aveline), and the TAPS pro-show *Amazons and Their Me*n* (The Frau). Favorite credits include *Wait Until Dark* (Gloria), *Two Gentlemen of Verona* (Lucetta), *Romeo and Juliet* (Friar Lawrence, Capulet), and *The Crucible* (Rebecca Nurse). She has played bass in the pit orchestra for *The Trail to Oregon!* and the *Perfect Match Workshop*. She is on TAPS Admin Staff as a Front of House Manager and also a member of UT Committee."
+    bio: "is a second-year TAPS and Business Economics major. In UT she performed in *The Heirs Workshop* (Aveline), and the TAPS pro-show *Amazons and Their Men* (The Frau). Favorite credits include *Wait Until Dark* (Gloria), *Two Gentlemen of Verona* (Lucetta), *Romeo and Juliet* (Friar Lawrence, Capulet), and *The Crucible* (Rebecca Nurse). She has played bass in the pit orchestra for *The Trail to Oregon!* and the *Perfect Match Workshop*. She is on TAPS Admin Staff as a Front of House Manager and also a member of UT Committee."
   - name: Jacob Halabe
     role: Prince Escalus/Friar John
     bio: "is a second-year History and Economics major. *Romeo and Juliet* is his first UT show and he's so excited to be a part of the cast. When he's not impersonating a priest or pretending to govern Verona, Jacob likes reading and spending time with friends."
@@ -81,7 +81,7 @@ roles:
     bio: "is a fourth-year Music and Philosophy major. He has previously worked on *King Lear* (Assistant Sound Designer) and *Original Sin* (Music Director/Arranger/Recording Engineer/Sound Designer). Last summer, he worked on the new musical *Forest of Sin* with fellow UChicago students and alumni (Co-Writer/Assistant Music Director/Co-Arranger/Bassist/Sound Technician). He also helps run the 63rd Annual UChicago Folk Festival, coming to Mandel Hall on February 10th and 11th!"
   - name: Anna German
     role: Costume Designer
-    bio: 
+    bio: "is a second-year Political Science and Media Arts and Design major. She has previously worked on *King Lear* (Assistant Costume Designer) and *The Heirs* (Costume Designer). Her friend has written all the bios she's ever had to her name."
   - name: Aurélie Roubinowitz
     role: Lighting Designer
     bio: 
@@ -99,7 +99,7 @@ roles:
     bio: 
   - name: Ryanne Leonard
     role: Assistant Production Manager
-    bio: 
+    bio: "is a first-year planning on a Political Science and Human Rights major. This is her first show she's worked on, but is hoping to do more in the future!"
   - name: Sophie Regales
     role: Assistant Stage Manager
     bio: "is a third-year Near Eastern Languages and Civilizations major. A long time musical lover, she is very excited to be a part of *Romeo and Juliet*. It is her first show with University Theater and she hopes the first of many."
@@ -124,7 +124,7 @@ roles:
     role: Assistant Costume Designer
   - name: Emily Curran
     role: Assistant Lighting Designer
-    bio: 
+    bio: "is a first-year and this is her first show with The Dean's Men. In the past, she has worked on *Lord of the Flies* (Lighting Designer/Director), *Picnic at Hanging Rock* (Lighting Designer), and other student-written plays."
   - name: Lola Flores
     role: Assistant Lighting Designer
     bio: "is a first-year NELC major in the College. This is her first UT show."
