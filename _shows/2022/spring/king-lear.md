@@ -90,6 +90,9 @@ roles:
     bio: "is a fourth-year History and Fundamentals major. Her most recent credits include the art installation *Telephone* (Production Manager), *The Old Man and the Old Moon* (Lighting Designer), and *Welcome Back to My Channel* (Lighting Designer). When not in the theater, Mary cares for her two rats, ratthew and rathan."
   - name: Colin Cooper
     role: Sound Designer
+  - name: Courtney Abbott
+    role: Fight/Intimacy Coordinator
+    bio: "makes their Dean's Men debut. Chicago credits include: *In Every Generation* (Victory Gardens); *Wife of a Salesman* (Writers Theatre); and *Solaris* (Griffin). Courtney is a proud alum of Northwestern & Ohio University. Next up: *Choir Boy* (Steppenwolf); *Sister Act* (Metropolis), and *Hurricane Diane* (Theater Wit)."
   - name: Amy Lu
     role: Assistant Director
   - name: Ian Tierney

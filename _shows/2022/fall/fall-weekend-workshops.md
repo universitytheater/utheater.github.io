@@ -11,6 +11,7 @@ workshops:
     Cast:
     - name: Samara Friedman
       role: Grandmother
+      bio: is a first year planning to major in LLSO and TAPS. At her high school, she acted in a variety of musicals and plays including, but not limited to, *Pippin* (Catherine), *Macbeth* (Lady Macbeth), *Spring Awakening* (Thea), and *The Trial* (Wife). During her senior year of high school, she co-produced, directed, designed, and starred in *RUMORS*, a farce by Neil Simon. In addition to theater, Samara has been playing piano for 13 years. She is a classically trained pianist, but enjoys improvising and writing songs. She looks forward to continuing her theatrical career at UChicago!
     - name: Harry Stevens
       role: Father
     - name: Kat Mokedi
