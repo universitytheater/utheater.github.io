@@ -66,7 +66,7 @@ Here are some resources to help you get started in UT and learn more about the a
   * [Listhost](https://lists.uchicago.edu/web/info/circus)
   * [Instagram](https://www.instagram.com/levorrisandvoxcircus)
   * [Facebook page](https://www.facebook.com/LeVorrisandVox/)
-  * [UChicago Commedia](https://www.facebook.com/AttoriSenzaPaura/)
+* [UChicago Commedia](https://www.facebook.com/AttoriSenzaPaura/)
 * Fire Escape Films
   * [Website](http://www.fireescapefilms.org/)
   * [Instagram](https://www.instagram.com/fireescapefilms/?hl=en)
