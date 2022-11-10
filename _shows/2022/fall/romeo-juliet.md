@@ -6,7 +6,10 @@ subheader: "written by William Shakespeare
   directed by Emily O'Heir
 
   Fall 2022"
-description: "Two families, two lovers, and a hatred so old that no one remembers its cause. Defying the barriers forged from their families’ enmity, Romeo and Juliet challenge their community by risking everything for love. Shakespeare sets his immortal tale against a community uprooted by conflict—as resonant today as it was 400 years ago. Moved by mutual infatuation and desire for a new life, Romeo and Juliet dare to pursue a reality where hearts are not ruled by hatred."
+description: "Two families, two lovers, and a hatred so old that no one remembers its cause. Defying the barriers forged from their families’ enmity, Romeo and Juliet challenge their community by risking everything for love. Shakespeare sets his immortal tale against a community uprooted by conflict—as resonant today as it was 400 years ago. Moved by mutual infatuation and desire for a new life, Romeo and Juliet dare to pursue a reality where hearts are not ruled by hatred.
+<br />
+<br /> 
+Content warning: This show deals with themes of self-harm, suicide, and parental abuse."
 tickets_link: https://tickets.uchicago.edu/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=C66864C8-C8CA-4255-9391-97D33D3B8FAB
 roles:
   Cast:
@@ -21,7 +24,7 @@ roles:
     bio: "is a third-year Environmental Science and History major. She has previously acted in *King Lear* (Regan), *The Heirs* (Aveline) and *Original Sin* (ensemble member), as well as Hyde Park Community Players' *Much Ado About Nothing* (Don John). When she is not learning how to properly use a cigarette or fall without hurting her knees, she is trying her best to promote sustainability on campus (please please sign up for the subsidized off campus composting program!! Ask me about it, I'll send you the link!). She is so grateful to be a part of this incredible cast and crew. And lastly, a plague o' both your houses!"
   - name: Giancarlo Beritela
     role: Benvolio
-    bio: 
+    bio: "is a first-year Romance Languages and Economics major. He has previously appeared in *Conflict* (Narrator), *Lonely* (Frank), and *Clue* (Chief of Police). This is his first show with the Dean's Men, the first of hopefully many more in the years to come!"
   - name: Michael Donnelly
     role: Friar Lawrence
     bio: "is a fourth-year History and Philosophy major. He has no previous theater experience, and is really just happy to be here."
@@ -108,7 +111,7 @@ roles:
     bio: 
   - name: Lena Birkholz
     role: Assistant Dramaturg
-    bio: 
+    bio: "is a second-year English and Urban Studies major. This is her first show with the Dean's Men."
   - name: Ash Alejandro Taylor
     role: Assistant Scenic Designer
     bio:
