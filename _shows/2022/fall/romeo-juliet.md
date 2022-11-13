@@ -69,7 +69,7 @@ roles:
     bio: "is a second-year TAPS and Data Science major. Her previous UT mainstage credits are *The Heirs* (Stage Manager) and *The Trail to Oregon!* (Assistant Director/Dramaturg). She is also currently working on *Marian, or The True Tale of Robin Hood* (Assistant Director/Dramaturg), going up 8th Week in Theater East! She's really excited that after three terms of involvement in UT, she can finally say she's a Dean's Man!"
   - name: Nathalie Lam
     role: Co-Stage Manager
-    bio: 
+    bio: "is a world-renowned chef, best known for her scones (pronounced \"scon\"). In her free time, she's a PhD student, writing her thesis on the intersectionality of ontological liminality in the hegemonic posteriority of the built environment. Notably, she has been People's Sexiest Man Alive for 15 years in a row (you might recognise her from Season 2 of Naked and Afraid). Nathalie is honoured to be stage managing for the first time."
   - name: Ryan Cairns
     role: Co-Stage Manager
     bio: "is a second-year in the College studying Political Science & Human Rights with minors in Classics & Democracy Studies. She has previously worked on *Love’s Labour’s Lost* (Assistant Director), *The Light* (Assistant Director), and *King Lear* (Cordelia), and looks forward to directing *The Laramie Project* next quarter. In the small amount of time that she’s not at Logan, you can find her sipping chai at the 61st Street Farmer’s Market or eating Jimmy John’s at the Point. She would like to shoutout the amazing management team (Emily, Nathalie, Sophie and Maisie), but most importantly Diet Coke for being necessary support throughout this amazing process."
