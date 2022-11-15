@@ -12,19 +12,19 @@ roles:
   Cast:
   - name: Abigail Scharf
     role: Marian
-    bio: 
+    bio: "is a second-year Political Science major with a Quantitative Social Analysis minor. This is her second UT show, the first being *King Lear* (Gloucester) last spring. If she could change the Merry Men tune, she would change it to Habanera from Bizet's Carmen."
   - name: Emma Linderman
     role: Alanna Dale
     bio: "is a third-year CMST and TAPS major. Previous UT and TAPS shows include *Amazons and Their Men* (The Extra), *Scientific Method* (Makayla), and *Yivdak* (Zahara). She is also a member of UChicago’s independent improv group, Occam’s Razor. She thinks that the Merry Men should sing Androgynous by the Replacements."
   - name: Joseph DePaula
     role: Little John
-    bio: 
+    bio: "is a first-year prospective History major & avid wall-starer. He is a new member of both UT and Commedia, but he's participated in theatre for a longer time than he is willing to admit publicly. He thinks the Merry Men should sing They Might Be Giants' \"How Can I Sing Like a Girl?\" on account of (spoilers:) they're all women!"
   - name: Gwendolyn Laub
     role: Lady Shirley
-    bio:  
+    bio: "is a third-year TAPS and GNSE major! At the University she has previously been seen in *The Trail to Oregon!* (Son, UT), *An American Killer in College* (Jean, Maroon TV), *Perfectman* (Jane, Fire Escape Films), and a variety of Off-Off Campus shows! Coming up you can see Gwen in *Leeching* (Hailey, Fire Escape Films), *Ghost Story* (Amy, Fire Escape Films), and on December 1st and 2nd staged readings with New Play Development (one of the plays being written by Marian's own George Corrin)! Also, she thinks a terrible mistake has been made. The Merry Men should actually be singing \"Before He Cheats\" by Carrie Underwood. Email: gwendolyn.laub@gmail.com Instagram: @gwendolyn.michelle"
   - name: Jack Getz
     role: Prince John
-    bio:  
+    bio: "is a first-year at the university. This is his first show with UT, but he’s looking forward to participating further in the future. He thinks the Merry Men should sing \"(We Got) The Guillotine\" by the Coup."
   - name: Laura Mahaniah
     role: Will Scarlett
     bio: "is a third-year at UChicago studying TAPS, Anthropology and Linguistics. At the University, she has previously worked on *Romeo and Juliet* (Dramaturg), *King Lear* (Old Man/Knight), *Fields of Asphodel* (Syd), *Love’s Labour’s Lost* (Rosaline) and *My H8 Letter to the Gr8 American Theatre* (Ensemble). When not in Logan, Laura Tutondele can usually be found rushing to one of the campus’ dance studios. It is her sincere opinion that the Merry Men should be singing The Devil Went Down to Georgia with full musical accompaniment.
@@ -36,16 +36,16 @@ Instagram: @lauratutondele"
     bio: 
   - name: Josh Winston
     role: Friar Tuck
-    bio: 
+    bio: "is a second-year Near Eastern Languages and Civilizations major. This is his second UT show, having previously been in *The Trail to Oregon!* (Understudy, Men). He believes the show is sorely missing a Merry Men rendition of The Pina Colada Song."
   - name: Catherine Rohret
     role: Tommy of No Consequence
-    bio:  
+    bio: "is a fourth-year Creative Writing and Religious Studies major. This is their first time acting in a mainstage UT show, after performing in the staged reading of PNOK last fall. Catherine advocated hard for the Merry Men (and Much) to sing \"I Want It That Way\" by the Backstreet Boys, to no avail."
   - name: TianTian Xu
     role: Sir Theo the Punctual/Tanner
     bio:  
   - name: Jon Shao
     role: Sir Lenny the Observant
-    bio:  
+    bio: "is a double major in Physics and TAPS. Experienced at casting clown-like characters."
   - name: Julia Morales
     role: Lucy
     bio: "is a first-year at the College. This is her first show with University Theater. She is excited to entertain you, and hopes you enjoy the show!"
@@ -61,16 +61,16 @@ Instagram: @lauratutondele"
   Production Staff:
   - name: June Villers
     role: Director
-    bio: 
+    bio: "is a fourth-year English and Creative Writing major. Her previous credits include *The Heirs* (Lighting Designer) and *The Trail to Oregon!* (Sound Designer), and this is her first foray into directing. Outside of theatre, she likes looking out at Lake Michigan like she's pining for a lover at sea. She thinks it'd be really cool if the Merry Men sang I Want It That Way instead."
   - name: Konstantin Shmarko
     role: Co-Production Manager
-    bio: 
+    bio: "is a third-year Economics major at the College. He has previously worked on *King Lear* (Assistant Production Manager) and acted in *The Heirs* (Teagan), UT Staged Readings, and the Theater[24] festival. In his free time, he likes to complain about how he never has enough free time."
   - name: Nico Giunta
     role: Co-Production Manager
     bio: "is a fourth-year Computer Science and MAAD major. He’s previously worked on *Waiting for Godot* (Assistant Sound Designer), *Welcome Back to My Channel* (Assistant Production Manager) and *Love's Labour's Lost* (Production Manager). He spends way too much time staring at screens, whether he’s staring at budget spreadsheets, working at the MADD Center, or playing an absurd amount of Splatoon 3. He thinks the Merry Men should try singing \"Run Away With Me\" from Carly Rae Jepsen's hit 2015 album *Emotion*."
-  - name: Maya Doyle
+  - name: Maya Carlos Doyle
     role: Stage Manager
-    bio: 
+    bio: "is a second-year in the College and a possible Linguistics/English major. She most recently ASM'd on *Amazons and Their Men* (TAPS Winter 2022), designed lights for *Scientific Method* (UT Spring 2022), and assisted lights for *The Trail to Oregon!* (UT Spring 2022) and *Etteilla* (Le Vorris & Vox Spring 2022). To be honest, after this quarter, she can't quite remember what she does outside of the rehearsal room. She would like to send a big thank you to all the members of TAPS pro-staff, the amazing cast and crew, and especially, Yufei, Belle, and Emma!"
   - name: Eleni Lefakis
     role: Dramaturg/Assistant Director
     bio: "is a second-year TAPS and Data Science major. Her previous UT mainstage credits are *The Heirs* (Stage Manager), *The Trail to Oregon!* (Assistant Director/Dramaturg), and *Romeo & Juliet* (Co-Production Manager). She is also currently working on *Macbeth in Space* (Dramaturg), going up 7th Week Winter in the FXK, and *Be More Chill* (Co-Director), going up 6th Week Spring in Theater West! She is thankful to all but one member of the cast for listening to her Dramaturgical ramblings and kindly requests that the remaining cast member (one Josh Winston) stop reminding her of her past failures as a researcher."
