@@ -21,7 +21,7 @@ roles:
     bio: "is a first-year prospective History major & avid wall-starer. He is a new member of both UT and Commedia, but he's participated in theatre for a longer time than he is willing to admit publicly. He thinks the Merry Men should sing They Might Be Giants' \"How Can I Sing Like a Girl?\" on account of (spoilers:) they're all women!"
   - name: Gwendolyn Laub
     role: Lady Shirley
-    bio: "is a third-year TAPS and GNSE major! At the University she has previously been seen in *The Trail to Oregon!* (Son, UT), *An American Killer in College* (Jean, Maroon TV), *Perfectman* (Jane, Fire Escape Films), and a variety of Off-Off Campus shows! Coming up you can see Gwen in *Leeching* (Hailey, Fire Escape Films), *Ghost Story* (Amy, Fire Escape Films), and on December 1st and 2nd staged readings with New Play Development (one of the plays being written by Marian's own George Corrin)! Also, she thinks a terrible mistake has been made. The Merry Men should actually be singing \"Before He Cheats\" by Carrie Underwood. Email: gwendolyn.laub@gmail.com Instagram: @gwendolyn.michelle"
+    bio: "is a third-year TAPS and GNSE major! At the University she has previously been seen in *The Trail to Oregon!* (Son, UT), *An American Killer in College* (Jean, Maroon TV), *Perfectman* (Jane, Fire Escape Films), and a variety of Off-Off Campus shows! Coming up you can see Gwen in *Leeching* (Hailey, Fire Escape Films), *Ghost Story* (Amy, Fire Escape Films), and on November 30th and December 1st staged readings with New Play Development (one of the plays being written by Marian's own George Corrin)! Also, she thinks a terrible mistake has been made. The Merry Men should actually be singing \"Before He Cheats\" by Carrie Underwood. Email: gwendolyn.laub@gmail.com Instagram: @gwendolyn.michelle"
   - name: Jack Getz
     role: Prince John
     bio: "is a first-year at the university. This is his first show with UT, but he’s looking forward to participating further in the future. He thinks the Merry Men should sing \"(We Got) The Guillotine\" by the Coup."
@@ -42,7 +42,7 @@ Instagram: @lauratutondele"
     bio: "is a fourth-year Creative Writing and Religious Studies major. This is their first time acting in a mainstage UT show, after performing in the staged reading of PNOK last fall. Catherine advocated hard for the Merry Men (and Much) to sing \"I Want It That Way\" by the Backstreet Boys, to no avail."
   - name: TianTian Xu
     role: Sir Theo the Punctual/Tanner
-    bio:  
+    bio: "is a first-year at the College. This is her first UT show and she believes the Merry Men should hum the Wii theme song under their breath, gradually getting louder and louder until it drowns out everything happening on stage."
   - name: Jon Shao
     role: Sir Lenny the Observant
     bio: "is a double major in Physics and TAPS. Experienced at casting clown-like characters."
@@ -51,13 +51,13 @@ Instagram: @lauratutondele"
     bio: "is a first-year at the College. This is her first show with University Theater. She is excited to entertain you, and hopes you enjoy the show!"
   - name: Natalie Floreancig
     role: Guard 1
-    bio: 
+    bio: "is a second-year Physics and Public Policy major. Last year, you may have seen her handling the seamless banner transitions in *King Lear*. Outside of theater, Natalie enjoys exploring Chicago on the CTA, playing the Chicago Transit Adventure (CTA) board game, riding the CTA to Chipotle, adding to her CTA poster collection, and playing guitar. Natalie thinks the Merry Men should sing Love Shack, however she requests that you send CTA songs her way so that she can create a CTA themed playlist."
   - name: Caroline Lopez
     role: Guard 2
     bio: "is a second-year Chemistry major. This is her second UT show: she previously worked on *The Trail to Oregon!* (u/s Mother). Instead of their current (iconic) song choice, she thinks the Merry Men & Much should storm the castle while singing \"Thnks fr th Mmrs\" by Fall Out Boy."
   - name: Jeff Lind
     role: Sheriff of Nottingham
-    bio:  
+    bio: "is unfortunately a third-year Economics and Psychology major, but he is a Cinema and Media Studies minor, so he's got a little bit of flair. He played Grandpa and/or Cletus in UT's *The Trail to Oregon!* in the Spring, and he's excited to play the Sheriff of Nottingham this time around. Lind would like to dedicate this performance to his agent, Gwendolyn Laub, who got him this role in the first place."
   Production Staff:
   - name: June Villers
     role: Director
@@ -76,7 +76,7 @@ Instagram: @lauratutondele"
     bio: "is a second-year TAPS and Data Science major. Her previous UT mainstage credits are *The Heirs* (Stage Manager), *The Trail to Oregon!* (Assistant Director/Dramaturg), and *Romeo & Juliet* (Co-Production Manager). She is also currently working on *Macbeth in Space* (Dramaturg), going up 7th Week Winter in the FXK, and *Be More Chill* (Co-Director), going up 6th Week Spring in Theater West! She is thankful to all but one member of the cast for listening to her Dramaturgical ramblings and kindly requests that the remaining cast member (one Josh Winston) stop reminding her of her past failures as a researcher."
   - name: Thomas Nielsen
     role: Scenic Designer
-    bio: 
+    bio: "is a fourth-year Creative Writing and Computer Science major who'd like to thank everyone who helped paint, build, and move all of the shifting parts of the world of Marian."
   - name: Daisy Marshall
     role: Props Designer
     bio: "is a third-year Sociology major. He'd like to thank the fellow crew members deeply and sincerely for their hard work. Daisy's worked in the past on *The Trail to Oregon!* (Props Designer) and the Ah-Wing workshop (Props Designer), but Marian is by far the show with the most swords. He was going to take a stab at making a joke of that, but now he thinks there's no point."
