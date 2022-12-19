@@ -88,7 +88,7 @@ Instagram: @lauratutondele"
     bio: "is a second-year Computer Science major. She previously worked on *King Lear* as an assistant lighting designer and is excited to be designing her first show!"
   - name: Crystina Windham
     role: Sound Designer
-    bio: 
+    bio: "is a second-year Music and Cognitive Science double major at the College. She has previously worked on *Scientific Method* (Sound Designer). Crystina likes to play “cooloutromusic.mp3” every time she exits a room."
   - name: Charlie Baker
     role: Fight/Intimacy Coordinator
     bio:
