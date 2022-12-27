@@ -9,7 +9,7 @@
 
 1. **Fill out the [general UT audition form](https://bit.ly/Winter2023Auditions)**. Auditions will be held on Tuesday, January 3 and Wednesday, January 4 in Cobb Hall at 7-10pm CT.
 2. **Sign up for a time slot** to audition for [*Macbeth in Space*](https://tinyurl.com/MISAuditionSignup), [*The Laramie Project*](https://tinyurl.com/LaramieAuditionSignup), [*Be More Chill*](https://tinyurl.com/BMCAuditionSignup) and/or our workshops, [*Harlesden High Street*](https://tinyurl.com/HHSAuditionSignup) and [*Queen of Spades*](https://tinyurl.com/QoSAuditionSignup). If you are unable to make it to a live audition (e.g. due to travel), please contact the stage management for each show (listed below) for alternate audition options.
-3. **Choose an [audition side](https://tinyurl.com/UTWinter23AuditionSides)**, then enter the audition room during your time slot. Please note that you are not expected to memorize your side.
+3. **Choose an [audition side](https://bit.ly/Winter2023AuditionSides)**, then enter the audition room during your time slot. Please note that you are not expected to memorize your side.
 4. **Callback auditions will be announced via email late Wednesday evening!** If you are called back, congrats! Please go to the callback room during your assigned time(s). Callbacks will take place Thursday, January 5 in Cobb Hall at 7-10pm CT.
 
 **Do you have questions about auditioning for a particular show?** Feel free to contact their stage management team!
