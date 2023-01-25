@@ -18,7 +18,11 @@ Feel free to [contact the Theater[24] curators](mailto:beth9@uchicago.edu,nmanle
 
 ### Past performances
 
-See the performances from last spring for a sneak preview at the antics to come:
+See performances from the past for a sneak preview at the antics to come:
+
+<div class="video-player-wrapper">
+  <iframe src="https://player.vimeo.com/video/787765633" class="video-player" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 <div class="video-player-wrapper">
   <iframe src="https://player.vimeo.com/video/697731738" class="video-player" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>

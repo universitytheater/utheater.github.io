@@ -10,7 +10,7 @@ description: "Two families, two lovers, and a hatred so old that no one remember
 <br />
 <br /> 
 Content warning: This show deals with themes of self-harm, suicide, and parental abuse."
-tickets_link: https://tickets.uchicago.edu/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=C66864C8-C8CA-4255-9391-97D33D3B8FAB
+vimeo_link: https://player.vimeo.com/video/773149464
 roles:
   Cast:
   - name: Jo Selmeczy
