@@ -6,7 +6,7 @@ description: 'Weekend of Workshops offers a stage to directors, devisers and per
 tickets_link: https://tickets.uchicago.edu/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=0FF08EF0-5F63-4F09-B320-960BC485C446
 workshops:
 - title: "*Harlesden High Street* by Abhishek Majumdar, directed by Antrita Manduva & Maya Ghosal"
-  description: '*Harlesden High Street* follows the lives of Rehaan, Ammi, and Karim, three first and second generation Pakistani immigrants, as they strive to create a living amidst the hustle and bustle of West London. It is a witty and heartfelt exploration of the South Asian diasporic experience that captures the everlasting conflict between nostalgia and belonging - the struggle to define home in a foreign country while reminiscing about the bittersweet memories of one’s origin.'
+  description: '<em>Harlesden High Street</em> follows the lives of Rehaan, Ammi, and Karim, three first and second generation Pakistani immigrants, as they strive to create a living amidst the hustle and bustle of West London. It is a witty and heartfelt exploration of the South Asian diasporic experience that captures the everlasting conflict between nostalgia and belonging - the struggle to define home in a foreign country while reminiscing about the bittersweet memories of one’s origin.'
   roles:
     Cast:
     - name: Aman Shah
@@ -32,7 +32,7 @@ workshops:
     - name: Spencer Ng
       role: Projection Designer
 - title: "*Queen of Spades* by Amelia Simonoff, adapted from the short story by Alexander Pushkin, directed by Laura Mahaniah"
-  description: "A new musical by UChicago alumna Amelia Simonoff, *Queen of Spades* is an adaptation of Alexander Pushkin's short story of the same name. In this tale, the supernatural seeps into the parlors, ballrooms and gambling dens of Imperial Russia as Hermann."
+  description: "A new musical by UChicago alumna Amelia Simonoff, <em>Queen of Spades</em> is an adaptation of Alexander Pushkin's short story of the same name. In this tale, the supernatural seeps into the parlors, ballrooms and gambling dens of Imperial Russia as Hermann."
   roles:
     Cast:
     - name: Annie Leonard
