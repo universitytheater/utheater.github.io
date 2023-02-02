@@ -35,7 +35,7 @@ roles:
     role: Production Manager
   - name: The SM Collective™
     role: Stage Management
-    bio: "is composed of composed of 4th-years Ariana Baginski and Spencer Ng; 3rd-year Danielle Yablonovskiy; and 2nd-years Belle Nahoom, Coco Liu, Eleni Lefakis, Kelly Mao, Nathalie Lam, and Maya Carlos Doyle."
+    bio: "is composed of fourth-years Ariana Baginski and Spencer Ng; third-year Danielle Yablonovskiy; and second-years Belle Nahoom, Coco Liu, Eleni Lefakis, Kelly Mao, Nathalie Lam, and Maya Carlos Doyle."
   - name: Felix Benardo
     role: Scenic Designer
   - name: Becky Vazquez
