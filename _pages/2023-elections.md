@@ -4,7 +4,7 @@ title: UT Committee 2023-24 Elections
 permalink: /elections/2023
 ---
 
-Read the statements from the following 2023-2024 UT Committee candidates here! Elections will be held at 4pm on Monday, February 13 (location TBD)
+Read the statements from the following 2023-2024 UT Committee candidates here! Elections will be held at 4:15pm on Monday, February 13 (location TBD)
 
 <ul>
 {% for candidate in site.data.2023_candidates%}
