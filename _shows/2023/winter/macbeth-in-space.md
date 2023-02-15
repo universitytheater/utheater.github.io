@@ -53,7 +53,7 @@ roles:
   Production Staff:
   - name: Caroline Kaminsky
     role: Director
-    bio: ""I see, I hear, I detect odors, I touch; I feel changes in temperature, taste. I sense the passage of time. I may take emotive samples. Ahhhhh! I am happy. You see, Gurney, Namri? There's no mystery about a human life. It's not a problem to be solved, but a reality to be experienced." - Leto Atreides II "
+    bio: "\"I see, I hear, I detect odors, I touch; I feel changes in temperature, taste. I sense the passage of time. I may take emotive samples. Ahhhhh! I am happy. You see, Gurney, Namri? There's no mystery about a human life. It's not a problem to be solved, but a reality to be experienced.\" - Leto Atreides II"
   - name: Eleni Lefakis
     role: Dramaturg
     bio: "is a second-year TAPS and Data Science major. Her previous UT mainstage credits are *The Heirs* (Stage Manager), *The Trail to Oregon!* (Assistant Director/Dramaturg), *Romeo & Juliet* (Co-Production Manager), and *Marian, or the True Tale of Robin Hood* (Dramaturg/Assistant Director). She is also currently working on *Be More Chill* (Co-Director), going up 6th Week Spring in Theater West and *Twelfth Night* (Production Manager), going up 7th Week Spring in the Hutch Courtyard! She is happy to see this insane production come to life and thankful for the opportunity to stay involved with the Dean’s Men and return to her dramaturgical roots with a Shakespeare production."
