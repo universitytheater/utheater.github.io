@@ -14,15 +14,17 @@ roles:
     name: Nick Schwarz
   - role: Lady Macbeth
     name: Abigail Scharf
-    bio: "is a second year studying Political Science. She has previously been Gloucester in *King Lear*, and Marian/Robin Hood in *Marian, or the True Tale of Robin Hood*."
+    bio: "is a second-year studying Political Science. She has previously been Gloucester in *King Lear*, and Marian/Robin Hood in *Marian, or the True Tale of Robin Hood*."
   - role: First Witch
     name: Charlotte Manier
+    bio: "is a third-year studying Biology and Law, Letters, and Society. She was previously in the Dean’s Men production of *Romeo & Juliet* as the Nurse. Looking forward, she is very excited to be a co-director for the Dean’s Men’s next production, *Twelfth Night*. Though she’ll definitely miss being a little creature with her weird sisters when this production is over. Heeheehoohoo"
   - role: Second Witch
     name: Alex Nobert
+    bio: "is a third-year Environmental Science and History major. She has previously acted in *Romeo & Juliet* (Mercutio), *King Lear* (Regan), *The Heirs* (Aveline) and *Original Sin* (ensemble member), as well as Hyde Park Community Players’ *Much Ado About Nothing* (Don John). When she is not crouching on stage, she is trying her best to promote sustainability on campus (please please sign up for the subsidized off campus composting program!! Ask me about it, I’ll send you the link!). She is so grateful to be a part of this incredible cast and crew. And lastly, hee hee hoo hoo."
   - role: Third Witch
     name: Sophie Knifton
+    bio: "is a third-year Psychology and Gender and Sexuality Studies major. She was most recently seen in the Dean's Men's production of *Love's Labour's Lost* (Jaquenetta/Maria). Her other Shakespeare experience includes *Hamlet* (Hamlet) and *A Midsummer Night's Dream* (Titania). She currently serves as the social chair for the Dean's Men board. She hopes you enjoy the show!"
   - role: Queen Duncan/Siward
-    bio: "is a third year Psychology and Gender and Sexuality Studies major. She was most recently seen in the Dean's Men's production of *Love's Labour's Lost* (Jaquenetta/Maria). Her other Shakespeare experience includes *Hamlet* (Hamlet) and *A Midsummer Night's Dream* (Titania). She currently serves as the social chair for the Dean's Men board. She hopes you enjoy the show!"
     name: Abigail Spencer
   - role: Porter
     name: Jack Pflieger
@@ -34,14 +36,15 @@ roles:
     bio: "is a physics major and premed. Previous Dean's Men credits include  Autumn 2022's *Romeo & Juliet* (Capulet), Spring 2022's *King Lear* (King Lear), Autumn 2021's *Love's Labours Lost* (Ferdinand), Spring 2019's *Twelfth Night* (Sir Andrew Aguecheek), and Winter 2019's *Macbeth* (Macduff)."
   - role: Lennox
     name: Julia Morales
-    bio: "is a first year double majoring in Near Eastern Language and Culture with a focus on Ancient Egypt, and History with a focus on the Ancient Mediterranean. She has previously worked on *Marian, or the True Tale of Robin Hood* (Lucy), and *Arms and the Man* (Louka). Offstage, she enjoys singing, cross-stitching, fashion design, and  exercising. She hopes you enjoy the show!"
+    bio: "is a first-year double majoring in Near Eastern Language and Culture with a focus on Ancient Egypt, and History with a focus on the Ancient Mediterranean. She has previously worked on *Marian, or the True Tale of Robin Hood* (Lucy), and *Arms and the Man* (Louka). Offstage, she enjoys singing, cross-stitching, fashion design, and  exercising. She hopes you enjoy the show!"
   - role: Donalbain/Doctor
     name: Valerie Zhao
   - role: Banquo
     name: George Hagle
-  - role: Lady Macduff/Fleance
     bio: "is a second-year History and Cognitive Science major. Not only is this his Dean's Men debut, but it's also his first UT performance."
+  - role: Lady Macduff/Fleance
     name: Natalie Floreancig
+    bio: "is an Associate Professor at Booth indirectly responsible for the latest Nobel Prize in Physics (she has been to a physical lab). You might recognize her from her work on 90 Day Fiancee with her now ex, who is also in this production, and the moon landing hoax. Over winter break, Natalie unfortunately lost her custody battle over her name and her children :( "
   - role: Young Siward/Macduff’s Son
     name: Lauren Sklarz
     bio: "is a first-year interested in studying Creative Writing and Economics. *Macbeth in Space* is her first show with UT and the Dean's Men and she’s so excited to be a part of the cast!"
@@ -77,7 +80,7 @@ roles:
     bio: "is a second-year Art History and Data Science major. Her previous theatre credits with UT include *The Heirs* (ASM), *Marian* (ASM), *The Intruder* Workshop (Costume Designer), *Scientific Method* (Costume Designer), the *Queen of Spades* Workshop (SM & PM), and the B.A. Thesis, *Yivdak* (Jared). She is also involved with the Commedia Dell’Arte improv troupe on campus."
   - name: Emily Curran
     role: Lighting Designer
-    bio: "is a first year and this is her second Dean’s Men show. Last quarter she worked on *Romeo & Juliet* (Assistant Lighting Designer) and she is looking forward to continuing sitting behind the tech table and hitting buttons."
+    bio: "is a first-year and this is her second Dean’s Men show. Last quarter she worked on *Romeo & Juliet* (Assistant Lighting Designer) and she is looking forward to continuing sitting behind the tech table and hitting buttons."
   - name: Kelly Mao
     role: Sound Designer
     bio: "is a second-year Computer Science and Mathematics major whose previous UT/Dean's Men credits include *Romeo & Juliet* (Asst. Sound Designer), *King Lear* (Co-Stage Manager), and *Love's Labour's Lost* (Asst. Stage Manager). She enjoys deep conversations and long walks on the beach at sunset."
@@ -98,7 +101,7 @@ roles:
     role: Assistant Stage Manager
   - name: Chenjia Zhang
     role: Assistant Stage Manager
-    bio: "is a first year undecided major, still exploring in what he is truly interested in. *Macbeth in Space* (Assistant Stage Manager) is his first show in University Theater, and he is really excited in joining the Macbeth in Space production team."
+    bio: "is a first-year undecided major, still exploring in what he is truly interested in. *Macbeth in Space* (Assistant Stage Manager) is his first show in University Theater, and he is really excited in joining the Macbeth in Space production team."
   - name: Jacob Halabe
     role: Assistant Stage Manager
   - name: Ariana Baginski
@@ -115,7 +118,7 @@ roles:
     bio: "is a first-year in the College. She has previously worked on *Marian, or the True Tale of Robin Hood* (Assistant Costume Designer)."
   - name: Christian Beltran 
     role: Assistant Lighting Designer
-    bio: "is a first year Computer Science major. He did acting all four years of high school and performed in *Romeo & Juliet* last quarter, but has turned to the dark side (pun very much intended) to do Assistant Lights for Macbeth in Space. He hopes to hold more production and management roles in the future. Enjoy the show! If you can see it..."
+    bio: "is a first-year Computer Science major. He did acting all four years of high school and performed in *Romeo & Juliet* last quarter, but has turned to the dark side (pun very much intended) to do Assistant Lights for Macbeth in Space. He hopes to hold more production and management roles in the future. Enjoy the show! If you can see it..."
   - name: Colin Cooper
     role: Assistant Sound Designer
   - name: Frances Poth
