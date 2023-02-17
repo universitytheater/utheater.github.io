@@ -12,6 +12,7 @@ roles:
   Cast:
   - role: Macbeth
     name: Nick Schwarz
+    bio: "Dean's Men experience is as Edmund in *King Lear*. He thanks you for coming to the show."
   - role: Lady Macbeth
     name: Abigail Scharf
     bio: "is a second-year studying Political Science. She has previously been Gloucester in *King Lear*, and Marian/Robin Hood in *Marian, or the True Tale of Robin Hood*."
@@ -26,6 +27,7 @@ roles:
     bio: "is a third-year Psychology and Gender and Sexuality Studies major. She was most recently seen in the Dean's Men's production of *Love's Labour's Lost* (Jaquenetta/Maria). Her other Shakespeare experience includes *Hamlet* (Hamlet) and *A Midsummer Night's Dream* (Titania). She currently serves as the social chair for the Dean's Men board. She hopes you enjoy the show!"
   - role: Queen Duncan/Siward
     name: Abigail Spencer
+    bio: "is \"allegedly\" a Master's student in the MAPSS department studying Psychology (we have not confirmed this department exists). Abigail claims to have \"received a BS in Sociology and a BA in Forensic Psychology\" (needs citation). Abigail dedicates this performance to \"Precious and Peach cat\" (these cats are real but we are still investigating how they are connected to Abigail.) [This bio is awaiting review from our team of fact checkers]."
   - role: Porter
     name: Jack Pflieger
   - role: Malcolm
@@ -68,6 +70,7 @@ roles:
     bio: "is a first year student. She has previously worked on *Marian, or the True Tale of Robin Hood* in Autumn 2022 (Assistant Stage Manager). She wants to say thank you to all cast and crew, but particularly the amazing SM team!"
   - name: Sophie Regales
     role: Co-Stage Manager
+    bio: "is a third year Near Eastern Languages and Civilizations major. She has previously worked on *Romeo & Juliet* (Assistant Stage Manager). She would like to thank the cast and crew for all of their hard work and everyone who came! She would also particularly like to thank the amazing SM Team (especially her co-SM Yufei who is the only reason she survived this process 💖"
   - name: Pallas Eible Hargro
     role: Scenic Designer
   - name: Jess Aaron
