@@ -32,7 +32,7 @@ roles:
     name: Jack Pflieger
   - role: Malcolm
     name: Nathalie Lam
-    bio: "is an Associate Professor at Booth indirectly responsible for the latest Nobel Prize in Economics (she has been to a physical bank). You might recognise her from her work on 90 Day Fiancee, the moon landing hoax, and starting the cult The SM (Scientology and Manson) Collective™️. Over winter break, Nathalie finally won her custody battle over her children (yay!)."
+    bio: "is an Associate Professor at Booth indirectly responsible for the latest Nobel Prize in Economics (she has been to a physical bank). You might recognise her from her work on 90 Day Fiancee, the moon landing hoax, and starting the cult The SM (Scientology and Manson) Collective™. Over winter break, Nathalie finally won her custody battle over her children (yay!)."
   - role: Ross
     name: Jonathan Rufino
     bio: "is a physics major and premed. Previous Dean's Men credits include  Autumn 2022's *Romeo & Juliet* (Capulet), Spring 2022's *King Lear* (King Lear), Autumn 2021's *Love's Labours Lost* (Ferdinand), Spring 2019's *Twelfth Night* (Sir Andrew Aguecheek), and Winter 2019's *Macbeth* (Macduff)."
@@ -61,7 +61,7 @@ roles:
     bio: "\"I see, I hear, I detect odors, I touch; I feel changes in temperature, taste. I sense the passage of time. I may take emotive samples. Ahhhhh! I am happy. You see, Gurney, Namri? There's no mystery about a human life. It's not a problem to be solved, but a reality to be experienced.\" - Leto Atreides II"
   - name: Eleni Lefakis
     role: Dramaturg
-    bio: "is a second-year TAPS and Data Science major. Her previous UT mainstage credits are *The Heirs* (Stage Manager), *The Trail to Oregon!* (Assistant Director/Dramaturg), *Romeo & Juliet* (Co-Production Manager), and *Marian, or the True Tale of Robin Hood* (Dramaturg/Assistant Director). She is also currently working on The Laramie Project (SM Collective™️), going up 8th week Winter in Theater East, *Be More Chill* (Co-Director), going up 6th Week Spring in Theater West, and *Twelfth Night* (Production Manager), going up 7th Week Spring in the Hutch Courtyard! She is happy to see this insane production come to life and thankful for the opportunity to stay involved with the Dean’s Men and return to her dramaturgical roots with a Shakespeare production."
+    bio: "is a second-year TAPS and Data Science major. Her previous UT mainstage credits are *The Heirs* (Stage Manager), *The Trail to Oregon!* (Assistant Director/Dramaturg), *Romeo & Juliet* (Co-Production Manager), and *Marian, or the True Tale of Robin Hood* (Dramaturg/Assistant Director). She is also currently working on The Laramie Project (SM Collective™), going up 8th week Winter in Theater East, *Be More Chill* (Co-Director), going up 6th Week Spring in Theater West, and *Twelfth Night* (Production Manager), going up 7th Week Spring in the Hutch Courtyard! She is happy to see this insane production come to life and thankful for the opportunity to stay involved with the Dean’s Men and return to her dramaturgical roots with a Shakespeare production."
   - name: Coco Liu
     role: Production Manager
     bio: "is a second-year Chemistry and Linguistics major. She has previously worked on *Love's Labour's Lost* (Assistant Stage Manager), *The Light* (Stage Manager), *King Lear* (Co-Stage Manager), *Romeo & Juliet* (Co-Production Manager), and in the upcoming *The Laramie Project* (Stage Management Collective™). She will come up with a fun fact in a future bio when she's not spending all her evenings in either rehearsals or performances."
@@ -70,7 +70,7 @@ roles:
     bio: "is a first year student. She has previously worked on *Marian, or the True Tale of Robin Hood* in Autumn 2022 (Assistant Stage Manager). She wants to say thank you to all cast and crew, but particularly the amazing SM team!"
   - name: Sophie Regales
     role: Co-Stage Manager
-    bio: "is a third year Near Eastern Languages and Civilizations major. She has previously worked on *Romeo & Juliet* (Assistant Stage Manager). She would like to thank the cast and crew for all of their hard work and everyone who came! She would also particularly like to thank the amazing SM Team (especially her co-SM Yufei who is the only reason she survived this process 💖"
+    bio: "is a third year Near Eastern Languages and Civilizations major. She has previously worked on *Romeo & Juliet* (Assistant Stage Manager). She would like to thank the cast and crew for all of their hard work and everyone who came! She would also particularly like to thank the amazing SM Team (especially her co-SM Yufei who is the only reason she survived this process 💖)"
   - name: Pallas Eible Hargro
     role: Scenic Designer
   - name: Jess Aaron
@@ -79,14 +79,14 @@ roles:
   - name: Anna German
     role: Costume Designer
   - name: Belle Nahoom
-    role: Hair & Makeup
-    bio: "is a second-year Art History and Data Science major. Her previous theatre credits with UT include *The Heirs* (ASM), *Marian* (ASM), *The Intruder* Workshop (Costume Designer), *Scientific Method* (Costume Designer), the *Queen of Spades* Workshop (SM & PM), and the B.A. Thesis, *Yivdak* (Jared). She is also involved with the Commedia Dell’Arte improv troupe on campus."
+    role: Hair & Makeup Designer
+    bio: "is a second-year Art History and Data Science major. Her previous theatre credits with UT include *The Heirs* (ASM), *Marian* (ASM), *The Intruder* Workshop (Costume Designer), *Scientific Method* (Costume Designer), the *Queen of Spades* Workshop (SM & PM), and the B.A. Thesis, *Yivdak* (Jared), in addition to the upcoming *The Laramie Project* (SM Collective™). She is also involved with the Commedia Dell’Arte improv troupe on campus."
   - name: Emily Curran
     role: Lighting Designer
     bio: "is a first-year and this is her second Dean’s Men show. Last quarter she worked on *Romeo & Juliet* (Assistant Lighting Designer) and she is looking forward to continuing sitting behind the tech table and hitting buttons."
   - name: Kelly Mao
     role: Sound Designer
-    bio: "is a second-year Computer Science and Mathematics major whose previous UT/Dean's Men credits include *Romeo & Juliet* (Asst. Sound Designer), *King Lear* (Co-Stage Manager), and *Love's Labour's Lost* (Asst. Stage Manager). She's spent this quarter hanging out with other members of the Stage Management Collective™ (which is currently stage managing *The Laramie Project*, going up next week in Theater East!) and thinking longingly of their upcoming spring break trip (join the listhost smring-smreak-smrip@lists.uchicago.edu!)."
+    bio: "is a second-year Computer Science and Mathematics major whose previous UT/Dean's Men credits include *Romeo & Juliet* (Asst. Sound Designer), *King Lear* (Co-Stage Manager), and *Love's Labour's Lost* (Asst. Stage Manager). She's largely spent this quarter hanging out with other members of the SM Collective™ (which is currently stage managing *The Laramie Project*, going up next week in Theater East!) and thinking longingly of their upcoming spring break trip (join the listhost SMring-SMreak-SMrip@lists.uchicago.edu!)."
   - name: Spencer Ng
     role: Projections Designer
     bio: "is a fourth-year studying Theater & Performance Studies and Computer Science. He serves as the UT Committee Chair, and his credits include *The Intruder* (Projections Designer), *King Lear* (Production Manager), *Love's Labour's Lost* (Stage Manager), and *My H8 Letter to the Gr8 American Theatre* (Stage Manager). He's grateful to be working with the Dean's Men for one last time, and he hopes you enjoy the beautiful landscapes of Inverness drawn by Yifan and the many space windows!"
