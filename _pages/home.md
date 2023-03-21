@@ -5,7 +5,7 @@ permalink: /
 ---
 
 <div markdown=1 class="alert alert-info">
-{% include info/2023/winter-2023.md %}
+{% include info/2023/spring-2023.md %}
 </div>
 
 <div id="show-gallery" class="carousel slide" data-ride="carousel" style="height: 50%; padding-bottom: 1em;">
