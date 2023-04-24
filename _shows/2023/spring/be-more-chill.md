@@ -34,7 +34,7 @@ roles:
     role: Brooke Lohst
     bio: is a second-year TAPS and Business Economics major. In UT she performed in *Romeo and Juliet* (Tybalt) and The Heirs Workshop (Aveline), as well as the TAPS Pro Show *Amazons and Their Men* (The Frau). Favorite musical credits include *Legally Blonde* (Margot), *Mamma Mia* (Tanya), *Hairspray* (Velma Von Tussle), and *Little Shop of Horrors* (Crystal). She has played bass in the pit orchestra for *Trail to Oregon!* and the Perfect Match Workshop. She is on TAPS Admin Staff as a Front of House Manager and also the Treasurer for UT Committee. Her Squip is Princess Leia! 
   - name: Joelle Singer Jensen
-    role: Jenna Roland
+    role: Jenna Rolan
     bio: is a first year undecided major. She has previously worked on *Perfect Match* (Brittany) with UT but some of her other favorite shows she's done include *Into the Woods* (Witch), *Moon Over Buffalo* (Charlotte) and *The Last Five Years* (Cathy). She's so excited to be working with this amazing cast and crew, and if she were to have a SQUIP, it would take on the form of Rodrick from the Diary of a Wimpy Kid movies. 
   - name: Sanjna Narayan
     role: The SQUIP
@@ -72,7 +72,7 @@ roles:
     bio: "is a second-year TAPS and Data Science double-major. Her other UT MainStage credits are *The Heirs* (Stage Manager), *The Trail to Oregon!* (Assistant Director/Dramaturg), *Romeo & Juliet* (Co-Production Manager), *Marian, or the True Tale of Robin Hood* (Assistant Director/Dramaturg), *MacBeth in Space* (Dramaturg), *The Laramie Project* (SM Collective™), and *Twelfth Night* (Pre-Production Manager). She is also currently serving her second term on Committee and helps run the UT social media. Her upcoming UT projects are *The Taming of the Shrew* (Stage Manager), *Falsettos* (Dramaturg), and *Strings Attached* (Co-Director/Choreographer). She would like to tell the crew she loves them and thank the actors for putting up with her ballet corrections, party shenanigans, and STEM-related questions. Eleni’s Co-SQUIPs are her childhood ballet teacher, Dimitra Kouremeti, and her favorite UChicago YouTuber, Reese Klemm, the only two real-life people she lets tell her what to do."
   - name: Guilherme Galhardo
     role: Co-Vocal Director
-    bio: 
+    bio: is a fourth-year Comparative Human Development major, and is very excited to be returning to UT for their second production. Gui has previously vocal directed for *Trail to Oregon!*, and he's very excited for you to enjoy all of the actors' hard work over these last few months! Gui would like to thank their assistant vocal directors Isabel Schmitz and Emma Herzig, stage managers Ariana Baginski and Danielle Yablonovskiy, actor Maggie Reyes (Jeremy) for stepping up and doing a fantastic job as our lead, and their boyfriend, Bryant, for helping keep their head on their shoulders and for his tireless love and support during the entire production process. 
   - name: Isabel Schmitz
     role: Co-Vocal Director
     bio: ", soprano, is a fourth-year undergraduate studying Music and Comparative Human Development. Opera: Ensemble in *HMS Pinafore* (Gilbert and Sullivan Opera Company), Chorus in *Suor Angelica*/Opera Scenes Showcase at Music on Site 2022 (Wichita, KS), Barbarina in *Le Nozze di Figar*o* (AAMA Salzburg 2022), chorus in *Hänsel und Gretel* (Berlin Opera Academy 2021). Singing, acting, and (assistant) vocal directing in various UT shows. Upcoming: senior solo voice recital (May 14, 2023), Zweite Knabe in *Zauberflöte* / Despina role study in *Così fan tutte* (BOA 2023). Voice: Patrice Michaels. UChicago Motet Choir: soprano section leader, featured soloist. Voice teacher and Communications Director for the South Side Free Music Program."
@@ -90,7 +90,7 @@ roles:
     bio: 
   - name: Danielle Yablonovskiy
     role: Co-Stage Manager
-    bio:
+    bio: is a third-year Economics and Psychology major. She has previously worked on *The Trail to Oregon!* (Co-Stage Manager), *Perfect Match* (Stage Manager), Ah Wing Workshop (Stage Manager), *Welcome Back to My Channel* (Asst. Stage Manager), and *Scientific Method* (Asst. Production Manager). She would like to thank the amazing company of *Be More Chill* for letting her to do her very favorite thing in the world and loving her all through it. She would like to give a special shoutout to Elaine and Cilcan for jumping right into the crazy world of stage management and always having her back, to Maggie, Lily, London, Surya, Rory, Gwen, Abby, Joelle, Sanjna, George, and Nico for being the center of her life for the past few months in the best way imaginable, to Reese for trusting her day after day and year after year, to Eleni for staying by her side for one more rodeo, and to Ariana for being the best partner in crime she could have ever imagined. You can ask anyone, there is certainly no doubt that her SQUIP would be Cristiano Ronaldo. SIUUUUUUUUUUU!!! 
   - name: Laura Mahaniah
     role: Co-Choreographer
     bio:
@@ -117,7 +117,7 @@ roles:
     bio: 
   - name: Alexander Gappert
     role: Assistant Director
-    bio: is a first-year veteran scholar and Economics major. He has previously served in the US Navy as an air traffic controller and had experience working on the TV show Jack Ryan (Background Actor). Alex's Squip would be Jake Gyllenhaal. 
+    bio: is a first-year veteran scholar and Economics major. He has previously served in the US Navy as an air traffic controller and had experience working on the TV show Jack Ryan (Background Actor). Alex's Squip would be Ted Lasso. 
   - name: Emma Herzig
     role: Assistant Vocal Director
     bio:
@@ -129,7 +129,7 @@ roles:
     bio: 
   - name: Elaine Liang
     role: Assistant Stage Manager
-    bio:
+    bio: is a third-year Philosophy and Allied Fields (Biological Sciences) major and Chemistry minor. She has previously worked as the Assistant Costume Designer on *The Laramie Project*, and has since been spellbound by the wondrous world of theater. Her Squip is Rosalind Franklin, a brilliant scientist whose untimely death offers just the right hint of tragedy. 
   - name: Konstantin Shmarko
     role: Assistant Dramaturg
     bio:
