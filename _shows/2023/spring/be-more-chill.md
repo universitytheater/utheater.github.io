@@ -50,7 +50,7 @@ roles:
     bio: 
   - name: Kelly Mao
     role: Violin
-    bio: is a second-year Computer Science and Mathematics major. Her previous UT credits include *The Heirs* (Production Manager) and *The Laramie Project* (Calling Stage Manager, SM Collective™). She enjoys deep conversations and long walks on the beach at sunset. Her SQUIP takes many forms, but one of them would be former Chair of the University Theater Committee Spencer Ng.
+    bio: is a second-year Computer Science and Mathematics major. Her previous UT credits include *The Heirs* (Production Manager) and *The Laramie Project* (Calling Stage Manager, SM Collective™). She enjoys deep conversations and long walks on the beach at sunset. Her SQUIP would be former Chair of UT Committee Spencer Ng.
   - name: Brandon LaCrosse
     role: Trumpet
     bio: 
@@ -141,7 +141,7 @@ roles:
     bio: is a 1st year working as an assistant costume designer for the show. This is her first production at the College.
   - name: Emily Curran
     role: Assistant Lighting Designer
-    bio: 
+    bio: is a first-year double major in TAPS and Public Policy. Previous credits include *Romeo and Juliet* (ALD), *Macbeth in Space* (LD), and *Twelfth Night* (LD) which you should all come to next week! She's so excited for y'all to see the show and lovingly believes Coco to be her SQUIP. 
   - name: Julia Fink
     role: Assistant Sound Designer
     bio:
