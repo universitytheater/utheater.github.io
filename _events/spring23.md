@@ -21,7 +21,7 @@ events:
     - title: "Twelfth Night"
       description: >-
        This love story’s got it all: gay people, cross-dressing, mistaken identity, and yellow socks! All performances are FREE--no tickets required. Bring your own blanket and chairs for this outdoor performance!
-      time: 'May 4-6, 6pm'
+      time: 'May 3-6, 6pm'
       location: '[Hutchinson Commons Courtyard](https://goo.gl/maps/SR46hwQkvanRU5qE9)'
     - title: "Dead Fun Society"
       description: >-

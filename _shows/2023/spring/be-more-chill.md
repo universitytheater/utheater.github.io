@@ -156,7 +156,7 @@ roles:
     bio: 
   - name: Coco Liu
     role: Committee Liaison
-  - name: Abigail Kanes
+  - name: Abby Starr
     role: Tech Staff Liaison
 layout: show-info
 quarter: spring
