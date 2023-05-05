@@ -102,7 +102,7 @@ roles:
     bio: "is a fourth-year Molecular Engineering major on the Bioengineering track and TAPS minor. She has previously worked for several UT productions including *Be More Chill* (Co-Stage Manager), *The Laramie Project* (Stage Management Collective™), *Macbeth in Space* (Assistant Scenic Designer), *Romeo & Juliet* (Lady Capulet), *The Trail to Oregon!* (Co-Stage Manager), *My H8 Letter to the Gr8 American Theatre* (Assistant Sound Designer), *The Old Man and the Old Moon* (Assistant Scenic Designer), and *The Winter’s Tale* (Assistant Scenic Designer). She would like to thank Pallas and Coco for being the best silly little scenic team and thank Emily Curran for being generally amazing and reliable!! Please enjoy this incredibly fun show and hopefully the sun shines upon us!!!"
   - name: Coco Liu
     role: Assistant Scenic Designer
-    bio: 
+    bio: "is a second-year Chemistry and Linguistics major. Her previous credits include *Macbeth in Space* (Production Manager), *Romeo and Juliet* (Production Manager), *King Lear* (Co-Stage Manager), *The Light* (Stage Manager), and *Love's Labour's Lost* (Assistant Stage Manager). She will scrounge up a fun fact some other time when she hopefully works on another show."
   - name: Kelly Mao
     role: Assistant Costumes Designer/Assistant Props Designer
     bio: is a second-year Computer Science and Mathematics major whose previous Dean's Men credits include *Macbeth in Space* (Sound Designer) and *King Lear* (Co-Stage Manager). She enjoys deep conversations and long walks on the beach at sunset. 
