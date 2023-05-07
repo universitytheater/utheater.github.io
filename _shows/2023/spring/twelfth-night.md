@@ -60,7 +60,7 @@ roles:
     bio: is my favorite member of UT. She simply slays at everything ever. What more do you need to know. That's it. 
   - name: Nathalie Lam
     role: Co-Production Manager
-    bio: 
+    bio: is currently on a plateau with a slight downhill slope.
   - name: Maya Carlos Doyle
     role: Stage Manager
     bio: "is a second-year in the College and a possible Linguistics/English major. Most recent credits include: *Macbeth in Space* (APM), *Marian, or the True Tale of Robin Hood* (SM), and *Scientific Method* (Lighting Designer). She also served as a curator for this season's Theater[24] festival and works in the Scene Shop. Maya would like to send a big thank you to all the members of TAPS pro-staff, the amazing cast and crew, and most of all Christian and Jess!"
