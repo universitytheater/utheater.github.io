@@ -12,22 +12,22 @@ roles:
   Cast:
   - name: Josh Winston
     role: Ben
-    bio:
+    bio: "is a 2nd-year Near Eastern Languages and Civilizations major. This is his fourth UT show, having previously been in *The Trail to Oregon!* (Understudy - Men), *Marian, or the True Tale of Robin Hood* (Friar Tuck), and *The Laramie Project* (Actor 4). Josh's favorite detective is undoubtedly the world's most ridiculous detective, Inspector Gadget."
   - name: Joseph DePaula
     role: Mark
-    bio: is a first-year History major. He is a member of Attori Senza Paura—the Commedia dell'Arte troupe on campus—and he was last seen on stage playing an uncountable, motley crew of characters in *The Physicists* and as Little John in *Marian, or the True Tale of Robin Hood*. He was last seen publicly, however, developing a Vitamin D deficiency in Cobb Cafe (to get into character).
+    bio: "is a first-year History major. He was last seen performing in Cup of Theater’s *The Physicists* as too many characters to count (6, to be exact). He was also Little John in UT’s *Marian, or the True Tale of Robin Hood*, and he is Il Dottore in Attori Senza Paura, the Commedia dell’Arte RSO on campus! He’d also like you to know that, while he appreciates all of them dearly, he suspects any of the cast or crew might have a hand in his eventual, gruesome murder outside of the ISAC. His favorite detective is Lieutenant Columbo, but Joseph is also a big fan of Shawn Spencer (head psychic detective for the S.B.P.D.) and his partner, Sh’Dynasty (that’s S-H comma-to-the-top Dynasty)."
   - name: Catherine Rohret
     role: Danny
-    bio: 
+    bio: "is a fourth-year Religious Studies and Creative Writing double major. They have previously worked on *Marian, or the True Tale of Robin Hood* (Tommy of No Consequence). Catherine's favorite fictional detective also happens to be fictional within his own universe: Dixon Hill, the detective that Captain Picard pretends to be in one of Star Trek: TNG's first holodeck episodes, \"The Big Goodbye.\""
   - name: Caroline Lopez
     role: Aspen
-    bio: 
+    bio: "is a second-year Chemistry major. Her past UT credits include *The Trail to Oregon!*, *Marian*, and *Queen of Spades*, and she is very excited to be directing *The Play That Goes Wrong* next spring! As an avid lover of murder mysteries, she hopes you have a blast solving this one; though, despite her love and appreciation for her fellow cast members, production team, and everyone who tries to crack the case, she still firmly believes Miss Jane Marple, her favorite detective, would solve it first (though Nancy Drew ranks a close second!)."
   - name: Giancarlo Beritela
     role: Chase
     bio: 
   - name: Allison Kanter
     role: Robin
-    bio: 
+    bio: "is a fourth-year Political Science major. She has previously acted in *Arms and the Man* (as Raina), and *Yivdak* (as Nitzkah). In her spare time, she enjoys freaking out about graduation, and enjoying her favorite fictional detective: Harriet the Spy."
   - name: Julia Morales
     role: Nicole
     bio: "is a first-year Near Eastern Language and Civilizations and History double major. With University Theatre and Cup of Theatre, she has previously worked on *Marian, or the True Tale of Robin Hood* (Lucy), *Arms and the Man* (Louka), *Macbeth in Space* (Lennox), and *The Physicists* (Nurse Monika/Head Nurse). She is excited to share this show with you, and hope you enjoy the show! Thanks for coming."
@@ -68,6 +68,9 @@ roles:
   - name: Aneth Rodriguez
     role: Assistant Director
     bio: 
+  - name: Spencer Ng
+    role: Assistant Production Manager
+    bio: "is a fourth-year who will hopefully soon be graduating with degrees in Theater & Performance Studies and Computer Science. His TAPS and UT credits include LIVE at UChicago (Research Executive), *Macbeth in Space* (Projections Designer), *The Intruder* (Projections Designer), *King Lear* (PM), *Love’s Labour’s Lost* (SM), and *My H8 Letter to the Gr8 American Theatre* (SM). Spencer previously served as the UT Committee Chair, and he is grateful to Yufei and Noah for letting him follow along with this process and making this his last UT credit, despite taking production meeting notes only a handful of times."
   - name: Barbara Wang
     role: Assistant Stage Manager
     bio: is a first-year Econ and Public Policy major, and *Dead Fun Society* is her first time being an Assistant Stage Manager. She wants to say thank you to the DFS cohort and especially to the Co-Stage Managers!
