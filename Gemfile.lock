@@ -232,11 +232,11 @@ GEM
       jekyll-seo-tag (~> 2.1)
     minitest (5.15.0)
     multipart-post (2.1.1)
-    nokogiri (1.13.9-arm64-darwin)
+    nokogiri (1.15.4-arm64-darwin)
       racc (~> 1.4)
-    nokogiri (1.13.9-x86_64-darwin)
+    nokogiri (1.15.4-x86_64-darwin)
       racc (~> 1.4)
-    nokogiri (1.13.9-x86_64-linux)
+    nokogiri (1.15.4-x86_64-linux)
       racc (~> 1.4)
     octokit (4.22.0)
       faraday (>= 0.9)
@@ -276,6 +276,7 @@ GEM
       unf_ext
     unf_ext (0.0.8)
     unicode-display_width (1.8.0)
+    webrick (1.8.1)
     zeitwerk (2.5.4)
 
 PLATFORMS
@@ -289,6 +290,7 @@ DEPENDENCIES
   jekyll
   jekyll-feed (~> 0.6)
   tzinfo-data
+  webrick (~> 1.8)
 
 BUNDLED WITH
-   2.2.14
+   2.4.10
