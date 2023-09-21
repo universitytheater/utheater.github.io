@@ -8,7 +8,7 @@ events:
       description: >-
         Off-Off Campus is the nation's oldest collegiate improv and sketch comedy group. Every Friday until 8th week, Off-Off Campus will present improv from Generation 37!
       time: 'Fridays 7:30pm, Apr. 28 - May. 12'
-      location: '[University Church](hhttps://goo.gl/maps/X1sL9DB6HiRbxfmx9)'
+      location: '[University Church](https://goo.gl/maps/X1sL9DB6HiRbxfmx9)'
       links:
         Tickets ($5 per show, $15 Fall Quarter Pass): https://tickets.uchicago.edu/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=EAE18891-4612-470C-9577-3C83CA45C919
     - title: "Be More Chill"
