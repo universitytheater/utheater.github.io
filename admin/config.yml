@@ -8,6 +8,8 @@ collections:
   - name: "shows" # Used in routes, e.g., /admin/collections/blog
     label: "Shows" # Used in the UI
     folder: "_shows/"
+    nested:
+      depth: 4
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
@@ -18,9 +20,51 @@ collections:
       - label: "Title"
         name: "title"
         widget: "string"
-      - label: "Querter"
+      - label: "Quarter"
         name: "quarter"
         hint: "Quarter that a show performs in"
         widget: "select"
         options: ["fall", "winter", "spring"]
+  - name: "pages"
+    label: "Pages"
+    files:
+      - label: "Home Page"
+        name: "home"
+        file: "_pages/home.md"
+        fields:
+          - { label: 'Title', name: 'title', widget: 'hidden', default: 'University Theater' }
+          - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'default' }
+          - { label: 'Body', name: 'body', widget: 'markdown' }
+      - label: "About Committee"
+        name: "about-committee"
+        file: "_pages/about-committee.md"
+        fields:
+          - { label: 'Title', name: 'title', widget: 'hidden', default: 'About UT Committee' }
+          - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'page' }
+          - { label: 'Body', name: 'body', widget: 'markdown' }
+          - label: 'Committee Members'
+            name: 'committee_members'
+            widget: 'list'
+            allow_add: true
+            field:
+              label: Committee Member
+              widget: object
+              summary: '{{fields.name}}'
+              fields:
+                - label: 'Name'
+                  name: 'name'
+                  widget: 'string'
+                - label: 'Email'
+                  name: 'email'
+                  widget: 'string'
+                - label: 'Position'
+                  name: 'position'
+                  widget: 'string'
+                  required: false
+                - label: 'Bio'
+                  name: 'bio'
+                  widget: 'markdown'
+                  default: 'is a student in the College.'
+
+
 # TODO add more collections here
