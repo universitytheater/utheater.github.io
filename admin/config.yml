@@ -73,6 +73,7 @@ collections:
               - label: Biography
                 name: bio
                 widget: markdown
+                required: false
           - label: Production Staff
             name: 'Production Staff'
             widget: list
@@ -87,6 +88,7 @@ collections:
               - label: Biography
                 name: bio
                 widget: markdown
+                required: false
   - name: "pages"
     label: "Pages"
     files:
