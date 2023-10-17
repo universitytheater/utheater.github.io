@@ -1,5 +1,6 @@
 backend:
-  name: git-gateway
+  # Set this to either git-gateway (when pushing) or test-repo (local)
+  name: test-repo
   branch: decap-testing # Branch to update (optional; defaults to master)
 publish_mode: editorial_workflow
 media_folder: "assets/images" # Media files will be stored in the repo under images/uploads
@@ -35,6 +36,8 @@ collections:
         name: date
         widget: datetime
         date_format: "YYYY-MM-DD"
+        format: "YYYY-MM-DD"
+        time_format: false
         hint: "Day of a show's first preview performance"
       - label: Slug
         name: slug
@@ -90,9 +93,13 @@ collections:
       - label: "Home Page"
         name: "home"
         file: "_includes/about-ut.md"
+        fields:
+          - { label: 'Body', name: 'body', widget: 'markdown' }
       - label: "Home Page Banner"
         name: "home-banner"
         file: "_includes/info/2023/fall-2023.md"
+        fields:
+          - { label: 'Body', name: 'body', widget: 'markdown' }
       - label: "About Committee"
         name: "about-committee"
         file: "_pages/about-committee.md"
