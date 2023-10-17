@@ -48,6 +48,7 @@ collections:
             allow_add: true
             field:
               label: Committee Member
+              name: committee_member
               widget: object
               summary: '{{fields.name}}'
               fields:
