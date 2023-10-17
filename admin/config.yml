@@ -25,16 +25,74 @@ collections:
         hint: "Quarter that a show performs in"
         widget: "select"
         options: ["fall", "winter", "spring"]
+      - label: Year
+        name: year
+        widget: string
+      - label: Season
+        name: season
+        widget: string
+      - label: Performance Date
+        name: date
+        widget: datetime
+        date_format: "YYYY-MM-DD"
+        hint: "Day of a show's first preview performance"
+      - label: Slug
+        name: slug
+        hint: "Shortened title of a show's title (e.g., as-you-like-it, romeo-juliet, old-man-old-moon)"
+        widget: string
+      - label: Subheader Line
+        name: subheader
+        widget: text
+      - label: Description
+        name: description
+        widget: text
+        hint: Description of a show. HTML is supported, though Markdown is not.
+      - label: Tickets Link
+        name: tickets_link
+        widget: string
+        required: false
+      - name: roles
+        label: Roles
+        widget: object
+        required: false
+        fields:
+          - label: Cast
+            name: Cast
+            widget: list
+            allow_add: true
+            fields:
+              - label: Name
+                name: name
+                widget: string
+              - label: Role
+                name: role
+                widget: string
+              - label: Biography
+                name: bio
+                widget: markdown
+          - label: Production Staff
+            name: 'Production Staff'
+            widget: list
+            allow_add: true
+            fields:
+              - label: Name
+                name: name
+                widget: string
+              - label: Role
+                name: role
+                widget: string
+              - label: Biography
+                name: bio
+                widget: markdown
   - name: "pages"
     label: "Pages"
     files:
       - label: "Home Page"
         name: "home"
-        file: "_pages/home.md"
-        fields:
-          - { label: 'Title', name: 'title', widget: 'hidden', default: 'University Theater' }
-          - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'default' }
-          - { label: 'Body', name: 'body', widget: 'markdown' }
+        file: "_includes/about-ut.md"
+      - label: "Home Page Banner"
+        name: "home-banner"
+        file: "_includes/info/2023/fall-2023.md"
       - label: "About Committee"
         name: "about-committee"
         file: "_pages/about-committee.md"
@@ -46,26 +104,21 @@ collections:
             name: 'committee_members'
             widget: 'list'
             allow_add: true
-            field:
-              label: Committee Member
-              name: committee_member
-              widget: object
-              summary: '{{fields.name}}'
-              fields:
-                - label: 'Name'
-                  name: 'name'
-                  widget: 'string'
-                - label: 'Email'
-                  name: 'email'
-                  widget: 'string'
-                - label: 'Position'
-                  name: 'position'
-                  widget: 'string'
-                  required: false
-                - label: 'Bio'
-                  name: 'bio'
-                  widget: 'markdown'
-                  default: 'is a student in the College.'
+            fields:
+              - label: 'Name'
+                name: 'name'
+                widget: 'string'
+              - label: 'Email'
+                name: 'email'
+                widget: 'string'
+              - label: 'Position'
+                name: 'position'
+                widget: 'string'
+                required: false
+              - label: 'Bio'
+                name: 'bio'
+                widget: 'markdown'
+                default: 'is a student in the College.'
 
 
 # TODO add more collections here
