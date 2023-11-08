@@ -34,28 +34,28 @@ events:
         Off-Off Campus is the nation's oldest collegiate improv and sketch comedy group. Every Friday from 4th-8th week, Off-Off Campus will present a never-before-seen comedy show, never to be seen again!
       time: 'Fridays 7:30pm, Oct. 20 - Nov. 17'
       location: '[University Church](https://goo.gl/maps/X1sL9DB6HiRbxfmx9)'
-    #   links:
-    #     Tickets ($5 per show, $15 Fall Quarter Pass): https://tickets.uchicago.edu/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=D77DC803-1CBF-48C2-8460-0C946609D295
+      links:
+        Tickets ($5 per show, $15 Fall Quarter Pass): https://tickets.uchicago.edu/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=C53FB899-E6AE-4424-93DA-4B077BCED0BA
     - title: "A Weekend of Workshops"
       description: >-
         Join us for a weekend of workshops, featuring *Cassandra* by Kassie Rivera, and *Strings Attached: In Concert*, a new musical by Jefferson Lind and music by Althea Li and Adrian Lo.<br>
         *Cassandra* is a one-act, student-written play, adapted from the Trojan myth of the prophet Cassandra. *Strings Attached: In Concert*, also student-written, is adapted from the 2011 movie musical *The Muppets*. 
       time: 'Oct. 19-21, 7:30pm'
       location: 'FXK Theater, Reynolds Club'
-    #   links:
-    #     Tickets ($6 advance, $8 door): 
+      # links:
+      #   Tickets ($6 advance, $8 door): 
     - title: "The Taming of the Shrew"
       description: >-
         *The Taming of the Shrew* is a Shakespeare play about one man's attempt to "tame" a woman to be his wife, reimagined in a modern-day frat house. A free preview will take place Thursday, November 9.
       time: 'Nov. 9-11, 7:30pm + Nov. 11, 2pm'
       location: 'FXK Theater, Reynolds Club'
-    #   links:
-    #     Tickets ($6 advance, $8 door): 
+      links:
+        Tickets ($6 advance, $8 door): https://tickets.uchicago.edu/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=6DC3E375-B5FC-4CD5-AD38-C96BB9757802
     - title: "Muscle Memory"
       description: >-
        *Muscle Memory* is an original play set in a sci-fi, android-filled future about a girl grappling with the aftermath of an assault. A free preview will take place Thursday, November 16.
       time: 'Nov. 16-18, 7:30pm + Nov. 18, 2pm'
       location: '[Logan Theater East](https://goo.gl/maps/Rd7gzsGaCBNaBYrM7)'
-    #   links:
-    #     Tickets ($6 advance, $8 door): 
+      links:
+        Tickets ($6 advance, $8 door): https://tickets.uchicago.edu/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=DC750DA1-3B1C-4297-B1ED-A4781D137FA0
 ---
