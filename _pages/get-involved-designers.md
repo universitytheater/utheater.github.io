@@ -8,7 +8,7 @@ Welcome to University Theater! We're delighted you're thinking of becoming a des
 
 Ongoing workshops may have lead design positions open and lead designers/managers on mainstages may be open to assistants, though positions often get filled as performances approach. Reach out to the directors and production managers below to get connected!
 
-{% include info/2023/fall-productions.md %}
+{% include info/2024/winter-productions.md %}
 
 
 **Do you have any additional questions about design or management in UT?** Feel free to send them to UT Committee at [ut-committee@uchicago.edu](mailto:ut-committee@uchicago.edu)!
