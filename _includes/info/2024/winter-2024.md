@@ -1,4 +1,4 @@
-UT is producing ***A Weekend of Workshops: Paper Wasters & The Song of Circles*, *Falsettos***, and ***Richard III*** in Winter 2024, as well as ***Strings Attached*** and ***The Play That Goes Wrong*** in Spring 2024.
+UT is producing ***A Weekend of Workshops: Paper Wasters & The Song of Circles*, *Falsettos***, and ***Richard III*** in Winter 2024, as well as ***Strings Attached***, ***The Play That Goes Wrong***, and  ***A Midsummer Night's Dream*** in Spring 2024.
 
 **Interested in auditioning for a Winter 2024 single-quarter or a Spring 2024 cross-quarter show?** Click **[here]({{ "get-involved/actors" | relative_url }})** for more information about opportunities for actors!
 
