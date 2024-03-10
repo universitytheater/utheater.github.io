@@ -10,8 +10,7 @@ Here are some resources to help you get started in UT and learn more about the a
 **UT Documents and Forms**
 
 * [Current UT Bylaws](https://docs.google.com/document/d/1LG3EDUSyqv-RhPrpK5BXB2oK310AzS0Q/edit)
-* [Spring 2023 Mainstage Proposal Form](https://docs.google.com/document/d/1jl42jXB1zCLQ2Z-gOgtp0p0Xw1nSNBcBuAPVKuoUXrw/edit?usp=sharing)
-* [Winter 2023 Workshop Proposal Form](https://bit.ly/Winter2023WorkshopProposalForm)
+* [Spring 2024 Mainstage Proposal Form - TBD]()
 * [Site-Specific Work Proposal Form](https://docs.google.com/document/d/1SlFyn5tKUiiHhLfuSTPwCNoBVgvux03O/edit)
 * [Budget Extension Request Form](https://docs.google.com/document/d/1cE9u-UuHLCKNKRt1_thdpe8oQOvgbespe4nNPqbzJTw/edit?usp=sharing)
 
@@ -29,7 +28,7 @@ Here are some resources to help you get started in UT and learn more about the a
 **Community Resources**
 
 * [UT Community Resources](https://drive.google.com/drive/folders/10__fPm0F1mAGhADl8Pn-yWehM_1cAXed?usp=sharing), including [past proposals](https://drive.google.com/drive/folders/1HuAAugsZYzhmiwkLl4oby_rL0uuALF2-?usp=sharing) and designer documents
-* [UT production openings](https://docs.google.com/spreadsheets/d/1hZY6IuHQFGepDHz28VGbVW9WM-QBNXzSR-CQznCsfEM/edit#gid=0)
+* [UT production openings](https://docs.google.com/spreadsheets/d/102-S8qw_TjHxK6byVjjWFpGHRvN8JVGGa9ycVUTeZcE/edit?usp=sharing)
 * [List of interested designers](https://docs.google.com/spreadsheets/d/1UoOuXcON0RIhoPSc92W3n4TRSbZN-3iA9HirhzwyU9s/edit) (UChicago login required)
 * [Interest form to get involved in design/management](https://docs.google.com/forms/d/e/1FAIpQLSe6c0O6Aat6YhsDQ6rp6_ujrfRgkiYSNwZxfNy_-Szp5PbdJA/viewform)
 * [TAPS Cohorts](https://taps.uchicago.edu/performance/taps-weekly-cohorts)
