@@ -12,7 +12,11 @@ Feel free to [contact the Theater[24] curators](mailto:nmanley@uchicago.edu,bell
 
 ### Theater[24] signups:
 
-Keep an eye out for the Theater[24] signups coming soon!
+Sign up for Spring 2024's Theater[24] at this link: 
+
+<p><iframe src="https://docs.google.com/forms/d/e/1FAIpQLScdHwr2Ek44cYMTk6K-WLVWgScnT94ubewqltWyVi_RQlvK8w/viewform" syle="width:100%" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe></p>
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScdHwr2Ek44cYMTk6K-WLVWgScnT94ubewqltWyVi_RQlvK8w/viewform" target="_blank">Click here</a> to open in a new tab.
 
 ### Past performances
 
