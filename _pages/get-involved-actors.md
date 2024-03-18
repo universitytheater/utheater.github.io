@@ -8,7 +8,7 @@ Welcome to University Theater! We're delighted you're thinking of auditioning fo
 
 Our auditions are not meant to be stressful or intimidating, and all casting teams are rooting for you to do your best. The most important thing is to have fun!
 
-{% include info/2024/winter-2024-auditions.md %}
+{% include info/2024/spring-2024-auditions.md %}
 
 **Do you have any additional questions about acting in UT?** Feel free to send them to UT Committee at [ut-committee@uchicago.edu](mailto:ut-committee@uchicago.edu)!
 
@@ -63,7 +63,7 @@ Callbacks often varies based on the directing team. You could read scenes with o
 
 #### How will I know if I'm cast?
 
-Casting decisions will be emailed to auditionees on Friday of 1st Week around early afternoon. Auditionees are expected to check their email and confirm their role with stage management by the end of Friday, so be on the lookout then!
+Casting decisions will be emailed to auditionees on Friday of 1st Week. Auditionees are expected to check their email and confirm their role with stage management by the end of Friday, so be on the lookout then!
 
 #### Can I be cast in more than one show?
 
