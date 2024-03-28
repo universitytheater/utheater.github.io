@@ -34,7 +34,7 @@ events:
       time: 'Fridays 7:30pm, Jan. 26 - Feb. 23'
       location: '[University Church](https://goo.gl/maps/X1sL9DB6HiRbxfmx9)'
     #   links:
-    #     Tickets ($5 per show, $15 Fall Quarter Pass): 
+    #     Tickets ($5 per show, $15 Fall Quarter Pass):  
     - title: "A Weekend of Workshops"
       description: >-
         Join us for a weekend of workshops, featuring *Paper Wasters* by Eva Schultz, and *The Song of Circles* by Alisyn Parfait.
