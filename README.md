@@ -19,7 +19,8 @@ Reach out to ut-committee@uchicago.edu for more info about how to get involved i
 
 
 **Past Maintainers**
-* [Spencer Ng](https://github.com/spencerng)
-* [Kelly Mao](https://github.com/kllymao)
+
+* [Kelly Mao](https://github.com/kllymao) (UT Committee 2023-24)
+* [Spencer Ng](https://github.com/spencerng) (UT Committee 2022-23)
 * [Gabi Garcia](https://github.com/gabigarc03) (UT Committee 2021-22)
 * [Isaiah Zwick-Schachter](https://github.com/isaiahzs) (UT Committee 2020-21)
