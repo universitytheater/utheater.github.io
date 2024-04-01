@@ -29,11 +29,10 @@ Here are some resources to help you get started in UT and learn more about the a
 
 * [UT Community Resources](https://drive.google.com/drive/folders/10__fPm0F1mAGhADl8Pn-yWehM_1cAXed?usp=sharing), including [past proposals](https://drive.google.com/drive/folders/1HuAAugsZYzhmiwkLl4oby_rL0uuALF2-?usp=sharing) and designer documents
 * [UT production openings](https://docs.google.com/spreadsheets/d/102-S8qw_TjHxK6byVjjWFpGHRvN8JVGGa9ycVUTeZcE/edit?usp=sharing)
-* [List of interested designers](https://docs.google.com/spreadsheets/d/1UoOuXcON0RIhoPSc92W3n4TRSbZN-3iA9HirhzwyU9s/edit) (UChicago login required)
 * [Interest form to get involved in design/management](https://docs.google.com/forms/d/e/1FAIpQLSew_5KLnEtt7HAQOGAAa31xvAyD44GNvRa5IQVihrB-ykGXWQ/viewform)
 * [TAPS Cohorts](https://taps.uchicago.edu/performance/taps-weekly-cohorts)
 * [TAPS Space Schedule](https://calendar.google.com/calendar/u/0/embed?src=5pdfopego38kfbddn4s8pfm92c@group.calendar.google.com&ctz=America/Chicago)
-* UT Committee Meetings - 5pm on Mondays in Logan 603!
+* UT Committee Meetings - 5pm on Mondays in Logan 028!
 
 **Dean's Men Links**
 
@@ -47,6 +46,9 @@ Here are some resources to help you get started in UT and learn more about the a
 * [Facebook page](https://www.facebook.com/offoffcampus)
 * [Instagram](https://www.instagram.com/offoffcampus/)
 
+**Design Manuals***
+
+* [Manual Folder](https://drive.google.com/drive/folders/1-uMQYibyu8K5FHeBd6qNSXXnHn-MbqHt)
 
 **Affiliate Links**
 
