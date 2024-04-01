@@ -46,7 +46,7 @@ Here are some resources to help you get started in UT and learn more about the a
 * [Facebook page](https://www.facebook.com/offoffcampus)
 * [Instagram](https://www.instagram.com/offoffcampus/)
 
-**Design Manuals***
+**Design Manuals**
 
 * [Manual Folder](https://drive.google.com/drive/folders/1-uMQYibyu8K5FHeBd6qNSXXnHn-MbqHt)
 
