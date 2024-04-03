@@ -7,7 +7,9 @@ subheader: "based on the play by William Shakespeare
 
   Winter 2023"
 description: "In a delusion of species supremacy, earth-humans have spread their reign through the galaxy. While the conquerors play their power-games, the aliens of colonized Planet Inverness seek revenge on humankind. Are the Macbeths slowly poisoned to madness by their own ambition, or by a mysterious energy native to the planet?"
-tickets_link: https://tickets.uchicago.edu/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=B6DFE9CA-A9C7-4F3C-B6C2-675BDB1C17CC
+##tickets_link: https://tickets.uchicago.edu/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=B6DFE9CA-A9C7-4F3C-B6C2-675BDB1C17CC
+vimeo_link: https://player.vimeo.com/video/804874460?h=643a1027ab
+
 roles:
   Cast:
   - role: Macbeth

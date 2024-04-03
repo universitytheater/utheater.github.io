@@ -8,6 +8,7 @@ subheader: "written by William Shakespeare
   Fall 2023"
 description: "Upsilon Delta Mu puts on their annual production of Shakespeare’s energetic, boisterous comedy. A farcical battle of wits between two headstrong figures, the play follows the transformation of Katherina, an assertive woman deemed aggressive and violent by those around her. Watch as the world of 16th century Italian marital dynamics blends with the modern fraternity and the tropes found 400 years ago strike a nerve today."
 # tickets_link: https://tickets.uchicago.edu/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=6DC3E375-B5FC-4CD5-AD38-C96BB9757802
+vimeo_link: https://player.vimeo.com/video/925031150?h=bd7f88ca81
 roles:
   Cast:
   - name: Sanjna Narayan

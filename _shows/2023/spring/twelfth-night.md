@@ -7,6 +7,8 @@ subheader: 'written by William Shakespeare
 
   Spring 2023'
 description: 'After being rescued from the shipwreck that killed her twin brother, Viola finds herself stranded in Illyria, a quaint town on the East Coast of the United States. Seeking some security and independence in a conservative town in the late 1950’s, Viola decides to disguise herself as a man under the name ‘Cesario’ and work for the Mayor of Illyria: Duke Orsino. Orsino sends Viola to woo Olivia, the grieving heiress he pines for, on his behalf, but complications ensue when Olivia falls for ‘Cesario’ and Viola falls for Orsino. The townsfolk and members of Olivia’s household meddle in the lives of these characters and each other, weaving a web of confusion across Illyria. Tickets are FREE for this outdoor performance--just bring something to sit on and layers!'
+vimeo_link: https://player.vimeo.com/video/910193298?h=cce1d3cca8
+
 roles:
   Cast:
   - name: Henry Kerrey
