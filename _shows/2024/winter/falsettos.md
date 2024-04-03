@@ -1,5 +1,5 @@
 ---
-ttitle: Falsettos
+title: Falsettos
 slug: falsettos
 subheader: ""
 description: 'Welcome to Falsettoland! Falsettos is the fully sung-through musical that chronicles the evolution of nuclear family Marvin, Trina, and their son Jason as Marvin leaves Trina for a man, Whizzer, bringing them all to the door of psychiatrist Mendel. Watch as they—and the "lesbians from next door"—navigate hilarity, tragedy, and a looming Bar Mitzvah in 1979 New York City, learning how to find their place in the world.'
