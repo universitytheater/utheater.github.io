@@ -21,7 +21,7 @@ Here are some resources to help you get started in UT and learn more about the a
 * [UT Facebook page](https://www.facebook.com/universitytheater)
 * [UT Listhost](https://lists.uchicago.edu/web/info/utheater-general)
 * [UT Instagram](https://instagram.com/university.theater)
-* [UT Newsletter past issues](https://us2.campaign-archive.com/home/?u=898aa836fc636cd1b2571ad5b&id=ef0f5470fe)
+* [UT Newsletter past issues](https://us18.campaign-archive.com/home/?u=0f23bb0ae467d78c5c8d54fcc&id=2b52e2f869)
 * Discord server: Join the [UChicago Student Hub](https://discord.gg/KhEEuRweMd) to get access!
 
 
