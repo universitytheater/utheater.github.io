@@ -42,7 +42,7 @@ workshops:
     - name: Max Kay
       role: James
     - name: Danielle Yablonovskiy
-      role: Tomsky
+      role: Jessica
       bio: "is a fourth year Economics and Psychology major. She has previously worked on The Trail to Oregon (Stage Manager) and Be More Chill (Stage Manager), as well as a variety of other UT managerial roles. She is also currently the chair of UT. You can catch her next stage managing the spring 2024 production of Strings Attached. She would like to thank her co-stage manager at Strings Attached, Coco, for dealing with her this week. Everything is for UT and, most of all, Eleni."
     - name: Caroline Lopez
       role: Ruby - Thursday
