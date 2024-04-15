@@ -31,7 +31,7 @@ events:
       time: 'Fridays 7:30pm, Apr. 12 - May. 10'
       location: '[University Church](https://goo.gl/maps/X1sL9DB6HiRbxfmx9)'
     #   links:
-    #     Tickets ($5 per show, $15 Fall Quarter Pass): 
+    #     Tickets ($5 per show, $15 Fall Quarter Pass): https://tickets.uchicago.edu/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=4645FB58-FB26-4931-A37B-AFE3176D999F 
     - title: "Strings Attached"
       description: >-
         What does it mean to be human? What does it mean to be a puppet? Will you marry me? All of these questions and more are answered by Strings Attached, a new musical that explores two friends' journeys of self-discovery, commitment, and puppetry. The year is 2012. Jason's tenth anniversary dating his girlfriend Amy is fast approaching, and it's becoming clear that this will present an ultimatum for the future of their relationship. Meanwhile, his best friend Walt hopes to rein in Jason's preposterous proposal plans, but in doing so Walt faces a personal crisis of his own. An encroaching oil baron threatens to ruin everything— and maybe even ruin Christmas. Jason and Walt will consult priests, restaurateurs, and their personal histories in their effort to put together the perfect proposal for Amy. Who's pulling your strings? A free preview will take place Thursday, April 18.
