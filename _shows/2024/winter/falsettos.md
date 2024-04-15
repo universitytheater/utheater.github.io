@@ -10,7 +10,7 @@ roles:
   - role: Marvin
     name: Elias Buttress
     bio: "is a first-year at The College. This is his second UT credit after being an assistant production manager for Muscle Memory. When not onstage or in class, he enjoys listening to jazz. He would like to thank his parents for their support and UT for this opportunity."
-   - role: Jason
+  - role: Jason
     name: Ariadne Merchant
     bio: "is a first year Linguistics and Psychology major. This is her first time acting in (or even being part of) Uchicago Theater. Though she is new to college theater, she already is comfortable in its welcoming and exciting environment. Ariadne is thrilled to experience and be a part of such an amazing community in theater (the Falsettos cast and crew) and can't wait to continue her passion in the years to come."
   - role: Whizzer
