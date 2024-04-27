@@ -90,6 +90,7 @@ roles:
     name: Surya Chinnappa
   - role: Assistant Choreographer
     name: Kelly Mao
+    bio: "is a third-year Computer Science and Mathematics major whose previous UT credits include Muscle Memory (Stage Manager) and The Heirs (Production Manager). Juggling Consultant is her silliest credit to date and she is SO delighted about it. lf she were a puppet, her human would absolutely be her beloved Coco Liu."
   - role: Assistant Production Manager
     name: Jasmine Li
   - role: Assistant Stage Manager
