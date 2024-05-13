@@ -43,7 +43,7 @@ roles:
     name: Althea Li
     bio: "is a fourth year Music and Statistics double major at the College. In UT, she has previously worked on Falsettos (Choreographer), the Strings Attached Workshop (Co-Composer, Choreographer), and Be More Chill (Choreographer), but you may have also seen her dance for UCDancers and UBallet. Althea is immensely grateful for this opportunity to showcase her work and for all the people who have made this story come to life. She is endlessly grateful to the band for their passion and support, as well as Adrian for being her partner in crime throughout the entire process; it's a real dream come true conducting and playing with them. If Althea were a puppet (she isnt. ofc!!...) (Why would she be a puppet haha... like....), she would like her human counterpart to be Jihyo from Twice."
   - role: Music Director
-    name: Adiran Lo
+    name: Adrian Lo
   - role: Choreographer
     name: Jess Aaron
     bio: "is a joint fourth year and Master's student in the Humanities. She serves as President of the Dean's Men Shakespeare group, and has worked on the production team of several Dean's Men shows. She is also on the board of the dance group Rhythmic Bodies in Motion, and is excited to bring her dance experience to this show! When she's not dancing, you can find her crocheting in the audience or working on her feminist video game studies thesis."
