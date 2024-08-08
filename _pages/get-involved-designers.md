@@ -24,8 +24,7 @@ Fill out the form below to get your name out to production teams and future prop
 
 <p><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdwm5mjKd7fD3xaTUrhrIG1O3Y_U2x5C-KQclevvOSamxmUYw/viewform" style="width:100%" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe></p>
 
-Proposers can view a list of interested designers and managers on <a href="https://docs.google.com/document/d/1-CPp6fKgUhwP6BdVOM4c6b-2FGZw49l3K-5_jnMQ5rk/edit" target="_blank">this page</a> (requires UChicago login) and may directly reach out to interested designers and managers during the proposal or preproduction processes.
-
-<!-- <p><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSew_5KLnEtt7HAQOGAAa31xvAyD44GNvRa5IQVihrB-ykGXWQ/viewform" style="width:100%" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe></p> -->
-
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdwm5mjKd7fD3xaTUrhrIG1O3Y_U2x5C-KQclevvOSamxmUYw/viewform" target="_blank">Click here</a> to open in a new tab.
+
+Proposers can reach out to committee or committee members if they would like to review viewing a list of interested designers and managers 
+
