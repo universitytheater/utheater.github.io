@@ -8,7 +8,7 @@ Welcome to University Theater! We're delighted you're thinking of auditioning fo
 
 Our auditions are not meant to be stressful or intimidating, and all casting teams are rooting for you to do your best. The most important thing is to have fun!
 
-{% include info/2024/spring-2024-auditions.md %}
+{% include info/2024/fall-2024-auditions.md %}
 
 **Do you have any additional questions about acting in UT?** Feel free to send them to UT Committee at [ut-committee@uchicago.edu](mailto:ut-committee@uchicago.edu)!
 
