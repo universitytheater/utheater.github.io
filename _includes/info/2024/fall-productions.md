@@ -2,7 +2,7 @@
 
 * A Weekend of Workshops: *Royal Flush*, an original work by Jessie Palmer - 5th Week Winter, FXK Theater
 * *Much Ado About Nothing* by William Shakespeare - 7th Week Autumn, FXK Theater
-* *The Arsonists* by Max Frisch - 7th Week Autumn, Theater West
+* *The Arsonists* by Max Frisch - 8th Week Autumn, Theater West
 * *IF/THEN* by Brian Yorkey and Tom Kitt - 6th Week Winter, Theater East	
 
 **UT will be producing the following shows in Winter 2025**:
