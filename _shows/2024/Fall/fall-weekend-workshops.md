@@ -11,10 +11,10 @@ workshops:
     Cast:
     - name: Maggie Banks
       role: Cassie Peoria
-      Bio: “is a first-year MENG major. This is her first UT show, and she's feeling pretty skibidi about it! Past credits include A Tale of Two Cities (a door). Her favorite card is the ace of clubs.“
+      bio: "is a first-year MENG major. This is her first UT show, and she's feeling pretty skibidi about it! Past credits include A Tale of Two Cities (a door). Her favorite card is the ace of clubs."
     - name: Sean Moore
       role: Ryan Capilla
-      bio: “is fourth year majoring in economics, math and philosophy. In UT he has experience with Theater[24] (Writer, Actor), and has performed in The Play that Goes Wrong (Jonathan). This is his first time performing in a musical since high school and hopes you have as much fun watching the show as the cast has performing it.”
+      bio: "is fourth year majoring in economics, math and philosophy. In UT he has experience with Theater[24] (Writer, Actor), and has performed in The Play that Goes Wrong (Jonathan). This is his first time performing in a musical since high school and hopes you have as much fun watching the show as the cast has performing it."
     - name: Ellie Levy
       role: Aurelia Arthurs
       bio: "is a first-year TAPS and Political Science major from Chicago. This is her first UT credit but she has been acting in plays and musicals for almost a decade. Her favorite card in a deck is the queen of hearts."
@@ -39,16 +39,16 @@ workshops:
       bio: "is a third-year EALC and Religious Studies major. He has previously worked on Falsettos (Lighting Designer), A Midsummer Night's Dream (Stage Manager), and is currently on The Arsonists (Lighting Designer). He doesn't know how to play poker or what exactly a Royal Flush is, but has watched Casino Royale at least six times, so could probably manage a hand or two."
     - name: JJ Robeck
       role: Pianist
-      bio: ”is a second-year Linguistics major whose previous forays into musical theater have only been in the orchestra pit as a keyboardist and cellist. Aside from a brief stint as a designer for theater 24 earlier this year, this is JJ’s first UT production! He also plays percussion in the University Wind Ensemble and Percussion Ensemble. You’ll have to ask him later what his fun fact is, as right about now his spirit of curiosity and whimsy has been stifled by spending too much time in the Reg. (Spoiler, the fun fact may or may not have something to do with Norwegian phonology.)”
+      bio: "is a second-year Linguistics major whose previous forays into musical theater have only been in the orchestra pit as a keyboardist and cellist. Aside from a brief stint as a designer for theater 24 earlier this year, this is JJ’s first UT production! He also plays percussion in the University Wind Ensemble and Percussion Ensemble. You’ll have to ask him later what his fun fact is, as right about now his spirit of curiosity and whimsy has been stifled by spending too much time in the Reg. (Spoiler, the fun fact may or may not have something to do with Norwegian phonology.)"
     - name: Lydia Gafford
       role: Sound Designer
-      bio: “is a second year History and Art History major. Most recently, she's worked in Houston at 4th Wall Theater on Romeo and Juliet (Lighting Designer) and at AD Players on Ester (Lighting Assistant). She would list more credits, but she might drop off the grid soon and she doesn't want to make it too easy to find her. “
+      bio: "is a second year History and Art History major. Most recently, she's worked in Houston at 4th Wall Theater on Romeo and Juliet (Lighting Designer) and at AD Players on Ester (Lighting Assistant). She would list more credits, but she might drop off the grid soon and she doesn't want to make it too easy to find her."
     - name: Julian Chung
       role: Costume/Prop/Scenic Designer
-      bio: “is a first year Astrophysics major from Hong Kong. This is his first time working with UT, and first time entering the exciting world of sound, having had prior experience in lighting. One of his greatest achievements was once winning by 'Thirteen Orphans' in mahjong - the equivalent of a Royal Flush!”
+      bio: "is a first year Astrophysics major from Hong Kong. This is his first time working with UT, and first time entering the exciting world of sound, having had prior experience in lighting. One of his greatest achievements was once winning by 'Thirteen Orphans' in mahjong - the equivalent of a Royal Flush!"
     - name: Elisa Gao
       role: Costume/Prop/Scenic Designer
-      bio: “is a second-year Astrophysics major with a TAPS minor. She first entered the costume shop as an Assistant Costume Designer for the residents of Falsettoland (Falsettos). She knows that the Duchess of York and Lord Mayor of London must be so proud to see her returning to the FXK Theatre without needing to scream at her violent son, Richard III, again. Additionally, she is a costume coordinator for UBallet and a Quasimodo at the Rockefeller Chapel, whose goal is to ring as little atonal music as possible.”
+      bio: "is a second-year Astrophysics major with a TAPS minor. She first entered the costume shop as an Assistant Costume Designer for the residents of Falsettoland (Falsettos). She knows that the Duchess of York and Lord Mayor of London must be so proud to see her returning to the FXK Theatre without needing to scream at her violent son, Richard III, again. Additionally, she is a costume coordinator for UBallet and a Quasimodo at the Rockefeller Chapel, whose goal is to ring as little atonal music as possible."
     - name: Joseph Depaula
       role: Committee Liaison
 
