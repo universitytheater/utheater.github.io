@@ -8,11 +8,11 @@ Teams of writers, actors, directors, and designers – led by four fearless cura
 
 The 24-hour extravaganza kicks off for participants on the evening of Friday of first week in the FXK Theater. Or, come see the culmination of their work at 8pm on the following day (Saturday).
 
-Feel free to [contact the Theater[24] curators](mailto:nmanley@uchicago.edu,bellegn@uchicago.edu,ccypher@uchicago.edu,emcurran@uchicago.edu) (Natalie Manley, Belle Nahoom, Camille Cypher, Emily Curran) with any questions!
+Feel free to [contact the Theater[24] curators](mailto:ozajac@uchicago.edu,bellegn@uchicago.edu,rubioj@uchicago.edu,emcurran@uchicago.edu) (Belle Nahoom, Emily Curran, Josiah Rubio, Oliver Zajac) with any questions!
 
 ### Theater[24] signups:
 
-Look out for Fall Theater[24] signups!
+Look out for Winter Theater[24] signups!
 
 ### Past performances
 
