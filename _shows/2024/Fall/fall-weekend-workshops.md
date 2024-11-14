@@ -54,7 +54,7 @@ workshops:
 
 
 layout: show-info 
-Quarter: fall
+quarter: fall
 year: 2024
 season: 2024-2025 Shows
 date: 2024-11-01
