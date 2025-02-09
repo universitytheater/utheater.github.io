@@ -3,7 +3,7 @@ title: If/Then
 slug: if-then
 subheader: ""
 subheader: ""
-description: Think of all of the things you’d have done, if only you’d know. If/Then is a contemporary musical that explores the complexities of choice and chance through the life of Elizabeth, a city planner who returns to New York in search of a fresh start. As she navigates the city's possibilities of love, career, and self-discovery, a single decision splits her life into two parallel paths; Liz and Beth. If/Then follows both stories simultaneously as this modern woman faces the question; What If? <br> <br> Special Thanks to Adrian Lo
+description: Think of all of the things you’d have done, if only you’d known. If/Then is a contemporary musical that explores the complexities of choice and chance through the life of Elizabeth, a city planner who returns to New York in search of a fresh start. As she navigates the city's possibilities of love, career, and self-discovery, a single decision splits her life into two parallel paths; Liz and Beth. If/Then follows both stories simultaneously as this modern woman faces the question; What If? <br> <br> Special Thanks to Adrian Lo
 tickets_link: https://uchicago-student-orgs.myshopify.com/collections/university-theatre-ut/products/if-then?fbclid=IwZXh0bgNhZW0CMTEAAR2FATIk1kwpPi9Q9D-8MAtLMy2MMOn-AW8NYAnXzsAAlSV-q6Rx4fpJZ24_aem_lBKiUUrUbu1QEcWwLBKqfg
 roles:
     Cast:
