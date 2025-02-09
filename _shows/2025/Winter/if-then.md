@@ -67,7 +67,7 @@ roles:
       bio: "is a second-year Physics and Philosophy major. He has worked on the 2024 winter Weekend of Workshops (Lighting Designer) and If/Then is his second UT show. He also participates in University Ballet and was recently in Sylvia (Aminta) and was in Romeo and Juliet last spring (Lord Capulet/Friar Lawrence). Some other Max is out ice skating on the Midway rink at noon, and then going to get a medium latte from Plein Air. He is so excited for If/Then and hopes you enjoy the show!"
     - name: Crystina Windham
       role: Co-Sound Designer & A1
-      bio: "is a fourth year Music and Cognitive Science major at The College. Scientific Method (Sound Designer), Marian, or the True Tale of Robin Hood (Sound Designer), Twelfth Night (Music Director),  Strings Attached (Vocal Director), Arcadia (Assistant Sound Designer). In another life, Crystina would be a Medieval Tavern Owner/Busker."
+      bio: "is a fourth year Music and Cognitive Science major at The College. Scientific Method (Sound Designer), Marian, or the True Tale of Robin Hood (Sound Designer), Twelfth Night (Music Director),  Strings Attached (Vocal Director), Arcadia (Assistant Sound Designer). In another life, Crystina would be a Medieval Tavern Owner/Busker"
     - name: Avery Echols
       role: Co-Sound Designer & Board Op
     - name: Eva Schultz
