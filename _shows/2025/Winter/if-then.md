@@ -123,7 +123,7 @@ roles:
       bio: is a second-year Computer Science major. He was previously in the band for Falsettos (Synth). He is an avid barbershop quartet enthusiast, and spends most of his waking time thinking about it. Any leftover time is used staring into the void.
     - name: Anthony Procaccio
       role: Guitar
-      bio: is a third-year Psychology and Economics major. This is his first ever UT performance, but he has appeared in the band for previous productions such as Cinderella and Hello Dolly!. He is also president of the jam-band RSO Music Forum. The electric guitar he is using for this production, a Squire Player Stratocaster, was gifted to him by his older brother when he was 10. His favorite guitarist of all time is Billy Corgan of The Smashing Pumpkins.
+      bio: is a third-year Psychology and Economics major. This is his first ever UT performance, but he has appeared in the band for previous productions such as Cinderella and Hello Dolly!. He is also president of the jam-band RSO Music Forum. The electric guitar he is using for this production, a Squire Player Stratocaster, was gifted to him by his older brother when he was 10. His favorite guitarist of all time is Billy Corgan of The Smashing Pumpkins. He would like to thank those who convinced him to come back into the pit, especially Crystina Windham and Althea Li. In an alternate universe, Tony is the singer-guitarist in a Nirvana cover band.
     - name: Sebastian Altomare
       role: Bass
       bio: is a first-year Computer Science and Linguistics major thrilled to be making his University Theatre debut. He extends a heartfelt thank you to all who have made If/Then a bright light in his first-year at UChicago. Outside of theatre, he can be found performing around campus with the Dirt Red Brass Band and the jazz ensemble. In an alternate universe, he’d be Chistery, savoring bananas in the towers of Kiamo Ko.
@@ -142,6 +142,7 @@ roles:
       role: Violin 1
     - name: Kelly Mao
       role: Violin 2
+      bio: is a fourth-year Computer Science and Mathematics major. Her previous UT credits include Be More Chill (Violin), Strings Attached (Juggling Consultant), Muscle Memory (Stage Manager), and The Heirs (Production Manager). It’s been a pleasure to play in a pit that has an official violin part (two, even!). Some other Kelly is a stay-at-home daughter who spends her copious amounts of free time knitting, watching knitting vlogs, and browsing local yarn stores for more knitting supplies. This one’s for Jack Mallek, who always made doing theater feel like an endless joy.
     - name: Michael Lee
       role: Viola
 
