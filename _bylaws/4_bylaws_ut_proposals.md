@@ -5,7 +5,7 @@ toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
 permalink: /bylaws/ut-proposals
-date: 2022-02-23
+date: 2025-02-20
 wrap_div: bylaws-proposals bylaws
 section: "4"
 ---
@@ -17,23 +17,23 @@ section: "4"
 1. One-Quarter Shows: Performances take place during the 7th or 8th week of Fall, Winter, and Spring Quarter and are passed one quarter prior to their performance quarter. One-Quarter shows may also take place during 6th week if no Cross-Quarter shows are scheduled, but shows in the same space (e.g. FXK, Theater West) cannot take place in consecutive weeks.
 2. Cross-Quarter Shows: Performances take place during the 6th week of Winter and Spring Quarter and are passed two quarters prior to the quarter of their performance. These shows can take place in Theater West, Theater East, 501, or a site-specific alternative depending upon availability. The Cross-Quarter model is intended for productions that want more flexible rehearsal scheduling, increased rehearsal time to accommodate performance duration, and/or additional time to develop design elements.
 3. Collaborations: RSOs may propose to collaborate with UT to produce One-Quarter and Cross-Quarter shows, utilizing UT resources and following a similar proposal process and timeline.
-4. Site-Specific Work: Performance pieces and installations that are located in Logan 501 or other locations on campus, pending University administration approval and the availability of desired resources (e.g. scale of designs, space availability)
-5. Workshops: Performances take place during 4th and/or 5th Week of Fall and Winter Quarters
-and are passed one quarter prior to their performance quarter. Workshops are intended for works, particularly new or student-written work, with a shorter runtime and minimal stage design.
+4. Workshops: Performances take place during 4th or 5th Week of Fall and Winter Quarters and are passed one quarter prior to their performance quarter. Workshops are intended for works, particularly new or student-written work, with a shorter running time. Workshops have smaller-scale stage design, with an appropriate scope decided between Committee and proposers after proposals are passed.
+5.  Performance pieces and installations that are located in Logan 501 or other locations on campus, pending University administration approval and the availability of desired resources (e.g. scale of designs, space availability). The 8th Week of Spring Quarter is reserved for site-specific work. However, if no site-specific work is scheduled for that time slot by 4th Week of Winter Quarter, Committee may accept proposals for Workshops and/or One-Quarter Shows during the 8th Week of Spring Quarter at its discretion. Site-specific works have flexible scheduling, and they may also be scheduled during the weeks mentioned in V.A.1 and V.A.2 if no mainstage shows are scheduled during those time slots after the Spring Proposal Meeting.
+6. Staged Readings: A festival of staged readings of student-written plays may take place during the 6th Week of Fall and Spring Quarters in Logan 501. Staged readings are intended to be an easy and low-commitment avenue to get involved with UT and for student playwrights to hear their work on stage.
 
-### B. Mainstages
+### B. Proposing Mainstages
 
 1. #### One-Quarter and Cross-Quarter Productions
     * A proposer must request a proposal liaison from Committee. The preaison will meet with the proposer to discuss any questions the proposer might have about the proposal process.
-    * Proposers must meet with the Director of Performance Programs and the Committee Chair. These individuals may recommend meeting with other members of the TAPS production staff. Proposers must meet with the Managing Director to discuss rights, if applicable. Proposers are also strongly encouraged to meet with the Managing Director and Committee Treasurer to discuss rough budgets.
-    *  Proposers have the option of presenting to a production cohort meeting. This meeting is open to all members of University Theater. In this meeting, proposers discuss briefly their vision for their production, in terms of both design and process. After this meeting, attendees and proposers may meet and form teams. 
-    * Mainstage shows are divided into One-Quarter and Cross-Quarter shows and are distinguished by their different budget amounts (see I.C.4). Each show type occurs at a specific time each quarter, as specified in Section V.A.
-    *  Proposers must turn in their proposal to the Committee Chair’s mailbox and electronically, emailed to [ut-committee@uchicago.edu](mailto:ut-committee@uchicago.edu). Deadlines for different shows are as specified below:
+    * Proposers must meet with the Director of Performance and the Committee Chair. These individuals may recommend meeting with other members of TAPS Pro-staff. Proposers must meet with the Managing Director to discuss rights, if applicable. Proposers are also strongly encouraged to meet with the Managing Director and Committee Treasurer to discuss rough budgets.
+    *  Mainstage shows are divided into One-Quarter and Cross-Quarter shows and are distinguished by their different budget amounts (see I.C.4). Each show type occurs at a specific time each quarter, as specified in Section V.A.
+    *  Proposers must turn in their proposal to Committee, emailed to [ut-committee@uchicago.edu](mailto:ut-committee@uchicago.edu). Proposals are due in two rounds:
 
-        * Cross-Quarter Shows are due 5pm on Friday of 2nd week of the quarter two quarters prior to the desired production date. (e.g. Spring Cross-Quarter shows are passed during Fall Quarter).
-        * One-Quarter show proposals are due 5 pm on Friday 2nd week of the quarter previous to the desired production date. One-Quarter shows take place during the 7th and 8th Weeks of Fall, Winter, and Spring Quarters.  
-        *  If no Cross-Quarter show is passed during the appropriate proposal cycle, the slot may be filled by a One-Quarter show in the proposal meeting of the prior quarter as usual.
-    * In the week following, proposers arrange time to meet with individual Committee members to discuss their proposal. Committee members are required to read all proposals and make themselves available for individual meetings.
+        * Round I: One-Quarter and Cross-Quarter proposals for the following academic year are due by 5:00pm on Friday of 4th Week in Spring Quarter.
+
+        * Round II: Additional One-Quarter and Cross-Quarter proposals for 8th Week of Winter Quarter, 3rd Week of Spring Quarter, and 7th Week of Spring Quarter will be considered if no shows are scheduled for those times after the Round I Mainstage Proposal Executive Session. These proposals are due by 5:00pm on Friday of 4th Week in Fall Quarter.
+
+    * In the week after proposals are due, proposers arrange time to meet with individual Committee members to discuss their proposal. Committee members are required to read all proposals and make themselves available for individual meetings.
     *   The proposal should include the following components:
 
           * Name and information about the proposer.
@@ -48,10 +48,11 @@ and are passed one quarter prior to their performance quarter. Workshops are int
           * The production design aesthetic of the play and the textual justification for the aesthetic choice.
           * Bios for all staff members. These bios should include qualifications for the position as well as a statement about their particular area on the production.
           * While it is not required, inclusion rough drawings of set and costumes is suggested to strengthen the proposal.
+          * The production’s plan for the level of inclusion of understudies and/or a rough delineation of the production’s plan in the event of an actor being unable to perform their role. To read about understudies please see [this document](https://docs.google.com/document/d/1GLBnYfXQ5W3tnD_n72Ez6XLypn6T8nvcoKNubNXu8IQ/edit?usp=sharing). 
 
-    * The community-wide Mainstage Proposal Meeting is held 3<sup>rd</sup> Week, usually at 5pm. No UT activity may be scheduled during the community-wide Proposal Meeting.
-    * Before the Proposal Meeting, the Chair will meet with the relevant Pro Staff member(s) in order to discuss space scheduling. The purpose of this meeting is to discuss any schedule iterations that might be challenging so that the season can be scheduled in an informed manner after passing.
-    * After all proposers have spoken, the Committee proceeds into the Executive (Closed) Session in an undisclosed location (See Section IV.A.3). Proposers who are also members of Committee are not allowed to sit in Executive Session Proposal Meeting or to vote on the season. If the Director for the Dean's Men show is on Committee, however, they are permitted to take part in scheduling and vote on the season just as any other Committee member.
+    * The community-wide Mainstage Proposal Meeting is held in the 5<sup>th</sup> Week of Spring and Fall Quarter. No UT activity may be scheduled during the community-wide Proposal Meeting.
+    * Before the Proposal Meeting, the Committee Chair will meet with the relevant TAPS Pro-staff member(s) in order to discuss space scheduling. The purpose of this meeting is to discuss any schedule iterations that might be challenging so that the season can be scheduled in an informed manner after passing. If a performance space desired by proposers is unavailable during the weeks indicated in Section V.A, Committee may schedule a passed show to perform one week before or after the indicated weeks.
+    * After all proposers have spoken, Committee proceeds into the Executive (Closed) Session (see Section IV.A.3). Proposers, or non-proposer directors, who are also members of Committee are not allowed to sit in on the Executive Session Proposal Meeting or to vote on the season. If the Director for the Dean’s Men show is on Committee, however, they are permitted to take part in scheduling and vote on the season just as any other Committee member.
 
 2.  #### Collaborations
     RSOs may propose to collaborate with UT with the same deadline as mainstage proposals.

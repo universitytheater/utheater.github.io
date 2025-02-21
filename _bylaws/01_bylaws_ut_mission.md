@@ -2,7 +2,7 @@
 layout: page
 title: University Theater Mission Statement
 permalink: /bylaws/ut-mission
-date: 2022-03-01
+date: 2024-02-19
 section: "01"
 ---
 
@@ -24,10 +24,13 @@ Though membership of UT consists almost entirely of students, the organization i
 
 Membership shall be open to all interested UChicago Students, regardless of divisional or departmental affiliations, and must comply with the University of Chicago non-discrimination statement.
 
-To be eligible to be a voting member of UT (i.e., to vote on members of Committee) members must have either
+To be eligible to be a voting member of UT (i.e., to vote on members of Committee), members must be a registered student and have at least ONE (1) Quarter of Involvement, as described below:
 
-  * at least 1 credit in the past 4 quarters - credits include participation in any mainstage play or workshop, and a credit is counted if it is in process the quarter that a vote is taken (that is, a first-time member of any show is eligible to vote the quarter that they participate and all quarters following).
-  * Regularly attended one or more production cohorts for a full year
+  * Participated as a cast or crew member in a University Theater production (including Workshops).
+  * Participated in an artistic project or program sanctioned and/or funded by UT Committee (e.g. Staged Readings, Shakespearience, monologue festivals, paper projects, UT Mentorship Program).
+  * Participated in Radio[24] or Theater[24].
+  * Was an active member of Off-Off Campus.
+  * Was an active member of the Dean’s Men Board or UT Committee.
 
 ### Hazing
 
@@ -35,4 +38,4 @@ University Theatre will abide by the [University of Chicago’s Anti-Hazing Poli
 
 ### Governing Bodies
 
-University Theater is governed by the UT Student Committee and advised and supported by TAPS Production Staff (Pro-Staff). Additionally, Off-Off Campus and the Dean's Men report to UT committee in the form of a liaison; each organization has its own set of governing guidelines. UT Student Committee also will appoint a liaison to Theater[24], another of its subsidiaries. The by-laws for each of UT’s bodies (UT, Dean’s Men, Off-Off Campus, and Theater[24]) follow.
+University Theater is governed by the UT Student Committee and advised and supported by UT/TAPS Professional Staff (Pro-Staff). Additionally, Off-Off Campus and the Dean's Men report to UT Committee in the form of a liaison; each organization has its own set of governing guidelines. UT Committee also will appoint a liaison to Theater[24], another of its subsidiaries. The by-laws for each of UT’s constituent parts (UT, Dean’s Men, Off-Off Campus, and Theater [24]) follow.

@@ -5,7 +5,7 @@ toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
 permalink: /bylaws/off-off-campus
-date: 2022-02-23
+date: 2022-02-20
 wrap_div: bylaws-off-off bylaws
 section: "2"
 ---
@@ -14,7 +14,7 @@ section: "2"
 
 Off-Off Campus, University Theater’s improvisational comedy troupe, was founded in 1986 by Frank Kinahan, Bernie Sahlins, Steve Schroer, and a number of students. Each Fall, Winter, and Spring Quarter, Off-Off Campus performs a new comedy revue consisting of five Friday night shows (4th through 8th Week) at the Blue Gargoyle Theater in University Church. The Revues consist of original sketches and long and short form improvisation, directed, written, and performed by the members of Off-Off Campus. Off-Off also performs a summer season (length and dates vary) in the Logan Center for the Arts, and performs a variety of special shows including the “O-Week Show” in Mandel Hall.
 
-Like any other UT Mainstage show, the costs associated with the production are covered by ticket sales. And, like any other UT show any profit made is used for the benefit of the entire organization; this includes upkeep of spaces, general publicity, props, competition fees, etc. However, unlike any other UT Mainstage show, the UT Committee does not control Off-Off-Campus' schedule.
+The costs associated with the production are covered by ticket sales. And, like any other UT show, any profit made is used for the benefit of the entire organization; this includes upkeep of spaces, general publicity, props, competition fees, etc. However, unlike any other UT Mainstage show, the UT Committee does not control Off-Off-Campus’ schedule.
 
 Herein, Off-Off Campus may be referred to as "Off-Off" or "OOC" for brevity's sake.
 
