@@ -1,4 +1,4 @@
-UT is producing ***A Weekend of Workshops I:  Blood on Our Hands & Sakina's Restaurant***, ***IF/THEN***, ***Troilus and Cressida*** and ***A Weekend of Workshops II:  13th Morning*** in Winter 2025, as well as ***Song Cycle***, ***Cactus Flower*** and ***The Tempest: The Artisan's Storm*** in Spring 2025.
+UT is producing ***IF/THEN***, ***Troilus and Cressida*** and ***A Weekend of Workshops:  13th Morning*** in Winter 2025, as well as ***35 mm***, ***Cactus Flower*** and ***The Tempest: The Artisan's Storm*** in Spring 2025.
 
 **Interested in auditioning for a Winter 2025 single-quarter?** Click **[here]({{ "get-involved/actors" | relative_url }})** for more information about opportunities for actors!
 
