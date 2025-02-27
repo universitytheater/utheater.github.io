@@ -37,8 +37,10 @@ workshops:
      bio: is a fourth-year majoring in Chemistry and Linguistics. She has previously worked on Much Ado About Nothing (Production Manager), A Weekend of Workshops; Royal Flush (Co-Production Manager), and Strings Attached (Co-Stage Manager). She first learned about gay at age ten when she accidentally stumbled upon Sherlock/John (of the BBC show) smut fanfiction during an obsession with the Arthur Conan Doyle books.
    - name: Emma Linderman
      role: Scenic & Props Designer
+     bio: "is a graduate from the college in 2024 but keeps getting pulled back to UT because she can’t resist wood furniture. She is very grateful to Kurt Hummel from Glee for teaching her about gay."
    - name: Anna German
      role: Costume Designer
+     bio: "is a fourth-year Political Science, Media Arts and Design, and Gender and Sexuality Studies major. Her previous UT credits include Much Ado About Nothing (Costume Designer), Richard III (Costume Designer), and Twelfth Night (Costume Designer). She first learned about gay through the greatest film ever made, the 1998 Disney classic Mulan, but the girl writing this maintains that Anna only truly UNDERSTOOD gay when she fell in deep and enduring love with her beloved roommate (who also happens to be the girl writing this)."
    - name: Kelly Mao
      role: Sound Designer
      bio: "is a fourth-year Computer Science and Mathematics major. Previous UT credits include If/Then (Violin), Muscle Memory (Stage Manager), and The Heirs (Production Manager). Her beloved, perfect, and cherished friend, Emma B. Barnes, was the first person to teach her about gay (Em was also, incidentally, the one to teach her about theater (via Hamilton: an American Musical) (sorry) (it was 2016)). Thank you to every theater friend, past and present, for having made her into who she is today, and an especial thank you to Coco and Ryan, her UT day-negative-ones."
@@ -56,9 +58,9 @@ workshops:
      bio: is a second-year History and Linguistics major. They have previously worked on The Play That Goes Wrong (Lighting Designer); Strings Attached (Assistant Costume and Assistant Lighting Designer); Much Ado About Nothing (Assistant Scenic Designer); Arcadia (TAPS Pro-Show) (Lighting Programmer and Board Operator); Muscle Memory (Lighting Designer); and five Theater [24]s as (Lighting Designer). No one had to tell them that we have gay now because they grew up in America's foremost gay city, San Francisco.
    - name: Maya Bond
      role: Asst. Lighting Designer
-     bio: is a second-year astrophysics major/TAPS minor. They would like to thank you for coming to see the Dean's Men/UT's production of Troilus and Cressida. They have been on 8 productions at UChicago so far; Muscle Memory (Asst. Lighting), Cassandra (Lighting and Sound), Falsettos (Asst. Stage Manager), Strings Attached (Co-Sound), The Play That Goes Wrong (Asst. Lighting), Much Ado About Nothing (Scenic), Arcadia (Asst. Master Electrician) and, of course, Troilus and Cressida (Asst. Sound).
    - name: Will Rehmus
      role: Committee Liaison
+     bio: is a second-year astrophysics major/TAPS minor. They would like to thank you for coming to see the Dean's Men/UT's production of Troilus and Cressida. They have been on 8 productions at UChicago so far; Muscle Memory (Asst. Lighting), Cassandra (Lighting and Sound), Falsettos (Asst. Stage Manager), Strings Attached (Co-Sound), The Play That Goes Wrong (Asst. Lighting), Much Ado About Nothing (Scenic), Arcadia (Asst. Master Electrician) and, of course, Troilus and Cressida (Asst. Sound).
 
 
 layout: show-info
