@@ -4,7 +4,7 @@ title: COVID-19 Policies
 permalink: /about/covid
 ---
 
-UT abides by [the University's health protocols](https://goforward.uchicago.edu/health-requirements) regarding COVID-19, and we strongly encourage community members to wear masks in indoor settings, including during auditions, rehearsals, and production meetings, in order to limit the spread of COVID-19 among company members. Please direct questions about in-person guidelines and resources to UT Committee ([ut-committee@uchicago.edu](mailto:ut-commitee@uchicago.edu)) and [TAPS Pro Staff](https://taps.uchicago.edu/people/staff).
+UT follows [the University's health protocols](https://goforward.uchicago.edu/health-requirements) regarding COVID-19, and we strongly encourage community members to wear masks in indoor settings, including during auditions, rehearsals, and production meetings, in order to limit the spread of COVID-19 among company members. Please direct questions about in-person guidelines and resources to UT Committee ([ut-committee@uchicago.edu](mailto:ut-commitee@uchicago.edu)) and [TAPS Pro Staff](https://taps.uchicago.edu/people/staff).
 
 Due to the ever-changing conditions surrounding COVID-19, additional restrictions for productions in the 2022-23 school year may include:
 
