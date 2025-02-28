@@ -6,53 +6,55 @@ permalink: /resources
 
 Here are some resources to help you get started in UT and learn more about the arts at UChicago!
 
+This page was recently redesigned. The old page can be accessed [here]({{ "resources_old" | relative_url }}).
 
-**UT Documents and Forms**
+**For Audiences**
+* [Buy Tickets](https://uchicago-student-orgs.myshopify.com/collections/university-theatre-ut)
+* [Audience Listhost (Mailing List)](https://lists.uchicago.edu/web/info/ut-audiences)
+* [Upcoming Events]({{ "events" | relative_url }})
+* [Show Information]({{ "shows" | relative_url }})
 
-* [Current UT Bylaws](https://docs.google.com/document/d/1LG3EDUSyqv-RhPrpK5BXB2oK310AzS0Q/edit)
-* [2024-2025 Mainstage Proposal Form ](https://docs.google.com/document/d/1xO7Rq_Cgvd94yQStzoeKHwR3I62Qq2MZ/edit)
-* [Site-Specific Work Proposal Form](https://docs.google.com/document/d/1SlFyn5tKUiiHhLfuSTPwCNoBVgvux03O/edit)
-* [2024-2025 Show Interest Form](https://docs.google.com/forms/d/e/1FAIpQLSdwm5mjKd7fD3xaTUrhrIG1O3Y_U2x5C-KQclevvOSamxmUYw/viewform)
-* [Budget Extension Request Form](https://docs.google.com/document/d/1cE9u-UuHLCKNKRt1_thdpe8oQOvgbespe4nNPqbzJTw/edit?usp=sharing)
+**Getting Involved**
+* [UT Listhost (Mailing List)](https://lists.uchicago.edu/web/info/utheater-general)
+* [Actors]({{ "get-involved/actors" | relative_url }})
+* [Designers/Managers]({{ "get-involved/designers" | relative_url }})
 
-**UT Links**
-
-* [Buy Tickets](https://tickets.uchicago.edu)
+**Contact Us**
 * [Email UT Committee](mailto:ut-committee@uchicago.edu)
-* [UT Facebook page](https://www.facebook.com/universitytheater)
-* [UT Listhost](https://lists.uchicago.edu/web/info/utheater-general)
+* Attend UT Committee meetings - Mondays at 5pm in Logan 028
 * [UT Instagram](https://instagram.com/university.theater)
+* [UT Facebook page](https://www.facebook.com/universitytheater)
+* [UT Website Management](mailto:willrehmus@uchicago.edu) - please send me any feature requests or bug reports
+
+**Production Resources**
+* [Production Manuals](https://drive.google.com/drive/folders/1-uMQYibyu8K5FHeBd6qNSXXnHn-MbqHt)
+* [Contract Templates](https://drive.google.com/drive/u/0/folders/1U8U1z2s7iAbVlJsgr3hyMJ2tbWaRiADO)
+* [2023-2024 Budget Extension Request Form](https://docs.google.com/document/d/1cE9u-UuHLCKNKRt1_thdpe8oQOvgbespe4nNPqbzJTw/edit?usp=sharing)
+
+**Proposal Resources**
+* [2024-2025 Mainstage Proposal Form](https://docs.google.com/document/d/1xO7Rq_Cgvd94yQStzoeKHwR3I62Qq2MZ/edit)
+* [Past Proposals](https://drive.google.com/drive/folders/1HuAAugsZYzhmiwkLl4oby_rL0uuALF2-?usp=sharing)
+
+**General Resources**
+* [Current UT Bylaws]({{ "bylaws" | relative_url }})
+* [Committee Public-Facing Documents](https://drive.google.com/drive/u/0/folders/1rjoSk2_3HE78BnKKn4vetkVOXnyIAEnq)
+
+**Archive**
 * [UT Newsletter past issues](https://us18.campaign-archive.com/home/?u=0f23bb0ae467d78c5c8d54fcc&id=2b52e2f869)
-* Discord server: Join the [UChicago Student Hub](https://discord.gg/KhEEuRweMd) to get access!
+* [Video recordings](https://vimeo.com/user133279462/videos)
+* [Show Information]({{ "shows" | relative_url }})
+* [Committee Election Information]({{ "elections" | relative_url }})
 
+**Affiliated Organizations**
+* **The Dean's Men**
+  * [Facebook page](https://www.facebook.com/thedeansmen/)
+  * [Listhost](https://lists.uchicago.edu/web/info/shakespeare)
 
-**Community Resources**
-
-* [UT Community Resources](https://drive.google.com/drive/folders/10__fPm0F1mAGhADl8Pn-yWehM_1cAXed?usp=sharing), including [past proposals](https://drive.google.com/drive/folders/1HuAAugsZYzhmiwkLl4oby_rL0uuALF2-?usp=sharing) and designer documents
-* [UT production openings](https://docs.google.com/spreadsheets/d/102-S8qw_TjHxK6byVjjWFpGHRvN8JVGGa9ycVUTeZcE/edit?usp=sharing)
-* [Interest form to get involved in design/management](https://docs.google.com/forms/d/e/1FAIpQLSew_5KLnEtt7HAQOGAAa31xvAyD44GNvRa5IQVihrB-ykGXWQ/viewform)
-* [TAPS Cohorts](https://taps.uchicago.edu/performance/taps-weekly-cohorts)
-* [TAPS Space Schedule](https://calendar.google.com/calendar/u/0/embed?src=5pdfopego38kfbddn4s8pfm92c@group.calendar.google.com&ctz=America/Chicago)
-* UT Committee Meetings - 5pm on Mondays in Logan 028!
-
-**Dean's Men Links**
-
-* [Facebook page](https://www.facebook.com/thedeansmen/)
-* [Listhost](https://lists.uchicago.edu/web/info/shakespeare)
-
-**Off-Off Campus Links**
-
-* [Website](https://offoffcampus.org/)
-* [YouTube Channel](https://www.youtube.com/user/offoffcampuspresents)
-* [Facebook page](https://www.facebook.com/offoffcampus)
-* [Instagram](https://www.instagram.com/offoffcampus/)
-
-**Design Manuals**
-
-* [Manual Folder](https://drive.google.com/drive/folders/1-uMQYibyu8K5FHeBd6qNSXXnHn-MbqHt)
-
-**Affiliate Links**
-
+* **Off-Off Campus**
+  * [Website](https://offoffcampus.org/)
+  * [YouTube Channel](https://www.youtube.com/user/offoffcampuspresents)
+  * [Facebook page](https://www.facebook.com/offoffcampus)
+  * [Instagram](https://www.instagram.com/offoffcampus/)
 * Committee on Theater & Performance Studies (TAPS)
   * [Website](https://taps.uchicago.edu)
   * [Facebook page](https://www.facebook.com/TAPSUOFC/)
@@ -69,7 +71,8 @@ Here are some resources to help you get started in UT and learn more about the a
   * [Listhost](https://lists.uchicago.edu/web/info/circus)
   * [Instagram](https://www.instagram.com/levorrisandvoxcircus)
   * [Facebook page](https://www.facebook.com/LeVorrisandVox/)
-* [UChicago Commedia](https://www.facebook.com/AttoriSenzaPaura/)
+* UChicago Commedia
+  * [Facebook page](https://www.facebook.com/AttoriSenzaPaura/)
 * Fire Escape Films
   * [Website](http://www.fireescapefilms.org/)
   * [Instagram](https://www.instagram.com/fireescapefilms/?hl=en)
