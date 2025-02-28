@@ -16,8 +16,8 @@
   page: /events
 - name: By-Laws
   page: _pages/bylaws.html
-- name: COVID Policies
-  page: _pages/covid.md
+# - name: COVID Policies
+#   page: _pages/covid.md
 # - name: Documents
 #   page: documents.md
 # - name: Blog
