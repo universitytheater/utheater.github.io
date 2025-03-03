@@ -13,13 +13,14 @@ Afterwards, run `bundle exec jekyll serve` and navigate to `http://localhost:400
 
 ## Contact
 
-This website and is currently maintained by [Belle Nahoom](https://github.com/bellegn1) and [Abby Kanes](https://github.com/abbykanes). Please reach out to them for issues regarding the website.
+This website and is currently maintained by [Will Rehmus](https://github.com/willrehmus). Please reach out to them for issues regarding the website.
 
 Reach out to ut-committee@uchicago.edu for more info about how to get involved in UT!
 
 
 **Past Maintainers**
-
+* [Belle Nahoom](https://github.com/bellegn1) (UT Committee 2024-25)
+* [Abby Kanes](https://github.com/abbykanes) (UT Committee 2024-25)
 * [Kelly Mao](https://github.com/kllymao) (UT Committee 2023-24)
 * [Spencer Ng](https://github.com/spencerng) (UT Committee 2022-23)
 * [Gabi Garcia](https://github.com/gabigarc03) (UT Committee 2021-22)
