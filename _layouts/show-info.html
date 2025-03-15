@@ -15,6 +15,15 @@ layout: default
         ({{ page.quarter | capitalize }} {{ page.year }})
       {% endif %}
     </h1>
+    <h5 class="week-and-location">
+      {% if page.location %}
+        {{ page.location }} 
+      {% endif %}
+      {% if page.week %}
+        | Week {{ page.week }} 
+      {% endif %}
+
+    </h5>
     <h5 class="mt-2 mb-2">{{ page.subheader | newline_to_br }}</h5>
   </header>
 
