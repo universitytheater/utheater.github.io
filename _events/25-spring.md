@@ -59,7 +59,7 @@ events:
     - title: "The Tempest"
       description: >-
         *The Tempest* is a Shakespeare adaptatation. A free preview will take place Thursday, May 15.
-      time: 'May 15-17, 7:30pm + May 10, 2pm'
+      time: 'May 15-17, 7:30pm + May 17, 2pm'
       location: '[Logan Center Courtyard](https://maps.app.goo.gl/23ekutUEcZLMwcjY9)'
       links:
         Show Page: /shows/2025/tempest
