@@ -17,7 +17,11 @@ permalink: /shows
             {% assign thumb_path = image.path %}
             {% break %}
           {% endif %}
+          {% if image.path contains "ut-logo-thumbnail"%}
+            {% assign thumb_path = image.path%}
+          {% endif %}
         {% endfor %}
+        
         <div class="col-6 col-sm-6 col-md-4 col-lg-3 show-container">
           <div class="card text-white bg-dark m-3 border-0 h-100">
             <h6 class="m-2 text-center"><strong>{{ show.quarter | capitalize }} {{ show.year }}</strong></h6>
