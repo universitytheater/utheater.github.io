@@ -15,7 +15,7 @@ This page was recently redesigned. The old page can be accessed [here]({{ "resou
 * [Show Information]({{ "shows" | relative_url }})
 
 **Getting Involved**
-* [UT Listhost (Mailing List)](https://lists.uchicago.edu/web/info/utheater-general)
+* [UT Listhost (Mailing List)]({{ "listhost" | relative_url }})
 * [Actors]({{ "get-involved/actors" | relative_url }})
 * [Designers/Managers]({{ "get-involved/designers" | relative_url }})
 
