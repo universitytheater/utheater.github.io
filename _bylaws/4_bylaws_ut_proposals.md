@@ -53,7 +53,7 @@ section: "4"
 
     * The community-wide Mainstage Proposal Meeting is held in the 5<sup>th</sup> Week of Spring and Fall Quarter. No UT activity may be scheduled during the community-wide Proposal Meeting.
     * Before the Proposal Meeting, the Committee Chair will meet with the relevant TAPS Pro-staff member(s) in order to discuss space scheduling. The purpose of this meeting is to discuss any schedule iterations that might be challenging so that the season can be scheduled in an informed manner after passing. If a performance space desired by proposers is unavailable during the weeks indicated in Section V.A, Committee may schedule a passed show to perform one week before or after the indicated weeks.
-    * After all proposers have spoken, Committee proceeds into the Executive (Closed) Session (see Section IV.A.3). Proposers, or non-proposer directors, who are also members of Committee are not allowed to sit in on the Executive Session Proposal Meeting or to vote on the season. If the Director for the Dean’s Men show is on Committee, however, they are permitted to take part in scheduling and vote on the season just as any other Committee member.
+    * After all proposers have spoken, Committee proceeds into the Executive (Closed) Session (see Section V.B.4). Proposers, or non-proposer directors, who are also members of Committee are not allowed to sit in on the Executive Session Proposal Meeting or to vote on the season. If the Director for the Dean’s Men show is on Committee, however, they are permitted to take part in scheduling and vote on the season just as any other Committee member.
 
 2.  #### Collaborations
     RSOs may propose to collaborate with UT with the same deadline as mainstage proposals.

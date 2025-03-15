@@ -31,7 +31,7 @@ section: "02"
   * Promoting Committee elections and encouraging students to run and vote in a neutral, positive manner and setting;
   * Seeing all UT productions, including at least one Off-Off show per quarter and one Theater[24] festival per year;
   * Distributing the “Chicago Theater Standards” and “Concern Resolution Pathway” to productions.
-  * Attending annual Title IX training in the Spring The Chair will arrange a time, place, and workshop leader (See SectionI.B.4.a.i).
+  * Attending annual Title IX training in the Spring The Chair will arrange a time, place, and workshop leader (See Section I.B.4.a.i).
 
 3. The Committee Liaison is responsible for ensuring the safety of all members in a production and acts as the first point of contact between a production and Committee during the show’s production process and performances. A Committee Liaison can only be responsible for one production per quarter. The responsibilities of a Committee Liaison include the following:
     * Reaching out to and meeting with the production’s director, stage manager, and production manager before the first rehearsal to establish expectations around how the Committee Liaison will interact with the production process.
@@ -105,7 +105,7 @@ section: "02"
 
       {:.ul-lower-roman}
       * ###### Chair
-        Sets weekly meeting agenda. Runs all Committee meetings. Serves as a voting member of the University of Chicago Program Coordinating Council (PCC) and as a liaison with the Center for Leadership and Involvement (CLI). Sits on the Logan Center Student Advisory Committee and the Performing Arts Roundtable. Coordinates annual Title IX trainings with PSA (See Section I.A.2.q).
+        Sets weekly meeting agenda. Runs all Committee meetings. Serves as a voting member of the University of Chicago Program Coordinating Council (PCC) and as a liaison with the Center for Leadership and Involvement (CLI). Sits on the Logan Center Student Advisory Committee and the Performing Arts Roundtable. Coordinates annual Title IX trainings with PSA (See Section I.A.2.p).
       * ###### Treasurer
         Serves as University Theater's non-voting member of the Program Coordinating Council (PCC) and attends the annual PCC budget negotiations. Works with University Theater's Managing Director to prepare and present UT's budget for the PCC budget negotiation meeting. Meets quarterly with the Managing Director to “wrap” each season.
       * ###### Secretary
