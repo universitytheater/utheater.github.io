@@ -17,7 +17,7 @@ This page was recently redesigned. The old page can be accessed [here]({{ "resou
 **Getting Involved**
 * [UT Listhost (Mailing List)]({{ "listhost" | relative_url }})
 * [Actors]({{ "get-involved/actors" | relative_url }})
-* [Designers/Managers]({{ "get-involved/designers" | relative_url }})
+* [Designers/Managers]({{ "get-involved/designers-managers" | relative_url }})
 
 **Contact Us**
 * [Email UT Committee](mailto:ut-committee@uchicago.edu)
