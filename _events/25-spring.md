@@ -40,7 +40,7 @@ events:
 
     - title: "35mm: A Musical Exhibition"
       description: >-
-       *35mm* is a song cycle. A free preview will take place Thursday, Apr. 24.
+        What does it mean to \"capture life\" in a single frame? Are we defined by the moments \"in focus\" or the ones in between? 35mm: A Musical Exhibition challenges audiences to sink their teeth into a musical that doesn't offer answers, only moments, stopped in time. In a thrilling collaboration between music, dance, and design, 35mm features an eclectic selection of songs created alongside a series of photographs; exploring themes of life, love, and loss and asking us a deceptively simple question: What is it all for? A free preview will take place Thursday, Apr. 24.
       time: 'Apr. 24-26, 7:30pm + Apr. 26, 2pm'
       location: '[Logan Theater West](https://goo.gl/maps/Rd7gzsGaCBNaBYrM7)'
       links:
