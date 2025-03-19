@@ -1,8 +1,24 @@
 ---
 layout: page
-title: UT & TAPS Early Show Archive
-permalink: /archive/early-shows
+title: UT Show Archive
+permalink: /archive/shows
 ---
+
+{% assign seasons = site.shows | group_by: "season" | sort: "name"  | reverse %}
+{% for season in seasons %}
+{% if season.name != "2012-2013 Shows"%}
+  <h4 class="text-center mb-0 mt-2">{{ season.name }}</h4>
+  <div class="container row show-group">
+        {% assign shows = season.items | sort: "date" | reverse %}
+        {% for show in shows %}
+          <div class="container show">
+            <h6><a href="{{ show.url }}">{{ show.title }}</a> | {{ show.quarter | capitalize }} {{ show.year }}</h6>
+          </div>
+        {% endfor %}
+  </div>
+{% endif %}
+{% endfor %}
+
 <h4 class="text-center mb-2 mt-2">2012–2013 Shows</h4>
 
 
@@ -29,7 +45,7 @@ permalink: /archive/early-shows
     * ALICES: Adventures in Wonderland, adapted and directed by James Fleming
     * Lysistrata by Aristophanes, directed by Marisa Chilberg
 
-* Hotel Nepenthe by John Kuntz, directed by Scarlett Kim
+* [Hotel Nepenthe](/shows/2013/hotel-nepenthe) by John Kuntz, directed by Scarlett Kim
 * The Creadeaux Canvas by Keith Bunin, directed by Jesse Roth
 * A Weekend of Workshops
     * Scene from Boston Marriage by David Mamet, directed by Julia Santha
