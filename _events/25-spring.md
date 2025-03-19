@@ -1,5 +1,5 @@
 ---
-title: UT & TAPS Winter 2024 Events
+title: UT & TAPS Spring 2025 Events
 layout: events
 date: 2025-03-24
 slug: spring

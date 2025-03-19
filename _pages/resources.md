@@ -6,8 +6,6 @@ permalink: /resources
 
 Here are some resources to help you get started in UT and learn more about the arts at UChicago!
 
-This page was recently redesigned. The old page can be accessed [here]({{ "resources_old" | relative_url }}).
-
 **For Audiences**
 * [Buy Tickets](https://uchicago-student-orgs.myshopify.com/collections/university-theatre-ut)
 * [Audience Listhost (Mailing List)](https://lists.uchicago.edu/web/info/ut-audiences)

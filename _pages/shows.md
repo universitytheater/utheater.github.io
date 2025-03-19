@@ -35,4 +35,4 @@ permalink: /shows
 </div>
 {% endfor %}
 
-To see more UT shows from the past, refer to [this list]({{ "shows/archive" | relative_url }}).
+To see more UT shows from the past, refer to [this list](/archive/early-shows).

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: UT Committee Elections Archive
-permalink: /elections-archive
+permalink: /archive/elections
 ---
 
 {% for election_hash in site.data.candidate-statements reversed %}

@@ -24,6 +24,8 @@
 #   page: _pages/blog.md
 - name: Resources
   page: _pages/resources.md
+- name: Archive
+  page: _pages/archive/archive-hub.md
 
 #    - Propose a Show: #
 #    - Design Database: https://ut-jobs.dvtk.me

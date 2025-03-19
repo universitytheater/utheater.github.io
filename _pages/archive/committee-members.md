@@ -1,7 +1,7 @@
 ---
 layout: page
 title: UT Committee Members Archive
-permalink: /committee-members-archive
+permalink: /archive/committee-members
 ---
 
 {% for year_hash in site.data.committee-bios reversed %}

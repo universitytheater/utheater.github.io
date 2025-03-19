@@ -18,4 +18,4 @@ Committee is made up of ten elected members, as well as one representative from 
 
 ---
 
-The committee members archive can be found [here](/committee-members-archive).
+The committee members archive can be found [here](/archive/committee-members).

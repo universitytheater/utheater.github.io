@@ -25,4 +25,4 @@ Read the statements from the following 2025-2026 UT Committee candidates here! E
 
 ---
 
-Candidate statements from previous elections can be found [here](/elections-archive).
+Candidate statements from previous elections can be found [here](/archive/elections).
