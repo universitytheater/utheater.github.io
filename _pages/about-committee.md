@@ -12,4 +12,10 @@ Committee is made up of ten elected members, as well as one representative from 
 
 **How do you contact Committee?** Reach all of us at [ut-committee@uchicago.edu](mailto:ut-committee@uchicago.edu), or click on the names below to email members individually. 
 
+---
+
 {% include committee-member-list.md %}
+
+---
+
+The committee members archive can be found [here](/committee-members-archive).
