@@ -10,7 +10,7 @@ Our auditions are not meant to be stressful or intimidating, and all casting tea
 
 ---
 
-{% include info/2025/spring-auditions.md %}
+{% include audition_info.md %}
 
 ---
 

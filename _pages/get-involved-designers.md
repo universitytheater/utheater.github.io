@@ -10,7 +10,7 @@ Ongoing workshops may have lead design positions open and lead designers/manager
 
 ---
 
-{% include info/2025/spring-productions.md %}
+{% include production_info.md %}
 
 ---
 
@@ -20,7 +20,7 @@ Ongoing workshops may have lead design positions open and lead designers/manager
 
 ### Current openings
 
-<p><iframe src="https://docs.google.com/spreadsheets/d/116rp6BXCZvMwuKs97R4L8eEjsPH8FWEIUYJ8HsYY3Vg/edit?gid=0#gid=0" style="width:100%" height="700" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe></p>
+<p><iframe src="https://docs.google.com/spreadsheets/d/116rp6BXCZvMwuKs97R4L8eEjsPH8FWEIUYJ8HsYY3Vg/edit?usp=sharing&rm=minimal" style="width:100%" height="700" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe></p>
 
 ---
 
