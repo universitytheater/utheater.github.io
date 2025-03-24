@@ -12,7 +12,7 @@ Feel free to [contact the Theater[24] curators](mailto:ozajac@uchicago.edu,belle
 
 ### Theater[24] signups:
 
-The WINTER festival will be held during the first weekend of winter quarter from Friday evening on January 10th to Saturday, January 11th. If you're interested in joining as a writer, director, designer, or actor, please fill out [THIS FORM](https://forms.gle/DtBjysz7dAiiVaTr8) by Wednesday, January 8th  at 10:00 PM!
+The SPRING festival will be held during the first weekend of winter quarter from Friday evening on March 28th to Saturday, March 29th. If you're interested in joining as a writer, director, designer, or actor, please fill out [THIS FORM](https://docs.google.com/forms/d/e/1FAIpQLSer6OMGsbZW8wbGAu1GjmnZPHw_5SyC5O4Kes-n6Kp_fL-6kg/viewform) by Wednesday, March 26th  at 10:00 PM!
 
 ### Past performances
 
