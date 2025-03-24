@@ -1,9 +1,10 @@
-{% assign page = site.data.auditions.spring-2025%}
+{% assign page = site.data.show-refs.2025.spring.auditions-list%}
+{% assign shows = site.shows %}
 
 **UT will be having auditions for the following shows in {{page.quarter}} {{page.year}}**:
-
-{% for show in page.shows %}
-  * *{% if show.show_page_link %}[{{show.title}}]({{show.show_page_link}}){% else %}{{show.title}}{% endif %}* {% if show.author %} by {{show.author}} {% endif %}\| {{show.quarter}}, Week {{show.week}} \| {{show.location}} {% endfor %}
+  
+{% for target_show in page.shows %} {% for show in shows %}{% if show.url == target_show.url %}
+  * *{% if show.url %}[{{show.title}}]({{ show.url }}){% else %}{{show.title}}{% endif %}* {% if show.author %} by {{show.author}} {% endif %}\| {{show.quarter | capitalize}}, Week {{show.week}} \| {{show.location}} {% break %} {% endif %} {% endfor %} {% endfor %}
 
 ---
 
@@ -16,9 +17,11 @@
 
 **Do you have questions about auditioning for a particular show?** Feel free to contact their stage management team!
 
+
+
 {:class="table table-striped table-bordered"}
 | Show | Audition Signup | Audition Sides | Stage Management Contact | Other Info |
 |----|----|----|----|----|
-{% for show in page.shows -%}
+{% for target_show in page.shows %} {% for show in shows %}{% if show.url == target_show.url -%}
 | *{{show.title}}* | [Signup Link]({{show.signup_link}}) | [Sides Link]({{show.sides_link}}) | {% for contact in show.audition_contact %} [{{contact.name}}](mailto:{{contact.email}}) ({{contact.role}}) <br> {% endfor %} | {% for link in show.other_links %} [{{link[0]}}]({{link[1]}}) <br> {% endfor %} | 
-{% endfor -%}
+{% break %} {% endif -%} {% endfor %} {% endfor %}

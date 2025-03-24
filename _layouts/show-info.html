@@ -17,7 +17,11 @@ layout: default
     </h1>
     <h5 class="week-and-location">
       {% if page.location %}
-        {{ page.location }} 
+        {% if page.location_link %}
+          <a href="{{ page.location_link }}">{{ page.location }}</a>
+        {% else %}
+          {{ page.location }}
+        {% endif %}
       {% endif %}
       {% if page.week %}
         | Week {{ page.week }} 
