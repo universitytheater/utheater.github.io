@@ -7,6 +7,7 @@ subheader: "Written by Henry Lewis, Jonathan Sayer, and Henry Shields
 
   Spring 2024"
 description: "The Play that Goes Wrong is a play-within-a-play comedy about a well-meaning, but inept theater group attempting to put on the fictitious Murder at Haversham Manor. While the play has been rehearsed, the props and set are gorgeous and mostly functional, and the actors look wonderful, a mix of Murphy's Law, dropped lines, and pride result in a series of errors, culminating with the very stage falling apart around them. The Play that Goes Wrong is a testament to the love of theater and gives us perfectionists a chance to step back and laugh at ourselves."
+vimeo_link: https://player.vimeo.com/video/1069196545
 tickets_link: https://tickets.uchicago.edu/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=C5BD68D4-3AC0-4D1B-93FC-921FE6CB7085
 
 

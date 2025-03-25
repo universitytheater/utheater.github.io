@@ -7,6 +7,7 @@ description: 'Weekend of Workshops provides a platform for directors, devisers, 
 workshops:
 - title: "*Royal Flush* by Jessie Palmer"
   description: 'Following a successful performance at a theatrical festival, writer/director Cassie and the small company of her musical The White Cat, consisting of actors and designers Nox, Tim, Ryan, and Aurelia, set out to produce their show, a medieval fairytale love story. As relationships naturally ebb and flow and things fall through, our frazzled protagonist is forced to reckon with who she is, ultimately coming to the realization she is asexual and aromantic and not interested in putting on the same stock standard show she’s attempting to emulate.'
+  vimeo_link: https://player.vimeo.com/video/1046586241
   roles:
     Cast:
     - name: Maggie Banks

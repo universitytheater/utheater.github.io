@@ -7,6 +7,7 @@ subheader: 'written by David Nathan Twersky and Noah Klowden
 
   Spring 2023'
 description: 'When the president of an anti-establishment UChicago club is murdered during their annual fundraiser, the other officers must solve his murder while trying to keep the event going. The Dead Fun Society uses the audience at the fundraiser as the detectives in their mystery, trying to keep the event going while trying to find whodunit. As the conspiracy becomes deeper and more ridiculous, the hypocrisy and comedy of each of the remaining officers becomes clear.'
+vimeo_link: https://player.vimeo.com/video/1022680198
 tickets_link: 'https://tickets.uchicago.edu/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=6C1E1365-0981-44B1-88AF-8ED5975BBB97'
 roles:
   Cast:

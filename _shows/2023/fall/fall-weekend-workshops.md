@@ -6,6 +6,7 @@ description: "Join us for a weekend of workshops, featuring *Cassandra* by Kassi
 workshops:
 - title: "*Cassandra* by Kassie Rivera, directed by Kassie Rivera"
   description: ''
+  vimeo_link: https://player.vimeo.com/video/896944701
   roles:
     Cast:
     - name: Lekha Masoudi
@@ -32,6 +33,7 @@ workshops:
       bio: 
 - title: "*Strings Attached: In Concert* by Jefferson Lind, Adrian Lo, and Althea Li, directed by Jefferson Lind"
   description: ""
+  vimeo_link: https://player.vimeo.com/video/896942949
   roles:
     Cast:
     - name: Nathalie Lam

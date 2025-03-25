@@ -7,6 +7,7 @@ description: 'Weekend of Workshops provides a platform for directors, devisers, 
 workshops:
 - title: "*Paper Wasters* by Eva Schultz"
   description: ''
+  vimeo_link: https://player.vimeo.com/video/910203943
   roles:
     Cast:
     - name: Kaleigh Perez
@@ -29,6 +30,7 @@ workshops:
       bio: ""
 - title: "*Song of Circles* by Alisyn Parfait"
   description: ""
+  vimeo_link: https://player.vimeo.com/video/910252861
   roles:
     Cast:
     - name: Ahan Raina
