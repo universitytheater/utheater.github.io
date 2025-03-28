@@ -30,7 +30,7 @@ Here are some resources to help you get started in UT and learn more about the a
 * [2023-2024 Budget Extension Request Form](https://docs.google.com/document/d/1cE9u-UuHLCKNKRt1_thdpe8oQOvgbespe4nNPqbzJTw/edit?usp=sharing)
 
 **Proposal Resources**
-* [2024-2025 Mainstage Proposal Form](https://docs.google.com/document/d/1xO7Rq_Cgvd94yQStzoeKHwR3I62Qq2MZ/edit)
+* [2024-2025 Mainstage Proposal Form](https://docs.google.com/document/d/1SwBzuA8uOZp51ustNeqiguEYXiyHiowT_7089vg_FXU/edit?)
 * [Past Proposals](https://drive.google.com/drive/folders/1HuAAugsZYzhmiwkLl4oby_rL0uuALF2-?usp=sharing)
 
 **General Resources**
