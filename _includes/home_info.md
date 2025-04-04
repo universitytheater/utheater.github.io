@@ -23,7 +23,7 @@
     {% endif -%}
     
     {% for show in shows -%}{% if show.url == target_show.url -%}
-    ***[{{show.title}}](show.url)***{% break %} {% endif -%} {% endfor -%}
+    ***[{{show.title}}]({{show.url}})***{% break %} {% endif -%} {% endfor -%}
   
   {% endfor -%} 
   &nbsp;in **{{quarter.quarter | capitalize}} {{quarter.year}}**{% continue %} <!-- continue for whitespace/clarity -->
