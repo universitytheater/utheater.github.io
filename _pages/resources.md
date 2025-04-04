@@ -31,7 +31,7 @@ Here are some resources to help you get started in UT and learn more about the a
 
 **Proposal Resources**
 * [2025-2026 Mainstage Proposal Form](https://docs.google.com/document/d/1jrrHV23-WsUiCDdBexvmOM6XnYqONA4L8CI4OzNsrnI/edit?usp=sharing)
-* [Past Proposals](https://docs.google.com/document/d/1drzCTElntINKDLTXRKiYrgvB8OHpC7U9EnkCur9Vbuc/edit?usp=sharing)
+* [Past Proposals](https://drive.google.com/drive/folders/1HuAAugsZYzhmiwkLl4oby_rL0uuALF2-?usp=sharing)
 
 **General Resources**
 * [Current UT Bylaws]({{ "bylaws" | relative_url }})
