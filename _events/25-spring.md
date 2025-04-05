@@ -46,7 +46,16 @@ events:
       location: '[Logan Theater West](https://goo.gl/maps/Rd7gzsGaCBNaBYrM7)'
       links:
         Show Page: /shows/2025/35mm
-      #  Tickets ($6 advance, $8 door): 
+      #  Tickets ($6 advance, $8 door):
+     
+    - title: "SLIMEGRIMECRIME"
+      description: 
+      - "**By Off-Off Campus**"
+      - "Experience Slimeville, where your typical slimeballs are actually the heroes of this story and squeaky-clean go-getters are as mucky as they come. Crime runs rampant in Slimeville—residents leap at the opportunity to rob their neighbors for all they’ve got, government officials vote to feed the ever-growing rat population, and the FDA is a word whispered amongst bad children who should be punished."
+      time: 'Apr. 27, 7:30pm'
+      location: '[Donny’s Skybox Studio Theatre](https://maps.app.goo.gl/hb9o5Hdjhjbf8aTYA)'
+      links:
+        Tickets ($15): https://www.secondcity.com/shows/chicago/slimegrimecrime-chi
 
     - title: "Cactus Flower"
       description:
