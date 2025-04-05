@@ -22,7 +22,7 @@ Here are some resources to help you get started in UT and learn more about the a
 * Attend UT Committee meetings - Mondays at 5pm in Logan 028
 * [UT Instagram](https://instagram.com/university.theater)
 * [UT Facebook page](https://www.facebook.com/universitytheater)
-* [UT Website Management](mailto:willrehmus@uchicago.edu) - please send me any feature requests or bug reports
+* [UT Website Management](mailto:ut-website@lists.uchicago.edu) - please send me any feature requests or bug reports
 
 **Production Resources**
 * [Production Manuals](https://drive.google.com/drive/folders/1-uMQYibyu8K5FHeBd6qNSXXnHn-MbqHt)
