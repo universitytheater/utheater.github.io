@@ -26,17 +26,9 @@ events:
       description: >-
         Off-Off Campus is the nation's oldest collegiate improv and sketch comedy group. Every Friday from 4th-8th week, Off-Off Campus will present a never-before-seen comedy show, never to be seen again!
       time: 'Fridays 7:30pm, Apr. 18 - May 16'
-    #  location: '[University Church](https://goo.gl/maps/X1sL9DB6HiRbxfmx9)'
+      location: '[Definition Theater](https://maps.app.goo.gl/YqkhFcNnhVvFR8Cm6)'
     #   links:
     #     Tickets ($5 per show, $15 Fall Quarter Pass):  
-
-    #- title: "A Weekend of Workshops"
-    #  description: >-
-    #    Join us for a weekend of workshops, featuring *Paper Wasters* by Eva Schultz, and *The Song of Circles* by Alisyn Parfait.
-    #  time: 'Feb. 1-3, 7:30pm'
-    #  location: 'FXK Theater, Reynolds Club'
-      # links:
-      #   Tickets ($6 advance, $8 door): 
 
     - title: "35mm: A Musical Exhibition"
       description: 
