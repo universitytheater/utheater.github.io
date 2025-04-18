@@ -39,7 +39,6 @@ events:
       links:
         Show Page: /shows/2025/35mm
         Tickets ($6 advance, $8 door): https://uchicago-student-orgs.myshopify.com/collections/university-theatre-ut/products/35mm-a-musical-exhibition
-roles: 
      
     - title: "SLIMEGRIMECRIME"
       description: 
