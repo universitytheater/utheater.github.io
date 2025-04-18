@@ -27,8 +27,8 @@ events:
         Off-Off Campus is the nation's oldest collegiate improv and sketch comedy group. Every Friday from 4th-8th week, Off-Off Campus will present a never-before-seen comedy show, never to be seen again!
       time: 'Fridays 7:30pm, Apr. 18 - May 16'
       location: '[Definition Theater](https://maps.app.goo.gl/YqkhFcNnhVvFR8Cm6)'
-    #   links:
-    #     Tickets ($5 per show, $15 Fall Quarter Pass):  
+      links:
+        Tickets ($5 per show):  https://uchicago-student-orgs.myshopify.com/products/i-cant-believe-its-not-on-campus?pr_prod_strat=e5_desc&pr_rec_id=54088aa0d&pr_rec_pid=8912408051880&pr_ref_pid=8909663174824&pr_seq=uniform
 
     - title: "35mm: A Musical Exhibition"
       description: 
@@ -38,7 +38,8 @@ events:
       location: '[Logan Theater West](https://goo.gl/maps/Rd7gzsGaCBNaBYrM7)'
       links:
         Show Page: /shows/2025/35mm
-      #  Tickets ($6 advance, $8 door):
+        Tickets ($6 advance, $8 door): https://uchicago-student-orgs.myshopify.com/collections/university-theatre-ut/products/35mm-a-musical-exhibition
+roles: 
      
     - title: "SLIMEGRIMECRIME"
       description: 
