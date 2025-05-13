@@ -79,7 +79,7 @@ layout: default
     {% endif %}
 
     {% for para in page.description %}
-        <p class="mt-3">{{ para }}</p>
+        <p class="mt-3">{{ para  | markdownify | remove: '<p>' | remove: '</p>'}}</p>
     {% endfor %}
     {% if page.tickets_link %}
     <p class="mt-3"><strong>Buy tickets <a href="{{ page.tickets_link }}">at this link</a>!</strong></p>
