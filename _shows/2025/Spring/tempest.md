@@ -6,9 +6,10 @@ subheader: ""
 subheader: ""
 description: 
   - "Prospero, a once renowned noble and artist, and his daughter Miranda are stranded on a deserted island, accompanied only by Prospero’s magical powers and magical servants Ariel and Caliban. To enact revenge against his traitorous brother Antonio, Prospero shipwrecks a boat full of nobles onto his island. In the storm the young Prince Ferdinand is separated from the group, in his haze he stumbles upon Miranda, and the two fall in love (much to the chagrin of Prospero). Meanwhile Caliban pressures the nobles’ servants Stephano and Trinculo to kill Prospero and take over the island. As all of this happens Prospero tries in vain to keep control over his domain. Magic abounds, time slips and falls, and ultimately no one is completely sure what is real."
-  - "**Performances are free and will begin at 6:30pm on Thursday, May 15th; Friday, May 16th; and Saturday, May 17 in the [Logan Center Courtyard](https://maps.app.goo.gl/21PhQFkRyXSaDKbv5).**"
+  - "**Performances are free and will begin at 6:30pm on Thursday, May 15th; Friday, May 16th; and Saturday, May 17 in the [Logan Center Courtyard](https://maps.app.goo.gl/21PhQFkRyXSaDKbv5). In case of rain, the show will take place in [Logan Theater East](https://maps.app.goo.gl/SMNJzmAyPPqnRtpR9).** Bring a blanket or tarp if you'd like!"
+  - "Tickets are free and not required, but can be found [here](https://uchicago-student-orgs.myshopify.com/collections/university-theater-ut/products/the-tempest)"
 
-tickets_link: 
+tickets_link:
 roles:
   Cast:
     - role: "Prospero"
@@ -38,9 +39,6 @@ roles:
     - role: "Gonzalo"
       name: "Robert Stimpson"
       bio: ""
-    - role: "Adrian"
-      name: "Helena Dietrich de Pablo"
-      bio: "is a second year Political Science and English Literature and Language double major, intending to minor in Astrophysics. This is her first University Theatre production and her first Dean's Men production. "
     - role: "Stephano"
       name: "Kassie Rivera"
       bio: "is a fourth year Psychology & Gender/Sexuality Studies major. During the last four years you might have seen him involved in a great many UT shows, some of which include: Troilus and Cressida (Achilles/Priam), A Midsummer Night’s Dream (Fairy/Hippolyta), and Cassandra (Director). Regardless though, he’s very excited for this, his last show ever, and for the opportunity to do theater for the last time with his very good friends Josiah and Lucy, whom he loves very much. They’ve given him the chance to embrace his truest self onstage and he couldn’t be happier (his truest self being an alcoholic menace who causes problems and then tries to flirt his way out of them of course). Anyway, Kassie’s favorite jazz album is a little niche thing called “White Guy Saves Jazz” you should check it out!"
@@ -84,7 +82,7 @@ roles:
     - role: "Sound Designer"
       name: "Sam Doepker"
       bio: "is a third year Computer Science major. All of their previous UT work has been in the sound department as a part of 35mm, The Arsonists, A Midsummer Night's Dream (Dean's Men), Falsettos, and The Laramie Project. This is their second Dean's Men show and the second outdoor show they've designed in college! "
-    - role: "Assistant Production Manager"
+    - role: "Assistant Production Manager & Pre-Prod SM"
       name: "Elias Buttress"
       bio: ""
     - role: "Assistant Stage Manager"
