@@ -26,7 +26,7 @@ roles:
       bio: "is a first year biochemistry major. He was previously in The Arsonists (Gordon Biedermann) in fall quarter. "
     - role: "Ferdinand"
       name: "Giancarlo Beritela"
-      bio: ""
+      bio: "stopped filling out bio forms in Fall 2024. We are unsure if this is a political statement or personal choice."
     - role: "Antonio"
       name: "Lekha Masoudi "
       bio: is a third year majoring in History with a minor in Biology. She has previously acted with UT in The Arsonists (Fireman Leader), Richard III (Edward IV/Catesby) and Cassandra (Cassandra). Outside of theatre, she dances with University Ballet and enjoys thrifting and haunting the library stacks. Her favorite jazz album is Ethiopiques Vol 4 by Mulatu Astatke (a woman in male manipulator-dominated fields). "
