@@ -5,7 +5,7 @@ toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
 permalink: /bylaws/ut-main
-date: 2025-02-20
+date: 2025-05-12
 wrap_div: bylaws bylaws-ut-main
 section: "02"
 ---
@@ -164,11 +164,9 @@ section: "02"
       * Hospitality: Committee will work in conjunction with show management and the TAPS Production Manager to provide hospitality (e.g. snacks and light meals) for each production during Tech on the Saturday before performances. Hospitality expenditures may not exceed $6 per member of a show’s company, and all hospitality-related purchases must either be made by the TAPS Production Manager or by show management for reimbursement with prior approval from Committee.
 6.  #### Amending the By-Laws
     These by-laws can be amended by a two-thirds vote of the entire Committee. After each meeting, any amendments to the by-laws must be made in the Secretary’s running copy of the by-laws and noted by the Secretary in the public committee meeting minutes. After the final meeting of each quarter, the Secretary emails the most recent edition of the bylaws to the UT general listhost if there have been changes that quarter.
-
-    {:.ul-upper-roman}
     * Any proposal deliberated on by committee must be decided and enacted under the bylaws that existed when it was proposed. Once a decision has been reached, committee will not hold another vote on the matter unless new information arises. A change of the bylaws is not considered new information for the purposes of reconsidering a decided matter. This item of the by-laws may only be changed by a unanimous vote of committee.
     * Any amendments to the by-laws must be proposed and added to the committee agenda at least twenty-four hours in advance of any meeting in which they can be passed.
-    * Any amendments to the by-laws which are not deemed urgently necessary by the Chair must be shared with the community for feedback at least 48 hours before the amendment can be voted on. The author(s) shall not be identified when the by-law is shared unless they request to be identified. Amendments can subsequently be modified and voted on based on the feedback received without being shared again.
+    * By-law amendments will go into immediate effect, but all amendments must be shared with the community for feedback within 48 hours of being voted on. In the case of community feedback or concerns, the by-law amendment will be reassessed in the following committee meeting. The author(s) shall not be identified when the by-law is shared unless they request to be identified. 
 
 ### D. Diversity, Representation, and Inclusion Statement
 
