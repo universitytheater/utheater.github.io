@@ -2,7 +2,7 @@
 title: UT Events Summer 2025
 layout: events
 date: 2025-06-09
-slug: spring
+slug: summer
 events:
   - title: "*An Iliad* at Court - Theater Trip"
     description: >-
