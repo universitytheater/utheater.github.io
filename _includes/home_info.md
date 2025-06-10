@@ -1,9 +1,9 @@
 {% assign page = site.data.show-refs.2025.spring.presenting-list %}
 {% assign shows = site.shows %}
 
-##### **Tickets can be purchased [here](https://uchicago-student-orgs.myshopify.com/collections/university-theatre-ut)!**
+##### **[Tickets!](https://uchicago-student-orgs.myshopify.com/collections/university-theatre-ut)**
 
-##### **Upcoming events can be found [here](/events)!**
+##### **[Upcoming Events!](/events)**
 
 {% for quarter in page.quarters -%}
 
@@ -27,8 +27,10 @@
   
   {% endfor -%} 
   &nbsp;in **{{quarter.quarter | capitalize}} {{quarter.year}}**{% continue %} <!-- continue for whitespace/clarity -->
+
+  {% if forloop.last -%}.{%endif%}
   
-{% endfor -%}.
+{% endfor -%}
 
 
 **Interested in auditioning for a show?** Click **[here](/get-involved/actors)** for more information about opportunities for actors!

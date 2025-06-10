@@ -4,7 +4,7 @@
 * [Follow us on Facebook](https://facebook.com/universitytheater) or [Instagram](https://instagram.com/university.theater)!
 * Join our Discord through the [UChicago student hub](https://discord.gg/KhEEuRweMd)! 
 
-**Have an idea for an event?** Contact us at [ut-committee@uchicago.edu](mailto:ut-committee@uchicago.edu) or message us [on Facebook](https://facebook.com/universitytheater)! 
+**Have an idea for an event?** Contact us at [ut-committee@uchicago.edu](mailto:ut-committee@uchicago.edu) or message us [on Instagram](https://www.instagram.com/university.theater/)! 
 
 
 <!--

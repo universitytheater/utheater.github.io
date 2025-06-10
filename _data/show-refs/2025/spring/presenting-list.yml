@@ -1,7 +1,7 @@
 quarters: 
-  - quarter: Spring
-    year: 2025
-    shows:
-      - url: /shows/2025/35mm
-      - url: /shows/2025/cactus-flower
-      - url: /shows/2025/tempest
+  # - quarter: Spring
+  #   year: 2025
+  #   shows:
+  #     - url: /shows/2025/35mm
+  #     - url: /shows/2025/cactus-flower
+  #     - url: /shows/2025/tempest

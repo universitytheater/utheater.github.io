@@ -4,6 +4,7 @@
     - About UT Committee: _pages/about-committee.md
     - About TAPS: https://taps.uchicago.edu/
     - About CTS: _pages/cts.md
+    - UT Bylaws: _pages/bylaws.html
 - name: Get Involved
   subpages:
     - Actors: _pages/get-involved-actors.md
@@ -14,8 +15,8 @@
   page: _pages/shows.md
 - name: Events
   page: /events
-- name: By-Laws
-  page: _pages/bylaws.html
+# - name: By-Laws
+#   page: _pages/bylaws.html
 # - name: COVID Policies
 #   page: _pages/covid.md
 # - name: Documents
