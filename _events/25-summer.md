@@ -43,7 +43,6 @@ events:
     time: 'Jul. 10, 6:00pm'
     location: '[Joan & Paul Theatre](https://maps.app.goo.gl/jKLtRkAdC7rarCAo9)'
     links:
-      Signup Form: Coming Soon
       Show Info & Tickets (possible discount pending): https://lookingglasstheatre.org/event/iraq-but-funny/
       Updated Trip Info: https://docs.google.com/document/d/1gbPYEhX1NzTID8Vz_bZWjo3z0TaWgLvUI7uxLswBvhQ/edit?usp=sharing
 
@@ -65,7 +64,6 @@ events:
     time: 'Jul. 26, 7:30pm'
     location: '[The iO Theater](https://maps.app.goo.gl/2nQGuqTdGuy8pcWj6)'
     links:
-      Signup Form: Coming Soon
       Show Info & Tickets ($20, possible discount pending): https://www.improvisedshakespeare.com/chicago
       Updated Trip Info: https://docs.google.com/document/d/1gbPYEhX1NzTID8Vz_bZWjo3z0TaWgLvUI7uxLswBvhQ/edit?usp=sharing
 
@@ -87,7 +85,6 @@ events:
     time: 'September, various'
     location: 'Various'
     links:
-      Signup Form: Coming Soon
       Show Info: https://lookingglasstheatre.org/event/ice-cream-circus/
       Updated Trip Info: https://docs.google.com/document/d/1gbPYEhX1NzTID8Vz_bZWjo3z0TaWgLvUI7uxLswBvhQ/edit?usp=sharing
 ---
