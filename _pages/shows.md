@@ -1,6 +1,6 @@
 ---
 layout: page
-title: UT & TAPS Shows
+title: UT Shows
 permalink: /shows
 ---
 
@@ -35,4 +35,4 @@ permalink: /shows
 </div>
 {% endfor %}
 
-To see more UT shows from the past, refer to [this list](/archive/shows).
+To see more UT shows from the past, refer to [the archive](/archive/shows).

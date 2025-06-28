@@ -26,7 +26,7 @@
     ***[{{show.title}}]({{show.url}})***{% break %} {% endif -%} {% endfor -%}
   
   {% endfor -%} 
-  &nbsp;in **{{quarter.quarter | capitalize}} {{quarter.year}}**{% continue %} <!-- continue for whitespace/clarity -->
+  &nbsp;in **{{quarter.quarter | capitalize}} {{quarter.year}}**{% continue %} {%comment%} continue for whitespace/clarity {%endcomment%}
 
   {% if forloop.last -%}.{%endif%}
   
