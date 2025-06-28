@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   The home for University Theater, the premier performance RSO at the University of Chicago
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ut.uchicago.edu" # the base hostname & protocol for your site, e.g. http://example.com
-logo: /ut-logo.png
+logo: /ut-logo-navbar.png
 favicon: /ut-logo-square.png
 future: true
 # Build settings
@@ -58,6 +58,7 @@ include:
 exclude:
   - scripts/
   - vendor/
+  - _templates/
 #   - Gemfile
 #   - Gemfile.lock
 #   - node_modules

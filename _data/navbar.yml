@@ -1,3 +1,13 @@
+- name: Shows
+  page: _pages/shows.md
+- name: Events
+  page: /events
+- name: Get Involved
+  subpages:
+    - Actors: _pages/get-involved-actors.md
+    - Designers & Managers: _pages/get-involved-designers.md
+    - Theater[24]: _pages/theater24.md
+    - UT Listhost: _pages/listhost.md
 - name: About
   subpages:
     - About UT: _pages/about-ut.md
@@ -5,28 +15,7 @@
     - About TAPS: https://taps.uchicago.edu/
     - About CTS: _pages/cts.md
     - UT Bylaws: _pages/bylaws.html
-- name: Get Involved
-  subpages:
-    - Actors: _pages/get-involved-actors.md
-    - Designers & Managers: _pages/get-involved-designers.md
-    - Theater[24]: _pages/theater24.md
-    - UT Listhost: _pages/listhost.md
-- name: Shows
-  page: _pages/shows.md
-- name: Events
-  page: /events
-# - name: By-Laws
-#   page: _pages/bylaws.html
-# - name: COVID Policies
-#   page: _pages/covid.md
-# - name: Documents
-#   page: documents.md
-# - name: Blog
-#   page: _pages/blog.md
 - name: Resources
   page: _pages/resources.md
 - name: Archive
   page: _pages/archive/archive-hub.md
-
-#    - Propose a Show: #
-#    - Design Database: https://ut-jobs.dvtk.me

@@ -9,11 +9,12 @@
         href="https://cdn.rawgit.com/afeld/bootstrap-toc/v1.0.1/dist/bootstrap-toc.min.css"
       />
     {% endif %}
-    <script src="https://kit.fontawesome.com/d1fda3c658.js" crossorigin="anonymous"></script>
     <title>{{ page.title_bar | default: page.title }}</title>
   </head>
-  <body>
-    {% include header.html %}
+  <body style="min-height:100vh; display:flex; flex-direction:column">
+    <header style="position:sticky;top:0;z-index:3;" class="nav-header">
+      {% include header.html %}
+    </header>
 
     {% if page.no_container %}
       {{ content }}
@@ -42,5 +43,9 @@
       });
       </script>
     {% endif %}
+    
+    <footer>
+      {% include footer.html %}
+    </footer>
   </body>
 </html>
