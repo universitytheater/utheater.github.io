@@ -103,7 +103,6 @@ location: Logan Center Courtyard
 location_link: https://maps.app.goo.gl/21PhQFkRyXSaDKbv5
 season: 2024-2025 Shows
 date: 2025-05-15
-end_date: 2025-05-17
 
 audition_contact: 
   - name: Linden Martin
