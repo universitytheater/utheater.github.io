@@ -1,0 +1,40 @@
+---
+layout: default
+---
+
+{%comment%} This div sits in the background, using a bootstrap carousel to cycle through background images {%endcomment%}
+<div id="show-gallery" class="carousel slide" data-ride="carousel" style="position:fixed; z-index: -1; background-color: #000">
+	<div class="carousel-inner">
+		{% if page.image_file != nil and page.image_file != "" %}
+			{% assign image_list = site.data[page.image_file] %}
+		{% elsif page.image_list != nil and page.image_list != "" %}
+			{% assign image_list = page.image_list %}
+		{% else %}
+			{% assign image_list = site.data.home_gallery %}
+		{% endif %}
+
+		{% for image in image_list %}
+			<div class="bg-carousel-item carousel-item {% if forloop.first %} active {% endif %} text-center"
+			style="background-image:url('{{ image.source | relative_url }}');">
+			</div>
+		{% endfor %}
+	</div>
+</div>
+
+{%comment%} This div fills the remaining space of the screen & contains the icon grid {%endcomment%}
+<div class="container" style="margin-top:1em; min-height: calc(100vh - 2rem - calc(23px*1.5) - 1rem - 0.625rem - calc(1.5*1.5*1rem) - 1rem)"> 
+	{%comment%} This height is the space between the header and footer (assuming no text wrap on either of them) minus the margins{%endcomment%}
+	{% for group in page.icon_list %}
+		{% if group.subtitle != nil and group.subtitle != "" %}
+			<h1 style="text-align: center; color: #fff"> {{group.subtitle}}</h1>
+		{% endif %}
+		<div class ="icon-grid">
+			{% for icon in group.icon_list %}
+				<a class="grid-icon" href="{{icon.url}}">
+					<i {{icon.icon_tag}}></i>
+					<p class="grid-text">{{icon.text}}</p>
+				</a>
+			{% endfor %}
+		</div>
+	{% endfor %}
+</div>
