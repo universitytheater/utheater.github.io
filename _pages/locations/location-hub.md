@@ -1,0 +1,24 @@
+---
+layout: page
+title: University Theater Locations
+permalink: /locations
+---
+
+While UT does not own or manage its own theaters, we regularly operate out of most of UChicago's major theaters. The majority of our shows take place in [Logan Theater West](/locations/west), [Logan Theater East](/locations/east), and the [FXK Theater](/locations/fxk).
+
+### **[Theater West](/locations/west)**
+
+Located in the [Reva and David Logan Center for the Arts](https://www.logancenter.uchicago.edu/), Theater West is a highly configurable blackbox theater with up to 185 seats, depending on the configuration. Theater West is the home of many of UT's mainstage shows!
+
+### **[Theater East](/locations/east)**
+
+Located in the [Reva and David Logan Center for the Arts](https://www.logancenter.uchicago.edu/), Theater East is a proscenium-style theater with 105 seats. Theater East is the home of many of UT's mainstage shows!
+
+### **[The Francis X. Kinahan Theater](/locations/fxk)**
+
+Located on the third floor of the [Reynolds Club](https://studentcenters.uchicago.edu/reynolds-club/), the FXK Theater is a proscenium theater with 117 seats. The FXK is home to most Dean's Men's shows, Theater\[24\], Weekend of Workshops, and some UT mainstage shows. 
+
+### **[Logan 501 (Theater Performance Lab)](/locations/501)**
+
+Located on the 5th floor of the [Reva and David Logan Center for the Arts](https://www.logancenter.uchicago.edu/), 501 is a semi-blackbox, semi-classroom space with up to 90 seats.
+
