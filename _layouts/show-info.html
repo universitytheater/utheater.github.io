@@ -141,8 +141,8 @@ layout: default
           {% for person in bio_list %}
             <p style="margin-left:1rem"><strong>{{person.name | markdownify | remove: '<p>' | remove: '</p>'}}
             {% if person.role %}
-              ({{person.role}})</strong>
-            {% endif %}
+              ({{person.role}})
+            {% endif %} </strong>
             {% if person.bio %}
               {{person.bio | markdownify | remove: '<p>' | remove: '</p>'}}
             {% endif %}
@@ -176,8 +176,8 @@ layout: default
         {% for person in bio_list %}
           <p><strong>{{person.name | markdownify | remove: '<p>' | remove: '</p>'}}
           {% if person.role %}
-            ({{person.role}})</strong>
-          {% endif %}
+            ({{person.role}})
+          {% endif %} </strong>
           {% if person.bio %}
             {{person.bio | markdownify | remove: '<p>' | remove: '</p>'}}
           {% endif %}
