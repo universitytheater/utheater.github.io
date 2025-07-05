@@ -45,7 +45,12 @@ Ongoing workshops may have lead design positions open and lead designers/manager
                         <td> <em> <strong> <a href="{{ show.url }}"> {{ workshop.title }} </a> </strong> </em> 
                         {% if workshop.author %} <br> by {{ workshop.author}} {% endif %} </td>
                         <td> {{ show.week }} </td>
-                        <td> {{ show.location }} </td>
+                        <td> {% if show.location %}
+                            {% if show.location_link %}
+                                <a href="{{ show.location_link }}"> {{ show.location }} </a>
+                            {% else %}
+                                {{ show.location }} 
+                            {% endif %} {% endif %} </td>
                         <td> {% for contact in workshop.production_contact %}
                         <a href="mailto:{{ contact.email }}"> {{ contact.name }} </a> ({{ contact.role }}) <br> {% endfor %} </td>
                     </tr>
