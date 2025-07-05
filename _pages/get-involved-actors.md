@@ -4,13 +4,79 @@ title: "Get Involved: Actors"
 permalink: /get-involved/actors
 ---
 
+{% assign ref_page = site.data.show-refs.auditions-list%}
+{% assign shows = site.shows %}
+
 Welcome to University Theater! We're delighted you're thinking of auditioning for a UT production. Here's some info on auditions and what to expect from them!
 
 Our auditions are not meant to be stressful or intimidating, and all casting teams are rooting for you to do your best. The most important thing is to have fun!
 
 ---
 
-{% include audition_info.md %}
+Auditions will be held on Tuesday & Wednesday  of first week ({{ref_page.date | date: "%b %d"}}-{{ref_page.date | date: "%s" | plus: 172800 | date: "%d"}}) from 7-10pm on the fourth floor of Cobb Hall.
+
+**To audition, follow these steps!**
+
+1. **Fill out the general UT [audition form]({{ref_page.form_link}}).**
+2. **Sign up for a time slot** to audition. If you are unable to make it to a live audition (e.g. due to travel), please contact the stage management for each show (listed below) for alternate audition options.
+3. **Choose an audition side.** Please note that you are not expected to memorize your side.
+4. **Come to your audition!** Please try to arrive a few minutes early so we can make sure you're all set up.
+5. **Callback auditions will be announced via email late after the last audition slot has taken place.** If you are called back, congrats! Please go to the callback room during your assigned time(s). Callbacks will take place on Thursday ({{ref_page.date | date: "%s" | plus: 259200 | date: "%b %d"}}) from 7-10pm. Note that workshops do not hold callback auditions.
+
+---
+
+**UT will be holding auditions for the following shows in {{ref_page.quarter}} {{ref_page.year}}:**
+
+<table class="table table-striped table-bordered">
+    <thead>
+        <tr>
+        <th> Show </th>
+        <th> Week </th>
+        <th> Audition Signup </th>
+        <th> Audition Sides </th>
+        <th> Audition Contact </th>
+        <th> Other Info </th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for target_show in ref_page.shows %} 
+        {% for show in shows %} 
+        {% if show.url == target_show.url -%}
+        {% if show.workshops %}
+            {% for workshop in show.workshops %}
+                <tr>
+                    <td> <em> <strong> <a href="{{ show.url }}"> {{ workshop.title }} </a> </strong> </em> 
+                    {% if workshop.author %} <br> by {{ workshop.author}} {% endif %} </td>
+                    <td> {{ show.week }} </td>
+                    <td> <a href="{{ workshop.signup_link }}"> Signup Link </a> </td>
+                    <td> <a href="{{ workshop.sides_link }}"> Sides Link </a> </td>
+                    <td> {% for contact in workshop.audition_contact %}
+                    <a href="mailto:{{ contact.email }}"> {{ contact.name }} </a> ({{ contact.role }}) <br> {% endfor %} </td>
+                    <td> {% for link in workshop.other_links %}
+                    <a href="mailto:{{ link[1] }}"> {{ link[0] }} </a> <br> {% endfor %} </td>
+                </tr>
+            {% endfor %}
+        {% else %}
+            <tr>
+                <td> <em> <strong> <a href="{{ show.url }}"> {{ show.title }} </a> </strong> </em> 
+                    {% if show.author %} <br> by {{ show.author}} {% endif %} </td>
+                <td> {{ show.week }} </td>
+                <td> <a href="{{ show.signup_link }}"> Signup Link </a> </td>
+                <td> <a href="{{ show.sides_link }}"> Sides Link </a> </td>
+                <td> {% for contact in show.audition_contact %}
+                    <a href="mailto:{{ contact.email }}"> {{ contact.name }} </a> ({{ contact.role }}) <br> {% endfor %} </td>
+                <td> {% for link in show.other_links %}
+                    <a href="mailto:{{ link[1] }}"> {{ link[0] }} </a> <br> {% endfor %} </td>
+            </tr>
+        {% endif %}
+        {% break %} 
+        {% endif -%} 
+        {% endfor %} 
+        {% endfor %}
+    </tbody>
+</table>
+
+**Do you have questions about auditioning for a particular show?** Feel free to contact their stage management team!
 
 ---
 

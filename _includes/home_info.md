@@ -1,4 +1,4 @@
-{% assign page = site.data.show-refs.2025.spring.presenting-list %}
+{% assign page = site.data.show-refs.presenting-list %}
 {% assign shows = site.shows %}
 
 ##### **[Tickets!](https://uchicago-student-orgs.myshopify.com/collections/university-theatre-ut)**

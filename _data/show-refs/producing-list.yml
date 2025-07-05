@@ -1,0 +1,15 @@
+current_openings: https://docs.google.com/spreadsheets/d/e/2PACX-1vQ_pflD_0cYj9oj8yAdndzdA6UClYAn41Udofz5SR5IH5bPkSWN-eJ4h26Xu_lCQKybKGA19EmGpqrl/pubhtml?
+  # THIS IS NOT JUST THE NORMAL SHARE LINK!!!! 
+  # Go to File -> Share -> Publish to web -> Embed
+  # Copy the link that shows up in the text box
+  # Only include the section from "https://" to "/pubhtml?"
+  # This is like this because it seems to be the only way to make scrolling work correctly (so you can scroll in the sheet without scrolling the page)
+interest_form: https://forms.gle/x8rr21VfC2mDmGKR7
+  # This is just the normal responder share link
+quarters: 
+  - quarter: Spring
+    year: 2025
+    shows:
+      - url: /shows/2025/35mm
+      - url: /shows/2025/cactus-flower
+      - url: /shows/2025/tempest
