@@ -10,24 +10,24 @@
 
 
 layout: show-info
-slug: # required
-hidden: false
+slug: spelling-bee
+hidden: true
 
 
-title: # required
+title: The 25th Annual Putnam County Spelling Bee
 subheader:
-author: 
+author: Rachel Sheinkin and William Finn
 description: 
   - 
 
 
-year: # required
-quarter: # required
-week: 
-location: 
-location_link: 
-season: # e.g. 2025-2026 Shows - required
-date: # e.g. 2025-12-31 - required
+year: 2026
+quarter: Winter
+week: 6
+location: Logan Theater West
+location_link: /locations/west
+season: 2025-2026 Shows
+date: 2026-02-12
 
 
 tickets_link: 
@@ -35,10 +35,10 @@ vimeo_link:
 
 
 roles: ###
-  Cast: ###
-    bio_file: 
-  Production Staff: ###
-    bio_file: 
+#   Cast: ###
+#     bio_file: 
+#   Production Staff: ###
+#     bio_file: 
 
 
 audition_contact: ###

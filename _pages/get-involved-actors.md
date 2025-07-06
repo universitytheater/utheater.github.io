@@ -13,7 +13,17 @@ Our auditions are not meant to be stressful or intimidating, and all casting tea
 
 ---
 
-Auditions will be held on Tuesday & Wednesday  of first week ({{ref_page.date | date: "%b %d"}}-{{ref_page.date | date: "%s" | plus: 172800 | date: "%d"}}) from 7-10pm on the fourth floor of Cobb Hall.
+{% capture date_range %} 
+    {% assign month_1 = ref_page.date | date: "%m" %}
+    {% assign month_2 = ref_page.date | date: "%s" | plus: 172800 | date: "%m" %}
+    {% if month_1 == month_2 %}
+        {{ ref_page.date | date: "%b %d" }}-{{ ref_page.date | date: "%s" | plus: 172800 | date: "%d" }}
+    {% else %}
+        {{ ref_page.date | date: "%b %d" }}-{{ ref_page.date | date: "%s" | plus: 172800 | date: "%b %d" }}
+    {% endif %}
+{% endcapture %} 
+
+Auditions will be held on Tuesday & Wednesday of first week ({{ date_range | normalize_whitespace }}) from 7-10pm on the fourth floor of Cobb Hall.
 
 **To audition, follow these steps!**
 
@@ -27,6 +37,7 @@ Auditions will be held on Tuesday & Wednesday  of first week ({{ref_page.date | 
 
 **UT will be holding auditions for the following shows in {{ref_page.quarter}} {{ref_page.year}}:**
 
+<div style="overflow-x:auto;">
 <table class="table table-striped table-bordered">
     <thead>
         <tr>
@@ -46,14 +57,16 @@ Auditions will be held on Tuesday & Wednesday  of first week ({{ref_page.date | 
             {% for workshop in show.workshops %}
                 <tr>
                     <td> <em> <strong> <a href="{{ show.url }}"> {{ workshop.title }} </a> </strong> </em> 
-                    {% if workshop.author %} <br> by {{ workshop.author}} {% endif %} </td>
+                        {% if workshop.author %} <br> by {{ workshop.author}} {% endif %} </td>
                     <td> {{ show.week }} </td>
                     <td> <a href="{{ workshop.signup_link }}"> Signup Link </a> </td>
                     <td> <a href="{{ workshop.sides_link }}"> Sides Link </a> </td>
                     <td> {% for contact in workshop.audition_contact %}
-                    <a href="mailto:{{ contact.email }}"> {{ contact.name }} </a> ({{ contact.role }}) <br> {% endfor %} </td>
+                        <a href="mailto:{{ contact.email }}"> {{ contact.name }} </a> 
+                        {% if contact.role and contact.role != nil %} ({{ contact.role }}) {% endif %}
+                        <br> {% endfor %} </td>
                     <td> {% for link in workshop.other_links %}
-                    <a href="mailto:{{ link[1] }}"> {{ link[0] }} </a> <br> {% endfor %} </td>
+                        <a href="{{ link[1] }}"> {{ link[0] }} </a> <br> {% endfor %} </td>
                 </tr>
             {% endfor %}
         {% else %}
@@ -64,9 +77,11 @@ Auditions will be held on Tuesday & Wednesday  of first week ({{ref_page.date | 
                 <td> <a href="{{ show.signup_link }}"> Signup Link </a> </td>
                 <td> <a href="{{ show.sides_link }}"> Sides Link </a> </td>
                 <td> {% for contact in show.audition_contact %}
-                    <a href="mailto:{{ contact.email }}"> {{ contact.name }} </a> ({{ contact.role }}) <br> {% endfor %} </td>
+                    <a href="mailto:{{ contact.email }}"> {{ contact.name }} </a> 
+                    {% if contact.role and contact.role != nil %} ({{ contact.role }}) {% endif %}
+                    <br> {% endfor %} </td>
                 <td> {% for link in show.other_links %}
-                    <a href="mailto:{{ link[1] }}"> {{ link[0] }} </a> <br> {% endfor %} </td>
+                    <a href="{{ link[1] }}"> {{ link[0] }} </a> <br> {% endfor %} </td>
             </tr>
         {% endif %}
         {% break %} 
@@ -75,6 +90,7 @@ Auditions will be held on Tuesday & Wednesday  of first week ({{ref_page.date | 
         {% endfor %}
     </tbody>
 </table>
+</div>
 
 **Do you have questions about auditioning for a particular show?** Feel free to contact their stage management team!
 

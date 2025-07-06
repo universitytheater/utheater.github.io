@@ -9,6 +9,7 @@
 
 layout: show-info
 slug: SHORTENED VERSION OF SHOW NAME # (e.g. much-ado, midsummer, etc.) - must be one word (or hyphenated) and lowercase - required
+hidden: false # Change this to true to hide this show from the shows list page. The show will still have 
 
 
 title: SHOW TITLE # required
@@ -69,47 +70,48 @@ roles:
 # All information within workshops section follows the same format as the information outside of it
 # Repeat the indented section for each workshop
 workshops:
-- title: TITLE # recommended
+- title: TITLE # strongly recommended
+  subheader: SUBTITLE # optional
   author: AUTHOR # recommended
   description: DESCRIPTION # optional
-  vimeo_link: VIMEO LINK
+  vimeo_link: VIMEO LINK # optional
 
   roles: # Choose one of the options and follow the format from above. If using CSV, still use the page slug as the folder location
     Cast: 
-      bio_file: # BIO FILE
+      bio_file: BIO FILE # recommended
     Production Staff:
-      bio_file: # BIO FILE
+      bio_file: BIO FILE # recommended
   
   audition_contact: 
-    - name: # NAME
-      email: # EMAIL
-      role: # ROLE
+    - name: NAME # recommended
+      email: EMAIL # recommended
+      role: ROLE # recommended
   production_contact: 
-    - name: # NAME
-      email: # EMAIL
-      role: # ROLE
+    - name: NAME # recommended
+      email: EMAIL # recommended
+      role: ROLE # recommended
 
 
-signup_link: # AUDITION SIGN-UP FORM LINK
-sides_link: # AUDITION SIDES LINK
+signup_link: AUDITION SIGN-UP FORM LINK # recommended
+sides_link: AUDITION SIDES LINK # recommended
 other_links:
-  Audition Info: # AUDITION INFO LINK
-  # OTHER: # OTHER AUDITION LINK
+  Audition Info: AUDITION INFO LINK # recommended
+  # OTHER: OTHER AUDITION LINK # optional
 
 
 audition_contact: # This is where you put the person (or people) who should be contacted for audition-related questions (usually SM)
-  - name: # NAME
-    email: # EMAIL
-    role: # ROLE
+  - name: NAME  # recommended
+    email: EMAIL # recommended
+    role: ROLE # recommended
 production_contact: # This is where you put the person (or people) who should be contacted for production-related questions (usually PM)
-  - name: # NAME
-    email: # EMAIL
-    role: # ROLE
+  - name: NAME # recommended
+    email: EMAIL # recommended
+    role: ROLE # recommended
 
 
-signup_link: # AUDITION SIGN-UP FORM LINK
-sides_link: # AUDITION SIDES LINK
+signup_link: AUDITION SIGN-UP FORM LINK # recommended
+sides_link: AUDITION SIDES LINK # recommended
 other_links:
-  Audition Info: # AUDITION INFO LINK
-  # OTHER: # OTHER AUDITION LINK
+  Audition Info: AUDITION INFO LINK # recommended
+  # OTHER: OTHER AUDITION LINKS # optional
 ---

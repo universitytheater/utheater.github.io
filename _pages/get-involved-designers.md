@@ -22,14 +22,14 @@ Ongoing workshops may have lead design positions open and lead designers/manager
 
 ---
 
-{% for quarter in ref_page.quarters %}
+**UT will be producing at least the following shows:**
 
-**UT will be producing at least the following shows in {{quarter.quarter | capitalize}} {{quarter.year}}**:
-
+<div style="overflow-x:auto;">
 <table class="table table-striped table-bordered">
+{% for quarter in ref_page.quarters %}
     <thead>
         <tr>
-            <th> Show </th>
+            <th style="font-size: 1.5em"> {{quarter.quarter | capitalize}} {{quarter.year}} Shows </th>
             <th> Week </th>
             <th> Location </th>
             <th> Production Contact </th>
@@ -43,7 +43,7 @@ Ongoing workshops may have lead design positions open and lead designers/manager
                 {% for workshop in show.workshops %}
                     <tr>
                         <td> <em> <strong> <a href="{{ show.url }}"> {{ workshop.title }} </a> </strong> </em> 
-                        {% if workshop.author %} <br> by {{ workshop.author}} {% endif %} </td>
+                            {% if workshop.author %} <br> by {{ workshop.author}} {% endif %} </td>
                         <td> {{ show.week }} </td>
                         <td> {% if show.location %}
                             {% if show.location_link %}
@@ -52,7 +52,9 @@ Ongoing workshops may have lead design positions open and lead designers/manager
                                 {{ show.location }} 
                             {% endif %} {% endif %} </td>
                         <td> {% for contact in workshop.production_contact %}
-                        <a href="mailto:{{ contact.email }}"> {{ contact.name }} </a> ({{ contact.role }}) <br> {% endfor %} </td>
+                            <a href="mailto:{{ contact.email }}"> {{ contact.name }} </a> 
+                            {% if contact.role and contact.role != nil %} ({{ contact.role }}) {% endif %} 
+                            <br> {% endfor %} </td>
                     </tr>
                 {% endfor %}
             {% else %}
@@ -67,7 +69,9 @@ Ongoing workshops may have lead design positions open and lead designers/manager
                             {{ show.location }} 
                         {% endif %} {% endif %} </td>
                     <td> {% for contact in show.production_contact %}
-                        <a href="mailto:{{ contact.email }}"> {{ contact.name }} </a> ({{ contact.role }}) <br> {% endfor %} </td>
+                        <a href="mailto:{{ contact.email }}"> {{ contact.name }} </a> 
+                        {% if contact.role and contact.role != nil %} ({{ contact.role }}) {% endif %} 
+                        <br> {% endfor %} </td>
                 </tr>
             {% endif %}
             {% break %} 
@@ -75,13 +79,15 @@ Ongoing workshops may have lead design positions open and lead designers/manager
         {% endfor %} 
         {% endfor %}
     </tbody>
-</table>
-
 {% endfor %}
+</table>
+</div>
 
 ---
 
 ### Current openings
+
+Below is a semi-updated list of available positions on UT's current shows. Reach out to the listed contacts if you're interested to see if the position is still open.
 
 <iframe src="{{ ref_page.current_openings }}headers=false&chrome=false" style="width:100%" height="700" frameborder="0" marginheight="0" marginwidth="0">Loading…></iframe>
 
@@ -95,4 +101,4 @@ Fill out the form below to get your name out to production teams and future prop
 
 <a href="{{ ref_page.interest_form }}" target="_blank">Click here</a> to open in a new tab.
 
-Proposers can reach out to committee or committee members if they would like see the list of interested designers and managers 
+Proposers can reach out to committee or committee members if they would like see the list of interested designers and managers.

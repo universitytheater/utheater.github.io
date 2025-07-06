@@ -9,12 +9,14 @@ permalink: /archive/shows
 {% if season.name != "2012-2013 Shows"%}
   <h4 class="text-center mb-0 mt-2">{{ season.name }}</h4>
   <div class="container row show-group">
-        {% assign shows = season.items | sort: "date" | reverse %}
-        {% for show in shows %}
-          <div class="container show">
-            <h6><a href="{{ show.url }}">{{ show.title }}</a> | {{ show.quarter | capitalize }} {{ show.year }}</h6>
-          </div>
-        {% endfor %}
+    {% assign shows = season.items | sort: "date" | reverse %}
+    {% for show in shows %}
+      {% if show.hidden != true%}
+        <div class="container show">
+          <h6><a href="{{ show.url }}">{{ show.title }}</a> | {{ show.quarter | capitalize }} {{ show.year }}</h6>
+        </div>
+      {% endif %}
+    {% endfor %}
   </div>
 {% endif %}
 {% endfor %}
@@ -27,10 +29,10 @@ permalink: /archive/shows
 * Proof by David Auburn, directed by Audrey Francis
 * Theater [24]
 * A Weekend of Workshops:
-    * The University of Laughs by Koki Mitani, translated and directed by Myra Su
-    * Scene from Richard III by William Shakespeare, directed by Anna Meredith
-    * The Doctor and Ariel in The Tempest by William Shakespeare, directed by Alessio Franko
-    * Philip Glass Buys a Loaf of Bread by David Ives, directed by Shuwen Qian
+  * The University of Laughs by Koki Mitani, translated and directed by Myra Su
+  * Scene from Richard III by William Shakespeare, directed by Anna Meredith
+  * The Doctor and Ariel in The Tempest by William Shakespeare, directed by Alessio Franko
+  * Philip Glass Buys a Loaf of Bread by David Ives, directed by Shuwen Qian
 
 * This is Our Youth by Kenneth Lonergan, directed by Fred Schmidt-Arenales
 * The Real Thing by Tom Stoppard, directed by Shelley Horwitz
@@ -41,16 +43,16 @@ permalink: /archive/shows
 
 * Theater[24]
 * A Weekend of Workshops:
-    * The Twelve Dancing Princesses, directed by Margeaux Perkins
-    * ALICES: Adventures in Wonderland, adapted and directed by James Fleming
-    * Lysistrata by Aristophanes, directed by Marisa Chilberg
+  * The Twelve Dancing Princesses, directed by Margeaux Perkins
+  * ALICES: Adventures in Wonderland, adapted and directed by James Fleming
+  * Lysistrata by Aristophanes, directed by Marisa Chilberg
 
 * [Hotel Nepenthe](/shows/2013/hotel-nepenthe) by John Kuntz, directed by Scarlett Kim
 * The Creadeaux Canvas by Keith Bunin, directed by Jesse Roth
 * A Weekend of Workshops
-    * Scene from Boston Marriage by David Mamet, directed by Julia Santha
-    * Monologue from Taming of the Shrew by William Shakespeare, directed by Eamon Boylan
-    * Scene from Top Girls by Caryl Churchill, directed by Gabrielle Costa
+  * Scene from Boston Marriage by David Mamet, directed by Julia Santha
+  * Monologue from Taming of the Shrew by William Shakespeare, directed by Eamon Boylan
+  * Scene from Top Girls by Caryl Churchill, directed by Gabrielle Costa
 
 * Henry VI by William Shakespeare, directed by Graham Albachten
 * Principia Circusatica: Scientific Principles Through the World of Circus, written and directed by Will Craft (in collaboration with Le Vorris and Vox circus)
@@ -61,8 +63,8 @@ permalink: /archive/shows
 * New Work Week(ends)
 * reWILDing Genius by Andrew Hobgood and Megan Johns, directed by Evan Linder (in collaboration with <a href="http://thenewcolony.org" target="_blank">The New Colony</a>)
 * A Weekend of Workshops:
-    * Hello Out There by William Saroyan, directed by Kathleen Cawley
-    * First Love by Chuck Mee, directd by Eleanor Clifford
+  * Hello Out There by William Saroyan, directed by Kathleen Cawley
+  * First Love by Chuck Mee, directd by Eleanor Clifford
 
 * The Merchant of Venice by William Shakespeare, directed by Anna Meredith
 * The Drowsy Chaperone by Lisa Lambert, Greg Morrison, Bob Martin, and Don McKellar; directed by Ava Woychuk-Mlinac
@@ -76,10 +78,10 @@ permalink: /archive/shows
 * Sexual Perversity in Chicago, by David Mamet, directed by Audrey Francis
 * Theater [24]
 * A Weekend of Workshops:
-    * Scenes From Twelfth Night, by William Shakespeare, directed by Annie Considine
-    * <span>Picnic on a Battlefield, by Fernando Arrabal, </span>directed<span> by Jamie Mermelstein</span>
-    * What I Meant Was, by Craig Lucas, directed by Ava Woychuk-Mlinac
-    * The Tragic Tale of Melissa McNormous McHiney McWhale, by Walter Wykes, directed by Emmett Rensin
+  * Scenes From Twelfth Night, by William Shakespeare, directed by Annie Considine
+  * <span>Picnic on a Battlefield, by Fernando Arrabal, </span>directed<span> by Jamie Mermelstein</span>
+  * What I Meant Was, by Craig Lucas, directed by Ava Woychuk-Mlinac
+  * The Tragic Tale of Melissa McNormous McHiney McWhale, by Walter Wykes, directed by Emmett Rensin
 
 * The Homecoming, by Harold Pinter, directed by William Bishop
 * The Violet Hour, by Richard Greenberg, directed by Jesse Roth
@@ -89,15 +91,15 @@ permalink: /archive/shows
 
 * Theater [24]
 * A Weekend of Workshops: Premieres
-    * The Gribsby Scene from <em>The Importance of Being Earnest</em> by Oscar Wilde, directed by John Lisovsky
-    * This is Our [Chicago] Youth, devised piece, directed by Fred Schmidt-Arenales
-    * Graceland, devised piece, directed by Zev Hurwich
-    * Midnight Snack, written and directed by Myra Su
+  * The Gribsby Scene from <em>The Importance of Being Earnest</em> by Oscar Wilde, directed by John Lisovsky
+  * This is Our [Chicago] Youth, devised piece, directed by Fred Schmidt-Arenales
+  * Graceland, devised piece, directed by Zev Hurwich
+  * Midnight Snack, written and directed by Myra Su
 
 * A Weekend of Workshops: Chekhov
-    * The Bear by Anton Chekhov, directed by Colin Bresnahan
-    * The Festivities by Anton Chekhov, directed by Sasha Ayvazov
-    * The Proposal by Anton Chekhov, directed by Shelley Horwitz
+  * The Bear by Anton Chekhov, directed by Colin Bresnahan
+  * The Festivities by Anton Chekhov, directed by Sasha Ayvazov
+  * The Proposal by Anton Chekhov, directed by Shelley Horwitz
 
 * True West by Sam Shepard, directed by Amanda Fink
 * Twelfth Night by William Shakespeare, directed by Annie Considine
@@ -109,11 +111,11 @@ permalink: /archive/shows
 * New Work Weekend(s)
 * An Actor Prepares, adapted by Mickle Maher, directed by Devon de Mayo
 * A Weekend of Workshops
-    * An Adaptation of Sppon River Anthology by Edgar Lee Master, directed by Michael Reinhard
-    * This Property is Condemned by Tennessee Williams, directed by Eamon Boylan
-    * 4.48 Psychosis by Sarah Kane, directed by Scarlett Kim
-    * The Chinese Restaurant Installation, directed by Nicholas Shatan
-    * The Last Five Years by Jason Robert Brown, directed by Ava Woychuk-Mlinac
+  * An Adaptation of Sppon River Anthology by Edgar Lee Master, directed by Michael Reinhard
+  * This Property is Condemned by Tennessee Williams, directed by Eamon Boylan
+  * 4.48 Psychosis by Sarah Kane, directed by Scarlett Kim
+  * The Chinese Restaurant Installation, directed by Nicholas Shatan
+  * The Last Five Years by Jason Robert Brown, directed by Ava Woychuk-Mlinac
 
 * Cymbeline by William Shakespeare, directed by Jesse Roth
 * The Lion in Winter by James Goldman, directed by Tom Murphy
@@ -126,9 +128,9 @@ permalink: /archive/shows
 
 * Theater [24] - Cloud with Trousers
 * <span>A Weekend Of Workshops:</span>
-    * <span>​The September Cycle, written and directed by Nora Sorena Casey</span>
-    * <span>Victoria Station, by Harold Pinter, directed by Myra Su</span>
-    * <span>Listening, by Edward Albee, directed by William Bishop</span>
+  * <span>​The September Cycle, written and directed by Nora Sorena Casey</span>
+  * <span>Victoria Station, by Harold Pinter, directed by Myra Su</span>
+  * <span>Listening, by Edward Albee, directed by William Bishop</span>
 
 * <span>Life Is a Dream, by Pedro Calderon de la Barca, translated and adapted by Nilo Cruz, directed by Evan Garrett </span>
 * <span>The Rose Tattoo, by Tennessee Williams, directed by KImberly Senior</span>
@@ -138,10 +140,10 @@ permalink: /archive/shows
 
 * Theater [24]
 * <span>A Weekend Of Workshops:</span>
-    * <span>​Adaptation: The Musical, written by Eric Shoemaker, directed by Steffi Carter</span>
-    * <span>Paper Plates, devised and directed by Katie Goldberg</span>
-    * <span>A Separate Peace, written by Tom Stoppard, directed by John King</span>
-    * <span>The Rise and Fall of The Roman Empire, written by Stephen Bittrich, directed by Megan St. John</span>
+  * <span>​Adaptation: The Musical, written by Eric Shoemaker, directed by Steffi Carter</span>
+  * <span>Paper Plates, devised and directed by Katie Goldberg</span>
+  * <span>A Separate Peace, written by Tom Stoppard, directed by John King</span>
+  * <span>The Rise and Fall of The Roman Empire, written by Stephen Bittrich, directed by Megan St. John</span>
 
 * <span>​Crime and Punishment written by Fyodor Dostoyevsky, adapted by Marilyn Campbell and Curt Colombus, directed by Jesse Roth</span>
 * <span>Red Light Winter written by Adam Rapp, directed by William Bishop</span>
@@ -152,37 +154,37 @@ permalink: /archive/shows
 
 * Theater [24]
 * <span>New Work Weekends 2011:</span>
-    * <span>​</span>Requiem <span>by Briana Finegan, </span>directed by<span> John King</span>
-    * A Sea of Them <span>by Jesse Roth, </span>directed by<span> Andrew Cutler</span>
-    * 41 Somethings About a Man <span>by Matt Hartman, </span>directed by<span> Nick Currie</span>
-    * a solo clown piece <span>by Fred Schmidt-Arenales, </span>directed by<span> Ethan Dubin</span>
-    * Serenity <span>by Philip McGrath</span>
-    * Fifteen Children Will Want Postcards <span>by Julia Dratel, </span>directed by<span> Katelyn Muenck</span>
-    * Hepcat Hype <span>by Katelyn Muenck, </span>directed by<span> Julia Dratel</span>
-    * The Winter Farm <span>by William Glick, </span>directed by<span> Sasha Geffen</span>
-    * Innov <span>by Katie Hunter, </span>directed by<span> Jesse Roth</span>
-    * Architecture Daily <span>by Hannah Cook, </span>directed by<span> Vaidehi Joshi</span>
-    * The Visiting Hours <span>by Briana Estevez, </span>directed by<span> Katelyn Muenck</span>
-    * Journal of a Residence on a Georgian Plantation <span>by Nick Currie, </span>directed by<span> MaThew Hartman</span>
-    * Defect <span>by Melanie Kassel, </span>directed by<span> Molly Miller</span>
-    * Uncommon Chickens <span>by Myra Su, </span>directed by<span> Autumn McConnico</span>
-    * Straight to The Moon <span>by Autumn McConnico, </span>directed by<span> Myra Su</span>
-    * The Failures <span>by Emmett Rensin, </span>directed by<span> Gabe Benghiat</span>
-    * Rapid Cycling <span>by Alicia Graf</span>
-    * Devil's Pie <span>by Ethan Dubin, </span>directed by<span> Will Bishop</span>
-    * A Counterfitter and an Offensive Flatterer <span>written and performed by James LaRocque</span>
-    * a B.A. solo performance<span> written and performed by Ellenor Riley-Condit</span>
-    * Class of 76<span> by Graham Rosby, </span>directed by<span> Andrew Cutler</span>
+  * <span>​</span>Requiem <span>by Briana Finegan, </span>directed by<span> John King</span>
+  * A Sea of Them <span>by Jesse Roth, </span>directed by<span> Andrew Cutler</span>
+  * 41 Somethings About a Man <span>by Matt Hartman, </span>directed by<span> Nick Currie</span>
+  * a solo clown piece <span>by Fred Schmidt-Arenales, </span>directed by<span> Ethan Dubin</span>
+  * Serenity <span>by Philip McGrath</span>
+  * Fifteen Children Will Want Postcards <span>by Julia Dratel, </span>directed by<span> Katelyn Muenck</span>
+  * Hepcat Hype <span>by Katelyn Muenck, </span>directed by<span> Julia Dratel</span>
+  * The Winter Farm <span>by William Glick, </span>directed by<span> Sasha Geffen</span>
+  * Innov <span>by Katie Hunter, </span>directed by<span> Jesse Roth</span>
+  * Architecture Daily <span>by Hannah Cook, </span>directed by<span> Vaidehi Joshi</span>
+  * The Visiting Hours <span>by Briana Estevez, </span>directed by<span> Katelyn Muenck</span>
+  * Journal of a Residence on a Georgian Plantation <span>by Nick Currie, </span>directed by<span> MaThew Hartman</span>
+  * Defect <span>by Melanie Kassel, </span>directed by<span> Molly Miller</span>
+  * Uncommon Chickens <span>by Myra Su, </span>directed by<span> Autumn McConnico</span>
+  * Straight to The Moon <span>by Autumn McConnico, </span>directed by<span> Myra Su</span>
+  * The Failures <span>by Emmett Rensin, </span>directed by<span> Gabe Benghiat</span>
+  * Rapid Cycling <span>by Alicia Graf</span>
+  * Devil's Pie <span>by Ethan Dubin, </span>directed by<span> Will Bishop</span>
+  * A Counterfitter and an Offensive Flatterer <span>written and performed by James LaRocque</span>
+  * a B.A. solo performance<span> written and performed by Ellenor Riley-Condit</span>
+  * Class of 76<span> by Graham Rosby, </span>directed by<span> Andrew Cutler</span>
 
 * <span>These Shining Lives by Melanie Marnich, directed by David New</span>
 * <span>Break based on a novel by Hannah Moskowitz, adapted and directed by Adam Rosenthal</span>
 * <span>Oedipus based on a play by Sophocles, adapted and directed by William Bishop (a TAPS/FOTA submission)</span>
 * <span>A Weekend Of Workshops:</span>
-    * <span>​Arabian Night, written by David Ives, directed by Autumn McConnico</span>
-    * <span>The Misunderstanding, written by Alfred Camus, directed by Julia Dratel</span>
-    * <span>This Side of Paradise, written by F. Scott Fitzgerald, directed by Tom Murphy</span>
-    * <span>Much Ado About Nothing, by William Shakespeare, directed by Claire Stone</span>
-    * <span>Ubu Roi by Alfred Jarry, directed by Ethan Dubin</span>
+  * <span>​Arabian Night, written by David Ives, directed by Autumn McConnico</span>
+  * <span>The Misunderstanding, written by Alfred Camus, directed by Julia Dratel</span>
+  * <span>This Side of Paradise, written by F. Scott Fitzgerald, directed by Tom Murphy</span>
+  * <span>Much Ado About Nothing, by William Shakespeare, directed by Claire Stone</span>
+  * <span>Ubu Roi by Alfred Jarry, directed by Ethan Dubin</span>
 
 
 
@@ -192,10 +194,10 @@ permalink: /archive/shows
 **Fall 2009**
 
 * Power! Identity! Resistence! :A Weekend Of Workshops
-    * <span>Lithuania, by Rubert Brooke, directed by Evan Garrett</span>
-    * <span>The Stronger, by August Strindberg, directed by Megan Geigner</span>
-    * <span>The Borges Project, based on short stories by J.L. Borges, directed by Ofer Ravid </span>
-    * <span>Sez She, by Jane Martin, directed by Beth Walker</span>
+  * <span>Lithuania, by Rubert Brooke, directed by Evan Garrett</span>
+  * <span>The Stronger, by August Strindberg, directed by Megan Geigner</span>
+  * <span>The Borges Project, based on short stories by J.L. Borges, directed by Ofer Ravid </span>
+  * <span>Sez She, by Jane Martin, directed by Beth Walker</span>
 
 * <span>​The Shape of Things, by Neil LaBute, directed by Toby Teiger</span>
 * <span>Fefu and Her Friends, by Maria Irene Fornes, directed by William Glick</span>
@@ -204,10 +206,10 @@ permalink: /archive/shows
 **Winter 2010**
 
 * Self, Torture, &amp; Anxiety: A Weekend Of Workshops
-    * <span>Variations on The Death of Trotsky, by David Ives, directed by John King</span>
-    * <span>The Informer, by Bertolt Brecht, directed by Katie Goldberg</span>
-    * <span>Kissing Christine, by John Patrick Shanley, directed by Molly FitzMaurice</span>
-    * <span>Chushingura, translated by Donald Keene, directed by Ethan Dubin</span>
+  * <span>Variations on The Death of Trotsky, by David Ives, directed by John King</span>
+  * <span>The Informer, by Bertolt Brecht, directed by Katie Goldberg</span>
+  * <span>Kissing Christine, by John Patrick Shanley, directed by Molly FitzMaurice</span>
+  * <span>Chushingura, translated by Donald Keene, directed by Ethan Dubin</span>
 
 * <span>​Waiting for Godot by Samuel Beckett, directed by Aileen McGroddy</span>
 * <span>Big Love by Charles Mee, directed by Sean Graney</span>
@@ -215,31 +217,31 @@ permalink: /archive/shows
 **Spring 2010**
 
 * New Work Week 2010
-    * Oedipus <span>by Pierre Corneille, Translator: David Wray, directed by Drew Dir</span>
-    * The Tragedy of Ismene... <span>by Zachary Moull, directed by William Glick</span>
-    * Things go White When Nighttime Ends <span>by William Glick, directed by Sasha Geffen</span>
-    * March Rose <span>by Nick Currie, directed by Toby Tieger</span>
-    * Whim <span>by Toby Tieger, directed by Leah Rand</span>
-    * Limbs and Lungs <span>by Tamara Silverleaf, directed by Ethan Dubin</span>
-    * You are Gorgeous and I’m Coming <span>by Kelsey Glass Johnston, Performer: Kelsey Glass Johnston</span>
-    * Great Pants <span>by Megan St. John, directed by Luca Winer</span>
-    * Banishment <span>by Yi Chen, directed by Haley Doner</span>
-    * What I Learned about Nathan’s Hot Dog Eating Contest... <span>by Jack Mayer, directed by Aaron Horton</span>
-    * The Dove Girl <span>by Hannah Cook, directed by Megan St.John</span>
-    * Bar Story <span>by Michael Lipkowitz, directed by Hilary Leithauser</span>
-    * The Birthday Song <span>by Frank White, directed by Ellenor Riley-Condit</span>
-    * Reflections on a Day Spent in Marin County <span>by Will Bishop, directed by Jess Kadish</span>
-    * Goulash <span>by Aaron Horton, directed by Will Bishop</span>
-    * Elysium is as Far as The Nearest Room <span>by Autumn McConnico, directed by Molly FitzMaurice</span>
-    * Evolution <span>by Jesse Roth, directed by Susan Augenbraun</span>
-    * How to Build a Bomb <span>by Jacqueline McLaren, directed by Evan Garrett</span>
-    * Lounge <span>by Joshua Katz, directed by Aileen McGroddy</span>
+  * Oedipus <span>by Pierre Corneille, Translator: David Wray, directed by Drew Dir</span>
+  * The Tragedy of Ismene... <span>by Zachary Moull, directed by William Glick</span>
+  * Things go White When Nighttime Ends <span>by William Glick, directed by Sasha Geffen</span>
+  * March Rose <span>by Nick Currie, directed by Toby Tieger</span>
+  * Whim <span>by Toby Tieger, directed by Leah Rand</span>
+  * Limbs and Lungs <span>by Tamara Silverleaf, directed by Ethan Dubin</span>
+  * You are Gorgeous and I’m Coming <span>by Kelsey Glass Johnston, Performer: Kelsey Glass Johnston</span>
+  * Great Pants <span>by Megan St. John, directed by Luca Winer</span>
+  * Banishment <span>by Yi Chen, directed by Haley Doner</span>
+  * What I Learned about Nathan’s Hot Dog Eating Contest... <span>by Jack Mayer, directed by Aaron Horton</span>
+  * The Dove Girl <span>by Hannah Cook, directed by Megan St.John</span>
+  * Bar Story <span>by Michael Lipkowitz, directed by Hilary Leithauser</span>
+  * The Birthday Song <span>by Frank White, directed by Ellenor Riley-Condit</span>
+  * Reflections on a Day Spent in Marin County <span>by Will Bishop, directed by Jess Kadish</span>
+  * Goulash <span>by Aaron Horton, directed by Will Bishop</span>
+  * Elysium is as Far as The Nearest Room <span>by Autumn McConnico, directed by Molly FitzMaurice</span>
+  * Evolution <span>by Jesse Roth, directed by Susan Augenbraun</span>
+  * How to Build a Bomb <span>by Jacqueline McLaren, directed by Evan Garrett</span>
+  * Lounge <span>by Joshua Katz, directed by Aileen McGroddy</span>
 
 * <span>​Sandboxes of Sexual Consequences: A Weekend Of Workshops</span>
-    * <span>We Had a Very Good Time, by David Auburn, directed by Susan Augenbraun </span>
-    * <span>Lunch, by Steven Berkoff, directed by Jesse Roth </span>
-    * <span>Controlling,  by Wayne S. Rawley, directed by North de Pencier </span>
-    * <span>Crimson Hotel, by Michael Frayn, directed by Sarah Pickering </span>
+  * <span>We Had a Very Good Time, by David Auburn, directed by Susan Augenbraun </span>
+  * <span>Lunch, by Steven Berkoff, directed by Jesse Roth </span>
+  * <span>Controlling,  by Wayne S. Rawley, directed by North de Pencier </span>
+  * <span>Crimson Hotel, by Michael Frayn, directed by Sarah Pickering </span>
 
 * <span>​The Dining Room by A.R. Gurney, directed by Christopher Shea </span>
 * <span>The Flu Season by Will Eno, directed by Tamara Silverleaf </span>
@@ -254,10 +256,10 @@ permalink: /archive/shows
 **Fall 2008**
 
 * Workshop Week:
-    * <span>Liars Club by Neil LaBute, directed by Toby Tieger</span>
-    * <span>Aoi No Uye, directed by Graham Fetterman</span>
-    * <span>Scenes from Through The Looking Glass adapted and directed by David Jarvis</span>
-    * <span>The Lesson by Eugene Ionesco, directed by Tamara Silverleaf</span>
+  * <span>Liars Club by Neil LaBute, directed by Toby Tieger</span>
+  * <span>Aoi No Uye, directed by Graham Fetterman</span>
+  * <span>Scenes from Through The Looking Glass adapted and directed by David Jarvis</span>
+  * <span>The Lesson by Eugene Ionesco, directed by Tamara Silverleaf</span>
 
 * <span>Sketch Show directed by David Brent</span>
 * <span>How I Learned to Drive by Paula Vogel, directed by Kat Lieder</span>
@@ -267,14 +269,14 @@ permalink: /archive/shows
 **Winter 2009**
 
 * <span>5th Week Workshops</span>
-    * <span>​The Music Cure by George Bernard Shaw</span>, directed<span> by Harrison Adams</span>
-    * <span>Reverse Transcription by Tony Kushner</span>, directed<span> by William Glick</span>
-    * <span>Christmas at The Ivanov's by Anton Chekov</span>, directed<span> by Anastasia Baron</span>
+  * <span>​The Music Cure by George Bernard Shaw</span>, directed<span> by Harrison Adams</span>
+  * <span>Reverse Transcription by Tony Kushner</span>, directed<span> by William Glick</span>
+  * <span>Christmas at The Ivanov's by Anton Chekov</span>, directed<span> by Anastasia Baron</span>
 
 * <span>​6th Week Workshops</span>
-    * <span>​Everyman directed by Evan Garrett</span>
-    * <span>The Doctor in Spite of Himself by Moliere, directed by Riley Kreger</span>
-    * <span><span id="cke_bm_461S"> </span>Ashes to Ashes by Harold Pinter, directed by Sasha Geffen</span>
+  * <span>​Everyman directed by Evan Garrett</span>
+  * <span>The Doctor in Spite of Himself by Moliere, directed by Riley Kreger</span>
+  * <span><span id="cke_bm_461S"> </span>Ashes to Ashes by Harold Pinter, directed by Sasha Geffen</span>
 
 
 * Tartuffe, ​directed by Morgan Warfield-Reich
@@ -284,27 +286,27 @@ permalink: /archive/shows
 **Spring 2009**
 
 * New Work Week
-    * In Line at La Club Dance written by Evan Cudworth. directed by Toby Tieger
-    * Saving The Queen written by Helen Gregg. directed by Morgan Warfield-Reich
-    * Wiki Love, written by Sarah Rosenshine. directed by Otillia Steadman
-    * SOLO Performances: Griffin Sharps, Lila Newman, Kit Novotny
-    * Saints written by Mitch Salm. directed by Brian LaDuca
-    * Eight Close written by Evan Garrett. directed by Ethan Dubin
-    * Girl Talk written by North de Pencier. directed by Luca Winer
-    * The Virgin, The Sailor, and The Student written and directed by William Bishop.
-    * Untitled Dance Piece, choreographed by Yael Vidan
-    * A Girl Named Clyde written by Jack Mayer. directed by Morgan Maher
-    * Tru West written by Morgan Maher. directed by Jack Mayer
-    * Stone Baby: A Musical written by Augie Praley and Tim Splain.
-    * Hitwoman written by Bryan Duff and Lila Newman. directed by Augie Praley
-    * Overtime written by Sasha Geffen. directed by KaTherine Greenleaf
-    * Bernard's Birthday Party, written by Evelyn DeHais. directed by Tamara Silverleaf
+  * In Line at La Club Dance written by Evan Cudworth. directed by Toby Tieger
+  * Saving The Queen written by Helen Gregg. directed by Morgan Warfield-Reich
+  * Wiki Love, written by Sarah Rosenshine. directed by Otillia Steadman
+  * SOLO Performances: Griffin Sharps, Lila Newman, Kit Novotny
+  * Saints written by Mitch Salm. directed by Brian LaDuca
+  * Eight Close written by Evan Garrett. directed by Ethan Dubin
+  * Girl Talk written by North de Pencier. directed by Luca Winer
+  * The Virgin, The Sailor, and The Student written and directed by William Bishop.
+  * Untitled Dance Piece, choreographed by Yael Vidan
+  * A Girl Named Clyde written by Jack Mayer. directed by Morgan Maher
+  * Tru West written by Morgan Maher. directed by Jack Mayer
+  * Stone Baby: A Musical written by Augie Praley and Tim Splain.
+  * Hitwoman written by Bryan Duff and Lila Newman. directed by Augie Praley
+  * Overtime written by Sasha Geffen. directed by KaTherine Greenleaf
+  * Bernard's Birthday Party, written by Evelyn DeHais. directed by Tamara Silverleaf
 
 * Workshop Week
-    * Act Without Words by Samuel Beckett, directed by Tamara Silverleaf
-    * Universal Language by David Ives, directed by Nora Casey
-    * The Stonewater Rapture By Doug Wright. directed by Nick Currie
-    * Finger Food By Nina Shengold. directed by Gabe Benghiat
+  * Act Without Words by Samuel Beckett, directed by Tamara Silverleaf
+  * Universal Language by David Ives, directed by Nora Casey
+  * The Stonewater Rapture By Doug Wright. directed by Nick Currie
+  * Finger Food By Nina Shengold. directed by Gabe Benghiat
 
 * Sidecar directed by Sara Smithback and Ilana Tabby
 * Eurydice by Sarah Ruhl, directed by Evelyn DeHais
@@ -317,8 +319,8 @@ permalink: /archive/shows
 **Fall 2007**
 * Picasso at the Lapin Agile by Steve Martin, directed by Paul Bruton
 * Workshop Week:
-    * The World According to Charles Barley by Augie Praley, directed by Phoebe Holtzman
-    * Red Horse Animation by Lee Bruer, directed by MaThew Landback
+  * The World According to Charles Barley by Augie Praley, directed by Phoebe Holtzman
+  * Red Horse Animation by Lee Bruer, directed by MaThew Landback
 
 * Look Back In Anger by John Osborne, directed by Ethan Stanislawski
 * Top Girls by Caryl Churchill, directed by Sean Graney
@@ -327,8 +329,8 @@ permalink: /archive/shows
 **Winter 2008**
 * Dead City directed by Ben Shepard
 * Workshop Week:
-    * "Tonight's Specials": Selections from All In The Timing by David Ives, directed by Aileen McGroddy
-    * A Percussive Tap Workshop, directed by Kate Welham
+  * "Tonight's Specials": Selections from All In The Timing by David Ives, directed by Aileen McGroddy
+  * A Percussive Tap Workshop, directed by Kate Welham
 
 * Frozen by Bryony Lavery, directed by Raf Kuhn
 * Loot by Joe Orton, directed by Stephen Balady
@@ -337,34 +339,34 @@ permalink: /archive/shows
 
 **Spring 2008**
 * New Work Week
-    * The Labyrinth of Crete, translated and adapted by Margot Spellman. Dir. Marie Sennyey
-    * Hideous Progeny by Emily Deniger. Dir. Evelyn DeHais
-    * Lily of The Valley written and directed by William Glick
-    * Fish Naming by Jacqueline McLean. Dir. Marie Sennyey
-    * The Hours, adapted by Daniel Sefik. Dir. Morgan Warfield-Reich
-    * The Art in The Museum, by Christopher Shea. Dir. David Brent
-    * Stuck: Growing up by The Wayside, by Toby Tieger. Dir Daniel Sefik
-    * Solo Show, written and performed by Victoria Bartley
-    * Also-Ran, by David Brent. Dir. Phoebe Holtzman
-    * Solo Performances by Augie Praley. Dir by NWW ensemble
-    * Metal Mouths, by Tracy Mumford. Dir Toby Tieger
-    * The Cowboy, by Liz Platt. Dir Morgan Warfield-Reich
-    * After, by Rachel Landau. Dir Toby Tieger
-    * Augie Praley Masturbates, by Augie Praley. Dir David Brent
-    * Tommy Gun by Nora Sorena Casy. Dir David Jarvis
-    * Henry and The Water Demon by Jessica Wright. Dir by Aileen McGroddy
+  * The Labyrinth of Crete, translated and adapted by Margot Spellman. Dir. Marie Sennyey
+  * Hideous Progeny by Emily Deniger. Dir. Evelyn DeHais
+  * Lily of The Valley written and directed by William Glick
+  * Fish Naming by Jacqueline McLean. Dir. Marie Sennyey
+  * The Hours, adapted by Daniel Sefik. Dir. Morgan Warfield-Reich
+  * The Art in The Museum, by Christopher Shea. Dir. David Brent
+  * Stuck: Growing up by The Wayside, by Toby Tieger. Dir Daniel Sefik
+  * Solo Show, written and performed by Victoria Bartley
+  * Also-Ran, by David Brent. Dir. Phoebe Holtzman
+  * Solo Performances by Augie Praley. Dir by NWW ensemble
+  * Metal Mouths, by Tracy Mumford. Dir Toby Tieger
+  * The Cowboy, by Liz Platt. Dir Morgan Warfield-Reich
+  * After, by Rachel Landau. Dir Toby Tieger
+  * Augie Praley Masturbates, by Augie Praley. Dir David Brent
+  * Tommy Gun by Nora Sorena Casy. Dir David Jarvis
+  * Henry and The Water Demon by Jessica Wright. Dir by Aileen McGroddy
 
 * Workshop Week
-    * Drum-N-Gon, conceived and directed by Mathias Jamison-Koenig
-    * Phaedra, adapted and directed by Alli Urbanik
-    * Pillars of Salt written and directed by Helen Gregg
+  * Drum-N-Gon, conceived and directed by Mathias Jamison-Koenig
+  * Phaedra, adapted and directed by Alli Urbanik
+  * Pillars of Salt written and directed by Helen Gregg
 
 * Richard adapted and directed by Griffin Sharps
 * Workshop Week
-    * David Mamet Scenes compiled and directed by Evelyn DeHais
-    * The Spotted Man by Walter Wykes, directed by Anastasia Barron
-    * The Great Nebula in Orion by Lanford Wilson, directed by Kat Lieder
-    * Polaroid Stories by Naomi Iizukia, directed by Liz Platt
+  * David Mamet Scenes compiled and directed by Evelyn DeHais
+  * The Spotted Man by Walter Wykes, directed by Anastasia Barron
+  * The Great Nebula in Orion by Lanford Wilson, directed by Kat Lieder
+  * Polaroid Stories by Naomi Iizukia, directed by Liz Platt
 
 * Bat Boy: The Musical, story and book by KeyThe Farley and Brian Flemming, music and lyrics by Laurence O'Keefe, directed by Augie Praley
 
@@ -374,10 +376,10 @@ permalink: /archive/shows
 
 **Fall 2006**
 * Workshop Week:
-    * DROP by Brian K. Vaughan
-    * The Wonderful Death of Dudley Stone by Ray Bradbury, adapted by Drew Dir*
-    * Strindberg: One on One (Pariah and The Stronger), by August Strindberg
-    * The Zoo Story by Edward Albee
+  * DROP by Brian K. Vaughan
+  * The Wonderful Death of Dudley Stone by Ray Bradbury, adapted by Drew Dir*
+  * Strindberg: One on One (Pariah and The Stronger), by August Strindberg
+  * The Zoo Story by Edward Albee
 
 * Wander Standing by Martyna Majok
 * Broken Bride, by Ludo
@@ -389,14 +391,14 @@ permalink: /archive/shows
 **Winter 2007**
 * Agon by Angeline Gragasin
 * Workshop Week: YOU'RE GONNA LOVE VERY SMALL IMPORTANT PEOPLE
-    * Very Important People, by Christopher Shea
-    * It's a Small World, by Roy London
-    * Old Friends: The Songs of Stephen Sondheim
+  * Very Important People, by Christopher Shea
+  * It's a Small World, by Roy London
+  * Old Friends: The Songs of Stephen Sondheim
 
 * The Lonely, choreographed and conceived by Kate Blomquist
 * Workshop Week: LOST AND FOUND
-    * The No Way Home, adapted by Griffin Sharps from The songs of Tom Waits
-    * A One-Hour Cutting of Antigone, by Jean Anouilh
+  * The No Way Home, adapted by Griffin Sharps from The songs of Tom Waits
+  * A One-Hour Cutting of Antigone, by Jean Anouilh
 
 * but i can only whisper, by Kristiana Colon
 * Cathaginians, by Frank McGuinness
@@ -404,27 +406,27 @@ permalink: /archive/shows
 
 **Spring 2007**
 * New Work Week
-    * Jolie Comme Une Rose, by Anastasia Barron
-    * 3 Untitled Songs, by Daniel Sefik
-    * Did You Hear? by Brian Karfunkel
-    * Allen Silvy, by Jack Mayer
-    * Repairmen, by Max Falkowitz
-    * Bluenosed, by Jessica Wright
-    * Psst ... I Have Something to Tell You, Mi Amor, by Ana Castillo
-    * A Hero of Our Time, by Daniel Stearns
-    * Academia, by Manoah Finston
-    * Untitled BA Project, by Margaret Lebron
-    * Winchester House, by Drew Dir
-    * 300 Million, by Laura Meisel
-    * Roundabout, by Catharine Kollros
-    * 365 Plays, by Susan Lori-Parks
+  * Jolie Comme Une Rose, by Anastasia Barron
+  * 3 Untitled Songs, by Daniel Sefik
+  * Did You Hear? by Brian Karfunkel
+  * Allen Silvy, by Jack Mayer
+  * Repairmen, by Max Falkowitz
+  * Bluenosed, by Jessica Wright
+  * Psst ... I Have Something to Tell You, Mi Amor, by Ana Castillo
+  * A Hero of Our Time, by Daniel Stearns
+  * Academia, by Manoah Finston
+  * Untitled BA Project, by Margaret Lebron
+  * Winchester House, by Drew Dir
+  * 300 Million, by Laura Meisel
+  * Roundabout, by Catharine Kollros
+  * 365 Plays, by Susan Lori-Parks
 
 * Private Lives, by Noel Coward
 * Heads You Lose by Drew Dir, Tera Ellefson, Sarah Fornace, Hannah Kushnick, Jane Lopes and Daniel Roberts
 * Workshop WeekWorkshop Week
-    * ‘Dentity Crisis, by Christopher Durang
-    * The Festivities, by Anton Chekov
-    * The Shared Patio, based on The story by Miranda July, adapted by Frank Lin
+  * ‘Dentity Crisis, by Christopher Durang
+  * The Festivities, by Anton Chekov
+  * The Shared Patio, based on The story by Miranda July, adapted by Frank Lin
 
 * Measure for Measure, by William Shakespeare
 * Off-Off Campus Presents: The 21ST GENERATION'S DEBUT REVUE
@@ -436,9 +438,9 @@ permalink: /archive/shows
 **Fall 2005**
 
 * Workshop Week:
-    * The Brute, by Anton Chekhov
-    * The Public Eye, by Peter Schaffer
-    * True West, by Sam Shephard
+  * The Brute, by Anton Chekhov
+  * The Public Eye, by Peter Schaffer
+  * True West, by Sam Shephard
 
 * The Matchstick Theory, by Ian Romain*
 * Valse, by Ernst Toch, adapted by Angeline Gragasin*
@@ -477,9 +479,9 @@ permalink: /archive/shows
 **Winter 2005**
 
 * Workshop Week:
-    * A Smokey Morning*
-    * Hamletmachine
-    * Love Love Love
+  * A Smokey Morning*
+  * Hamletmachine
+  * Love Love Love
 
 * Mild Mild West, an Improv show by Off-Off Campus
 * Poe, based on works by Edgar Allan Poe, adapted by Caitlin Doughty*

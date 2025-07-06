@@ -1,8 +1,10 @@
-date: 2025-03-25
-form_link: https://forms.gle/XWcZ5hDp9H6CibMU7
-quarter: Spring
+# This is the list that appears in the actor get involved page
+
+date: 2025-10-1
+form_link: 
+quarter: Fall
 year: 2025
 shows: 
-  - url: /shows/2025/35mm
-  - url: /shows/2025/cactus-flower
-  - url: /shows/2025/tempest
+  - url: /shows/2025/our-town
+  - url: /shows/2025/as-you-like-it
+  - url: /shows/2026/spelling-bee
