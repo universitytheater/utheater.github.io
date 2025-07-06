@@ -1,0 +1,66 @@
+---
+layout: page
+title: UT Events Archive
+permalink: /archive/events
+---
+
+{% for event_page in site.events reversed %}
+  <article class="post">
+    <header class="post-header">
+        <h1 style="text-align: center" class="post-title">{{ event_page.title | escape }}</h1>
+    </header>
+    <div class="post-content">
+        {% for event in event_page.events %}
+        <div class="border container p-2 mb-3">
+            <div class="row align-items-center">
+            <div class="col-7 col-md-6 p-3">
+                <h4 class="font-weight-bold mb-0 text-dark">{{event.title | markdownify | remove: '<p>' | remove: '</p>'}}</h4>
+                {% for para in event.description %}
+                <p class="mb-1">{{para | markdownify | remove: '<p>' | remove: '</p>'}}</p>
+                {% endfor %}
+            </div>
+            <div class="col-5 col-md-3">
+                <div class="container">
+                <div class="row">
+                    <div class="col flex-grow-0 px-0 align-self-top text-center">
+                    <i class="far fa-calendar"></i>
+                    </div>
+                    <div class="col flex-grow-1 pl-3 pr-0">
+                        <span class="d-block">{{event.time | remove: '<p>' | remove: '</p>'}}</span>
+                    </div>
+                </div>
+                </div>
+                <div class="container">
+                <div class="row">
+                    <div class="col flex-grow-0 px-0 align-self-top text-center">
+                    <i class="fas fa-map-marker-alt"></i>
+                    </div>
+                    <div class="col flex-grow-1 pl-3 pr-0">
+                        <span class="d-block">{{event.location | markdownify | remove: '<p>' | remove: '</p>'}}</span>
+                    </div>
+                </div>
+                </div>
+                {% if event.links %}
+                <div class="container">
+                    {% for link in event.links %}
+                    <div class="row">
+                    <div class="col flex-grow-0 px-0 align-self-top text-center">
+                        <i class="fas fa-link"></i>
+                    </div>
+                    <div class="col flex-grow-1 pl-3 pr-0">
+                        <span class="d-block"><a href="{{ link[1] }}">{{ link[0] }}</a></span>
+                    </div>
+                    </div>
+                    {% endfor %}
+                </div>
+                {% endif %}
+            </div>
+            <div class="col-3 justify-content-center img-responsive d-none d-md-block">
+                <img src="{{event.image}}" width="100%">
+            </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+    </article>
+{% endfor %}

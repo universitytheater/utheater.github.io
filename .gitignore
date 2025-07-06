@@ -3,6 +3,7 @@
 _site/
 vendor/
 .DS_Store
+.vscode
 
 *.gem
 *.rbc

@@ -13,10 +13,9 @@ Afterwards, run `bundle exec jekyll serve` and navigate to `http://localhost:400
 
 ## Contact
 
-This website and is currently maintained by [Will Rehmus](https://github.com/willrehmus). Please reach out to them for issues regarding the website.
+This website is currently maintained by [Will Rehmus](https://github.com/willrehmus). Please reach out to them with questions or issues regarding the website.
 
 Reach out to ut-committee@uchicago.edu for more info about how to get involved in UT!
-
 
 **Past Maintainers**
 * [Belle Nahoom](https://github.com/bellegn1) (UT Committee 2024-25)

@@ -59,6 +59,7 @@ exclude:
   - scripts/
   - vendor/
   - _templates/
+  - .vscode/
 #   - Gemfile
 #   - Gemfile.lock
 #   - node_modules
