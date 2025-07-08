@@ -1,0 +1,22 @@
+# Auto-rebuild mechanism based on https://svrooij.io/2020/06/27/rebuild-github-pages/
+# GH_TOKEN is currently Will's (as of 2025), but can be updated in repo settings if it stops working
+{% raw %}
+name: Rebuild
+
+on:
+  schedule:
+    - cron:  '25 20 * * *' # Runs every day at 7pm UTC
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Call GitHub pages build endpoint
+        run: |
+          curl --fail --request POST \
+          --url https://api.github.com/repos/${{ github.repository }}/pages/builds \
+          --header "Authorization: Bearer $GH_TOKEN"          
+        env:
+          # Create a token at https://github.com/settings/tokens
+          # since you cannot trigger a new build with the regular token.
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}{% endraw %}
