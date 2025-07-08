@@ -2,10 +2,11 @@
 # GH_TOKEN is currently Will's (as of 2025), but can be updated in repo settings if it stops working
 
 name: Rebuild
+run-name: Call Auto-Rebuild
 
 on:
   schedule:
-    - cron:  '27 20 * * *' # Runs every day at 7pm UTC
+    - cron:  '03 21 * * *' # Runs every day at 7pm UTC
 
 jobs:
   refresh:
@@ -13,10 +14,9 @@ jobs:
     steps:
       - name: Call GitHub pages build endpoint
         run: |
-          curl --fail --request POST \
-          --url https://api.github.com/repos/${{ github.repository }}/pages/builds \
-          --header "Authorization: Bearer $GH_TOKEN"          
-        env:
-          # Create a token at https://github.com/settings/tokens
-          # since you cannot trigger a new build with the regular token.
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          curl -L \
+            -X POST \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer ${{ secrets.GH_TOKEN }}" \
+            -H "X-GitHub-Api-Version: 2022-11-28" \
+            https://api.github.com/repos/${{ github.repository }}/pages/builds         
