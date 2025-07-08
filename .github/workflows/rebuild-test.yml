@@ -6,7 +6,7 @@ run-name: Call Auto-Rebuild
 
 on:
   schedule:
-    - cron:  '03 21 * * *' # Runs every day at 7pm UTC
+    - cron:  '37 05 * * *' # Runs every day at 5:37 am UTC (~ midnight)
 
 jobs:
   refresh:
