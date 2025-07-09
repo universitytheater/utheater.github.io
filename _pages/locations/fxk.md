@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Fracis X Kinahan Theater
+title: Francis X Kinahan Theater
 permalink: /locations/fxk
 ---
 
