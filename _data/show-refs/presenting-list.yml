@@ -1,7 +1,10 @@
 quarters: 
-  # - quarter: Spring
-  #   year: 2025
-  #   shows:
-  #     - url: /shows/2025/35mm
-  #     - url: /shows/2025/cactus-flower
-  #     - url: /shows/2025/tempest
+  - quarter: Fall
+    year: 2025
+    shows:
+      - url: /shows/2025/our-town
+      - url: /shows/2025/as-you-like-it
+  - quarter: Winter
+    year: 2026
+    shows: 
+      - url: /shows/2026/spelling-bee

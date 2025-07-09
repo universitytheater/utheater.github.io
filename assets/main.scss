@@ -264,19 +264,23 @@ a {
   color: #98012e;
 }
 
+a:hover {
+  color:#98012e
+}
+
 .bg-carousel-item {
   background-attachment: fixed;
   background-repeat:no-repeat; 
   background-size:cover; 
   background-position:center; 
   z-index:-1; 
-  filter: brightness(0.5); 
+  filter: brightness(0.3); 
   height:100vh; 
   width:100vw;
 }
 
 .icon-grid {
-  margin-bottom: 2rem;
+  margin-bottom: 1rem;
   text-align: center;
   color: #fff;
   display: flex;
@@ -292,6 +296,8 @@ a {
   font-size: max(min(calc(100vw / 8), 4rem), 3rem);
   width: max(8rem, calc(100%/3));
   box-sizing: border-box;
+  padding-bottom: 1rem;
+  padding-top: 1rem;
 }
 
 .grid-text {
@@ -299,4 +305,23 @@ a {
   color: #fff;
   text-align: center;
   margin: auto;
+}
+
+.bright-text {
+  color:#fff;
+}
+
+.bright-text a{
+  color:#E40145;
+}
+
+.alert-custom{
+  color:#fff;
+  background-color:#98012e;
+  border-color:#fff
+}
+
+.alert-custom a{
+  color: #fff;
+  text-decoration: underline;
 }

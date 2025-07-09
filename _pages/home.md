@@ -2,37 +2,151 @@
 layout: default
 title: University Theater
 permalink: /
+no_container: True
+image_file: 'home_gallery'
+# THIS LIST IS ONLY NECESSARY IF NOT USING A FILE, IT IS LEFT IN AS AN EXAMPLE
+# image_list: 
+#   - source: 'assets/images/homepage/CAP9307.jpg'
+#   - source: 'assets/images/homepage/CAP9794.jpg'
+#   - source: 'assets/images/homepage/CPH0943.jpg'
+#   - source: 'assets/images/homepage/CPH2083.jpg'
+#   - source: 'assets/images/homepage/CPH2787.jpg'
+#   - source: 'assets/images/homepage/if_then-089.jpg'
+#   - source: 'assets/images/homepage/IMG_1590_7D.JPG'
+#   - source: 'assets/images/homepage/IMG_2067.JPG'
+#   - source: 'assets/images/homepage/IMG_2719.JPG'
+
+icon_list:
+  - group_1:
+    subtitle: 'Welcome to UT!'
+    icon_list:
+
+    - text: 'Tickets & Shows'
+      url: 'shows/'
+
+    - text: 'Events'
+      url: 'events/'
+
+    - text: 'Get Involved'
+      url: 'get-involved/'
+
+    - text: 'Learn More'
+      url: 'about/ut/'
+
+    - text: 'Mailing Lists'
+      url: 'listshost/'
+
+    - text: 'Accessibility'
+      url: 'access/'
+
+  - group_2:
+    subtitle: 'Our Organizations'
+    icon_list:
+
+    - text: "The Dean's Men"
+      url: 'https://www.facebook.com/thedeansmen/'
+
+    - text: 'Off-Off Campus'
+      url: 'https://offoffcampus.org'
+
+    - text: 'Theater[24]'
+      url: 'theater24/'
+
 ---
+<!-- YOU SHOULDN'T HAVE TO EDIT ANYTHING DOWN HERE, THOUGH YOU CAN IF YOU WANT TO -->
 
-<div markdown=1 class="alert alert-info">
-{% include home_info.md %}
-</div>
-
-<div id="show-gallery" class="carousel slide" data-ride="carousel" style="height: 50%; padding-bottom: 1em;">
-	<div class="carousel-inner" style="min-width: 100%; width: 100%; height: 100%">
-	  {% assign first_image = true %}
-	  {% for image in site.data.home_gallery %}
-	    <div class="carousel-item 
-	    {% if first_image %}
-	    	active
-	    	{% assign first_image = false %}
-	    {% endif %} text-center" style="width: 100%">
-	      {% if image.url %}<a href="{{image.url}}">{% endif %}
-	      <img src="{{image.source}}" class="center-block" style="max-width: 90%; max-height: 30rem;" alt="...">
-	      {% if image.url %}</a>{% endif %}
-	    </div>
-	  {% endfor %}
+<!-- This div sits in the background, using a bootstrap carousel to cycle through background images -->
+<div id="show-gallery" class="carousel slide" data-ride="carousel" style="position:fixed; z-index: -1; background-color: #000">
+	<div class="carousel-inner">
+		{% if page.image_file != nil and page.image_file != "" %}
+			{% assign image_list = site.data[page.image_file] %}
+		{% elsif page.image_list != nil and page.image_list != "" %}
+			{% assign image_list = page.image_list %}
+		{% else %}
+			{% assign image_list = site.data.home_gallery %}
+		{% endif %}
+		{% for image in image_list %}
+			<div class="bg-carousel-item carousel-item {% if forloop.first %} active {% endif %} text-center"
+			style="background-image:url('{{ image.source | relative_url }}');">
+			</div>
+		{% endfor %}
 	</div>
-	<a class="carousel-control-prev" href="#show-gallery" role="button" data-slide="prev">
-	  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-	  <span class="sr-only">Previous</span>
-	</a>
-	<a class="carousel-control-next" href="#show-gallery" role="button" data-slide="next">
-	  <span class="carousel-control-next-icon" aria-hidden="true"></span>
-	  <span class="sr-only">Next</span>
-	</a>
 </div>
 
-# Welcome to UT!
+<!-- This div fills at least the remaining space of the screen & contains the page content -->
+<!-- The height is the space between the header and footer (assuming no text wrap on either of them) minus the margins -->
+<div class="container bright-text" style="margin-top:1em; min-height: calc(100vh - 2rem - calc(23px*1.5) - 1rem - 0.625rem - calc(1.5*1.5*1rem) - 1rem)"> 
 
-{% include about-ut.md %}
+  <!-- This div produces a grid of links to important pages -->
+  <div>
+    {% for group in page.icon_list %}
+      {% if group.subtitle != nil and group.subtitle != "" %}
+        <h1 style="text-align: center; color: #fff"> {{group.subtitle}}</h1>
+      {% endif %}
+      <div class ="icon-grid">
+        {% for icon in group.icon_list %}
+          <a class="grid-icon" href="{{icon.url}}">
+            <p class="grid-text">{{icon.text}}</p>
+          </a>
+        {% endfor %}
+      </div>
+    {% endfor %}
+    <hr color="#fff" size="2px">
+  </div>
+  
+  <!-- This diplays alerts, as taken from _includes/alert-msg.md. This is intended to be used for things like show cancellations, but use it however seems fitting. -->
+  {%- capture alert -%} {%- include alert-msg.md -%} {%- endcapture -%}
+  {%- if alert != "" -%}
+  <div class="alert alert-info alert-custom">
+    <p markdown=1 style="margin-bottom:0.75rem; ">{{ alert | markdownify | remove: '<p>' | remove: '</p>'}}</p>
+  </div>
+  {%- endif -%} 
+
+  <!-- This displays the list of shows that UT is presenting, as taken from the _data/show-refs/presenting_list.yml -->
+  <p markdown=1 class="bright-text" style="margin-bottom:0">   
+    {%- assign page = site.data.show-refs.presenting-list -%}
+    {%- assign shows = site.shows -%}
+
+    {%- for quarter in page.quarters -%}
+      {%- if forloop.first -%} UT is producing
+      {% elsif forloop.last -%} 
+        {% if forloop.length == 2 -%} and 
+        {% else %}, and
+        {% endif -%}
+      {% else -%}, 
+      {% endif -%}
+
+      {% for target_show in quarter.shows -%}
+        {% if forloop.first -%}
+        {% elsif forloop.last -%}
+          {% if forloop.length == 2 -%} and
+          {% else -%}, and 
+          {% endif -%}
+        {% else -%}, 
+        {% endif -%}
+        
+        {%- for show in shows -%}
+        {% if show.url == target_show.url -%}
+          {% if show.workshops -%}
+            {% for workshop in show.workshops -%}
+              ***[{{workshop.title}}]({{workshop.url}})***
+            {% endfor -%}
+          {% else -%}
+            ***[{{show.title}}]({{show.url}})***
+          {% endif -%} 
+        {% break %} {% endif -%} {% endfor -%}
+      {% endfor -%} 
+      in **{{quarter.quarter | capitalize}} {{quarter.year}}**
+
+      {%- if forloop.last -%}.
+      {%- else -%} &nbsp;
+      {%- endif -%}
+      
+    {% endfor -%}
+  </p>
+  <hr color="#fff" size="2px">
+  <!-- This displays basic info about UT -->
+  <div markdown=1>
+{% include about-ut.md %} 
+
+</div>
