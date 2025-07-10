@@ -10,7 +10,7 @@ permalink: /archive/events
         <h1 style="text-align: center" class="post-title">{{ event_page.title | escape }}</h1>
     </header>
     <div class="post-content">
-        {% for event in event_page.events %}
+        {% for event in event_page.events reversed %}
         <div class="border container p-2 mb-3">
             <div class="row align-items-center">
             <div class="col-7 col-md-6 p-3">
