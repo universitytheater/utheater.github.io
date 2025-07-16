@@ -11,7 +11,7 @@ icon_list:
     subtitle: 'Welcome to UT!'
     icon_list:
 
-    - text: 'Tickets & Shows'
+    - text: 'Shows & Tickets'
       url: 'shows/'
 
     - text: 'Events'
