@@ -1,0 +1,46 @@
+---
+layout: toc
+title: University Theater By-Laws
+title_bar: By-Laws
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "cog"
+no_container: true
+permalink: /bylaws
+---
+
+<div id="all-bylaws">
+  {% assign last_modified_raw = 0 %}
+  {% assign bylaws = site.bylaws | sort: "section" %}
+  {% for bylaw in bylaws %}
+    {% assign tmp = bylaw.date | date: "%s" | plus: 0 %}
+    {% if tmp > last_modified_raw %}
+      {% assign last_modified_raw = tmp %}
+    {% endif %}
+    {% if bylaw.wrap_div %}
+      <div class="{{ bylaw.wrap_div }}">
+    {% endif %}
+    {{ bylaw.content | markdownify }}
+    {% if bylaw.wrap_div %}
+      </div>
+    {% endif %}
+  {% endfor %}
+</div>
+
+<script src="{{ site.baseurl }}/assets/js/bylaws.js"></script>
+
+{% comment %} Date ordinalizing stolen from https://stackoverflow.com/questions/18892909/ordinalize-date-formatting-in-liquid-jekyll-e-g-1st-3rd-and-4th {% endcomment %}
+{% assign last_modified = last_modified_raw | date: "%s" %}
+{% capture day_num %}
+  {% assign d = last_modified | date: "%-d" %}
+  {% case d %}
+    {% when "1" or "21" or "31" %}{{ d }}st
+    {% when "2" or "22" %}{{ d }}nd
+    {% when "3" or "23" %}{{ d }}rd
+  {% else %}{{ d }}th
+  {% endcase %}
+{% endcapture %}
+
+<p>This document was last edited on {{ last_modified | date: "%B %d, %Y"}}.</p>
+
+VPASSUP_LAST_MODIFIED_{{ last_modified }}

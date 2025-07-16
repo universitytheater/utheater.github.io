@@ -4,17 +4,7 @@ title: University Theater
 permalink: /
 no_container: True
 image_file: 'home_gallery'
-# THIS LIST IS ONLY NECESSARY IF NOT USING A FILE, IT IS LEFT IN AS AN EXAMPLE
-# image_list: 
-#   - source: 'assets/images/homepage/CAP9307.jpg'
-#   - source: 'assets/images/homepage/CAP9794.jpg'
-#   - source: 'assets/images/homepage/CPH0943.jpg'
-#   - source: 'assets/images/homepage/CPH2083.jpg'
-#   - source: 'assets/images/homepage/CPH2787.jpg'
-#   - source: 'assets/images/homepage/if_then-089.jpg'
-#   - source: 'assets/images/homepage/IMG_1590_7D.JPG'
-#   - source: 'assets/images/homepage/IMG_2067.JPG'
-#   - source: 'assets/images/homepage/IMG_2719.JPG'
+
 
 icon_list:
   - group_1:
@@ -36,12 +26,11 @@ icon_list:
     - text: 'Mailing Lists'
       url: 'listshost/'
 
-    - text: 'Accessibility'
-      url: 'access/'
+    - text: 'Locations & Access'
+      url: 'locations/'
 
-  - group_2:
-    subtitle: 'Our Organizations'
-    icon_list:
+    - text: 'Theater<wbr>[24]'
+      url: 'theater24/'
 
     - text: "The Dean's Men"
       url: 'https://www.facebook.com/thedeansmen/'
@@ -49,14 +38,11 @@ icon_list:
     - text: 'Off-Off Campus'
       url: 'https://offoffcampus.org'
 
-    - text: 'Theater[24]'
-      url: 'theater24/'
-
 ---
 <!-- YOU SHOULDN'T HAVE TO EDIT ANYTHING DOWN HERE, THOUGH YOU CAN IF YOU WANT TO -->
 
 <!-- This div sits in the background, using a bootstrap carousel to cycle through background images -->
-<div id="show-gallery" class="carousel slide" data-ride="carousel" style="position:fixed; z-index: -1; background-color: #000">
+<div id="show-gallery" class="carousel slide carousel-fade" data-ride="carousel" style="position:fixed; z-index: -1; background-color: #000">
 	<div class="carousel-inner">
 		{% if page.image_file != nil and page.image_file != "" %}
 			{% assign image_list = site.data[page.image_file] %}
@@ -67,11 +53,12 @@ icon_list:
 		{% endif %}
 		{% for image in image_list %}
 			<div class="bg-carousel-item carousel-item {% if forloop.first %} active {% endif %} text-center"
-			style="background-image:url('{{ image.source | relative_url }}');">
+			style="background-image:url('{{ image.source | relative_url }}');" data-interval="7000">
 			</div>
 		{% endfor %}
 	</div>
 </div>
+
 
 <!-- This div fills at least the remaining space of the screen & contains the page content -->
 <!-- The height is the space between the header and footer (assuming no text wrap on either of them) minus the margins -->
@@ -85,68 +72,67 @@ icon_list:
       {% endif %}
       <div class ="icon-grid">
         {% for icon in group.icon_list %}
-          <a class="grid-icon" href="{{icon.url}}">
+          <a role="button" class="grid-icon" href="{{icon.url}}">
             <p class="grid-text">{{icon.text}}</p>
           </a>
         {% endfor %}
       </div>
     {% endfor %}
-    <hr color="#fff" size="2px">
   </div>
   
-  <!-- This diplays alerts, as taken from _includes/alert-msg.md. This is intended to be used for things like show cancellations, but use it however seems fitting. -->
-  {%- capture alert -%} {%- include alert-msg.md -%} {%- endcapture -%}
-  {%- if alert != "" -%}
-  <div class="alert alert-info alert-custom">
-    <p markdown=1 style="margin-bottom:0.75rem; ">{{ alert | markdownify | remove: '<p>' | remove: '</p>'}}</p>
-  </div>
-  {%- endif -%} 
 
-  <!-- This displays the list of shows that UT is presenting, as taken from the _data/show-refs/presenting_list.yml -->
-  <p markdown=1 class="bright-text" style="margin-bottom:0">   
-    {%- assign page = site.data.show-refs.presenting-list -%}
-    {%- assign shows = site.shows -%}
+  <div>
+    <!-- This diplays alerts, as taken from _includes/alert-msg.md. This is intended to be used for things like show cancellations, but use it however seems fitting. -->
+    {%- capture alert -%} {%- include alert-msg.md -%} {%- endcapture -%}
+    {% if alert != "" or ref_page.quarters or ref_page.quarters != nil %}
+    <hr color="#fff" size="2px">
+    {% endif %}
+    {%- if alert != "" -%}
+    <div class="alert alert-info alert-custom">
+      <p markdown=1 style="margin-bottom:0.75rem; font-size:1.25rem; ">{{ alert | markdownify | remove: '<p>' | remove: '</p>'}}</p>
+    </div>
+    {%- endif -%} 
+    <!-- This displays the list of shows that UT is presenting, as taken from the _data/show-refs/presenting_list.yml -->
+    <p markdown=1 class="bright-text" style="margin-bottom:0; font-size:1.25rem; ">   
+      {%- assign ref_page = site.data.show-refs.presenting-list -%}
+      {%- assign shows = site.shows -%}
 
-    {%- for quarter in page.quarters -%}
-      {%- if forloop.first -%} UT is producing
-      {% elsif forloop.last -%} 
-        {% if forloop.length == 2 -%} and 
-        {% else %}, and
-        {% endif -%}
-      {% else -%}, 
-      {% endif -%}
-
-      {% for target_show in quarter.shows -%}
-        {% if forloop.first -%}
-        {% elsif forloop.last -%}
-          {% if forloop.length == 2 -%} and
-          {% else -%}, and 
+      {%- for quarter in ref_page.quarters -%}
+        {%- if forloop.first -%} UT is producing
+        {% elsif forloop.last -%} 
+          {% if forloop.length == 2 -%} and 
+          {% else %}, and
           {% endif -%}
         {% else -%}, 
         {% endif -%}
         
-        {%- for show in shows -%}
-        {% if show.url == target_show.url -%}
-          {% if show.workshops -%}
-            {% for workshop in show.workshops -%}
-              ***[{{workshop.title}}]({{workshop.url}})***
-            {% endfor -%}
-          {% else -%}
-            ***[{{show.title}}]({{show.url}})***
-          {% endif -%} 
-        {% break %} {% endif -%} {% endfor -%}
-      {% endfor -%} 
-      in **{{quarter.quarter | capitalize}} {{quarter.year}}**
+        {% for target_show in quarter.shows -%}
+          {% if forloop.first -%}
+          {% elsif forloop.last -%}
+            {% if forloop.length == 2 -%} and
+            {% else -%}, and 
+            {% endif -%}
+          {% else -%}, 
+          {% endif -%}
 
-      {%- if forloop.last -%}.
-      {%- else -%} &nbsp;
-      {%- endif -%}
-      
-    {% endfor -%}
-  </p>
-  <hr color="#fff" size="2px">
-  <!-- This displays basic info about UT -->
-  <div markdown=1>
-{% include about-ut.md %} 
+          {%- for show in shows -%}
+          {% if show.url == target_show.url -%}
+            {% if show.workshops -%}
+              {% for workshop in show.workshops -%}
+                ***[{{workshop.title}}]({{workshop.url}})***
+              {% endfor -%}
+            {% else -%}
+              ***[{{show.title}}]({{show.url}})***
+            {% endif -%} 
+          {% break %} {% endif -%} {% endfor -%}
+        {% endfor -%} 
+
+        in **{{quarter.quarter | capitalize}} {{quarter.year}}**
+        {%- if forloop.last -%}.
+        {%- else -%} &nbsp;
+        {%- endif -%}
+      {% endfor -%}
+    </p>
+  </div>
 
 </div>
