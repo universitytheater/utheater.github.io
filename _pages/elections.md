@@ -18,7 +18,7 @@ Read the statements from the following 2025-2026 UT Committee candidates here! E
 ---
 
 {% for candidate in ref_file%}
-<a name="{{candidate.name | slugify}}"></a>
+<a class="anchor" name="{{candidate.name | slugify}}"></a>
 #### [{{ candidate.name }}](mailto:{{candidate.email}}) {% if candidate.pronouns %} ({{candidate.pronouns | downcase }}) {% endif %}
 {{candidate.statement}}
 {% endfor %}

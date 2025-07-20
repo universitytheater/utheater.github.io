@@ -28,7 +28,8 @@ var testObj = {};
               }
               rep_innode.classList.add("valid-ref");
               if (!ref_node.id) {
-                ref_node.id = match[1].replaceAll(".", "-") + "-magic-linky-doo";
+                ref_node.id = match[1].replaceAll(".", "-");
+                ref_node.classList.add("anchor");
                 glob_ctr = glob_ctr + 1;
               }
               rep_innode.href = "#" + ref_node.id;

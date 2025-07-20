@@ -24,7 +24,7 @@ icon_list:
       url: 'about/ut/'
 
     - text: 'Mailing Lists'
-      url: 'listshost/'
+      url: 'listhost/'
 
     - text: 'Locations & Access'
       url: 'locations/'
