@@ -13,17 +13,28 @@ Our auditions are not meant to be stressful or intimidating, and all casting tea
 
 ---
 
-{% capture date_range %} 
-    {% assign month_1 = ref_page.date | date: "%m" %}
-    {% assign month_2 = ref_page.date | date: "%s" | plus: 172800 | date: "%m" %}
-    {% if month_1 == month_2 %}
-        {{ ref_page.date | date: "%b %d" }}-{{ ref_page.date | date: "%s" | plus: 172800 | date: "%d" }}
-    {% else %}
-        {{ ref_page.date | date: "%b %d" }}-{{ ref_page.date | date: "%s" | plus: 172800 | date: "%b %d" }}
-    {% endif %}
-{% endcapture %} 
+{% if ref_page.manual_date_msg %}
+{{ ref_page.manual_date_msg }}
+{% else %}
+    {% assign day_1 = ref_page.date %}
+    {% assign day_2 = ref_page.date | date: "%s" | plus: 86400 %}
+    {% assign day_callbacks = ref_page.date | date: "%s" | plus: 172800 %}
 
-Auditions will be held on Tuesday & Wednesday of first week ({{ date_range | normalize_whitespace }}) from 7-10pm on the fourth floor of Cobb Hall.
+    {% capture date_range %} 
+        {% assign month_1 = day_1 | date: "%m" %}
+        {% assign month_2 = day_2 | date: "%m" %}
+        {% if month_1 == month_2 %}
+            {{ day_1 | date: "%b %-d" }}-{{ day_2 | date: "%-d" }}
+        {% else %}
+            {{ day_1 | date: "%b %-d" }}-{{ day_2 | date: "%b %-d" }}
+        {% endif %}
+    {% endcapture %} 
+
+Auditions will be held on {{ day_1 | date: "%A" }} & {{ day_2 | date: "%A" }} of first week ({{ date_range | normalize_whitespace }}) from 7-10pm on the fourth floor of Cobb Hall. <br> 
+Callbacks will take place on {{ day_callbacks | date: "%A" }} ({{day_callbacks | date: "%b %-d"}}) from 7-10pm.
+
+{% endif %}
+
 
 **To audition, follow these steps!**
 
@@ -31,7 +42,7 @@ Auditions will be held on Tuesday & Wednesday of first week ({{ date_range | nor
 2. **Sign up for a time slot** to audition. If you are unable to make it to a live audition (e.g. due to travel), please contact the stage management for each show (listed below) for alternate audition options.
 3. **Choose an audition side.** Please note that you are not expected to memorize your side.
 4. **Come to your audition!** Please try to arrive a few minutes early so we can make sure you're all set up.
-5. **Callback auditions will be announced via email late after the last audition slot has taken place.** If you are called back, congrats! Please go to the callback room during your assigned time(s). Callbacks will take place on Thursday ({{ref_page.date | date: "%s" | plus: 259200 | date: "%b %d"}}) from 7-10pm. Note that workshops do not hold callback auditions.
+5. **Callback auditions will be announced via email late after the last audition slot has taken place.** If you are called back, congrats! Please go to the callback room during your assigned time(s). Note that workshops do not hold callback auditions.
 
 ---
 
@@ -58,7 +69,7 @@ Auditions will be held on Tuesday & Wednesday of first week ({{ date_range | nor
                 <tr>
                     <td> <em> <strong> <a href="{{ show.url }}"> {{ workshop.title }} </a> </strong> </em> 
                         {% if workshop.author %} <br> by {{ workshop.author}} {% endif %} </td>
-                    <td> {{ show.week }} </td>
+                    <td> {{ show.week }} ({{ show.quarter | capitalize }}) </td>
                     <td> <a href="{{ workshop.signup_link }}"> Signup Link </a> </td>
                     <td> <a href="{{ workshop.sides_link }}"> Sides Link </a> </td>
                     <td> {% for contact in workshop.audition_contact %}
@@ -73,7 +84,7 @@ Auditions will be held on Tuesday & Wednesday of first week ({{ date_range | nor
             <tr>
                 <td> <em> <strong> <a href="{{ show.url }}"> {{ show.title }} </a> </strong> </em> 
                     {% if show.author %} <br> by {{ show.author}} {% endif %} </td>
-                <td> {{ show.week }} </td>
+                <td> {{ show.week }} ({{ show.quarter | capitalize }}) </td>
                 <td> <a href="{{ show.signup_link }}"> Signup Link </a> </td>
                 <td> <a href="{{ show.sides_link }}"> Sides Link </a> </td>
                 <td> {% for contact in show.audition_contact %}
