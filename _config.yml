@@ -25,6 +25,8 @@ future: true
 # Build settings
 markdown: kramdown
 
+timezone: America/Chicago
+
 plugins:
   - jekyll-feed
   - jekyll-sitemap
