@@ -9,14 +9,18 @@
 <link rel="stylesheet" href="{{ site.baseurl }}/assets/main.css">
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-FBPBTEZB14"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+ {% unless jekyll.environment == "development" %}
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-FBPBTEZB14"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
 
-  gtag('config', 'G-FBPBTEZB14');
-</script>
+    gtag('config', 'G-FBPBTEZB14');
+  </script>
+{% endunless %}
+
+
 
 <!-- Icon Font -->
 <script src="https://kit.fontawesome.com/34200773de.js" crossorigin="anonymous"></script>
