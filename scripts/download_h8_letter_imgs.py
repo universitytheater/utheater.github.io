@@ -1,3 +1,7 @@
+# This script seems to have been used to download all of the company photos from My H8 Letter To The Gr8 American Theater (it was a TAPS Pro-Show, so they had photos)
+# It seems to have been used once to download them, and never again.
+# It is therefore unnecessary. - Will
+
 from bs4 import BeautifulSoup
 import requests
 import shutil

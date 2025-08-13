@@ -1,3 +1,7 @@
+# This script seems to have been used to automate the capture of old UT show data from a now defunct portion of arts.uchicago.edu
+# It seems to have been intended to be used only once to capture everything,
+# so it is both unnecessary and broken (since the page that it got info from is gone.) - Will
+
 from bs4 import BeautifulSoup
 import requests
 import yaml

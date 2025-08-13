@@ -1,3 +1,8 @@
+# From what I can tell, this script was used to migrate to a new database struccture, and is now unnecessary.
+# It seems like the original system had the information for every show in a single yaml file, instead of as a collection.
+# This script was used to automate the process of migrating the data from the yaml file into the shows collection.
+# That migration is well and truly complete, so this file is unnecessary. - Will
+
 from glob import glob
 import os
 import yaml
