@@ -13,7 +13,7 @@ Here are some resources to help you get started in UT and learn more about the a
 * [Show Information]({{ "shows" | relative_url }})
 
 **Getting Involved**
-* [UT Listhost (Mailing List)]({{ "listhost" | relative_url }})
+* [UT Listhosts (Mailing Lists)]({{ "listhosts" | relative_url }})
 * [Actors]({{ "get-involved/actors" | relative_url }})
 * [Designers/Managers]({{ "get-involved/designers-managers" | relative_url }})
 

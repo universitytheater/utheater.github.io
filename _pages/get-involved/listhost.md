@@ -1,7 +1,7 @@
 ---
 layout: page
 title: UT Listhosts
-permalink: /listhost
+permalink: /listhosts
 ---
 
 University Theater (UT) uses mailing lists (referred to as listhosts) to communicate with our community, our audiences, and our alumni. See below for details on subscribing to or unsubscribing from the listhosts.
