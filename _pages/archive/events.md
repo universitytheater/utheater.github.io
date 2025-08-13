@@ -5,9 +5,10 @@ permalink: /archive/events
 ---
 
 {% for event_page in site.events reversed %}
+  <br>
   <article class="post">
     <header class="post-header">
-        <h1 style="text-align: center" class="post-title">{{ event_page.title | escape }}</h1>
+        <h2 style="text-align: center" class="post-title">{{ event_page.title | escape }}</h2>
     </header>
     <div class="post-content">
         {% for event in event_page.events reversed %}
