@@ -2,7 +2,7 @@
 
 layout: show-info
 slug: as-you-like-it
-hidden: false
+hidden: true
 
 
 title: As You Like It

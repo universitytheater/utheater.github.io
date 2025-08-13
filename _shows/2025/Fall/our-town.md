@@ -2,7 +2,7 @@
 
 layout: show-info
 slug: our-town
-hidden: false
+hidden: true
 
 
 title: Our Town
