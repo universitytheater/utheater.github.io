@@ -3,6 +3,8 @@
 
 # If you want your page to show up on the location hub, make sure to add the relevant info and link to _pages/locations/location-hub.md
 
+# To avoid confusion, please delete this set of comments when making your page.
+
 # Happy Editing! - Will
 
 # PLEASE DO NOT DELETE THIS FILE
@@ -23,7 +25,7 @@ DESCIRPTION OF THE LOCATION
 
 #### **Directions** 
 
-<!-- To generate this code, go to Google Maps, hit Share then Embed, and copy the code. In my experience, it does a weird squishing thing when embedded into the page. To get rid of this, I increased the value found after !1d. This appears to zoom out the image until it switches to a photo that doesn't scale weird. Logan and the Reynolds Club required values of 1100 and 1250 respectively. -->
+<!-- To generate this code, go to Google Maps, hit Share then Embed, and copy the code. In my experience, it does a weird squishing thing when embedded into the page if it's too zoomed in. The embed will copy the zoom level of the map when you hit the share button, so zooming out should fix it. -->
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1250!2d-87.60396645757874!3d41.785484267101!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880e293b56e5605f%3A0x6c39cb25111a7dc8!2sReva%20and%20David%20Logan%20Center%20for%20the%20Arts!5e1!3m2!1sen!2sca!4v1750468816602!5m2!1sen!2sca" style="border:0; display:block; margin:auto; margin-bottom:0.5rem; width:min(100%, 600px); aspect-ratio:4/3" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 BRIEF DESCIRPTION OF HOW TO GET THERE

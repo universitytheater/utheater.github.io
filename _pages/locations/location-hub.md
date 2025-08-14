@@ -22,6 +22,10 @@ Located in the [Reva and David Logan Center for the Arts](https://www.logancente
 
 Located on the third floor of the [Reynolds Club](https://studentcenters.uchicago.edu/reynolds-club/), the FXK Theater is a proscenium theater with 117 seats. The FXK is home to most Dean's Men's shows, Theater\[24\], Weekend of Workshops, and some UT mainstage shows. 
 
+### **[Definition Theater](/locations/definition)**
+
+Located just north of campus on 55th Street, Definition Theater is an independent storefront theater with ~70 seats. Definition is currently home to [Off-Off Campus](https://offoffcampus.org/)' regular season of improv and sketch comedy.
+
 ### **[Logan 501 (Theater Performance Lab)](/locations/501)**
 
 Located on the 5th floor of the [Reva and David Logan Center for the Arts](https://www.logancenter.uchicago.edu/), 501 is a semi-blackbox, semi-classroom space with up to 90 seats.
