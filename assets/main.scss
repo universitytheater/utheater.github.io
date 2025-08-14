@@ -268,12 +268,8 @@ a:hover {
   color:#98012e
 }
 
-.bg-carousel-item {
-  background-attachment: fixed;
-  background-repeat:no-repeat; 
-  background-size:cover; 
-  background-position:center; 
-  z-index:-1; 
+.custom-carousel-item {
+  object-fit: cover;
   filter: brightness(0.25); 
   height:100vh; 
   width:100vw;
@@ -327,4 +323,10 @@ a:hover {
 
 .anchor {
   scroll-margin-top: 65px;
+}
+
+.btn-custom, .btn-custom:hover, .btn-custom:active, .btn-custom:visited {
+  border-color: #98012e;
+  background-color: #98012e;
+  color: #fff;
 }

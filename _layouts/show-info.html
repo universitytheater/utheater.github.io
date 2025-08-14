@@ -95,7 +95,8 @@ layout: default
 
     {%comment%} This section displays ticket link {%endcomment%}
     {% if page.tickets_link %}
-      <p class="mt-3"><strong>Buy tickets <a href="{{ page.tickets_link }}">at this link</a>!</strong></p>
+      <button type="button" class="btn btn-primary btn-custom btn-lg" href="{{ page.tickets_link }}">Buy tickets</button>
+      {% comment %} <p class="mt-3"><strong>Buy tickets <a href="{{ page.tickets_link }}">at this link</a>!</strong></p> {% endcomment %}
     {% endif %}
 
     {%comment%} This is a legacy feature from when we used to include TAPS pro-shows in the UT show list. {%endcomment%}

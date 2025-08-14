@@ -42,7 +42,7 @@ icon_list:
 <!-- YOU SHOULDN'T HAVE TO EDIT ANYTHING DOWN HERE, THOUGH YOU CAN IF YOU WANT TO -->
 
 <!-- This div sits in the background, using a bootstrap carousel to cycle through background images -->
-<div id="show-gallery" class="carousel slide carousel-fade" data-ride="carousel" style="position:fixed; z-index: -1; background-color: #000">
+<div id="show-gallery" class="carousel slide carousel-fade bg-body" data-ride="carousel" data-interval="10000" style="position:fixed; background-color: #000" >
 	<div class="carousel-inner">
 		{% if page.image_file != nil and page.image_file != "" %}
 			{% assign image_list = site.data[page.image_file] %}
@@ -52,8 +52,9 @@ icon_list:
 			{% assign image_list = site.data.home_gallery %}
 		{% endif %}
 		{% for image in image_list %}
-			<div class="bg-carousel-item carousel-item {% if forloop.first %} active {% endif %} text-center"
-			style="background-image:url('{{ image.source | relative_url }}');" data-interval="7000">
+			<div class="carousel-item {% if forloop.first %} active {% endif %} text-center">
+        <img src ="{{ image.source | relative_url }}" class="custom-carousel-item" loading="eager">
+        </img>
 			</div>
 		{% endfor %}
 	</div>
@@ -62,7 +63,7 @@ icon_list:
 
 <!-- This div fills at least the remaining space of the screen & contains the page content -->
 <!-- The height is the space between the header and footer (assuming no text wrap on either of them) minus the margins -->
-<div class="container bright-text" style="margin-top:1em; min-height: calc(100vh - 2rem - calc(23px*1.5) - 1rem - 0.625rem - calc(1.5*1.5*1rem) - 1rem)"> 
+<div class="container bright-text" style="z-index:1; margin-top:1em; min-height: calc(100vh - 2rem - calc(23px*1.5) - 1rem - 0.625rem - calc(1.5*1.5*1rem) - 1rem)"> 
 
   <!-- This div produces a grid of links to important pages -->
   <div>
@@ -134,5 +135,5 @@ icon_list:
       {% endfor -%}
     </p>
   </div>
-
+  <br>
 </div>
