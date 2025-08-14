@@ -85,6 +85,6 @@ events:
     time: 'September, various'
     location: 'Various'
     links:
-      Show Info: https://lookingglasstheatre.org/event/ice-cream-circus/
+      Show Info: https://rhinofest.com/shows-25
       Updated Trip Info: https://docs.google.com/document/d/1gbPYEhX1NzTID8Vz_bZWjo3z0TaWgLvUI7uxLswBvhQ/edit?usp=sharing
 ---
