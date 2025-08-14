@@ -11,12 +11,14 @@
 
 layout: show-info
 slug: # required
+hidden: false
 
 
 title: # required 
 subheader:
 description: 
   - 
+access_note:
 
 
 year: # required
@@ -32,7 +34,7 @@ workshops:
 - title: 
   author: 
   description: 
-  vimeo_link: 
+  access_note: 
 
   roles: 
     Cast: 
@@ -48,6 +50,10 @@ workshops:
     - name: 
       email: 
       role: 
+  
+
+  vimeo_link: 
+
 
   signup_link: 
   sides_link: 

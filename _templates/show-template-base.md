@@ -3,6 +3,8 @@
 
 # To avoid confusion, please delete this set of comments when making your page.
 
+# required: will break the website if missing
+
 # Happy Editing! - Will
 
 # PLEASE DO NOT DELETE THIS FILE 
@@ -19,6 +21,7 @@ subheader:
 author: 
 description: 
   - 
+access_note:
 
 
 year: # required

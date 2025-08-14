@@ -1,5 +1,9 @@
 ---
-# This file is a verbose template for show info pages. Everything in all caps should be replaced with the relevant info about your show. To avoid confusion, please also delete this set of comments when making your page. For specific examples, the show pages for Fall 2025 and Winter 2-26 should follows this format (ish).
+# This file is a verbose template for show info pages. Everything in all caps should be replaced with the relevant info about your show. To avoid confusion, please also delete this set of comments when making your page. For specific examples, the show pages for Fall 2025 and Winter 2026 should follows this format (ish).
+
+# required: will break the website if missing
+# recommended: strongly suggessted as a part of a basic show page; should not cause issues if missing
+# optional: additional fields that aren't necessary for a basic show page; should not cause issues if missing
 
 # Happy Editing! - Will
 
@@ -9,22 +13,23 @@
 
 layout: show-info
 slug: SHORTENED VERSION OF SHOW NAME # (e.g. much-ado, midsummer, etc.) - must be one word (or hyphenated) and lowercase - required
-hidden: false # Change this to true to hide this show from the shows list page. The show will still have 
+hidden: false # Change this to true to hide this show from the shows list page. The show will still have a page, but it just won't show up on the shows list page
 
 
 title: SHOW TITLE # required
 subheader: SHOW SUBTITLE # optional
 author: SHOW AUTHOR # recommended
 description: 
-  - DESCRIPTION PARAGRAPH 1 # optional
+  - DESCRIPTION PARAGRAPH 1 # recommended
   - DESCRIPTION PARAGRAPH 2+ # optional
+access_note: ACCESSIBILITY INFORMATION # recommended
 
 
 year: SHOW YEAR # required
 quarter: SHOW QUARTER # required
-week: SHOW WEEK # optional
-location: THEATER NAME # optional
-location_link: LINK TO INFO ABOUT THEATER # e.g. /locations/east - optional
+week: SHOW WEEK # recommened
+location: THEATER NAME # recommended
+location_link: LINK TO INFO ABOUT THEATER # e.g. /locations/east - recommended
 season: SEASON # e.g. 2024-2025 Shows - follow formatting closely - required
 date: DATE OF SHOW # e.g. 2025-05-08 - follow formatting closely - required
 
@@ -65,40 +70,6 @@ roles:
       bio: BIO # recommended
 
 
-# Since workshops have multiple shows on one page, they need their own information sections. 
-# For workshops, everything outside of this section should relate to the entire weekend (this should include credits for liaisons and any other weekend-wide roles)
-# All information within workshops section follows the same format as the information outside of it
-# Repeat the indented section for each workshop
-workshops:
-- title: TITLE # strongly recommended
-  subheader: SUBTITLE # optional
-  author: AUTHOR # recommended
-  description: DESCRIPTION # optional
-  vimeo_link: VIMEO LINK # optional
-
-  roles: # Choose one of the options and follow the format from above. If using CSV, still use the page slug as the folder location
-    Cast: 
-      bio_file: BIO FILE # recommended
-    Production Staff:
-      bio_file: BIO FILE # recommended
-  
-  audition_contact: 
-    - name: NAME # recommended
-      email: EMAIL # recommended
-      role: ROLE # recommended
-  production_contact: 
-    - name: NAME # recommended
-      email: EMAIL # recommended
-      role: ROLE # recommended
-
-
-signup_link: AUDITION SIGN-UP FORM LINK # recommended
-sides_link: AUDITION SIDES LINK # recommended
-other_links:
-  Audition Info: AUDITION INFO LINK # recommended
-  # OTHER: OTHER AUDITION LINK # optional
-
-
 audition_contact: # This is where you put the person (or people) who should be contacted for audition-related questions (usually SM)
   - name: NAME  # recommended
     email: EMAIL # recommended
@@ -114,4 +85,49 @@ sides_link: AUDITION SIDES LINK # recommended
 other_links:
   Audition Info: AUDITION INFO LINK # recommended
   # OTHER: OTHER AUDITION LINKS # optional
+
+
+# Since workshops have multiple shows on one page, they need their own information sections. 
+# For workshops, everything outside of this section should relate to the entire weekend (this should include credits for liaisons and any other weekend-wide roles)
+# All information within workshops section follows the same format as the information outside of it
+# Repeat the indented section for each workshop
+# You can still use the main show roles section to add general production staff
+workshops:
+- title: TITLE # strongly recommended
+  subheader: SUBTITLE # optional
+  author: AUTHOR # recommended
+  description: DESCRIPTION # optional
+  access_note: ACCESSIBILITY INFORMATION # recommended
+  
+  roles: # Choose one of the options and follow the format from above. If using CSV, still use the page slug as the folder location
+    Cast: 
+      bio_file: BIO FILE # recommended
+    Production Staff:
+      bio_file: BIO FILE # recommended
+  
+  audition_contact: 
+    - name: NAME # recommended
+      email: EMAIL # recommended
+      role: ROLE # recommended
+  production_contact: 
+    - name: NAME # recommended
+      email: EMAIL # recommended
+      role: ROLE # recommended
+
+  vimeo_link: VIMEO LINK # optional  
+
+  audition_contact: # This is where you put the person (or people) who should be contacted for audition-related questions (usually SM)
+    - name: NAME  # recommended
+      email: EMAIL # recommended
+      role: ROLE # recommended
+  production_contact: # This is where you put the person (or people) who should be contacted for production-related questions (usually PM)
+    - name: NAME # recommended
+      email: EMAIL # recommended
+      role: ROLE # recommended
+
+  signup_link: AUDITION SIGN-UP FORM LINK # recommended
+  sides_link: AUDITION SIDES LINK # recommended
+  other_links:
+    Audition Info: AUDITION INFO LINK # recommended
+    # OTHER: OTHER AUDITION LINK # optional
 ---
