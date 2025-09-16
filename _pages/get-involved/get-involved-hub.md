@@ -4,17 +4,17 @@ title: "Get Involved"
 permalink: /get-involved
 ---
 
-We're so excited that you're interested in UT! We have a wide range of programming, suited for people of all experience levels & time-committments. To stay in the loop about our events, shows, and opportunities, join one or more of our **[mailing lists](/listhosts)**. 
+We're so excited that you're interested in UT! We have a wide range of programming, suited for people of all experience levels & time-commitments. To stay in the loop about our events, shows, and opportunities, join one or more of our **[mailing lists](/listhosts)**. 
 
 #### UT Mainstages
-UT mainstages are UT's primary season of shows. Mainstages are our highest production-value and highest committment shows, and there are always a variety of roles, depending on experience and time-committment. 
+UT mainstages are UT's primary season of shows. Mainstages are our highest production-value and highest commitment shows, and there are always a variety of roles, depending on experience and time-commitment. 
 
 We typically produce 7-10 mainstage shows per year, including 3 by [The Dean's Men](https://www.facebook.com/thedeansmen/) (our Shakespeare sub-organization).
 
 **Get involved as an [actor](/get-involved/actors), [designer, or manager](/get-involved/designers-managers) or [propose a show](/get-involved/proposers)!**
 
 #### Weekend of Workshops
-Workshops are a place for shorter, often more experimental shows. They tend to have a more laid-back production atmosphere and lower time-committment while maintaining the drive and strong sense of community that make UT so special.
+Workshops are a place for shorter, often more experimental shows. They tend to have a more laid-back production atmosphere and lower time-commitment while maintaining the drive and strong sense of community that make UT so special.
 
 We typically produce 2-4 workshops per quarter in the fall and winter.
 
