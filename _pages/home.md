@@ -73,7 +73,7 @@ icon_list:
       {% endif %}
       <div class ="icon-grid">
         {% for icon in group.icon_list %}
-          <a role="button" class="grid-icon" href="{{icon.url}}">
+          <a role="button" class="no-line grid-icon" href="{{icon.url}}">
             <p class="grid-text">{{icon.text}}</p>
           </a>
         {% endfor %}

@@ -262,10 +262,16 @@ font-size: 23px;
 
 a {
   color: #98012e;
+  text-decoration: underline;
 }
 
 a:hover {
-  color:#98012e
+  color:#98012e;
+  text-decoration: underline;
+}
+
+.no-line {
+  text-decoration: none;
 }
 
 .custom-carousel-item {
