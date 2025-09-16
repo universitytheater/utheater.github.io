@@ -14,7 +14,9 @@ University Theater (UT) uses mailing lists (referred to as listhosts) to communi
 
 3. [UT Theater Trips](https://lists.uchicago.edu/web/info/ut-theater-trips) is used to communicate with members of the UT community and beyond who are interested in seeing other theater in the Chicagoland area. Information about theater trips and potential discount are sent out via this listhost. If you are interested in proposing or organizing a theater trip, reach out to [UT-Committee](mailto:ut-committee@uchicago.edu). 
 
-4. [UT Alumni](https://lists.uchicago.edu/web/info/ut-alum) is used to communicate with UT's alumni. Publicity for shows, job opportunities, and ticket information are sent out via this listhost. Community members are also welcome to email the listhost and tap into the vast theater community and its resources for any legitimate needs or calls, subject to approval by the moderation team (UT Committee Chair and Secretary).
+4. [Dean's Men](https://lists.uchicago.edu/web/info/shakespeare) is used to communicate with the Dean's Men community. Publicity for shows, audition and election information, board minutes, and miscellaneous happenings regularly go out via this listhost.
+
+5. [UT Alumni](https://lists.uchicago.edu/web/info/ut-alum) is used to communicate with UT's alumni. Publicity for shows, job opportunities, and ticket information are sent out via this listhost. Community members are also welcome to email the listhost and tap into the vast theater community and its resources for any legitimate needs or calls, subject to approval by the moderation team (UT Committee Chair and Secretary).
 
 
 #### Subscribing to the Listhost
