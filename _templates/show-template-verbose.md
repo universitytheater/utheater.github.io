@@ -87,6 +87,7 @@ other_links:
   # OTHER: OTHER AUDITION LINKS # optional
 
 
+# Note that Short Play Showcase used to be refered to as Weekend of Workshops, which is why they are refered to as workshops in the website backend.  
 # Since workshops have multiple shows on one page, they need their own information sections. 
 # For workshops, everything outside of this section should relate to the entire weekend (this should include credits for liaisons and any other weekend-wide roles)
 # All information within workshops section follows the same format as the information outside of it

@@ -42,7 +42,7 @@ Callbacks will take place on {{ day_callbacks | date: "%A" }} ({{day_callbacks |
 2. **Sign up for a time slot** to audition. If you are unable to make it to a live audition (e.g. due to travel), please contact the stage management for each show (listed below) for alternate audition options.
 3. **Choose an audition side.** Please note that you are not expected to memorize your side.
 4. **Come to your audition!** Please try to arrive a few minutes early so we can make sure you're all set up.
-5. **Callback auditions will be announced via email late after the last audition slot has taken place.** If you are called back, congrats! Please go to the callback room during your assigned time(s). Note that workshops do not hold callback auditions.
+5. **Callback auditions will be announced via email late after the last audition slot has taken place.** If you are called back, congrats! Please go to the callback room during your assigned time(s). Note that Short Plays do not hold callback auditions.
 
 ---
 
@@ -167,4 +167,4 @@ Casting decisions will be emailed to auditionees on Friday of 1st Week. Audition
 
 #### Can I be cast in more than one show?
 
-No. All directors of UT shows and workshops arbitrate casting in a closed meeting with the Director of Performance Programs to make sure actors only get cast in one show per quarter. Declining a casting offer from a UT mainstage or workshops comes with the understanding that an actor will not receive another casting offer for a UT mainstage or workshop that season. For more information, see our [bylaws regarding casting]({{ "/bylaws#VI-c-casting-arbitration" | absolute_url }})
+No. All directors of UT Mainstages and Short Plays arbitrate casting in a closed meeting with the Director of Performance Programs to make sure actors only get cast in one show per quarter. Declining a casting offer from a UT Mainstage or Short Play comes with the understanding that an actor will not receive another casting offer for a UT Mainstage or Short Plays that season. For more information, see our [bylaws regarding casting]({{ "/bylaws#VI-c-casting-arbitration" | absolute_url }})

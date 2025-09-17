@@ -20,7 +20,7 @@ Located in the [Reva and David Logan Center for the Arts](https://www.logancente
 
 ### **[The Francis X. Kinahan Theater](/locations/fxk)**
 
-Located on the third floor of the [Reynolds Club](https://studentcenters.uchicago.edu/reynolds-club/), the FXK Theater is a proscenium theater with 117 seats. The FXK is home to most Dean's Men's shows, Theater\[24\], Weekend of Workshops, and some UT mainstage shows. 
+Located on the third floor of the [Reynolds Club](https://studentcenters.uchicago.edu/reynolds-club/), the FXK Theater is a proscenium theater with 117 seats. The FXK is home to most Dean's Men's shows, Theater\[24\], Short Play Showcases, and some UT mainstage shows. 
 
 ### **[Definition Theater](/locations/definition)**
 

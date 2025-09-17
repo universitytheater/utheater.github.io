@@ -12,6 +12,8 @@ layout: default
         {{ page.year }}
       {% elsif page.slug contains "weekend-workshops" %}
         ({{ page.quarter | capitalize }} {{ page.year }})
+      {% elsif page.slug contains "short-plays" %}
+        ({{ page.quarter | capitalize }} {{ page.year }})
       {% elsif page.slug contains "staged-readings" %}
         ({{ page.quarter | capitalize }} {{ page.year }})
       {% endif %}
@@ -124,7 +126,7 @@ layout: default
       Physical accessibility information can be found at <a href="{{ page.location_link }}">{{ page.location }}'s information page</a>.
     {% endif %}
 
-    {%comment%} This conditional allows for multpiple shows to be on one page, designed for use in Weekend of Workshops pages.
+    {%comment%} This conditional allows for multpiple shows to be on one page, designed for use in Short Play Showcase (formerly Weekend of Workshops) pages.
                 It effectively duplicates the majority of the functionality from a regular page. 
                 See the corresponding section for commented code {%endcomment%}
     {% if page.workshops %}

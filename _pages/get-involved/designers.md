@@ -9,7 +9,7 @@ permalink: /get-involved/designers-managers
 
 Welcome to University Theater! We're delighted you're thinking of becoming a designer or manager for a UT production. 
 
-Ongoing workshops may have lead design positions open and lead designers/managers on mainstages may be open to assistants, though positions often get filled as performances approach. Reach out to the directors and production managers below to get connected!
+Ongoing Short Plays may have lead design positions open and lead designers/managers on mainstages may be open to assistants, though positions often get filled as performances approach. Reach out to the directors and production managers below to get connected!
 
 ---
 

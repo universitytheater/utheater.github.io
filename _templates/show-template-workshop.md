@@ -1,5 +1,5 @@
 ---
-# This file is a template for workshop info pages. For more detailed information, see show-template-verbose.md
+# This file is a template for Short Play Showcase (formerly Weekend of Workshops) info pages. For more detailed information, see show-template-verbose.md
 
 # To avoid confusion, please delete this set of comments when making your page.
 

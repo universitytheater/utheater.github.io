@@ -6,7 +6,7 @@ permalink: /get-involved/proposers
 
 The first step for any UT show is the proposal. Every year, UT invites all of its community members to propose a show that they think UT should put on. This typically means a show that you want to direct, but not necessarily! Anyone is welcome to submit a proposal for any show. We can't wait to hear your proposals!
 
-The proposal process works slightly differently for UT Mainstages, UT Workshops, and Dean's Men Mainstages; the processes for each are outlined below. 
+The proposal process works slightly differently for UT Mainstages, UT Short Plays, and Dean's Men Mainstages; the processes for each are outlined below. 
 
 These processes may vary lightly year-to-year, and while we will try to keep this up-to-date, it's a good idea to follow the instructions in the emails sent to the [UT General Listhost](/listhosts). More specific information about the broader proposal process can be found in the [bylaws](/bylaws#V-v-the-university-theater-proposal-process).
 
@@ -25,9 +25,9 @@ The Mainstage Proposal Meeting typically occurs 1 week after proposals are due. 
 Committee reaches out to proposers immediately after the meeting to tell them whether their show has been passed. The full season is announced to the community later, after scheduling is confirmed with the space managers.
 
 
-### Workshop Proposals
+### Short Play Proposals
 
-The workshop proposal process is a simplified version of the mainstage process. It takes place twice per year, and often accepts submissions on a rolling basis. It is currently being re-worked, so a full explanation will be available once that process is completed.
+The Short Play proposal process is a simplified version of the mainstage process. It takes place twice per year, and often accepts submissions on a rolling basis. It is currently being re-worked, so a full explanation will be available once that process is completed.
 
 For more information about the current process, refer to the the emails sent to the [UT General listhost](/about/listhosts) or [the bylaws](/bylaws#V-C-1).
 

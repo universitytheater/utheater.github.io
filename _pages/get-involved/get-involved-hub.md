@@ -13,10 +13,10 @@ We typically produce 7-10 mainstage shows per year, including 3 by [The Dean's M
 
 **Get involved as an [actor](/get-involved/actors), [designer, or manager](/get-involved/designers-managers) or [propose a show](/get-involved/proposers)!**
 
-#### Weekend of Workshops
-Workshops are a place for shorter, often more experimental shows. They tend to have a more laid-back production atmosphere and lower time-commitment while maintaining the drive and strong sense of community that make UT so special.
+#### Short Play Showcase
+Short Play Showcases are a place for shorter, often more experimental shows. They tend to have a more laid-back production atmosphere and lower time-commitment while maintaining the drive and strong sense of community that make UT so special.
 
-We typically produce 2-4 workshops per quarter in the fall and winter.
+We typically produce 2-4 Short Plays per quarter in the fall and winter.
 
 **Get involved as an [actor](/get-involved/actors), [designer, or manager](/get-involved/designers-managers) or [propose a show](/get-involved/proposers)!**
 

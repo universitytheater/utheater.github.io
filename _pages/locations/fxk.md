@@ -6,7 +6,7 @@ permalink: /locations/fxk
 
 Located on the third floor of the [Reynolds Club](https://studentcenters.uchicago.edu/reynolds-club/), the FXK Theater is a proscenium theater with 117 seats. 
 
-The FXK is home to most Dean's Men's shows, Theater\[24\], Weekend of Workshops, and some UT mainstage shows. 
+The FXK is home to most Dean's Men's shows, Theater\[24\], Short Play Showcases, and some UT mainstage shows. 
 
 #### **Directions** 
 
