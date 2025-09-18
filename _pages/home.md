@@ -10,7 +10,6 @@ icon_list:
   - group_1:
     subtitle: 'Welcome to UT!'
     icon_list:
-
     - text: 'Shows & Tickets'
       url: 'shows/'
 
@@ -39,6 +38,15 @@ icon_list:
       url: 'https://offoffcampus.org'
 
 ---
+<!-- If you want to edit the content of the home page, there area a couple of sections that are edited in different ways: -->
+
+<!-- The grid of links can be edited by changing the list above. The grid should automatically format to a reasonable shape in response. -->
+
+<!-- The list of shows that UT is presenting can be changed by modifying _data/show-refs/presenting-list.yml. This list contains links to show pages for the shows that you want to have appear on the front page. For Short Play Showcases, simply add the show page for the whole showcase and all relevant shows will be added. -->
+
+<!-- The alert message, where timely information such as elections, show cancellations, etc. are displayed can be edited at _includes/alert-msg.md (if that file is missing, adding it back should do the trick). It is a regular markdown file, and its contents will be diplayed in a box below the link grid. Please try to keep it short as you can, the text is big lol. -->
+
+
 <!-- YOU SHOULDN'T HAVE TO EDIT ANYTHING DOWN HERE, THOUGH YOU CAN IF YOU WANT TO -->
 
 <!-- This div sits in the background, using a bootstrap carousel to cycle through background images -->
@@ -86,20 +94,21 @@ icon_list:
     <!-- This diplays alerts, as taken from _includes/alert-msg.md. This is intended to be used for things like show cancellations, but use it however seems fitting. -->
     {%- capture alert -%} {%- include alert-msg.md -%} {%- endcapture -%}
     {% if alert != "" or ref_page.quarters or ref_page.quarters != nil %}
-    <hr color="#fff" size="2px">
     {% endif %}
     {%- if alert != "" -%}
-    <div class="alert alert-info alert-custom">
+    <div class="alert alert-info alert-custom" style="margin-bottom:2rem">
       <p markdown=1 style="margin-bottom:0.75rem; font-size:1.25rem; ">{{ alert | markdownify | remove: '<p>' | remove: '</p>'}}</p>
     </div>
     {%- endif -%} 
+
+
     <!-- This displays the list of shows that UT is presenting, as taken from the _data/show-refs/presenting_list.yml -->
-    <p markdown=1 class="bright-text" style="margin-bottom:0; font-size:1.25rem; ">   
+    <p markdown=1 class="bright-text" style="margin-bottom:2rem; font-size:1.25rem; ">   
       {%- assign ref_page = site.data.show-refs.presenting-list -%}
       {%- assign shows = site.shows -%}
 
       {%- for quarter in ref_page.quarters -%}
-        {%- if forloop.first -%} UT is producing
+        {%- if forloop.first -%} UT is presenting
         {% elsif forloop.last -%} 
           {% if forloop.length == 2 -%} and 
           {% else %}, and
@@ -135,5 +144,4 @@ icon_list:
       {% endfor -%}
     </p>
   </div>
-  <br>
 </div>
