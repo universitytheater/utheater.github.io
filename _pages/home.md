@@ -134,7 +134,7 @@ icon_list:
             {% else -%}
               ***[{{show.title}}]({{show.url}})***{% endif -%} 
           {% break %} {% endif -%} {% endfor -%}
-        {% if forloop.last %} {% endif %}
+        {%- if forloop.last %}&nbsp;{% endif -%}
         {% endfor -%} 
 
         in **{{quarter.quarter | capitalize}} {{quarter.year}}**
