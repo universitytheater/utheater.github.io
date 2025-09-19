@@ -16,10 +16,10 @@ events:
         Theater[24] is a wild ride of a theater festival where students write,
         produce, direct, rehearse and perform short plays centered around a secret
         theme all in the span of 24 hours! Come see the culmination of their work,
-        or go to [this page](/theater24) for more info about participating!
+        or [go to this page for more info](/theater24) about participating!
       time: 'Oct. 4, 8:00pm'
       end_time: 'Oct.4, 8pm'
-      location: '[FXK Theater](https://maps.app.goo.gl/13NC7ZdujSBSbkJc9)'
+      location: '[FXK Theater](/locations/fxk)'
       links:
         # Signup Form: https://forms.gle/HBrhdxb2xGLrD8MC8
         # Tickets: 
@@ -31,6 +31,7 @@ events:
       end_time: 'Nov. 21, 7:30'
       location: '[Definition Theater](/locations/definition)'
       links:
+        More information: https://www.offoffcampus.org/
         # Tickets ($5 per show):  
 
     - title: "Short Play Showcase: We're Live"
@@ -48,7 +49,7 @@ events:
       end_time: 'Nov. 8, 9pm'
       location: '[Logan Theater West](/locations/west)'
       links:
-        Show Page: /shows/2025/out-town
+        Show Page: /shows/2025/our-town
       # Tickets ($6 advance, $8 door): 
 
     - title: "As Y'all Like It"
