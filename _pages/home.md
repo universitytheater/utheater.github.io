@@ -48,6 +48,7 @@ icon_list:
 
 
 <!-- YOU SHOULDN'T HAVE TO EDIT ANYTHING DOWN HERE, THOUGH YOU CAN IF YOU WANT TO -->
+<!-- Just make sure that you are very careful about whitespace -->
 
 <!-- This div sits in the background, using a bootstrap carousel to cycle through background images -->
 <div id="show-gallery" class="carousel slide carousel-fade bg-body" data-ride="carousel" data-interval="10000" style="position:fixed; background-color: #000" >
@@ -129,12 +130,11 @@ icon_list:
           {% if show.url == target_show.url -%}
             {% if show.workshops -%}
               {% for workshop in show.workshops -%}
-                ***[{{workshop.title}}]({{workshop.url}})***
-              {% endfor -%}
+                ***[{{workshop.title}}]({{workshop.url}})***{% endfor -%}
             {% else -%}
-              ***[{{show.title}}]({{show.url}})***
-            {% endif -%} 
+              ***[{{show.title}}]({{show.url}})***{% endif -%} 
           {% break %} {% endif -%} {% endfor -%}
+        {% if forloop.last %} {% endif %}
         {% endfor -%} 
 
         in **{{quarter.quarter | capitalize}} {{quarter.year}}**
