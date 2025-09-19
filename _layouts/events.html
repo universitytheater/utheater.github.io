@@ -12,7 +12,11 @@ layout: default
   {% comment %} Display upcoming events {% endcomment %}
   <div class="post-content">
     {% for event in page.events %}
-    {% capture event-time %} {{ event.time | date: "%s" }} {% endcapture %}
+    {% if event.end_time %}
+      {% capture event-time %} {{ event.end_time | date: "%s" }} {% endcapture %}
+    {% else %}
+      {% capture event-time %} {{ event.time | date: "%s" }} {% endcapture %}
+    {% endif %}
     {% if event-time <= current-time %}
       {% continue %}
     {% endif %}
@@ -70,7 +74,11 @@ layout: default
     {% comment %} Display past events {% endcomment %}
     <h2 style="text-align: center"> Past Events </h2>
     {% for event in page.events reversed %}
-    {% capture event-time %} {{ event.time | date: "%s" }} {% endcapture %}
+    {% if event.end_time %}
+      {% capture event-time %} {{ event.end_time | date: "%s" }} {% endcapture %}
+    {% else %}
+      {% capture event-time %} {{ event.time | date: "%s" }} {% endcapture %}
+    {% endif %}
     {% if event-time > current-time %}
       {% continue %}
     {% endif %}

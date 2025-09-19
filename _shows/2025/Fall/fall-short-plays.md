@@ -41,9 +41,7 @@ workshops:
       email: 
       role: 
   
-
   vimeo_link: 
-
 
   signup_link: 
   sides_link: 
