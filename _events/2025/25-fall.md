@@ -53,8 +53,8 @@ events:
 
     - title: "As Y'all Like It"
       description:
-      time: 'Nov. 15-17, 7:30pm + Nov. 17, 2pm'
-      end_time: 'Nov. 17, 9pm'
+      time: 'Nov. 13-15, 7:30pm + Nov. 15, 2pm'
+      end_time: 'Nov. 15, 9pm'
       location: '[FXK Theater](/locations/fxk)'
       links:
         Show Page: /shows/2025/as-yall-like-it
