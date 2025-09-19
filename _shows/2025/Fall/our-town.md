@@ -33,9 +33,9 @@ roles: ###
 
 
 audition_contact: ###
-  - name: 
-    email: 
-    role: 
+  - name: Genevieve Robinson
+    email: geneviever@uchicago.edu
+    role: Stage Manager
 production_contact: ###
   - name: 
     email: 
@@ -45,6 +45,6 @@ production_contact: ###
 signup_link: 
 sides_link: 
 other_links: ###
-  Audition Info: 
+  Audition Info: https://drive.google.com/drive/folders/1AtLPNRga0Vp9B7bcZKnpolQM8akMykSj?usp=drive_link
   # OTHER:
 ---

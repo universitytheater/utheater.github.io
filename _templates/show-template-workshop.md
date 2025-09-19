@@ -10,7 +10,7 @@
 
 
 layout: show-info
-slug: # required
+slug: # must include "weekend-workshops" or "short-plays" - required
 hidden: false
 
 
@@ -51,9 +51,7 @@ workshops:
       email: 
       role: 
   
-
   vimeo_link: 
-
 
   signup_link: 
   sides_link: 

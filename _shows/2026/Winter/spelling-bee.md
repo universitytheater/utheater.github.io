@@ -23,7 +23,7 @@ description:
 
 year: 2026
 quarter: Winter
-week: 6
+week: 5
 location: Logan Theater West
 location_link: /locations/west
 season: 2025-2026 Shows
@@ -42,18 +42,18 @@ roles: ###
 
 
 audition_contact: ###
-  - name: 
-    email: 
-    role: 
+  - name: Amalia Benghiat
+    email: abenghiat@uchicago.edu
+    role: Stage Manager
 production_contact: ###
-  - name: 
-    email: 
-    role: 
+  - name: Rachel Bolte
+    email: rachelbolte@uchicago.edu
+    role: Production Manager
 
 
 signup_link: 
 sides_link: 
 other_links: ###
-  Audition Info: 
+  Audition Info: https://drive.google.com/drive/folders/1LytaAGXWkD6DDP7KW1_zhor-b3akMgN4?usp=drive_link
   # OTHER:
 ---

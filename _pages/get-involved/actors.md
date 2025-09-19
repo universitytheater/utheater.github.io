@@ -70,8 +70,8 @@ Callbacks will take place on {{ day_callbacks | date: "%A" }} ({{day_callbacks |
                     <td> <em> <strong> <a href="{{ show.url }}"> {{ workshop.title }} </a> </strong> </em> 
                         {% if workshop.author %} <br> by {{ workshop.author}} {% endif %} </td>
                     <td> {{ show.week }} ({{ show.quarter | capitalize }}) </td>
-                    <td> <a href="{{ workshop.signup_link }}"> Signup Link </a> </td>
-                    <td> <a href="{{ workshop.sides_link }}"> Sides Link </a> </td>
+                    <td> {% if workshop.signup_link and workshop.signup_link != nil %} <a href="{{ workshop.signup_link }}"> Signup Link </a> {% endif %} </td>
+                    <td> {% if workshop.sides_link and workshop.sides_link != nil %} <a href="{{ workshop.sides_link }}"> Sides Link </a> {% endif %} </td>
                     <td> {% for contact in workshop.audition_contact %}
                         <a href="mailto:{{ contact.email }}"> {{ contact.name }} </a> 
                         {% if contact.role and contact.role != nil %} ({{ contact.role }}) {% endif %}

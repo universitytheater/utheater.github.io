@@ -12,7 +12,7 @@
 
 
 layout: show-info
-slug: SHORTENED VERSION OF SHOW NAME # (e.g. much-ado, midsummer, etc.) - must be one word (or hyphenated) and lowercase - required
+slug: SHORTENED VERSION OF SHOW NAME # (e.g. much-ado, midsummer, etc.) - must be one word (or hyphenated) and lowercase - must incluide "weekend-workshops" or "short-plays" if it is a Short Play Showcase - required
 hidden: false # Change this to true to hide this show from the shows list page. The show will still have a page, but it just won't show up on the shows list page
 
 

@@ -1,11 +1,11 @@
 ---
 
 layout: show-info
-slug: as-you-like-it
+slug: as-yall-like-it
 hidden: true
 
 
-title: As You Like It
+title: As Y'all Like It
 subheader:
 author: William Shakespeare
 description: 
@@ -33,9 +33,9 @@ roles: ###
 
 
 audition_contact: ###
-  - name: 
-    email: 
-    role: 
+  - name: Jasmine Li
+    email: jasmineli@uchicago.edu
+    role: Stage Manager
 production_contact: ###
   - name: 
     email: 
@@ -45,6 +45,6 @@ production_contact: ###
 signup_link: 
 sides_link: 
 other_links: ###
-  Audition Info: 
+  Audition Info: https://drive.google.com/drive/folders/1JtQyCBeOF3X5lAYOhWO_TXt2OMofpaac?usp=drive_link
   # OTHER:
 ---
