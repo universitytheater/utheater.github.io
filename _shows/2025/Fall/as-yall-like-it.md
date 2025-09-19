@@ -2,7 +2,7 @@
 
 layout: show-info
 slug: as-yall-like-it
-hidden: true
+hidden: false
 
 
 title: As Y'all Like It
