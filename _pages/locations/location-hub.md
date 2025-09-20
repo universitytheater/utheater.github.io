@@ -4,7 +4,7 @@ title: Locations & Accessibility
 permalink: /locations
 ---
 
-While UT does not own or manage its own theaters, we regularly operate out of most of UChicago's major theaters. The majority of our shows take place in [Logan Theater West](/locations/west), [Logan Theater East](/locations/east), and the [FXK Theater](/locations/fxk).
+While UT does not own or manage its own theaters, we regularly operate out of most of UChicago's major theaters. The majority of our shows take place in Logan Theater West, Logan Theater East, and the FXK Theater.
 
 Information about physical (or otherwise location-based) accessibility can be found on the location pages linked below or by reaching out to [UT Committee](mailto:ut-committee@uchicago.edu).
 
@@ -24,7 +24,7 @@ Located on the third floor of the [Reynolds Club](https://studentcenters.uchicag
 
 ### **[Definition Theater](/locations/definition)**
 
-Located just north of campus on 55th Street, Definition Theater is an independent storefront theater with ~70 seats. Definition is currently home to [Off-Off Campus](https://offoffcampus.org/)' regular season of improv and sketch comedy.
+Located just north of campus on 55th Street, Definition Theater is an independent storefront theater with ~70 seats. Definition is currently home to Off-Off Campus' regular season of improv and sketch comedy.
 
 ### **[Logan 501 (Theater Performance Lab)](/locations/501)**
 

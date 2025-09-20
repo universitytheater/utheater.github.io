@@ -18,7 +18,7 @@ After entering the Logan Center through the 60th Street entrance, walk down the 
 
 Theater West is located on the first floor. Because the seating configuration in Theater West is configurable, accessible seating will be available on request. Please reach out to [UT Committee](mailto:ut-committee@uchicago.edu) to allow us to set things up in advance, or arrive early so that we can arrange something. 
 
-Gender-neutral, wheelchair accessible bathrooms are available on both the 2nd floor or lower level, which can be accessed via the elevator in the atrium, just outside of the theater. 
+Gender-neutral, wheelchair accessible bathrooms are available on both the 2nd floor or lower level, which can be accessed via the elevator in the atrium, just outside of the theater. Gendered, wheelchair accessible bathrooms are located on the lower level.
 
 Due to technical and financial limitations, we are typically unable to provide audio description, ASL interpretation, or alternate-print programs. If you are blind or have low vision, please reach out to [UT Committee](mailto:ut-committee@uchicago.edu) if there is anything else that we can provide to make the experience better for you.
 

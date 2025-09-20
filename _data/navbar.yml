@@ -4,6 +4,7 @@
   page: /events
 - name: Get Involved
   subpages:
+    - General: _pages/get-involved/get-involved-hub.md
     - Actors: _pages/get-involved/actors.md
     - Designers & Managers: _pages/get-involved/designers.md
     - Propose a Show: _pages/get-involved/proposers.md
@@ -15,6 +16,7 @@
     - Locations & Accessibility: _pages/locations/location-hub.md
     - About UT Committee: _pages/about/committee.md
     - About TAPS: https://taps.uchicago.edu/
+    - About Off-Off Campus: https://offoffcampus.org/
     - About CTS: _pages/about/cts.md
     - UT Bylaws: _pages/about/bylaws.html
 - name: Resources

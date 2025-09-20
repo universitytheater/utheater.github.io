@@ -18,7 +18,7 @@ After entering Reynolds Club through the 57th Street Entrance, walk up the stair
 
 There are two accessible entrances to Reynolds Club, one on 57th Street, with a lift up the entrance staircase, and one via Hutchinson Courtyard, which enters on the main floor level. The FXK is accessible via elevator from the first floor of Reynolds Club (see directions above). Wheelchair accessible seating is available. We do not sell dedicated accessible tickets, so please ask our front-of-house staff for assistance.
 
-Wheelchair accessible bathrooms are available on both the 2nd floor or lower level, which can be accessed via the elevator in the atrium, just outside of the theater. There are, unfortunately, not gender-neutral bathrooms in the Reynolds Club. Please use the bathroom that aligns the best with you personal gender identity and expression.
+Wheelchair accessible bathrooms are available on the lower level, which can be accessed via the elevator in the atrium, just outside of the theater. There are also non-wheelchair accessible bathrooms just below the theater on the 2nd floor. There are, unfortunately, no gender-neutral bathrooms in the Reynolds Club. Please use the bathroom that aligns the best with you personal gender identity and expression.
 
 Due to technical and financial limitations, we are typically unable to provide audio description, ASL interpretation, or alternate-print programs. If you are blind or have low vision, please reach out to [UT Committee](mailto:ut-committee@uchicago.edu) if there is anything else that we can provide to make the experience better for you.
 

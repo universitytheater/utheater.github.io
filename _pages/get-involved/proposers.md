@@ -34,6 +34,6 @@ For more information about the current process, refer to the the emails sent to 
 
 ### Dean's Men Proposals
 
-The Dean's Men proposal process typically takes place in the Spring quarter of every year. The deadlines and details for this process are sent out via the [Dean's Men listhost](/about/listhosts)
+The Dean's Men proposal process typically takes place in the Spring quarter of every year. The deadlines and details for this process are sent out via the [Dean's Men listhost](/about/listhosts).
 
 For more information about the process, refer to [the bylaws](/bylaws#II-k-show-proposals).

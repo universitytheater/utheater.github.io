@@ -19,7 +19,7 @@ Free street parking is available, but limited.
 
 Definition Theater is wheelchair accessible via the front entrance.
 
-Gender-neutral, wheelchair accessible bathrooms are available down the hallway at the back of the theater
+Gender-neutral, wheelchair accessible bathrooms are available down the hallway at the back of the theater.
 
 Due to technical and financial limitations, we are typically unable to provide audio description, ASL interpretation, or alternate-print programs. If you are blind or have low vision, please reach out to [UT Committee](mailto:ut-committee@uchicago.edu) if there is anything else that we can provide to make the experience better for you.
 
