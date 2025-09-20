@@ -1,5 +1,4 @@
 ---
-
 layout: show-info
 slug: as-yall-like-it
 hidden: false
@@ -37,14 +36,13 @@ audition_contact: ###
     email: jasmineli@uchicago.edu
     role: Stage Manager
 production_contact: ###
-  - name: 
-    email: 
-    role: 
+  - name: Alasdair Dodd
+    email: alasdair@uchicago.edu
+    role: Production Manager
 
 
-signup_link: 
-sides_link: 
+signup_link: https://docs.google.com/document/d/1xe-AxlVnjr_JMD9yf3RHW8jKeuupqbym9ULSNdf4l1g/edit?usp=drive_link
+sides_link: https://drive.google.com/drive/folders/1DuyHp4_Q4lLvfoJfaXSRYMwztmjnvYX7?usp=drive_link
 other_links: ###
-  Audition Info: https://drive.google.com/drive/folders/1JtQyCBeOF3X5lAYOhWO_TXt2OMofpaac?usp=drive_link
-  # OTHER:
+  More Info: https://drive.google.com/drive/folders/1JtQyCBeOF3X5lAYOhWO_TXt2OMofpaac?usp=drive_link
 ---
