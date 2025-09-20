@@ -20,3 +20,7 @@ quarters:
     shows: 
       - url: /shows/2026/spelling-bee
       - url: /shows/2026/red-rex
+  - quarter: Spring
+    year: 2026
+    shows:
+      - url: /shows/2026/arsenic

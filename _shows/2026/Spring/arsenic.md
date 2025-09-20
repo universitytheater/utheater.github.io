@@ -1,25 +1,24 @@
 ---
-
-
 layout: show-info
-slug: red-rex
+slug: arsenic
 hidden: true
 
 
-title: Red Rex
+title: Arsenic and Old Lace
 subheader:
-author: Ike Holter
+author: Joseph Kesselring
 description: 
   - 
+access_note:
 
 
 year: 2026
-quarter: winter
+quarter: Spring
 week: 8
 location: Logan Theater West
 location_link: /locations/west
 season: 2025-2026 Shows
-date: 2026-02-26
+date: 2026-05-16
 
 
 tickets_link: 
@@ -27,25 +26,25 @@ vimeo_link:
 
 
 roles: ###
-#   Cast: ###
-#     bio_file: 
-#   Production Staff: ###
-#     bio_file: 
+  # Cast: ###
+  #   bio_file: 
+  # Production Staff: ###
+  #   bio_file: 
 
 
 audition_contact: ###
-  - name: Linden Martin
-    email: lindenmartin@uchicago.edu
+  - name: Sara Romai
+    email: sromai@uchicago.edu
     role: Stage Manager
 production_contact: ###
   - name: Daniel Olmo
-    email: daolmo@uchicago.edu 
+    email: daolmo@uchicago.edu
     role: Production Manager
 
 
-signup_link: /404
-sides_link: /404
+signup_link: 
+sides_link: 
 other_links: ###
-  Audition Info: /404
+  Audition Info: 
   # OTHER:
 ---
