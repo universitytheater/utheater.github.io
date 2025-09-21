@@ -6,7 +6,7 @@ subheader: ""
 subheader: ""
 description: 
   - "Prospero, a once renowned noble and artist, and his daughter Miranda are stranded on a deserted island, accompanied only by Prospero’s magical powers and magical servants Ariel and Caliban. To enact revenge against his traitorous brother Antonio, Prospero shipwrecks a boat full of nobles onto his island. In the storm the young Prince Ferdinand is separated from the group, in his haze he stumbles upon Miranda, and the two fall in love (much to the chagrin of Prospero). Meanwhile Caliban pressures the nobles’ servants Stephano and Trinculo to kill Prospero and take over the island. As all of this happens Prospero tries in vain to keep control over his domain. Magic abounds, time slips and falls, and ultimately no one is completely sure what is real."
-  - "**Performances are free and will begin at 6:30pm on Thursday, May 15th; Friday, May 16th; and Saturday, May 17 in the [Logan Center Courtyard](https://maps.app.goo.gl/21PhQFkRyXSaDKbv5). In case of rain, the show will take place in [Logan Theater East](https://maps.app.goo.gl/SMNJzmAyPPqnRtpR9).** Bring a blanket or tarp if you'd like!"
+  - <strong>Performances are free and will begin at 6:30pm on Thursday, May 15th; Friday, May 16th; and Saturday, May 17 in the <a href="https://maps.app.goo.gl/21PhQFkRyXSaDKbv5"> Logan Center Courtyard </a>. In case of rain, the show will take place in <a href="https://maps.app.goo.gl/SMNJzmAyPPqnRtpR9">Logan Theater East</a>.</strong> Bring a blanket or tarp if you'd like!
   - "Tickets are free and not required, but can be found [here](https://uchicago-student-orgs.myshopify.com/collections/university-theater-ut/products/the-tempest)"
 
 tickets_link:
