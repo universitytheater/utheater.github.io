@@ -11,25 +11,25 @@ icon_list:
     subtitle: 'Welcome to UT!'
     icon_list:
     - text: 'Shows & Tickets'
-      url: 'shows/'
+      url: 'shows'
 
     - text: 'Events'
-      url: 'events/'
+      url: 'events'
 
     - text: 'Get Involved'
-      url: 'get-involved/'
+      url: 'get-involved'
 
     - text: 'Learn More'
-      url: 'about/ut/'
+      url: 'about/ut'
 
     - text: 'Mailing Lists'
-      url: 'listhosts/'
+      url: 'listhosts'
 
     - text: 'Locations & Access'
-      url: 'locations/'
+      url: 'locations'
 
     - text: 'Theater<wbr>[24]'
-      url: 'theater24/'
+      url: 'theater24'
 
     - text: "The Dean's Men"
       url: 'https://www.facebook.com/thedeansmen/'
