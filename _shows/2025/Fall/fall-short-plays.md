@@ -46,5 +46,5 @@ workshops:
   signup_link: https://docs.google.com/document/d/1Gn4R73WES-rFZFNFmDD7PDVc2_RxfsRRrqWLKrJ-Ztc/edit?usp=drive_link
   sides_link: https://docs.google.com/document/d/1uUyjx8znsCOcAmrej3-FS6XtxSoZbuAKPg6LSjNp0GE/edit?usp=drive_link
   other_links: ###
-    More Info: https://docs.google.com/document/d/1gCxV-_xQRnxELHcHmHu4YjbsEv-M3lVzAAgRqv01d6E/edit?usp=drive_link
+    More Info: https://drive.google.com/drive/folders/1Tsv_cwpqHqdJO8fkq5I3wPWURjhpQgfD?usp=drive_link
 ---
