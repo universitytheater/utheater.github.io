@@ -8,7 +8,7 @@ title: As Y'all Like It
 subheader:
 author: William Shakespeare
 description: 
-  - 
+  - "The people have asked and we have answered: the Dean’s Men’s doing a lesbian cowboy show. When Rosalind and her loyal cousin Celia flee into the forest to escape the scheming Duke Frederick, they encounter a world where gender, power, and authority are unsteady at best. Meanwhile, Rosalind’s love interest Orlando is being cheated out of her inheritance by her brother Oliver whenever she’s not showing off her poetry and physique to the ladies. When the lovers meet again in the woods, hijinks ensue as women dress as men, shepherds outsmart courtesans, and someone gets in a fight with a lion."
 
 
 year: 2025
