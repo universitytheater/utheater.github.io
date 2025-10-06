@@ -50,11 +50,11 @@ events:
         # Signup Form: https://forms.gle/HBrhdxb2xGLrD8MC8
         # Tickets: 
 
-    - title: "Off-Off Campus Fall Season"
+    - title: "[Off-Off Campus Fall Season](https://www.offoffcampus.org/)"
       description: >-
         Off-Off Campus is the nation's oldest collegiate improv and sketch comedy group. Every Friday from 4th-8th week, Off-Off Campus will present a never-before-seen comedy show, never to be seen again!
-      time: 'Fridays 7:30pm, Oct. 24 - Nov. 21'
-      end_time: 'Nov. 21, 7:30'
+      time: 'Fridays: 8:00pm, Oct. 24 - Nov. 21'
+      end_time: 'Nov. 21, 8:00'
       location: '[Definition Theater](/locations/definition)'
       links:
         More information: https://www.offoffcampus.org/
