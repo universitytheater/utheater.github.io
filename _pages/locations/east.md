@@ -20,8 +20,8 @@ Theater East is located on the first floor. Wheelchair accessible seating is ava
 
 Gender-neutral, wheelchair accessible bathrooms are available on both the 2nd floor or lower level, which can be accessed via the elevator in the atrium, just outside of the theater. Gendered, wheelchair accessible bathrooms are located on the lower level.
 
-Due to technical and financial limitations, we are typically unable to provide audio description, ASL interpretation, or alternate-print programs. If you are blind or have low vision, please reach out to [UT Committee](mailto:ut-committee@uchicago.edu) if there is anything else that we can provide to make the experience better for you.
+Due to technical and financial limitations, we are typically unable to provide audio description, ASL interpretation, or alternate-print programs. If you are blind or have low vision, please reach out to [UT Committee](mailto:ut-committee@lists.uchicago.edu) if there is anything else that we can provide to make the experience better for you.
 
-Due to technical and financial limitations, we are typically unable to provide captions or assited hearing devices. If you are deaf or hard-of-hearing, please reach out to [UT Committee](mailto:ut-committee@uchicago.edu) if there is anything else that we can provide to make the experience better for you.
+Due to technical and financial limitations, we are typically unable to provide captions or assistive listening devices. If you are deaf or hard-of-hearing, please reach out to [UT Committee](mailto:ut-committee@lists.uchicago.edu) if there is anything else that we can provide to make the experience better for you.
 
-Information about sensory accessibility & sensitive content can typically be found on the show's info page. If it is not there, please reach out to [UT Committee](mailto:ut-committee@uchicago.edu) for more information.
+Information about sensory accessibility & sensitive content can typically be found on the show's info page. If it is not there, please reach out to [UT Committee](mailto:ut-committee@lists.uchicago.edu) for more information.

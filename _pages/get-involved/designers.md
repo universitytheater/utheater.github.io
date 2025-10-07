@@ -18,7 +18,7 @@ Ongoing Short Plays may have lead design positions open and lead designers/manag
 1. **Fill out the [UT Production Interest Form]({{ ref_page.interest_form }})** (Embedded below).
 2. **Reach out** to the contacts listed below about any shows or positions you are interested in.
 
-**Do you have any additional questions about design or management in UT?** Feel free to send them to UT Committee at [ut-committee@uchicago.edu](mailto:ut-committee@uchicago.edu)!
+**Do you have any additional questions about design or management in UT?** Feel free to send them to UT Committee at [ut-committee@lists.uchicago.edu](mailto:ut-committee@lists.uchicago.edu)!
 
 ---
 

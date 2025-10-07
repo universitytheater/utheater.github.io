@@ -107,7 +107,7 @@ Callbacks will take place on {{ day_callbacks | date: "%A" }} ({{day_callbacks |
 
 ---
 
-**Do you have any additional questions about acting in UT?** Feel free to send them to UT Committee at [ut-committee@uchicago.edu](mailto:ut-committee@uchicago.edu)!
+**Do you have any additional questions about acting in UT?** Feel free to send them to UT Committee at [ut-committee@lists.uchicago.edu](mailto:ut-committee@lists.uchicago.edu)!
 
 
 ## FAQ

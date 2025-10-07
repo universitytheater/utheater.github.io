@@ -28,7 +28,7 @@ section: "4"
     * A proposer must request a proposal liaison from Committee. The proposal liaison will meet with the proposer to discuss any questions the proposer might have about the proposal process.
     * Proposers must meet with the Director of Performance and the Committee Chair. These individuals may recommend meeting with other members of TAPS Pro-staff. Proposers must meet with the Managing Director to discuss rights, if applicable. Proposers are also strongly encouraged to meet with the Managing Director and Committee Treasurer to discuss rough budgets.
     *  Mainstage shows are divided into One-Quarter and Cross-Quarter shows and are distinguished by their different budget amounts (see I.C.4). Each show type occurs at a specific time each quarter, as specified in Section V.A.
-    *  Proposers must turn in their proposal to Committee, emailed to [ut-committee@uchicago.edu](mailto:ut-committee@uchicago.edu). Proposals are due in two rounds:
+    *  Proposers must turn in their proposal to Committee, emailed to [ut-committee@lists.uchicago.edu](mailto:ut-committee@lists.uchicago.edu). Proposals are due in two rounds:
 
         * Round I: One-Quarter and Cross-Quarter proposals for the following academic year are due by 5:00pm on Friday of 4th Week in Spring Quarter.
 
@@ -57,7 +57,7 @@ section: "4"
     RSOs may propose to collaborate with UT with the same deadline as mainstage proposals.
       * Proposers contact RSOs expressing an interest in collaborating. If another RSO would like to propose through UT, they must choose a primary proposer and follow the standard UT proposal process. 
       * Collaboration proposers are encouraged to meet with the TAPS Director of Performance and TAPS Pro-staff to discuss their proposals. Proposers meet with the Managing Director to discuss rights, if applicable.
-      * Proposers must complete the Season Proposal Form and turn in their proposal as described in Section V.B.1.d, emailed to [ut-committee@uchicago.edu](mailto:ut-committee@uchicago.edu).
+      * Proposers must complete the Season Proposal Form and turn in their proposal as described in Section V.B.1.d, emailed to [ut-committee@lists.uchicago.edu](mailto:ut-committee@lists.uchicago.edu).
       * The proposal should include the following components:
 
           * Name and information about the collaborating RSO, the proposer, and their relationship to the organization.
@@ -69,7 +69,7 @@ section: "4"
     If proposers would like to propose work for an alternative space they may propose with the same deadlines as mainstage proposals.
     * Individuals may propose site-specific work to be produced by UT. Projects appropriate for site-specific production include pieces in spaces other than Theater West, Theater East, or the FXK. The proposers are encouraged to meet with the TAPS Managing Director to discuss the production rights as well as the TAPS Production Manager to discuss the feasibility of locations cited.
     * Site Specific proposers are encouraged to meet with the TAPS Director of Performance and TAPS Pro-staff to discuss their proposals. Proposers meet with the Managing Director to discuss rights, if applicable.
-    * Proposers must complete the Season Proposal Form and turn in their proposal as described in Section V.B.1.d, emailed to ut-committee@uchicago.edu. 
+    * Proposers must complete the Season Proposal Form and turn in their proposal as described in Section V.B.1.d, emailed to [ut-committee@lists.uchicago.edu](mailto:ut-committee@lists.uchicago.edu). 
     * The proposal should answer the following Site-Specific Works sections of the Season Proposal Form: 
         * A brief description of the site-specific project.
         * Spaces under consideration.
@@ -123,7 +123,7 @@ section: "4"
 
 1. #### Proposal Process
     * Proposers are encouraged to meet with the Director of TAPS to discuss their proposals. Proposers meet with the Managing Director to discuss rights, if applicable.
-    * Proposers turn in their proposal by Friday of 5<sup>th</sup> Week by 5pm to the Committee Chair's mailbox and electronically, emailed to [ut-committee@uchicago.edu](mailto:ut-committee@uchicago.edu).
+    * Proposers turn in their proposal by Friday of 5<sup>th</sup> Week by 5pm to the Committee Chair's mailbox and electronically, emailed to [ut-committee@lists.uchicago.edu](mailto:ut-committee@lists.uchicago.edu).
     *   The proposal should include the following components:
 
           * Name and information about the proposer.

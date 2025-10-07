@@ -6,9 +6,9 @@ permalink: /locations
 
 While UT does not own or manage its own theaters, we regularly operate out of most of UChicago's major theaters. The majority of our shows take place in Logan Theater West, Logan Theater East, and the FXK Theater.
 
-Information about physical (or otherwise location-based) accessibility can be found on the location pages linked below or by reaching out to [UT Committee](mailto:ut-committee@uchicago.edu).
+Information about physical (or otherwise location-based) accessibility can be found on the location pages linked below or by reaching out to [UT Committee](mailto:ut-committee@lists.uchicago.edu).
 
-Information about sensory (or otherwise show-based) accessibility can be found on the relevant show page, or by reaching out to [UT Committee](mailto:ut-committee@uchicago.edu).
+Information about sensory (or otherwise show-based) accessibility can be found on the relevant show page, or by reaching out to [UT Committee](mailto:ut-committee@lists.uchicago.edu).
 
 ### **[Theater West](/locations/west)**
 

@@ -10,7 +10,7 @@ Committee is made up of ten elected members, as well as one representative from 
 
 **Want to run for Committee?** Elections are every year, 6th week of Winter Quarter!
 
-**How do you contact Committee?** Reach all of us at [ut-committee@uchicago.edu](mailto:ut-committee@uchicago.edu), or click on the names below to email members individually. 
+**How do you contact Committee?** Reach all of us at [ut-committee@lists.uchicago.edu](mailto:ut-committee@lists.uchicago.edu), or click on the names below to email members individually. 
 
 ---
 
