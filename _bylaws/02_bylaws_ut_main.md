@@ -87,13 +87,15 @@ section: "02"
 
 3.  #### Removal of Committee Members
     
-    In the event of either of the following instances, the Committee member is automatically removed from duties of Committee:
-      {:.ul-circle}
+    * In the event of either of the following instances, the Committee member is automatically removed from duties of Committee:
+    
+      {:.ul-lower-roman}
       *   The Committee member in question submits a letter of resignation to the Chair of the Committee.
       *   The Committee member in question ceases to be a registered student at the University of Chicago.
     
-    In the event of either of the following instance, the Committee member may be removed from duties of Committee by a two-thirds majority:
-      {:.ul-circle}
+    * In the event of either of the following instance, the Committee member may be removed from duties of Committee by a two-thirds majority:
+    
+      {:.ul-lower-roman}
       *   The Committee member in question does not meet the standards outlined in I.A.2. 
       *   The Committee member in question has proved ineffective in their other duties, especially as a Committee Liaison to a UT production.
 
