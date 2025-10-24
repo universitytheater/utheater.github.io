@@ -19,6 +19,9 @@ layout: default
       {% endif %}
     </h1>
     <h5 class="mt-2 mb-2">{{ page.subheader | newline_to_br }}</h5>
+    {% if page.author  %}
+      <h5 class="mt-2 mb-2">By {{ page.author }}</h5> 
+    {% endif  %}
     
     {%comment%} This section displays location and week {%endcomment%}
     <h5 class="week-and-location">
@@ -135,6 +138,9 @@ layout: default
       {% for workshop in page.workshops %}
         <h3 class="mt-2 mb-2 text-center">{{ workshop.title | markdownify | remove: '<p>' | remove: '</p>'}}</h3>
         <h5 class="mt-2 mb-2 text-center">{{ workshop.subheader | newline_to_br }}</h5>
+        {% if workshop.author  %}
+          <h5 class="mt-2 mb-2 text-center">By {{ workshop.author }}</h5> 
+        {% endif  %}
         <p>{{workshop.description}}</p>
         {% if workshop.vimeo_link %}
           <script src="https://player.vimeo.com/api/player.js"></script>

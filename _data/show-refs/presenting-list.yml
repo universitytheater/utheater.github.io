@@ -2,10 +2,11 @@ quarters:
   - quarter: Fall
     year: 2025
     shows:
+      - url: /shows/2025/fall-short-plays
       - url: /shows/2025/our-town
       - url: /shows/2025/as-yall-like-it
-      - url: /shows/2025/fall-short-plays
-  - quarter: Winter
-    year: 2026
-    shows: 
-      - url: /shows/2026/spelling-bee
+  # - quarter: Winter
+  #   year: 2026
+  #   shows: 
+  #     - url: /shows/2026/spelling-bee
+  #     - url: /shows/2026/red-rex
