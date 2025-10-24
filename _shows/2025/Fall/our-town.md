@@ -8,7 +8,9 @@ title: Our Town
 subheader: 
 author: Thornton Wilder
 description: 
-  - Our Town is a play written by Thorton Wilder. It is set in the early 1900's and is about the daily life of a small town in New England. It is an exploration of the themes of life, love, and death through the characters within the show. 
+  - A breakfast before school, first loves, and those quiet ordinary miracles that fill our days. Welcome to Grover’s Corners, NH, in the year 1901. Everyone knows each others' business, and the milkman still makes house calls. 
+  - Thornton Wilder’s “Our Town” might look like your average slice of small-town life, but the people of Grover’s Corners remind us how life’s biggest moments often hide in the smallest details.
+access_note: This show contains discussions of suicide, death, alcoholism, and domestic violence. 
 
 
 year: 2025
@@ -20,7 +22,7 @@ season: 2025-2026 Shows
 date: 2025-11-06
 
 
-tickets_link: 
+tickets_link: https://uchicago-student-orgs.myshopify.com/products/our-town?pr_prod_strat=collection_fallback&pr_rec_id=4e69e11b2&pr_rec_pid=9166141161640&pr_ref_pid=9166243561640&pr_seq=uniform
 vimeo_link: 
 
 

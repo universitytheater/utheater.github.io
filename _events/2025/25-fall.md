@@ -6,7 +6,7 @@ slug: fall
 events:
     - title: Exploring TAPS
       description: >-
-        Join us in Logan Theater West to hear about the [Committee on Theater and Performance Studies (TAPS)](https://taps.uchicago.edu/) and the various Performing Arts Roundtable (PAR) RSOs (that's us!) There will be some presentations given by TAPS staff and students from PAR RSOs, followed by some Q&A, where you can talk to the representatives one-on-one, as well as sign up for their [listhosts](/get-involved/listhosts).
+        Join us in Logan Theater West to hear about the [Committee on Theater and Performance Studies (TAPS)](https://taps.uchicago.edu/) and the various Performing Arts Roundtable (PAR) RSOs (that's us!) There will be some presentations given by TAPS staff and students from PAR RSOs, followed by some Q&A, where you can talk to the representatives one-on-one, as well as sign up for their [listhosts](/listhosts).
       time: 'Wednesday, Sept. 24, 11am-1pm'
       end_time: 'Sept 24, 1pm'
       location: '[Logan Theater West](/locations/west)'
@@ -53,7 +53,7 @@ events:
     - title: "[Off-Off Campus Fall Season](https://www.offoffcampus.org/)"
       description:
         - Off-Off Campus is the nation's oldest collegiate improv and sketch comedy group. Every Friday from 4th-8th week, Off-Off Campus will present a never-before-seen comedy show, never to be seen again! 
-        - Please note that the Oct. 24th show will take place in [Logan 501](/locations/501)
+        - Please note that the Oct. 24th show will take place in [Logan 501](/locations/501).
       time: 'Fridays: 8:00pm, Oct. 24 - Nov. 21'
       end_time: 'Nov. 21, 8:00'
       location: '[Definition Theater](/locations/definition)'

@@ -22,7 +22,7 @@ Here are some resources to help you get started in UT and learn more about the a
 ##### **Contact Us**
 
 * [Email UT Committee](mailto:ut-committee@lists.uchicago.edu)
-* Attend UT Committee meetings - Mondays at 5pm - See the [UT General Listhost](/get-involved/listhosts) for location info
+* Attend UT Committee meetings - Mondays at 5pm - See the [UT General Listhost](/listhosts) for location info
 * [UT Instagram](https://instagram.com/university.theater)
 * [UT Facebook page](https://www.facebook.com/universitytheater)
 * [UT Website Management](mailto:ut-website@lists.uchicago.edu) - please send me any feature requests or bug reports

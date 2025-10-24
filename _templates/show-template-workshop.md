@@ -17,7 +17,7 @@ hidden: false
 title: # required 
 subheader:
 description: 
-  - 
+  - Join us for this quarter's Short Play Showcase! Every fall and winter quarter, we produce one or more short plays, often student-written. These shows are a great opportunity to get involved at a lower level of commitment. If you're interested in being a part of a future short play, subscribe to the UT General Listhost.
 access_note:
 
 
@@ -28,6 +28,9 @@ location:
 location_link: 
 season: # e.g. 2025-2026 Shows - required
 date: # e.g. 2025-12-31 - required
+
+
+tickets_link:
 
 
 workshops:

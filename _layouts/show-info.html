@@ -51,6 +51,8 @@ layout: default
       {% if image.path contains banner_path_pattern %}
         {% assign banner_path = image.path %}
         {% break %}
+      {% elsif image.path contains "ut-logo-banner"%}
+        {% assign banner_path = image.path %}
       {% endif %}
     {% endfor %}
     
@@ -118,12 +120,12 @@ layout: default
       <p class="mt-3">{{ page.access_note  | markdownify | remove: '<p>' | remove: '</p>'}}</p>
     {% else %}
       {% unless page.workshops %}
-        <p class="mt-3">No content warnings or show-specfic accessibility information have been uploaded for this show. For more information, please contact <a href="mailto:ut-committee.uchicago.edu">UT Committee</a>.</p>
+        <p class="mt-3">No content warnings or show-specific accessibility information have been uploaded for this show. For more information, please contact <a href="mailto:ut-committee.uchicago.edu">UT Committee</a>.</p>
       {% endunless %}
     {% endif %}
 
     {% if page.location and page.location_link and page.location_link contains "/locations/" %}
-      Physical accessibility information can be found at <a href="{{ page.location_link }}">{{ page.location }}'s information page</a>.
+      <p class="mt-3"></p>Physical accessibility information can be found at <a href="{{ page.location_link }}">{{ page.location }}'s information page.</a></p>
     {% endif %}
 
     {%comment%} This conditional allows for multpiple shows to be on one page, designed for use in Short Play Showcase (formerly Weekend of Workshops) pages.
@@ -145,7 +147,7 @@ layout: default
           <p class="mt-3">{{ workshop.access_note  | markdownify | remove: '<p>' | remove: '</p>'}}</p>
         {% else %}
           {% unless page.access_note %}
-            <p class="mt-3">No content warnings or show-specfic accessibility information have been uploaded for this show. For more information, please contact <a href="mailto:ut-committee.uchicago.edu">UT Committee</a>.</p>
+            <p class="mt-3">No content warnings or show-specific accessibility information have been uploaded for this show. For more information, please contact <a href="mailto:ut-committee.uchicago.edu">UT Committee</a>.</p>
           {% endunless %}
         {% endif %}
         

@@ -7,7 +7,7 @@ hidden: false
 title: Short Play Showcase
 subheader:
 description: 
-  - 
+  - Join us for this quarter's Short Play Showcase! Every fall and winter quarter, we produce one or more short plays, often student-written. These shows are a great opportunity to get involved at a lower level of commitment. If you're interested in being a part of a future short play, subscribe to the <a href="/listhosts">UT General Listhost</a>.
 access_note:
 
 
@@ -18,6 +18,9 @@ location: FXK Theater
 location_link: /locations/fxk
 season: 2025-2026 Shows
 date: 2025-10-30
+
+
+tickets_link: https://uchicago-student-orgs.myshopify.com/collections/university-theater-ut/products/short-play-showcase-were-live
 
 
 workshops:
