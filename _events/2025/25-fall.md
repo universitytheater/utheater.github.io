@@ -51,8 +51,9 @@ events:
         # Tickets: 
 
     - title: "[Off-Off Campus Fall Season](https://www.offoffcampus.org/)"
-      description: >-
-        Off-Off Campus is the nation's oldest collegiate improv and sketch comedy group. Every Friday from 4th-8th week, Off-Off Campus will present a never-before-seen comedy show, never to be seen again!
+      description:
+        - Off-Off Campus is the nation's oldest collegiate improv and sketch comedy group. Every Friday from 4th-8th week, Off-Off Campus will present a never-before-seen comedy show, never to be seen again! 
+        - Please note that the Oct. 24th show will take place in [Logan 501](/locations/501)
       time: 'Fridays: 8:00pm, Oct. 24 - Nov. 21'
       end_time: 'Nov. 21, 8:00'
       location: '[Definition Theater](/locations/definition)'
