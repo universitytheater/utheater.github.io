@@ -205,7 +205,7 @@ layout: default
         
         {%comment%} This section loops through each person in the group, displaying their name, role, and bio. {%endcomment%}
         {% for person in bio_list %}
-          <p><strong>{{person.name | markdownify | remove: '<p>' | remove: '</p>'}}
+          <p style="margin-left:1rem"><strong>{{person.name | markdownify | remove: '<p>' | remove: '</p>'}}
           {% if person.role %}
             ({{person.role}})
           {% endif %} </strong>

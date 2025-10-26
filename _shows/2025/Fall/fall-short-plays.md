@@ -30,10 +30,10 @@ workshops:
   access_note: 
 
   roles: 
-    # Cast: 
-    #   bio_file: 
-    # Production Staff:
-    #   bio_file: 
+    Cast: 
+      bio_file: were-live-cast
+    Production Staff:
+      bio_file: were-live-crew
   
   audition_contact: ###
     - name: Nate LePelly
