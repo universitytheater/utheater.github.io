@@ -27,10 +27,10 @@ vimeo_link:
 
 
 roles: ###
-#   Cast: ###
-#     bio_file: 
-#   Production Staff: ###
-#     bio_file: 
+  Cast: ###
+    bio_file: our-town-cast
+  Production Staff: ###
+    bio_file: our-town-crew
 
 
 audition_contact: ###
