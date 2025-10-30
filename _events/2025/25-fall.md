@@ -50,7 +50,34 @@ events:
         # Signup Form: https://forms.gle/HBrhdxb2xGLrD8MC8
         # Tickets: 
 
-    - title: "[Off-Off Campus Fall Season](https://www.offoffcampus.org/)"
+    - title: "*Big White Fog* - Theater Trip"
+      description:
+        - Take advantage of a fantastic Arts Pass exclusive opportunity to see Big White Fog at Court Theater. Advance tickets are available for $5.00, and the show will be followed by a pizza dinner and a talkback with Adrienne Brown, Professor in the Departments of English and Race, Diaspora, and Indigeneity, Director Ron OJ Parson, and Assistant Director Jamaque Newberry.
+      time: 'Thursday, Oct. 9, 7:30pm'
+      end_time: 'Oct. 9, 8:00'
+      location: 'Court Theater'
+      links:
+        Sign-up Link: https://docs.google.com/forms/d/e/1FAIpQLSekfnD6cxjxrhpushxQBRoRwygz4BUbx8uloQmpktXhsShEwQ/viewform
+
+    - title: "*Revolution(s)* - Theater Trip"
+      description:
+        - Come with us to College Night at Goodman to see Revolution(s). This is a new musical exploring themes of leftism, and, well, revolution, with music and lyrics by Tom Morello of Rage Against the Machine. Use the code COLLEGE for $10.00 tickets. Your ticket to the show also includes pre-show pizza and a talkback with some of the creative team! 
+      time: 'Wednesday, Oct. 15, 6:00pm'
+      end_time: 'Oct. 15, 8:00'
+      location: 'Goodman Theater'
+      links:
+        Sign-up Link: https://docs.google.com/forms/d/e/1FAIpQLSdj9ZJisZ5KE0rBdFDtrJ1iG9N6XbmNjYHccqsbb1mTx_Fr9w/viewform
+
+    - title: "*Dutchman* - Theater Trip"
+      description:
+        - Come see this "searing examination of race, power, and social expectation, this explosive classic of American theatre surges with racial tension and sexual politics" with us!
+      time: 'Saturday, Oct. 25, 8:00 PM'
+      end_time: 'Oct. 25, 8:00'
+      location: 'Trap Door Theater'
+      links:
+        Sign-up Link: https://docs.google.com/forms/d/e/1FAIpQLSe79FMSkIrQLfdtwJHjRHCJX8HEeLxSV15v5cr2dCuCROS6hw/viewform
+
+    - title: "[Off-Off Campus Has Great Scenes](https://www.offoffcampus.org/)"
       description:
         - Off-Off Campus is the nation's oldest collegiate improv and sketch comedy group. Every Friday from 4th-8th week, Off-Off Campus will present a never-before-seen comedy show, never to be seen again! 
         - Please note that the Oct. 24th show will take place in [Logan 501](/locations/501).
@@ -59,7 +86,7 @@ events:
       location: '[Definition Theater](/locations/definition)'
       links:
         More information: https://www.offoffcampus.org/
-        # Tickets ($5 per show):  
+        Tickets ($5 per show): https://uchicago-student-orgs.myshopify.com/products/off-off-campus-has-great-scenes?pr_prod_strat=e5_desc&pr_rec_id=e77c765e2&pr_rec_pid=9157058953384&pr_ref_pid=9166243561640&pr_seq=uniform&variant=54165161509032
 
     - title: "[Short Play Showcase: We're Live](/shows/2025/fall-short-plays)"
       description: "We're Live follows a college boy, Ky, who is looking to make it big as a streamer in the ever-changing environment of content creators. As he changes his plans and ideas to grow an ever-increasing following, what does he have to sacrifice in order to make his dream a reality? Will he have to alter who he is? Only time will tell how much needs to be lost so that he gains what he’s wanted."
@@ -68,16 +95,26 @@ events:
       location: '[FXK Theater](/locations/fxk)'
       links:
         Show Page: /shows/2025/fall-short-plays
-        # Tickets ($6 advance, $8 door): 
+        Tickets ($5): https://uchicago-student-orgs.myshopify.com/collections/university-theater-ut/products/short-play-showcase-were-live
     
+    - title: "*Mr. Wolf* - Theater Trip"
+      description:
+        - Come with us to see this play written by Steppenwolf ensemble member Rajiv Joseph. Tickets are available for $15.00 using code STUDENT15.
+      time: 'Sunday, Nov. 3. 3:00 PM'
+      end_time: 'Nov. 3, 4:00'
+      location: '[Steppenwolf Theater](https://maps.app.goo.gl/yFUF3uiKzXjjvchX9)'
+      links:
+        Tickets: https://cart.steppenwolf.org/overview/20341
+        Sign-up Link: https://docs.google.com/forms/d/e/1FAIpQLSfk99x8VZaGR9ylFEmZlbEK-4TVhaE7FIxVdlViXjpnU4vrnA/viewform
+
     - title: "[Our Town](/shows/2025/our-town)"
-      description: Our Town is a play written by Thorton Wilder. It is set in the early 1900's and is about the daily life of a small town in New England. It is an exploration of the themes of life, love, and death through the characters within the show. 
+      description: A breakfast before school, first loves, and those quiet ordinary miracles that fill our days. Welcome to Grover’s Corners, NH, in the year 1901. Everyone knows each others' business, and the milkman still makes house calls. Thornton Wilder’s “Our Town” might look like your average slice of small-town life, but the people of Grover’s Corners remind us how life’s biggest moments often hide in the smallest details.
       time: 'Nov. 6-8, 7:30pm + Nov. 8, 2pm'
       end_time: 'Nov. 8, 9pm'
       location: '[Logan Theater West](/locations/west)'
       links:
         Show Page: /shows/2025/our-town
-      # Tickets ($6 advance, $8 door): 
+      Tickets ($6 advance, $8 door): https://uchicago-student-orgs.myshopify.com/collections/university-theater-ut/products/our-town
 
     - title: "[As Y'all Like It](/shows/2025/as-yall-like-it)"
       description: "The people have asked and we have answered: the Dean’s Men’s doing a lesbian cowboy show. When Rosalind and her loyal cousin Celia flee into the forest to escape the scheming Duke Frederick, they encounter a world where gender, power, and authority are unsteady at best. Meanwhile, Rosalind’s love interest Orlando is being cheated out of her inheritance by her brother Oliver whenever she’s not showing off her poetry and physique to the ladies. When the lovers meet again in the woods, hijinks ensue as women dress as men, shepherds outsmart courtesans, and someone gets in a fight with a lion."
@@ -87,5 +124,15 @@ events:
       links:
         Show Page: /shows/2025/as-yall-like-it
       # Tickets ($6 advance, $8 door): 
+
+    - title: "*Infinite Wrench* - Theater Trip"
+      description:
+        - See the Neofuturists perform 30 new 2-minute plays in one hour. Tickets are available for $10.00 using code STUDENT2025.
+      time: 'Sunday, Nov. 16, 7:00 PM'
+      end_time: 'Nov. 16, 4:00'
+      location: '[The Neo-Futurists](https://maps.app.goo.gl/1ieZJxHbzKsf4khG7)'
+      links:
+        Tickets: https://theneofuturists.my.salesforce-sites.com/ticket/#/events/a0SUn000007OLbxMAG
+        Sign-up Link: https://docs.google.com/forms/d/e/1FAIpQLSdYJJZJTgshSmY7BEqRdYb9Z2xq-oe0_R4aB2vQlfMWbVC9Mg/viewform
 
 ---

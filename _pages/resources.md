@@ -6,23 +6,23 @@ permalink: /resources
 
 Here are some resources to help you get started in UT and learn more about the arts at UChicago!
 
-##### **For Audiences**
-
-* [Buy Tickets](https://uchicago-student-orgs.myshopify.com/collections/university-theatre-ut)
-* [Audience Listhost (Mailing List)](https://lists.uchicago.edu/web/info/ut-audiences)
-* [Upcoming Events]({{ "events" | relative_url }})
-* [Show Information]({{ "shows" | relative_url }})
-
 ##### **Getting Involved**
 
-* [UT Listhosts (Mailing Lists)]({{ "listhosts" | relative_url }})
-* [Actors]({{ "get-involved/actors" | relative_url }})
-* [Designers/Managers]({{ "get-involved/designers-managers" | relative_url }})
+* [UT Listhosts (Mailing Lists)](/listhosts)
+* [Actors](/get-involved/actors)
+* [Designers/Managers](/get-involved/designers-managers)
+* [Propose a Show](/get-involved/proposers)
+
+##### **General Resources**
+
+* [Current UT Bylaws](/bylaws)
+* [UT Public Drive](https://drive.google.com/drive/folders/1PjnA1JiLiG7V-9P4BvliITN_peG3w8JV?usp=drive_link)
+* [UT Archive](/archive)
 
 ##### **Contact Us**
 
 * [Email UT Committee](mailto:ut-committee@lists.uchicago.edu)
-* Attend UT Committee meetings - Mondays at 5pm - See the [UT General Listhost](/listhosts) for location info
+* Attend UT Committee meetings - Mondays 5-6:30pm - See the [UT General Listhost](/listhosts) for location info
 * [UT Instagram](https://instagram.com/university.theater)
 * [UT Facebook page](https://www.facebook.com/universitytheater)
 * [UT Website Management](mailto:ut-website@lists.uchicago.edu) - please send me any feature requests or bug reports
@@ -35,21 +35,10 @@ Here are some resources to help you get started in UT and learn more about the a
 
 ##### **Proposal Resources**
 
-* [2025-2026 Mainstage Proposal Form](https://docs.google.com/document/d/1jrrHV23-WsUiCDdBexvmOM6XnYqONA4L8CI4OzNsrnI/edit?usp=sharing)
-* [Fall 2025 Workshop Proposal Form](https://docs.google.com/document/d/14N1rqNrj9CW0fEFlBamP8Rtz3ka8BrlDrNLtznVi_i0/edit?usp=sharing)
+* [Proposal Information Page](/get-involved/proposers)
+* [Spring 2026 Mainstage Proposal Form](https://docs.google.com/document/d/13kcQR5ul9F1y-b7tbo0r5-KVX-mr0ynSrREZaVBn6v0/edit?usp=sharing)
+* [Winter 2026 Workshop Proposal Form](https://docs.google.com/document/d/1zMLoHvZpiuiK4WScqC8aYxfARK9Hqp-dcimZaqZE0C8/edit?usp=sharing)
 * [Past Proposals](https://drive.google.com/drive/folders/1HuAAugsZYzhmiwkLl4oby_rL0uuALF2-?usp=sharing)
-
-##### **General Resources**
-
-* [Current UT Bylaws]({{ "bylaws" | relative_url }})
-* [Committee Public-Facing Documents](https://drive.google.com/drive/u/0/folders/1rjoSk2_3HE78BnKKn4vetkVOXnyIAEnq)
-
-##### **Archive**
-
-* [UT Newsletter past issues](https://us18.campaign-archive.com/home/?u=0f23bb0ae467d78c5c8d54fcc&id=2b52e2f869)
-* [Video recordings](https://vimeo.com/user133279462/videos)
-* [Show Information]({{ "shows" | relative_url }})
-* [Committee Election Information]({{ "elections" | relative_url }})
 
 ### Affiliated Organizations
 
