@@ -1,1 +1,0 @@
-Auditions will be held during 1st week. [Click here for more information!](/get-involved/actors)
