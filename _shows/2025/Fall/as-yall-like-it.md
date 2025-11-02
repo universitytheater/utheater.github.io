@@ -9,7 +9,8 @@ subheader:
 author: William Shakespeare
 description: 
   - "The people have asked and we have answered: the Dean’s Men’s doing a lesbian cowboy show. When Rosalind and her loyal cousin Celia flee into the forest to escape the scheming Duke Frederick, they encounter a world where gender, power, and authority are unsteady at best. Meanwhile, Rosalind’s love interest Orlando is being cheated out of her inheritance by her brother Oliver whenever she’s not showing off her poetry and physique to the ladies. When the lovers meet again in the woods, hijinks ensue as women dress as men, shepherds outsmart courtesans, and someone gets in a fight with a lion."
-access_note: 
+  - "Ticket link coming soon!"
+access_note: This show includes onstage depiction of stuffed animals and lesbians!!! Scary stuff.
 
 
 year: 2025
@@ -26,10 +27,10 @@ vimeo_link:
 
 
 roles: ###
-#   Cast: ###
-#     bio_file: 
-#   Production Staff: ###
-#     bio_file: 
+  Cast: ###
+    bio_file: as-yall-like-it-cast
+  Production Staff: ###
+    bio_file: as-yall-like-it-crew
 
 
 audition_contact: ###
