@@ -16,9 +16,9 @@ Our auditions are not meant to be stressful or intimidating, and all casting tea
 {% if ref_page.manual_date_msg %}
 {{ ref_page.manual_date_msg }}
 {% else %}
-    {% assign day_1 = ref_page.date %}
-    {% assign day_2 = ref_page.date | date: "%s" | plus: 86400 %}
-    {% assign day_callbacks = ref_page.date | date: "%s" | plus: 172800 %}
+    {% assign day_1 = ref_page.date | date: "%s" | plus: 21600 %}
+    {% assign day_2 = day_1 | plus: 86400 %}
+    {% assign day_callbacks = day_2 | plus: 86400 %}
 
     {% capture date_range %} 
         {% assign month_1 = day_1 | date: "%m" %}
@@ -31,7 +31,7 @@ Our auditions are not meant to be stressful or intimidating, and all casting tea
     {% endcapture %} 
 
 Auditions will be held on {{ day_1 | date: "%A" }} & {{ day_2 | date: "%A" }} of first week ({{ date_range | normalize_whitespace }}) from 7-10pm on the fourth floor of Cobb Hall. <br> 
-Callbacks will take place on {{ day_callbacks | date: "%A" }} ({{day_callbacks | date: "%b %-d"}}) from 7-10pm.
+Callbacks will take place on {{ day_callbacks | date: "%A" }} ({{ day_callbacks | date: "%b %-d" }}) from 7-10pm.
 
 {% endif %}
 

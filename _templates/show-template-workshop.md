@@ -10,7 +10,7 @@
 
 
 layout: show-info
-slug: # must include "weekend-workshops" or "short-plays" - required
+slug: # must include "weekend-workshops" or "short-plays" - required e.g. spring-short-plays
 hidden: false
 
 
@@ -33,8 +33,10 @@ date: # e.g. 2025-12-31 - required
 tickets_link:
 
 
-workshops:
+workshops: 
+# The following section is for show-specific informaton. Copy it as many times as you need. For details about how to fill out this section, see show-template-verbose.md
 - title: 
+  subheader:
   author: 
   description: 
   access_note: 

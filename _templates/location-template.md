@@ -1,7 +1,10 @@
 ---
-# This file is a template for location info pages. Everything in all caps should be replaced with the relevant info about your location. To avoid confusion, please also delete this set of comments when making your page. For specific examples, the pages for West, East, the FXK, and 501 all follow this format. Feel free to add more infomation as you see fit, just test before you push. 
+# This file is a template for location info pages. 
 
+# Files created with this template should go in _pages/locations
 # If you want your page to show up on the location hub, make sure to add the relevant info and link to _pages/locations/location-hub.md
+
+# Everything in all caps should be replaced with the relevant info about your location. For specific examples, the pages for West, East, the FXK, and 501 all follow this format. Feel free to add more infomation as you see fit, just test before you push to Github. 
 
 # To avoid confusion, please delete this set of comments when making your page.
 

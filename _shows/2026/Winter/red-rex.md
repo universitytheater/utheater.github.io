@@ -3,14 +3,14 @@
 
 layout: show-info
 slug: red-rex
-hidden: true
+hidden: false
 
 
 title: Red Rex
 subheader:
 author: Ike Holter
 description: 
-  - 
+  - A small theater company moves into an abandoned Chicago storefront. Led by their adventurously thirsty artistic director, they embark on an explosive new play with the hope of finally breaking it big. When the ensemble realizes their source material might not be as original as once assumed, they are thrust into an intense confrontation with residents of their new community, who not only want them out, but will try to take their story back by any means necessary.
 
 
 year: 2026
@@ -43,9 +43,9 @@ production_contact: ###
     role: Production Manager
 
 
-signup_link: /404
-sides_link: /404
+signup_link: https://docs.google.com/document/d/1cnA4HaeG5mLmD4XIunWZkGIOf7Fnc47iJMk1-zvJGtE/edit?usp=drive_link
+sides_link: https://docs.google.com/document/d/1l5iYe_QdvQyJqcplZN-9E9h0H8GPDOyk7X1pE6_dabA/edit?usp=drive_link
 other_links: ###
-  Audition Info: /404
+  Audition Info: https://drive.google.com/drive/folders/1VtQReJ24jvAErKPLRag_9UAyQWbh1BkQ?usp=drive_link
   # OTHER:
 ---

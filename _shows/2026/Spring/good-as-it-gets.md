@@ -1,12 +1,12 @@
 ---
 layout: show-info
-slug: arsenic
+slug: good-as-it-gets
 hidden: true
 
 
-title: Arsenic and Old Lace
+title: This is as Good as it Gets
 subheader:
-author: Joseph Kesselring
+author: Katie Keely
 description: 
   - 
 access_note:
@@ -14,11 +14,11 @@ access_note:
 
 year: 2026
 quarter: Spring
-week: 6
-location: Logan Theater West
-location_link: /locations/west
+week: 8
+location: Logan 501
+location_link: /locations/501
 season: 2025-2026 Shows
-date: 2026-05-16
+date: 2026-05-14 # FIX
 
 
 tickets_link: 
@@ -33,12 +33,12 @@ roles: ###
 
 
 audition_contact: ###
-  - name: Sara Romai
-    email: sromai@uchicago.edu
+  - name: Amalia Benghiat
+    email: abenghiat@uchicago.edu
     role: Stage Manager
 production_contact: ###
-  - name: Daniel Olmo
-    email: daolmo@uchicago.edu
+  - name: Maya Miller	
+    email: mmiller8272@uchicago.edu
     role: Production Manager
 
 

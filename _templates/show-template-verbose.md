@@ -1,9 +1,16 @@
 ---
-# This file is a verbose template for show info pages. Everything in all caps should be replaced with the relevant info about your show. To avoid confusion, please also delete this set of comments when making your page. For specific examples, the show pages for Fall 2025 and Winter 2026 should follows this format (ish).
+# This file is a verbose template for show info pages. 
+
+# Files created with this template (or the simplified versions of this template) should go in _shows/[INSERT YEAR]/[INSERT QUARTER].
+# The file name should match whatever you put in "slug" below.
+
+# Everything in all caps should be replaced with the relevant info about your show. To avoid confusion, please also delete this set of comments when making your page. For specific examples, the show pages for Fall 2025 and Winter 2026 should follow this format (ish).
 
 # required: will break the website if missing
 # recommended: strongly suggessted as a part of a basic show page; should not cause issues if missing
 # optional: additional fields that aren't necessary for a basic show page; should not cause issues if missing
+
+# To avoid confusion, please delete this set of comments when making your page.
 
 # Happy Editing! - Will
 

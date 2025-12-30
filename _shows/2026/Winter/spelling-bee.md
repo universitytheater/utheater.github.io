@@ -1,7 +1,7 @@
 ---
 layout: show-info
 slug: spelling-bee
-hidden: true
+hidden: false
 
 
 title: The 25th Annual Putnam County Spelling Bee
@@ -11,14 +11,13 @@ description:
   - The 25th Annual Putnam County Spelling Bee is a musical comedy with music and lyrics by William Finn and book by Rachel Sheinkin, telling the story of six awkward middle schoolers vying to win the Putnam County Spelling Bee. With much comedy, spelling, and improvisation, only one can leave the “champion” but all of them are winners.
 
 
-
 year: 2026
 quarter: Winter
 week: 5
 location: Logan Theater West
 location_link: /locations/west
 season: 2025-2026 Shows
-date: 2026-02-12
+date: 2026-02-05
 
 
 tickets_link: 

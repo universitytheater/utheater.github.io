@@ -1,5 +1,5 @@
 ---
 permalink: /events
-redirect: /events/2025/fall
+redirect: /events/2026/winter
 layout: redirect
 ---

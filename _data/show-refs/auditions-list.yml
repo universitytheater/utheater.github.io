@@ -1,14 +1,13 @@
 # This is the list that appears in the actor get involved page
 
-date: 2025-09-30
+date: 2026-01-06
 # If not having 2 days of regular audditions immediately followed by 1 day of callbacks, include your own message below.
-manual_date_msg: "Auditions will be held on Tuesday & Wednesday of first week (Sept 30 - Oct 1) from 7-10pm on the fourth floor of Cobb Hall. \n Callbacks will take place on Friday (Oct 3) from 7-10pm."
+manual_date_msg: 
 
-form_link: https://docs.google.com/forms/d/e/1FAIpQLScc_nvc-ds87gc13AQzgXk3wBOkLt8gKSuRIs95pIu8eBIEog/viewform?usp=sharing&ouid=114546961919507196599
-quarter: Fall
-year: 2025
+form_link: https://forms.gle/8bjHbfuAYmLSJrgc8
+quarter: Winter
+year: 2026
 shows: 
-  - url: /shows/2025/fall-short-plays
-  - url: /shows/2025/our-town
-  - url: /shows/2025/as-yall-like-it
-  - url: /shows/2026/spelling-bee
+  - url: /shows/2026/winter-short-plays
+  - url: /shows/2026/pericles
+  - url: /shows/2026/red-rex

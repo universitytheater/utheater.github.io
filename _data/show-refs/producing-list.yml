@@ -9,18 +9,16 @@ current_openings: https://docs.google.com/spreadsheets/d/e/2PACX-1vQ_pflD_0cYj9o
 interest_form: https://forms.gle/x8rr21VfC2mDmGKR7
   # This is just the normal responder share link
 quarters: 
-  - quarter: Fall
-    year: 2025
-    shows:
-      - url: /shows/2025/fall-short-plays
-      - url: /shows/2025/our-town
-      - url: /shows/2025/as-yall-like-it
   - quarter: Winter
     year: 2026
     shows: 
+      - url: /shows/2026/winter-short-plays
       - url: /shows/2026/spelling-bee
+      - url: /shows/2026/pericles
       - url: /shows/2026/red-rex
   - quarter: Spring
     year: 2026
     shows:
       - url: /shows/2026/arsenic
+      - url: /shows/2026/caesar
+      - url: /shows/2026/good-as-it-gets

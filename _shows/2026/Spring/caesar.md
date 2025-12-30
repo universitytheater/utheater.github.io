@@ -1,12 +1,12 @@
 ---
 layout: show-info
-slug: arsenic
+slug: caesar
 hidden: true
 
 
-title: Arsenic and Old Lace
+title: Julius Caesar
 subheader:
-author: Joseph Kesselring
+author: William Shakespeare
 description: 
   - 
 access_note:
@@ -14,11 +14,11 @@ access_note:
 
 year: 2026
 quarter: Spring
-week: 6
-location: Logan Theater West
-location_link: /locations/west
+week: 7
+location: TBA
+location_link: 
 season: 2025-2026 Shows
-date: 2026-05-16
+date: 2026-05-07
 
 
 tickets_link: 
@@ -33,12 +33,12 @@ roles: ###
 
 
 audition_contact: ###
-  - name: Sara Romai
-    email: sromai@uchicago.edu
+  - name: Jasmine Li
+    email: jasmineli@uchicago.edu
     role: Stage Manager
 production_contact: ###
-  - name: Daniel Olmo
-    email: daolmo@uchicago.edu
+  - name: August Petry
+    email: apetry@uchicago.edu
     role: Production Manager
 
 

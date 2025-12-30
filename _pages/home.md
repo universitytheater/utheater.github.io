@@ -130,7 +130,7 @@ icon_list:
           {% if show.url == target_show.url -%}
             {% if show.workshops -%}
               {% for workshop in show.workshops -%}
-                ***[{{workshop.title}}]({{show.url}})***{% endfor -%}
+                ***[{{workshop.title}}]({{show.url}})***{%- unless forloop.last -%}, {% endunless -%}{% endfor -%}
             {% else -%}
               ***[{{show.title}}]({{show.url}})***{% endif -%} 
           {% break %} {% endif -%} {% endfor -%}
