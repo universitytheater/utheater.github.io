@@ -8,10 +8,20 @@ layout: default
   </header>
 
   {% capture current-time %} {{ site.time | date: "%s" }} {% endcapture %}
+  {% capture current_year %} {{ site.time | date: "%Y" }} {% endcapture %}
+  {% capture page_year %} {{ page.date | date: "%Y" }} {% endcapture %}
+  {% if page_year < current_year %}
+    {% assign page_is_old = true %}
+  {% else %}
+    {%  assign page_is_old = false %}
+  {% endif %}
 
   {% comment %} Display upcoming events {% endcomment %}
   <div class="post-content">
     {% for event in page.events %}
+    {% if page_is_old == true %}
+      {%  continue  %}
+    {% endif %}
     {% if event.end_time %}
       {% capture event-time %} {{ event.end_time | date: "%s" }} {% endcapture %}
     {% else %}
@@ -23,7 +33,7 @@ layout: default
       <div class="border container p-2 mb-3">
         <div class="row align-items-center">
           <div class="col-7 col-md-6 p-3">
-            <h4 class="font-weight-bold mb-0 text-dark">{{event.title | markdownify | remove: '<p>' | remove: '</p>'}}</h4>
+            <h4 class="font-weight-bold mb-0 text-dark">{{ event.title | markdownify | remove: '<p>' | remove: '</p>' }}</h4>
             {% for para in event.description %}
             <p class="mb-1">{{para | markdownify | remove: '<p>' | remove: '</p>'}}</p>
             {% endfor %}
@@ -35,7 +45,7 @@ layout: default
                   <i class="far fa-calendar"></i>
                 </div>
                 <div class="col flex-grow-1 pl-3 pr-0">
-                    <span class="d-block">{{event.time | remove: '<p>' | remove: '</p>'}}</span>
+                    <span class="d-block">{{ event.time | remove: '<p>' | remove: '</p>' }}</span>
                 </div>
               </div>
             </div>
@@ -79,7 +89,7 @@ layout: default
     {% else %}
       {% capture event-time %} {{ event.time | date: "%s" }} {% endcapture %}
     {% endif %}
-    {% if event-time > current-time %}
+    {% if event-time > current-time and page_is_old != true %}
       {% continue %}
     {% endif %}
       <div class="border container p-2 mb-3">
