@@ -25,11 +25,20 @@ events:
       Signup Form: https://forms.gle/47HM19QMjmKU5vyG7
       # Tickets: 
 
+  # - title: Staged Readings
+  #   description: >-
+      
+  #   time: 
+  #   end_time: 
+  #   location:
+  #   links:
+  #     Sign-up Link: 
+
   - title: "[Off-Off Campus Winter Season](https://www.offoffcampus.org/)"
     description: >-
       Off-Off Campus is the nation's oldest collegiate improv and sketch comedy group. Every Friday from 4th-8th week, Off-Off Campus will present a never-before-seen comedy show, never to be seen again! 
-    time: 'Fridays: 8:00pm, Jan. 30 - Feb. 27'
-    end_time: 'Feb. 27 2026, 10pm'
+    time: 'Saturdays: 8:00pm, Jan. 31 - Feb. 28'
+    end_time: 'Feb. 28 2026, 10pm'
     location: '[Definition Theater](/locations/definition)'
     links:
       More information: https://www.offoffcampus.org/
