@@ -10,8 +10,8 @@ The 24-hour extravaganza kicks off for participants on the evening of Friday of 
 
 Feel free to [contact the Theater[24] curators](mailto:emcurran@uchicago.edu,rubioj@uchicago.edu,ozajac@uchicago.edu,cjpressey@uchicago.edu) (Emily Curran, Josiah Rubio, Oliver Zajac, and Clara Pressey) with any questions!
 
-**Ticket link coming soon**
-<!-- <a class="no-line btn btn-custom btn-lg" href="https://uchicago-student-orgs.myshopify.com/collections/university-theater-ut/products/theater24-1" role="button">Get tickets</a> -->
+<!-- **Ticket link coming soon** -->
+<a class="no-line btn btn-custom btn-lg" href="https://uchicago-student-orgs.myshopify.com/collections/university-theater-ut/products/theater24-2" role="button">Get tickets</a>
 
 ### Theater[24] signups:
 

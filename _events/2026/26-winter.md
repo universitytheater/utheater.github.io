@@ -18,12 +18,12 @@ events:
   - title: '[Theater[24] Showcase](/theater24)'
     description: >-
       Theater[24] is a wild ride of a theater festival where students write, produce, direct, rehearse and perform short plays centered around a secret theme all in the span of 24 hours! Come see the culmination of their work or [go to this page for more info](/theater24) about participating!
-    time: 'Satruday, Jan. 9, 8:00pm'
-    end_time: 'Jan. 9 2026, 10pm'
+    time: 'Satruday, Jan. 10, 8:00pm'
+    end_time: 'Jan. 10 2026, 10pm'
     location: '[FXK Theater](/locations/fxk)'
     links:
       Signup Form: https://forms.gle/47HM19QMjmKU5vyG7
-      # Tickets: 
+      Tickets ($5): https://uchicago-student-orgs.myshopify.com/collections/university-theater-ut/products/theater24-2
 
   # - title: Staged Readings
   #   description: >-
