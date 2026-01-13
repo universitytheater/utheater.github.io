@@ -39,21 +39,21 @@ events:
       Off-Off Campus is the nation's oldest collegiate improv and sketch comedy group. Every Friday from 4th-8th week, Off-Off Campus will present a never-before-seen comedy show, never to be seen again! 
     time: 'Saturdays: 8:00pm, Jan. 31 - Feb. 28'
     end_time: 'Feb. 28 2026, 10pm'
-    location: '[Definition Theater](/locations/definition)'
+    location: '[Blue Gargoyle Theater](https://maps.app.goo.gl/DgCayhqeFiiAvavE8)'
     links:
       More information: https://www.offoffcampus.org/
       # Tickets ($5 per show): 
 
   - title: "[Short Play Showcase: Winter 2026](/shows/2026/winter-short-plays)"
     description:  >-
-      Join us for this quarter's Short Play Showcase! This quarter, we are presenting 2 student-written Short Plays: *El Cepillo de Dientes* and *The Burden of Burial*.
+      Join us for this quarter's Short Play Showcase! This quarter, we are presenting 2 student-written Short Plays: *The Burden of Burial* and *El Cepillo de Dientes*.
     time: 'Jan. 29-31, 7:30pm + Jan. 31, 2pm'
     end_time: 'Jan. 31 2026, 10pm'
     location: '[FXK Theater](/locations/fxk)'
     links:
       Show Page: /shows/2026/winter-short-plays
   
-  - title: "[The 25th Anual Putnam County Spelling Bee](/shows/2026/spelling-bee)"
+  - title: "[The 25th Annual Putnam County Spelling Bee](/shows/2026/spelling-bee)"
     description:  >-
       The 25th Annual Putnam County Spelling Bee is a musical comedy with music and lyrics by William Finn and book by Rachel Sheinkin, telling the story of six awkward middle schoolers vying to win the Putnam County Spelling Bee. With much comedy, spelling, and improvisation, only one can leave the “champion” but all of them are winners.
     time: 'Feb. 5-7, 7:30pm + Feb. 7, 2pm'

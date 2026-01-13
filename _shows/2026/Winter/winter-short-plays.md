@@ -24,34 +24,6 @@ tickets_link:
 
 
 workshops:
-- title: El Cepillo de Dientes
-  author: José Díaz
-  description: <i>El Cepillo de Dientes</i> is a 1960’s Chilean play that navigates the middle class’s futile search for meaning in marriage with an absurdist lens. From bizarre fantasy games to exaggerated conflict over the simplest objects, this play is a whirlwind of humor and sharp criticism of gender roles, routine, power, and relationships. The text has been translated into English but will maintain Latin American cultural elements.
-  access_note: 
-
-  roles: 
-    # Cast: 
-    #   bio_file: 
-    # Production Staff:
-    #   bio_file: 
-  
-  audition_contact: ###
-    - name: Doris Zhao
-      email: xzhao7@uchicago.edu
-      role: Stage Manager
-  production_contact: ###
-    - name: Senna Schultz
-      email: sennas@uchicago.edu
-      role: Director
-  
-  vimeo_link: 
-
-  signup_link: https://docs.google.com/document/d/1aR58sDVBNGEafgUVAYrNXlRf-tiL8191hRG6Lzo0Uu8/edit?usp=drive_link
-  sides_link: https://docs.google.com/document/d/1Ppga0OFWIzdixF417HG7p3s5PxitCkyCvWYrzNJ9Vk4/edit?usp=drive_link
-  other_links: ###
-    Audition Info: https://drive.google.com/drive/folders/1GZG-nY8-Pxz7JMBo-F623fk8NsMA4Z8e?usp=drive_link
-
-
 - title: The Burden of Burial
   subheader: Sophocles' Antigone Reimagined
   author: Courtney Pine
@@ -79,4 +51,32 @@ workshops:
   sides_link: https://drive.google.com/drive/folders/1bpp1NM9OKwlhh05WRBnDOL0W6Xq3ZCeJ?usp=sharing
   other_links: ###
     Audition Info: https://drive.google.com/drive/folders/1SHznjqoxTamFwKXRDVQNpc126mplX4Vk?usp=drive_link
+  
+
+- title: El Cepillo de Dientes
+  author: José Díaz
+  description: <i>El Cepillo de Dientes</i> is a 1960’s Chilean play that navigates the middle class’s futile search for meaning in marriage with an absurdist lens. From bizarre fantasy games to exaggerated conflict over the simplest objects, this play is a whirlwind of humor and sharp criticism of gender roles, routine, power, and relationships. The text has been translated into English but will maintain Latin American cultural elements.
+  access_note: 
+
+  roles: 
+    # Cast: 
+    #   bio_file: 
+    # Production Staff:
+    #   bio_file: 
+  
+  audition_contact: ###
+    - name: Doris Zhao
+      email: xzhao7@uchicago.edu
+      role: Stage Manager
+  production_contact: ###
+    - name: Senna Schultz
+      email: sennas@uchicago.edu
+      role: Director
+  
+  vimeo_link: 
+
+  signup_link: https://docs.google.com/document/d/1aR58sDVBNGEafgUVAYrNXlRf-tiL8191hRG6Lzo0Uu8/edit?usp=drive_link
+  sides_link: https://docs.google.com/document/d/1Ppga0OFWIzdixF417HG7p3s5PxitCkyCvWYrzNJ9Vk4/edit?usp=drive_link
+  other_links: ###
+    Audition Info: https://drive.google.com/drive/folders/1GZG-nY8-Pxz7JMBo-F623fk8NsMA4Z8e?usp=drive_link
 ---
