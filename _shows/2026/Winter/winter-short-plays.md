@@ -19,7 +19,6 @@ location_link: /locations/fxk
 season: 2025-2026 Shows
 date: 2026-01-29
 
-
 tickets_link:
 
 
@@ -31,16 +30,16 @@ workshops:
   access_note: 
 
   roles: 
-    # Cast: 
-    #   bio_file: 
-    # Production Staff:
-    #   bio_file: 
+    Cast: 
+      bio_file: antigone-cast
+    Production Staff:
+      bio_file: antigone-crew
   
-  audition_contact: ###
+  audition_contact: 
     - name: Remi Chin
       email: rchin52@uchicago.edu
       role: Stage Manager
-  production_contact: ###
+  production_contact: 
     - name: Sara Romai
       email: sromai@uchicago.edu
       role: Production Manager
@@ -49,7 +48,7 @@ workshops:
 
   signup_link: https://docs.google.com/document/d/1j73ACISLXrhtyuI6LGAo-BraOOYHiM9N/edit?usp=drive_link&ouid=114546961919507196599&rtpof=true&sd=true
   sides_link: https://drive.google.com/drive/folders/1bpp1NM9OKwlhh05WRBnDOL0W6Xq3ZCeJ?usp=sharing
-  other_links: ###
+  other_links: 
     Audition Info: https://drive.google.com/drive/folders/1SHznjqoxTamFwKXRDVQNpc126mplX4Vk?usp=drive_link
   
 
@@ -59,16 +58,16 @@ workshops:
   access_note: 
 
   roles: 
-    # Cast: 
-    #   bio_file: 
-    # Production Staff:
-    #   bio_file: 
+    Cast: 
+      bio_file: el-cepillo-cast
+    Production Staff:
+      bio_file: el-cepillo-crew
   
-  audition_contact: ###
+  audition_contact: 
     - name: Doris Zhao
       email: xzhao7@uchicago.edu
       role: Stage Manager
-  production_contact: ###
+  production_contact: 
     - name: Senna Schultz
       email: sennas@uchicago.edu
       role: Director
@@ -77,6 +76,6 @@ workshops:
 
   signup_link: https://docs.google.com/document/d/1aR58sDVBNGEafgUVAYrNXlRf-tiL8191hRG6Lzo0Uu8/edit?usp=drive_link
   sides_link: https://docs.google.com/document/d/1Ppga0OFWIzdixF417HG7p3s5PxitCkyCvWYrzNJ9Vk4/edit?usp=drive_link
-  other_links: ###
+  other_links: 
     Audition Info: https://drive.google.com/drive/folders/1GZG-nY8-Pxz7JMBo-F623fk8NsMA4Z8e?usp=drive_link
 ---

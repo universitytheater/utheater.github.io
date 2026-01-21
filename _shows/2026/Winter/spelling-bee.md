@@ -24,18 +24,20 @@ tickets_link:
 vimeo_link: 
 
 
-roles: ###
-#   Cast: ###
-#     bio_file: 
-#   Production Staff: ###
-#     bio_file: 
+roles: 
+  Cast: 
+    bio_file: spelling-bee-cast
+  Band: 
+    bio_file: spelling-bee-band
+  Production Staff:
+    bio_file: spelling-bee-crew
 
 
-audition_contact: ###
+audition_contact: 
   - name: Amalia Benghiat
     email: abenghiat@uchicago.edu
     role: Stage Manager
-production_contact: ###
+production_contact: 
   - name: Rachel Bolte
     email: rachelbolte@uchicago.edu
     role: Production Manager
@@ -43,6 +45,6 @@ production_contact: ###
 
 signup_link: https://docs.google.com/document/d/1htuZzowJyCMoa9bOFkH_EsXmmFjJu7h4OH3Wr60lIe8/edit?usp=drive_link
 sides_link: https://drive.google.com/drive/folders/1RcYl446IyFwROi-oJyYzdkrXjpq5NoEf?usp=drive_link
-other_links: ###
+other_links: 
   More Info: https://drive.google.com/drive/folders/1BAiz1QeO3dWB7MlWyjAKjVD_y9K3nEoU?usp=drive_link
 ---

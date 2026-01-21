@@ -37,12 +37,13 @@ events:
   - title: "[Off-Off Campus Winter Season](https://www.offoffcampus.org/)"
     description: >-
       Off-Off Campus is the nation's oldest collegiate improv and sketch comedy group. Every Friday from 4th-8th week, Off-Off Campus will present a never-before-seen comedy show, never to be seen again! 
+      Regular performances will take place in teh Blue Gargoyle Theater at University Church, with the exception of February 7th, which will take place in Harper Memorial Library, Room 140.
     time: 'Saturdays: 8:00pm, Jan. 31 - Feb. 28'
     end_time: 'Feb. 28 2026, 10pm'
     location: '[Blue Gargoyle Theater](https://maps.app.goo.gl/DgCayhqeFiiAvavE8)'
     links:
       More information: https://www.offoffcampus.org/
-      # Tickets ($5 per show): 
+      Tickets ($5 per show): https://uchicago-student-orgs.myshopify.com/collections/off-off-campus/products/women-this-one-is-for-you
 
   - title: "[Short Play Showcase: Winter 2026](/shows/2026/winter-short-plays)"
     description:  >-
