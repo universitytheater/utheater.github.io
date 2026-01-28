@@ -53,7 +53,7 @@ workshops:
   
 
 - title: El Cepillo de Dientes
-  author: José Díaz
+  author: Jorge Díaz
   description: <i>El Cepillo de Dientes</i> is a 1960’s Chilean play that navigates the middle class’s futile search for meaning in marriage with an absurdist lens. From bizarre fantasy games to exaggerated conflict over the simplest objects, this play is a whirlwind of humor and sharp criticism of gender roles, routine, power, and relationships. The text has been translated into English but will maintain Latin American cultural elements.
   access_note: 
 

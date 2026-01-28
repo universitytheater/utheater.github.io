@@ -20,7 +20,7 @@ season: 2025-2026 Shows
 date: 2026-02-05
 
 
-tickets_link: 
+tickets_link: https://uchicago-student-orgs.myshopify.com/collections/university-theater-ut/products/the-25th-annual-putnam-county-spelling-bee
 vimeo_link: 
 
 
