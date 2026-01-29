@@ -1,1 +1,0 @@
-UT is holding auditions Tuesday and Wednesday of first week (Jan 6-7)! Learn more and [sign up here](/get-involved/actors).
