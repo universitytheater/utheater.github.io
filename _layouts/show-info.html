@@ -54,8 +54,8 @@ layout: default
       {% if image.path contains banner_path_pattern %}
         {% assign banner_path = image.path %}
         {% break %}
-      {% elsif image.path contains "ut-logo-banner"%}
-        {% assign banner_path = image.path %}
+      {% comment %} {% elsif image.path contains "ut-logo-banner"%}
+        {% assign banner_path = image.path %} {% endcomment %}
       {% endif %}
     {% endfor %}
     
@@ -97,7 +97,7 @@ layout: default
     
     {%comment%} This section displays show description {%endcomment%}
     {% for para in page.description %}
-      <p class="mt-3">{{ para }}</p>
+      <p class="mt-3">{{ para | markdownify }}</p>
     {% endfor %}
 
     {%comment%} This section displays ticket link {%endcomment%}
@@ -141,7 +141,7 @@ layout: default
         {% if workshop.author  %}
           <h5 class="mt-2 mb-2 text-center">By {{ workshop.author }}</h5> 
         {% endif  %}
-        <p>{{workshop.description}}</p>
+        <p>{{workshop.description | markdownify}}</p>
         {% if workshop.vimeo_link %}
           <script src="https://player.vimeo.com/api/player.js"></script>
           <div class="video-player-wrapper">

@@ -11,6 +11,8 @@ subheader:
 author: Ike Holter
 description: 
   - A small theater company moves into an abandoned Chicago storefront. Led by their adventurously thirsty artistic director, they embark on an explosive new play with the hope of finally breaking it big. When the ensemble realizes their source material might not be as original as once assumed, they are thrust into an intense confrontation with residents of their new community, who not only want them out, but will try to take their story back by any means necessary.
+access note: This show contains discussions of police brutality, discussions of death, depictions of violence, and depictions of racism.
+
 
 
 year: 2026

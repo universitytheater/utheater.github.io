@@ -4,15 +4,9 @@ slug: welcome-back
 subheader: 'written & directed by Brandon Zang
 
   Spring 2021'
-description: <em>Welcome Back to My Channel</em> is a virtual play that centers around
-  the story of Martha, a popular makeup YouTube influencer. Struggling to stay relevant
-  in the fast-paced world of social media, Martha begins to question her career as
-  the relationships closest to her unravel and disintegrate. An honest look at modern
-  definitions of loneliness, experience, and love, the play investigates a world in
-  which the very concept of growing up has become commodified. <br><div class="video-player-wrapper"><iframe
-  src="https://player.vimeo.com/video/553782217#t=870?h=8376705319&byline=0&portrait=0"
-  class="video-player" frameborder="0" allow="autoplay; fullscreen; picture-in-picture"
-  allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+description: 
+  - '<em>Welcome Back to My Channel</em> is a virtual play that centers around the story of Martha, a popular makeup YouTube influencer. Struggling to stay relevant in the fast-paced world of social media, Martha begins to question her career as the relationships closest to her unravel and disintegrate. An honest look at modern definitions of loneliness, experience, and love, the play investigates a world in which the very concept of growing up has become commodified.'
+  - '<div class="video-player-wrapper"><iframe src="https://player.vimeo.com/video/553782217#t=870?h=8376705319&byline=0&portrait=0" class="video-player" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>'
 roles:
   Cast:
   - role: Martha

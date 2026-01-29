@@ -8,7 +8,12 @@ title: Short Play Showcase
 subheader:
 description: 
   - Join us for this quarter's Short Play Showcase! Every fall and winter quarter, we produce one or more short plays, often student-written. These shows are a great opportunity to get involved at a lower level of commitment. If you're interested in being a part of a future short play, subscribe to the UT General Listhost.
-access_note:
+  - "**Performances are free and will take place:** <br>
+    Thursday, Jan 29th at 7:30pm <br>
+    Friday, Jan 30th at 7:30pm <br>
+    Saturday, Jan 31st at 2:00pm and 7:30pm"
+  
+access_note: 
 
 
 year: 2026
