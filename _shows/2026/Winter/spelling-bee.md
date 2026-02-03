@@ -8,7 +8,8 @@ title: The 25th Annual Putnam County Spelling Bee
 subheader:
 author: Rachel Sheinkin and William Finn
 description: 
-  - The 25th Annual Putnam County Spelling Bee is a musical comedy with music and lyrics by William Finn and book by Rachel Sheinkin, telling the story of six awkward middle schoolers vying to win the Putnam County Spelling Bee. With much comedy, spelling, and improvisation, only one can leave the “champion” but all of them are winners.
+  - '*The 25th Annual Putnam County Spelling Bee* is a musical comedy with music and lyrics by William Finn and book by Rachel Sheinkin, telling the story of six awkward middle schoolers vying to win the Putnam County Spelling Bee. With much comedy, spelling, and improvisation, only one can leave the “champion” but all of them are winners.'
+  - The show incorporates 4 guest spellers, who are audience members that spell onstage alongside the cast in the musical! **If you would like to sign up to guest spell, please arrive half an hour early**, as we will select guest spellers outside the theater when the house opens.
   - "**Performances will take place:** <br>
     Thursday, Feb 5th at 7:30pm <br>
     Friday, Feb 6th at 7:30pm <br>
