@@ -14,7 +14,7 @@ description:
     Thursday, Feb 5th at 7:30pm <br>
     Friday, Feb 6th at 7:30pm <br>
     Saturday, Feb 7th at 2:00pm and 7:30pm"
-access_note: ""
+access_note: This show contains stroboscopic lighting. Its frequency increases slowly, giving warning before it intensifies.
 
 
 year: 2026
