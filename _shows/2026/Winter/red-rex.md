@@ -16,7 +16,7 @@ description:
     Friday, Feb 27th at 7:30pm - There will be a talkback with the playwright, Ike Holter, after this performance. <br>
     Saturday, Feb 28th at 2:00pm
     Sunday, Mar 1st at 2:00pm"
-access note: This show contains discussions of police brutality, discussions of death, depictions of violence, and depictions of racism.
+access_note: This show contains discussions of police brutality, discussions of death, and depictions of violence.
 
 
 
