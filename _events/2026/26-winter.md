@@ -37,7 +37,7 @@ events:
   - title: "[Off-Off Campus Winter Season](https://www.offoffcampus.org/)"
     description: >-
       Off-Off Campus is the nation's oldest collegiate improv and sketch comedy group. Every Friday from 4th-8th week, Off-Off Campus will present a never-before-seen comedy show, never to be seen again! 
-      Regular performances will take place in teh Blue Gargoyle Theater at University Church, with the exception of February 7th, which will take place in Harper Memorial Library, Room 140.
+      Regular performances will take place in the Blue Gargoyle Theater at University Church, with the exception of February 7th, which will take place in Harper Memorial Library, Room 140.
     time: 'Saturdays: 8:00pm, Jan. 31 - Feb. 28'
     end_time: 'Feb. 28 2026, 10pm'
     location: '[Blue Gargoyle Theater](https://maps.app.goo.gl/DgCayhqeFiiAvavE8)'
@@ -77,7 +77,8 @@ events:
   - title: "[Red Rex](/shows/2026/red-rex)"
     description:  >-
       A small theater company moves into an abandoned Chicago storefront. Led by their adventurously thirsty artistic director, they embark on an explosive new play with the hope of finally breaking it big. When the ensemble realizes their source material might not be as original as once assumed, they are thrust into an intense confrontation with residents of their new community, who not only want them out, but will try to take their story back by any means necessary.
-    time: 'Feb. 26-28, 7:30pm + Feb. 28, 2pm'
+      There will be a talkback with teh playwright, Ike Holter, on Friday night, Feb 27th. 
+    time: 'Feb. 26-27, 7:30pm + Feb. 28-29, 2:00pm'
     end_time: 'Feb. 28 2026, 10pm'
     location: '[Logan Theater West](/locations/west)'
     links:

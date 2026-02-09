@@ -21,6 +21,10 @@ subheader:
 author: William Shakespeare
 description: 
   - Pericles is a show about a journey to find yourself. Our main character, Pericles, starts the play with no understanding of what he wants in life, so takes off on a journey to experience the world. He is tossed and turned at the whims of fate until he finds everything he wants in life, but this happiness is short-lived, as due to a rough storm he loses his wife and daughter, or so he thinks. The second half of the play follows Marina, his daughter, as she tries to find her way back home, and back to a family she never got to know.
+  - "**Performances will take place:** <br>
+    Thursday, Feb 19th at 7:30pm <br>
+    Friday, Feb 20th at 7:30pm <br>
+    Saturday, Feb 21th at 2:00pm and 7:30pm"
 access_note:
 
 
@@ -37,11 +41,11 @@ tickets_link:
 vimeo_link: 
 
 
-roles: ###
-  # Cast: ###
-  #   bio_file: 
-  # Production Staff: ###
-  #   bio_file: 
+roles: 
+  Cast: 
+    bio_file: pericles-cast
+  Production Staff: 
+    bio_file: pericles-crew
 
 
 audition_contact: ###

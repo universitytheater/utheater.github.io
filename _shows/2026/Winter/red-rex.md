@@ -11,6 +11,11 @@ subheader:
 author: Ike Holter
 description: 
   - A small theater company moves into an abandoned Chicago storefront. Led by their adventurously thirsty artistic director, they embark on an explosive new play with the hope of finally breaking it big. When the ensemble realizes their source material might not be as original as once assumed, they are thrust into an intense confrontation with residents of their new community, who not only want them out, but will try to take their story back by any means necessary.
+  - "**Performances will take place:** <br>
+    Thursday, Feb 26th at 7:30pm <br>
+    Friday, Feb 27th at 7:30pm - There will be a talkback with the playwright, Ike Holter, after this performance. <br>
+    Saturday, Feb 28th at 2:00pm
+    Sunday, Mar 1st at 2:00pm"
 access note: This show contains discussions of police brutality, discussions of death, depictions of violence, and depictions of racism.
 
 
@@ -28,11 +33,11 @@ tickets_link:
 vimeo_link: 
 
 
-roles: ###
-#   Cast: ###
-#     bio_file: 
-#   Production Staff: ###
-#     bio_file: 
+roles: 
+  Cast: 
+    bio_file: red-rex-cast
+  Production Staff: 
+    bio_file: red-rex-crew
 
 
 audition_contact: ###
