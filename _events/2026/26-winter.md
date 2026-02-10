@@ -64,6 +64,19 @@ events:
       Show Page: /shows/2026/spelling-bee
       # Tickets ($6 advance, $8 door): 
   
+  - title: Dinner With UT Committee
+    description: >-
+      Join us for free Saucy Porka and chat with Committee about anything! Including, but not limited to, 
+      Running in our upcoming election
+      Committee transparency
+      Liaison and NED efficacy
+      Community Building
+    time: 'Wednesday, Feb 11: 6:00pm'
+    end_time: 'Feb. 11 2026, 7pm'
+    location: 'Logan 603'
+    links:
+      Sign-up Link: https://forms.gle/RyL1zxJrkFWuycZG7
+
   - title: "[Pericles](/shows/2026/pericles)"
     description:  >-
       Pericles is a show about a journey to find yourself. Our main character, Pericles, starts the play with no understanding of what he wants in life, so takes off on a journey to experience the world. He is tossed and turned at the whims of fate until he finds everything he wants in life, but this happiness is short-lived, as due to a rough storm he loses his wife and daughter, or so he thinks. The second half of the play follows Marina, his daughter, as she tries to find her way back home, and back to a family she never got to know.
