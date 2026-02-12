@@ -41,6 +41,7 @@ collections:
       - 3_bylaws_t24.md
       - 4_bylaws_ut_proposals.md
       - 5_bylaws_ut_process.md
+      - 6_bylaws_sanctions.md
   townhalls:
     output: true
     permalink: /:collection/:title
