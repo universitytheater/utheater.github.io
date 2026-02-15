@@ -1,0 +1,1 @@
+UT Committee Elections will take place on Friday, February 20th! Find more information [here](/elections).
