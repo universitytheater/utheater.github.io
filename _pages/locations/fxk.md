@@ -4,7 +4,7 @@ title: Francis X Kinahan Theater
 permalink: /locations/fxk
 ---
 
-Located on the third floor of the [Reynolds Club](https://studentcenters.uchicago.edu/reynolds-club/), the FXK Theater is a proscenium theater with 117 seats. 
+Located on the third floor of the [Reynolds Club](https://studentcenters.uchicago.edu/reynolds-club/), the FXK Theater is a proscenium theater with 116 seats. 
 
 The FXK is home to most Dean's Men's shows, Theater\[24\], Short Play Showcases, and some UT mainstage shows. 
 
