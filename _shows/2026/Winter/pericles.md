@@ -25,7 +25,7 @@ description:
     Thursday, Feb 19th at 7:30pm <br>
     Friday, Feb 20th at 7:30pm <br>
     Saturday, Feb 21th at 2:00pm and 7:30pm"
-access_note:
+access_note: 
 
 
 year: 2026
@@ -37,7 +37,7 @@ season: 2025-2026 Shows
 date: 2026-02-19
 
 
-tickets_link: 
+tickets_link: https://uchicago-student-orgs.myshopify.com/collections/university-theater-ut/products/pericles
 vimeo_link: 
 
 
