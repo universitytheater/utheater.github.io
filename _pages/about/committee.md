@@ -8,7 +8,7 @@ UT Committee is the governing body and public face of University Theater. As ele
 
 Committee is made up of ten elected members, as well as one representative from Off-Off Campus, Tech Staff, Student Staff, and the Dean's Men. They meet every Monday at 5pm! Locations may vary by quarter; refer to [the UT listhost](/about/listhosts) for up-to-date information. Each meeting begins with a Public Portion, where members of the community are encouraged to participate, say hi, and share their thoughts. Make sure to stop by! 
 
-**Want to run for Committee?** Elections are every year, 6th week of Winter Quarter!
+**Want to run for Committee?** Elections are every year, 7th week of Winter Quarter!
 
 **How do you contact Committee?** Reach all of us at [ut-committee@lists.uchicago.edu](mailto:ut-committee@lists.uchicago.edu), or click on the names below to email members individually. 
 
