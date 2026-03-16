@@ -4,6 +4,8 @@ title: UT Committee Members Archive
 permalink: /archive/committee-members
 ---
 
+<p>Please note that this list reflects only the composition of Committee at the end of the Committee term. It is therefore not an exhaustive list of members.</p>
+
 {% for year_hash in site.data.committee-bios reversed %}
   <hr>
   <h3>{{year_hash[0] | replace: "bios_", ""}}</h3>

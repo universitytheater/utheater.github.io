@@ -1,7 +1,7 @@
 ---
 layout: show-info
 slug: arsenic
-hidden: true
+hidden: false
 
 
 title: Arsenic and Old Lace
@@ -18,7 +18,7 @@ week: 6
 location: Logan Theater West
 location_link: /locations/west
 season: 2025-2026 Shows
-date: 2026-05-16
+date: 2026-05-02
 
 
 tickets_link: 

@@ -1,7 +1,7 @@
 ---
 layout: show-info
 slug: good-as-it-gets
-hidden: true
+hidden: false
 
 
 title: This is as Good as it Gets
@@ -14,11 +14,11 @@ access_note:
 
 year: 2026
 quarter: Spring
-week: 8
+week: 7
 location: Logan 501
 location_link: /locations/501
 season: 2025-2026 Shows
-date: 2026-05-14 # FIX
+date: 2026-05-09
 
 
 tickets_link: 

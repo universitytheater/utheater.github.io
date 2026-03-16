@@ -1,11 +1,4 @@
 quarters: 
-  - quarter: Winter
-    year: 2026
-    shows: 
-      - url: /shows/2026/winter-short-plays
-      - url: /shows/2026/spelling-bee
-      - url: /shows/2026/pericles
-      - url: /shows/2026/red-rex
   - quarter: Spring
     year: 2026
     shows:

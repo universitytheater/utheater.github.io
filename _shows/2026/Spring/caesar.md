@@ -1,7 +1,7 @@
 ---
 layout: show-info
 slug: caesar
-hidden: true
+hidden: false
 
 
 title: Julius Caesar
@@ -18,7 +18,7 @@ week: 7
 location: TBA
 location_link: 
 season: 2025-2026 Shows
-date: 2026-05-07
+date: 2026-05-16
 
 
 tickets_link: 
