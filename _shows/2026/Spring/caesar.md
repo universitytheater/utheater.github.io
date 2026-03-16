@@ -14,9 +14,9 @@ access_note:
 
 year: 2026
 quarter: Spring
-week: 7
-location: TBA
-location_link: 
+week: 8
+location: Classics 110
+location_link: https://maps.app.goo.gl/1mo4KscC36ntZ7qRA
 season: 2025-2026 Shows
 date: 2026-05-16
 

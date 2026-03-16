@@ -3,5 +3,5 @@ quarters:
     year: 2026
     shows:
       - url: /shows/2026/arsenic
-      - url: /shows/2026/caesar
       - url: /shows/2026/good-as-it-gets
+      - url: /shows/2026/caesar
