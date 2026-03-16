@@ -73,7 +73,7 @@ Callbacks will take place on {{ day_callbacks | date: "%A" }} ({{ day_callbacks 
                     <td> {% if workshop.signup_link and workshop.signup_link != nil %} <a href="{{ workshop.signup_link }}"> Signup Link </a> {% endif %} </td>
                     <td> {% if workshop.sides_link and workshop.sides_link != nil %} <a href="{{ workshop.sides_link }}"> Sides Link </a> {% endif %} </td>
                     <td> {% for contact in workshop.audition_contact %}
-                        <a href="mailto:{{ contact.email }}"> {{ contact.name }} </a> 
+                        <a href="mailto:{{ contact.email }}"> {{ contact.name }}</a> 
                         {% if contact.role and contact.role != nil %} ({{ contact.role }}) {% endif %}
                         <br> {% endfor %} </td>
                     <td> {% for link in workshop.other_links %}
@@ -88,7 +88,7 @@ Callbacks will take place on {{ day_callbacks | date: "%A" }} ({{ day_callbacks 
                 <td> <a href="{{ show.signup_link }}"> Signup Link </a> </td>
                 <td> <a href="{{ show.sides_link }}"> Sides Link </a> </td>
                 <td> {% for contact in show.audition_contact %}
-                    <a href="mailto:{{ contact.email }}"> {{ contact.name }} </a> 
+                    <a href="mailto:{{ contact.email }}"> {{ contact.name }}</a> 
                     {% if contact.role and contact.role != nil %} ({{ contact.role }}) {% endif %}
                     <br> {% endfor %} </td>
                 <td> {% for link in show.other_links %}
@@ -105,10 +105,9 @@ Callbacks will take place on {{ day_callbacks | date: "%A" }} ({{ day_callbacks 
 
 **Do you have questions about auditioning for a particular show?** Feel free to contact their stage management team!
 
----
-
 **Do you have any additional questions about acting in UT?** Feel free to send them to UT Committee at [ut-committee@lists.uchicago.edu](mailto:ut-committee@lists.uchicago.edu)!
 
+---
 
 ## FAQ
 

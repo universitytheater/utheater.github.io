@@ -38,7 +38,7 @@ week: SHOW WEEK # recommened
 location: THEATER NAME # recommended
 location_link: LINK TO INFO ABOUT THEATER # e.g. /locations/east - recommended
 season: SEASON # e.g. 2024-2025 Shows - follow formatting closely - required
-date: DATE OF SHOW # e.g. 2025-05-08 - follow formatting closely - required
+date: CLOSING DATE OF SHOW # e.g. 2025-05-08 - follow formatting closely - required
 
 
 tickets_link: TICKET LINK # recommended

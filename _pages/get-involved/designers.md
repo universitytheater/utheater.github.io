@@ -52,7 +52,7 @@ Ongoing Short Plays may have lead design positions open and lead designers/manag
                                 {{ show.location }} 
                             {% endif %} {% endif %} </td>
                         <td> {% for contact in workshop.production_contact %}
-                            <a href="mailto:{{ contact.email }}"> {{ contact.name }} </a> 
+                            <a href="mailto:{{ contact.email }}"> {{ contact.name }}</a> 
                             {% if contact.role and contact.role != nil %} ({{ contact.role }}) {% endif %} 
                             <br> {% endfor %} </td>
                     </tr>
@@ -69,7 +69,7 @@ Ongoing Short Plays may have lead design positions open and lead designers/manag
                             {{ show.location }} 
                         {% endif %} {% endif %} </td>
                     <td> {% for contact in show.production_contact %}
-                        <a href="mailto:{{ contact.email }}"> {{ contact.name }} </a> 
+                        <a href="mailto:{{ contact.email }}"> {{ contact.name }}</a> 
                         {% if contact.role and contact.role != nil %} ({{ contact.role }}) {% endif %} 
                         <br> {% endfor %} </td>
                 </tr>
