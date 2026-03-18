@@ -33,7 +33,7 @@ permalink: /shows
         
         <div class="col-6 col-sm-6 col-md-4 col-lg-3 show-container"> {% comment %} Display 1 show {% endcomment %}
           <div class="card text-white bg-dark m-3 border-0 h-100">
-            <h6 class="m-2 text-center"><strong>{{ show.quarter | capitalize }} {{ show.year }}</strong></h6>
+            <h6 class="m-2 text-center"><strong>{{ show.quarter | capitalize }} Week {{ show.week }}</strong></h6>
             <a href="{{ show.url }}"><img src="{{thumb_path}}" class="show-thumb"/></a>
             <div class="card-body d-flex p-0 align-items-center justify-content-center">
               <a href="{{ show.url }}" class="no-line font-weight-bold card-text m-2 text-center text-white">{{ show.title }}</a>
