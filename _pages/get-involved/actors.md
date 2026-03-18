@@ -103,6 +103,8 @@ Callbacks will take place on {{ day_callbacks | date: "%A" }} ({{ day_callbacks 
 </table>
 </div>
 
+All audition materials can also be found in the [UT Public Drive]({{ ref_page.folder_link }}").
+
 **Do you have questions about auditioning for a particular show?** Feel free to contact their stage management team!
 
 **Do you have any additional questions about acting in UT?** Feel free to send them to UT Committee at [ut-committee@lists.uchicago.edu](mailto:ut-committee@lists.uchicago.edu)!

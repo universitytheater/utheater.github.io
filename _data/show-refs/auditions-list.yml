@@ -1,10 +1,12 @@
-# This is the list that appears in the actor get involved page
+### This is the list that appears in the actor get involved page
 
+# This should be the first day of auditions
 date: 2026-03-24
-# If not having 2 days of regular audditions immediately followed by 1 day of callbacks, include your own message below.
+# If not having 2 days of regular auditions immediately followed by 1 day of callbacks, include your own message below.
 manual_date_msg: 
 
-form_link: /404
+form_link: https://docs.google.com/forms/d/e/1FAIpQLScR_i_L7eYXyuKewd2QcMDq-ZwqmqVEJ9WtXvbcn2PkzQ1ahg/viewform?usp=header
+folder_link: https://drive.google.com/drive/folders/186UgkVxC61N7qc-MF16MpX6AeTeVSbPI?usp=drive_link
 quarter: Spring
 year: 2026
 shows: 

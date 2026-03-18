@@ -8,7 +8,7 @@ title: This is as Good as it Gets
 subheader:
 author: Katie Keely
 description: 
-  - 
+  - TIAGAIG is a brand new musical following seven seniors at an all-girls private high school as they try to write the ultimate guide to high school success in one afternoon. Led by their enthusiastic and extremely determined class dean, the girls tackle expectations, anxiety, and growing up to a score inspired by current singer-songwriters (listen to the inspirational playlist here). In ninety real-time minutes, This Is as Good as It Gets asks us to rethink what we would tell our younger selves–and whether it even matters.
 access_note:
 
 
@@ -42,9 +42,10 @@ production_contact: ###
     role: Production Manager
 
 
-signup_link: /404
-sides_link: /404
+signup_link: https://docs.google.com/document/d/1Y_KdGKsGkHGvW3abXwG1wpg3oWhf-yWxzL04TvoDt8c/edit?usp=sharing
+sides_link: https://docs.google.com/document/d/1bZ-6AkqWKbjGv7CicS-rzywav166r_qA2kIACkzLmoM/edit?usp=sharing
 other_links: ###
-  Audition Info: /404
-  # OTHER:
+  Audition Info: https://docs.google.com/document/d/1U2O_YLmePsj4167MgntsG7TuflxLZge74CjF8m5_iH0/edit?usp=sharing
+  Rehearsal Calendar: https://docs.google.com/document/d/1zi4TrKoWJHLQ2LGS9qKkNqVttPYvyaFHBE84kk8jKX8/edit?usp=sharing
+  Other Info: https://drive.google.com/drive/folders/1v58tRso9MC8TxMFmgC07aX41ElrCieSc?usp=drive_link
 ---
