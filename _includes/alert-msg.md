@@ -1,1 +1,0 @@
-UT Auditions  will take place on Tuesday and Wednesday, March 24th and 25th! Find more information [here](/get-involved/actors).
