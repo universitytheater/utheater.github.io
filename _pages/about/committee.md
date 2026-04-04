@@ -14,7 +14,7 @@ Committee is made up of ten elected members, as well as one representative from 
 
 ---
 
-{% for person in site.data.committee-bios.bios_2025 %}
+{% for person in site.data.committee-bios.bios_2026 %}
   - **[{{ person.name }}](mailto:{{ person.email }})** {% if person.position != "" %}
   ({{ person.position }})
   {% endif %} {% if person.bio != ""%}{{ person.bio }}{% else %}is a student in the College.{% endif %}
