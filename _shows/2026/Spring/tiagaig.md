@@ -1,15 +1,16 @@
 ---
 layout: show-info
-slug: good-as-it-gets
+slug: tiagaig
 hidden: false
 
 
-title: This is as Good as it Gets
+title: this is as good as it gets
 subheader:
 author: Katie Keeley
 description: 
-  - TIAGAIG is a brand new musical following seven seniors at an all-girls private high school as they try to write the ultimate guide to high school success in one afternoon. Led by their enthusiastic and extremely determined class dean, the girls tackle expectations, anxiety, and growing up to a score inspired by current singer-songwriters (listen to the inspirational playlist here). In ninety real-time minutes, This Is as Good as It Gets asks us to rethink what we would tell our younger selves–and whether it even matters.
-access_note:
+  - "*this is as good as it gets* is an original musical following seven seniors at an all-girls high school as they try to write the ultimate guide to high school success. Led by their enthusiastic and extremely determined class dean, the girls tackle expectations, anxiety, and growing up (whether they’re ready or not) to a score inspired by current singer-songwriters. In one whirlwind hour, this is as good as it gets asks us to rethink what we would tell our younger selves–and whether it even matters."
+access_note: "*this is as good as it gets* includes references to disordered eating and suicidal ideation."
+
 
 
 year: 2026
@@ -26,10 +27,10 @@ vimeo_link:
 
 
 roles: ###
-  # Cast: ###
-  #   bio_file: 
-  # Production Staff: ###
-  #   bio_file: 
+  Cast: ###
+    bio_file: tiagaig-cast
+  Production Staff: ###
+    bio_file: tiagaig-crew
 
 
 audition_contact: ###
