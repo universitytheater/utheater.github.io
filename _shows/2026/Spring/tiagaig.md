@@ -6,7 +6,7 @@ hidden: false
 
 title: this is as good as it gets
 subheader:
-author: Katie Keeley
+author: Katharine Keeley
 description: 
   - "*this is as good as it gets* is an original musical following seven seniors at an all-girls high school as they try to write the ultimate guide to high school success. Led by their enthusiastic and extremely determined class dean, the girls tackle expectations, anxiety, and growing up (whether they’re ready or not) to a score inspired by current singer-songwriters. In one whirlwind hour, this is as good as it gets asks us to rethink what we would tell our younger selves–and whether it even matters."
 access_note: "*this is as good as it gets* includes references to disordered eating and suicidal ideation."
