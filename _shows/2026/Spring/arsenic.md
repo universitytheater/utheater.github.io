@@ -9,7 +9,7 @@ subheader:
 author: Joseph Kesselring
 description: 
   - "*Arsenic and Old Lace* is a black comedy set in 1940s America. It follows the drama critic Mortimer Brewster, who worries about his mentally ill brother Teddy and just proposes to his girlfriend, when he finds out that his textbook fairytale old aunts are secretly senior slayers! Further chaos ensues when his other insane brother, Jonathan, returns. Can he handle it all? Mortimer grapples with the idea that maybe he too will lose his mind."
-access_note:
+access_note: 
 
 
 year: 2026
@@ -21,15 +21,15 @@ season: 2025-2026 Shows
 date: 2026-05-02
 
 
-tickets_link: 
+tickets_link: https://l.messenger.com/l.php?u=https%3A%2F%2Fuchicago-student-orgs.myshopify.com%2Fcollections%2Funiversity-theater-ut%2Fproducts%2Farsenic-and-old-lace&h=AT5vMKTa_CoJKvgNR-pBc8nrTQPZpDpwDO7Hb3kihBBafMTZPksXCCHXhplOIU5xpdNAY-F3XL6SvVbwf5PqXhtwK_wf51Hu8RHRUHdyBel1F3bUqqrubDwf93gN_MvZKUPAyw
 vimeo_link: 
 
 
 roles: ###
-  # Cast: ###
-  #   bio_file: 
-  # Production Staff: ###
-  #   bio_file: 
+  Cast: ###
+    bio_file: arsenic-cast
+  Production Staff: ###
+    bio_file: arsenic-crew
 
 
 audition_contact: ###
