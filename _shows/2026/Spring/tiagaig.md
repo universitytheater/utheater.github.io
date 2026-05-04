@@ -22,7 +22,7 @@ season: 2025-2026 Shows
 date: 2026-05-09
 
 
-tickets_link: 
+tickets_link: https://uchicago-student-orgs.myshopify.com/collections/university-theater-ut
 vimeo_link: 
 
 
