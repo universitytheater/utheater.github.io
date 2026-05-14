@@ -9,6 +9,7 @@ subheader:
 author: William Shakespeare
 description: 
   - Two millennia ago, in late republican Rome, Brutus chooses to take part in the plot to assassinate Julius Caesar, his ally who is slowly consolidating power and public support against the senate. His fellow conspirators are wisecracking, violent young men including the petty Cassius, the clever Casca and the enraged Metellus Cimber. It’s all fun and games until the assassination plot goes through; that is when the comedy unravels and the real tragedy starts. 
+  - This show is **FREE**. Tickets serve only to reserve a seat.
 access_note:
 
 
@@ -21,15 +22,15 @@ season: 2025-2026 Shows
 date: 2026-05-16
 
 
-tickets_link: 
+tickets_link: https://uchicago-student-orgs.myshopify.com/collections/university-theater-ut/products/julius-caesar
 vimeo_link: 
 
 
 roles: ###
-  # Cast: ###
-  #   bio_file: 
-  # Production Staff: ###
-  #   bio_file: 
+  Cast: ###
+    bio_file: caesar-cast
+  Production Staff: ###
+    bio_file: caesar-crew
 
 
 audition_contact: ###
