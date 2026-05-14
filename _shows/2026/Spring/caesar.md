@@ -10,6 +10,7 @@ author: William Shakespeare
 description: 
   - Two millennia ago, in late republican Rome, Brutus chooses to take part in the plot to assassinate Julius Caesar, his ally who is slowly consolidating power and public support against the senate. His fellow conspirators are wisecracking, violent young men including the petty Cassius, the clever Casca and the enraged Metellus Cimber. It’s all fun and games until the assassination plot goes through; that is when the comedy unravels and the real tragedy starts. 
   - This show is **FREE**. Tickets serve only to reserve a seat.
+  - The show takes place in the Classics Building. The north entrance (the one from the quad) will be open in advance of the shows.
 access_note:
 
 
