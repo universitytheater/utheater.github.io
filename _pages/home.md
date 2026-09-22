@@ -120,7 +120,7 @@ icon_list:
         {% for target_show in quarter.shows -%}
           {% if forloop.first -%}
           {% elsif forloop.last -%}
-            {% if forloop.length == 2 -%} and
+            {% if forloop.length == 2 -%}&nbsp;and
             {% else -%}, and 
             {% endif -%}
           {% else -%}, 
