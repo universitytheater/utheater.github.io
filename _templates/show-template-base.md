@@ -47,11 +47,11 @@ roles: ###
 audition_contact: ###
   - name: 
     email: 
-    role: 
+    role: Stage Manager
 production_contact: ###
   - name: 
     email: 
-    role: 
+    role: Production Manager
 
 
 signup_link: 

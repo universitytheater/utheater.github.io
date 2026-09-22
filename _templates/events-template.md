@@ -2,7 +2,7 @@
 # This file is a template for event pages. For specific examples, the event pages for Fall 2025 and Winter 2026 should follow this format (ish).
 
 # Files created with this template should go in _events/[INSERT YEAR], and follow the naming conventions of the other events pages. 
-# To set your page as the defaul events page, change the redirect field in _pages/events. 
+# To set your page as the default events page, change the redirect field in _pages/events. 
 
 # I have included one detailed general template, followed by several common types of events. These are kind of examples and kind of templates, since the are basically the same thing in this context
 
