@@ -1,7 +1,12 @@
 quarters: 
-  - quarter: Spring
+  - quarter: Fall
     year: 2026
     shows:
-      - url: /shows/2026/arsenic
-      - url: /shows/2026/tiagaig
-      - url: /shows/2026/caesar
+      - url: /shows/2026/sanctuary-city
+      - url: /shows/2026/hamlet
+  - quarter: Winter
+    year: 2027
+    shows:
+      - url: /shows/2027/pippin
+      - url: /shows/2027/measure
+      - url: /shows/2027/earnest

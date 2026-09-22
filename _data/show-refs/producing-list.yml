@@ -1,17 +1,23 @@
 # This is the list that appears in the designer/manager get involved page.
 
-current_openings: https://docs.google.com/spreadsheets/d/e/2PACX-1vQ_pflD_0cYj9oj8yAdndzdA6UClYAn41Udofz5SR5IH5bPkSWN-eJ4h26Xu_lCQKybKGA19EmGpqrl/pubhtml?
+current_openings: https://docs.google.com/spreadsheets/d/e/2PACX-1vTBgiIOFwXwgA6nVBRA1a9pXdShrwwKFOpb61AAhnEbLLJyCjeTDifzjdraCioM_X_jklitOaIVOw90/pubhtml?
   # THIS IS NOT JUST THE NORMAL SHARE LINK!!!! 
   # Go to File -> Share -> Publish to web -> Embed
   # Copy the link that shows up in the text box
   # Only include the section from "https://" to "/pubhtml?"
   # This is like this because it seems to be the only way to make scrolling work correctly (so you can scroll in the sheet without scrolling the page)
-interest_form: https://forms.gle/x8rr21VfC2mDmGKR7
+interest_form: https://forms.gle/Vg4j1JXeBPnkTHEr6
   # This is just the normal responder share link
 quarters: 
-  - quarter: Spring
+  - quarter: Fall
     year: 2026
     shows:
-      - url: /shows/2026/arsenic
-      - url: /shows/2026/tiagaig
-      - url: /shows/2026/caesar
+      - url: /shows/2026/sanctuary-city
+      - url: /shows/2026/hamlet
+  - quarter: Winter
+    year: 2027
+    shows:
+      - url: /shows/2027/pippin
+      - url: /shows/2027/measure
+      - url: /shows/2027/earnest
+
