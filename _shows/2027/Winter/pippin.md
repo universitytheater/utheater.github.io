@@ -1,7 +1,7 @@
 ---
 layout: show-info
 slug: pippin
-hidden: false
+hidden: true
 
 
 title: Pippin
