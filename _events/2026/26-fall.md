@@ -42,7 +42,7 @@ events:
     location: '[FXK Theater](/locations/fxk)'
     links:
       Signup Form: 
-      # Tickets: 
+      Tickets: https://uchicago-student-orgs.myshopify.com/collections/university-theater-ut/products/theater24-4
 
 
   - title: "[Off-Off Campus Winter Season](https://www.offoffcampus.org/)"
