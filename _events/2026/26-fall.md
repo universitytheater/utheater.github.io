@@ -28,7 +28,7 @@ events:
       Come audition for *Sanctuary City*, *Hamlet*, and/or *Pippin*! Those interested in auditioning should visit [this page](/get-involved/actors) for more details. Specific details regarding the location of auditions will be sent to the ut-general listhost.
     time: 'Sept. 29-30, 7-10pm'
     end_time: 'Sept. 30, 2026, 10pm'
-    location: '[Cobb Hall](https://maps.app.goo.gl/2uCoHYdi8LSZFhQT6)'
+    location: 'Logan Center Lower Level (South Side)'
     links:
       Signup Form: https://forms.gle/C3n31JB7B2ygzRd67
       More Info: /get-involved/actors
