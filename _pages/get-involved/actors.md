@@ -30,7 +30,7 @@ Our auditions are not meant to be stressful or intimidating, and all casting tea
         {% endif %}
     {% endcapture %} 
 
-Auditions will be held on {{ day_1 | date: "%A" }} & {{ day_2 | date: "%A" }} of first week ({{ date_range | normalize_whitespace }}) from 7-10pm on the south side of the Logan Center basement. <br> 
+Auditions will be held on {{ day_1 | date: "%A" }} & {{ day_2 | date: "%A" }} of first week ({{ date_range | normalize_whitespace }}) from 7-10pm {{ ref_page.location_msg }}. <br> 
 Callbacks will take place on {{ day_callbacks | date: "%A" }} ({{ day_callbacks | date: "%b %-d" }}) from 7-10pm.
 
 {% endif %}
