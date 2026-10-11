@@ -37,9 +37,9 @@ audition_contact: ###
     email: abenghiat@uchicago.edu
     role: Stage Manager
 production_contact: ###
-  - name: Nayu Shimo
-    email: nshimo@uchicago.edu
-    role: Production Manager
+  - name: Violet Gerson
+    email: vgerson@uchicago.edu
+    role: Director
 
 
 signup_link: https://drive.google.com/open?id=1BzOEdxwVEOo_d7A6_bFaKTolUh_JhQtathr5gwLLdB0&usp=drive_copy
