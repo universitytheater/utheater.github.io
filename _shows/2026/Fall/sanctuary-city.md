@@ -9,7 +9,7 @@ subheader:
 author: Martyna Majok
 description: 
   - In post-9/11 Newark, NJ, two teenagers who were brought to America as children become one another’s sanctuaries from the world. But as time hurtles on and complications mount, the young friends face challenges and fractures that test the closest relationship either has ever had.
-  - Shows will take place on November 5-7 at 7:30pm and November 7 at 2pm. The Nov. 5 show is free. Tickets are not required for that night.
+  - Shows will take place on November 5-7 at 7:30pm and November 7 at 2pm. The November 5 preview is free; tickets are not required for that night.
 access_note:
 
 
