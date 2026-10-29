@@ -8,7 +8,8 @@ title: Sanctuary City
 subheader:
 author: Martyna Majok
 description: 
-  - "*Sanctuary City* will be directed by Lucy Whitehead."
+  - In post-9/11 Newark, NJ, two teenagers who were brought to America as children become one another’s sanctuaries from the world. But as time hurtles on and complications mount, the young friends face challenges and fractures that test the closest relationship either has ever had.
+  - Shows will take place on November 5-7 at 7:30pm and November 7 at 2pm. The Nov. 5 show is free. Tickets are not required for that night.
 access_note:
 
 
@@ -21,15 +22,15 @@ season: 2026-2027 Shows
 date: 2026-11-07
 
 
-tickets_link: 
+tickets_link: https://uchicago-student-orgs.myshopify.com/collections/university-theater-ut/products/sanctuary-city
 vimeo_link: 
 
 
 roles: ###
-  # Cast: ###
-  #   bio_file: 
-  # Production Staff: ###
-  #   bio_file: 
+  Cast: ###
+    bio_file: sanctuary-city-cast
+  Production Staff: ###
+    bio_file: sanctuary-city-crew
 
 
 audition_contact: ###

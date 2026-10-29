@@ -64,7 +64,7 @@ events:
     location: '[Logan Theater West](/locations/west)'
     links:
       Show Page: /shows/2026/sanctuary-city
-      # Tickets ($6 advance, $8 door): 
+      Tickets ($6 advance, $8 door): https://uchicago-student-orgs.myshopify.com/collections/university-theater-ut/products/sanctuary-city
   
 
   - title: "[Hamlet](/shows/2026/hamlet)"
