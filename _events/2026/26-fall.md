@@ -58,7 +58,7 @@ events:
 
   - title: "[Sanctuary City](/shows/2026/sanctuary-city)"
     description:  >-
-      
+      In post-9/11 Newark, NJ, two teenagers who were brought to America as children become one another’s sanctuaries from the world. But as time hurtles on and complications mount, the young friends face challenges and fractures that test the closest relationship either has ever had.
     time:  'Nov. 5-7, 7:30pm + Nov. 7, 2pm'
     end_time: 'Nov. 7 2026, 10pm'
     location: '[Logan Theater West](/locations/west)'
@@ -69,13 +69,13 @@ events:
 
   - title: "[Hamlet](/shows/2026/hamlet)"
     description:  >-
-      
+      A painting hangs askew. What is reality? What is sanity? And why do we keep going? This production of Hamlet presents an artistic rendition of the classic play with all its murder, outrage, and angsty musings on death. How fun!
     time:  'Nov. 12-14, 7:30pm + Nov. 14, 2pm'
     end_time: 'Nov. 14 2026, 10pm'
     location: '[FXK Theater](/locations/fxk)'
     links:
       Show Page: /shows/2026/hamlet
-      # Tickets ($6 advance, $8 door): 
+      Tickets ($6 advance, $8 door): https://uchicago-student-orgs.myshopify.com/collections/university-theater-ut/products/hamlet
   
 
   # ## BLANK TEMPLATE

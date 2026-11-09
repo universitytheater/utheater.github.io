@@ -8,7 +8,8 @@ title: Hamlet
 subheader:
 author: William Shakespeare
 description: 
-  - "*Hamlet* will be directed by Josiah Rubio."
+  - "A painting hangs askew. What is reality? What is sanity? And why do we keep going? This production of Hamlet presents an artistic rendition of the classic play with all its murder, outrage, and angsty musings on death. How fun!"
+  - Shows will take place on November 12-14 at 7:30pm and November 14 at 2pm. The November 12 preview is free; tickets are not required for that night.
 access_note:
 
 
@@ -21,7 +22,7 @@ season: 2026-2027 Shows
 date: 2026-11-14
 
 
-tickets_link: 
+tickets_link: https://uchicago-student-orgs.myshopify.com/collections/university-theater-ut/products/hamlet
 vimeo_link: 
 
 
