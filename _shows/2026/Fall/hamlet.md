@@ -10,7 +10,7 @@ author: William Shakespeare
 description: 
   - "A painting hangs askew. What is reality? What is sanity? And why do we keep going? This production of Hamlet presents an artistic rendition of the classic play with all its murder, outrage, and angsty musings on death. How fun!"
   - Shows will take place on November 12-14 at 7:30pm and November 14 at 2pm. The November 12 preview is free; tickets are not required for that night.
-access_note:
+access_note: This show includes a gunshot sound. Viewer discretion is advised. 
 
 
 year: 2026
@@ -27,10 +27,10 @@ vimeo_link:
 
 
 roles: ###
-  # Cast: ###
-  #   bio_file: 
-  # Production Staff: ###
-  #   bio_file: 
+  Cast: ###
+    bio_file: hamlet-cast
+  Production Staff: ###
+    bio_file: hamlet-crew
 
 
 audition_contact: ###
